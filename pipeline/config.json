@@ -91,7 +91,8 @@
    "basis": "生意社现货评估价(对应SP期货标的现货)"
   },
   "TA": {
-   "name": "PTA(PET原料)",n   "category": "包材",
+   "name": "PTA(PET原料)",
+   "category": "包材",
    "unit": "元/吨",
    "source": "现货(生意社)",
    "source_status": "已接入",
