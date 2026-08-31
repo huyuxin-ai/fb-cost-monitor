@@ -40,7 +40,9 @@ def metrics(g):
     g['anomaly'] = np.where(r1 & r2, '重大异动', np.where(r1 | r2, '普通异动', ''))
     return g
 
-wk = wk.groupby('symbol', group_keys=False).apply(metrics)
+# pandas3 兼容：groupby.apply 在 pandas>=3 中不再向函数传入分组列，改用分组迭代（两版行为一致）
+_groups = [metrics(g) for _, g in wk.groupby('symbol')]
+wk = pd.concat(_groups, ignore_index=True) if _groups else wk
 
 materials = []
 for sym, m in cfg['meta'].items():
