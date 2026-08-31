@@ -1,25 +1,15 @@
 {
- "run_at": "2026-08-31T12:41:53",
+ "run_at": "2026-08-31T12:59:57",
  "steps": [
   {
-   "step": "spot_bootstrap",
-   "status": "ok",
-   "detail": "kline/csv缺失，自举抓取2026-03以来历史"
-  },
-  {
    "step": "spot_prices",
-   "status": "partial",
-   "detail": "+1890行, 失败日期:['20260406', '20260501', '20260504', '20260505', '20260619']"
-  },
-  {
-   "step": "kline_bootstrap",
    "status": "ok",
-   "detail": "自举抓取159只全年K线"
+   "detail": "+225行"
   },
   {
    "step": "kline",
-   "status": "partial",
-   "detail": "自举158/159只, 失败:['600696']"
+   "status": "ok",
+   "detail": "更新158/158只"
   }
  ]
 }
