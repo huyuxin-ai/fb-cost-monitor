@@ -39,52 +39,87 @@ def collect_spot():
                 frames.append(df[df['symbol'].isin(KEEP)]); break
             except Exception as e:
                 if attempt == 2: fails.append(ds)
-                else: time.sleep(1.5)
+                time.sleep(1.5)
     if frames:
         new = pd.concat(frames, ignore_index=True)
-        new['date'] = pd.to_datetime(new['date']).dt.strftime('%Y-%m-%d')
-        if not old.empty:
-            new = pd.concat([old, new]).drop_duplicates(['symbol','date'], keep='last')
-        new.sort_values(['symbol','date']).to_csv(path, index=False)
-        log('spot_prices', 'ok', f'{len(new)}行 {new.date.min()}~{new.date.max()} 失败日{len(fails)}')
-    else:
-        log('spot_prices', 'fail', f'全部失败 {fails[:3]}')
+        new['date'] = new['date'].astype(str)
+        if len(old):
+            old = old[~old.set_index(['date','symbol']).index.isin(new.set_index(['date','symbol']).index)]
+        out = pd.concat([old, new], ignore_index=True).sort_values(['symbol','date'])
+        out.to_csv(path, index=False)
+    log('spot_prices', 'ok' if not fails else 'partial',
+        f'+{sum(len(f) for f in frames)}行' + (f', 失败日期:{fails}' if fails else ''))
 
 def collect_kline():
     import akshare as ak, pandas as pd
-    snap = json.load(open(os.path.join(ROOT, 'pipeline', 'snapshot.json')))
-    codes = [c['code'] for c in snap['companies']]
+    from concurrent.futures import ThreadPoolExecutor, as_completed
     kpath = os.path.join(DATA, 'kline.json')
-    kline = json.load(open(kpath)) if os.path.exists(kpath) else {}
-    if not kline: log('kline_bootstrap', 'ok', f'自举抓取{len(codes)}只全年K线')
-    start = (dt.date.today() - dt.timedelta(days=25)).strftime('%Y%m%d') if kline else '20250101'
-    end = dt.date.today().strftime('%Y%m%d')
-    ok, fail = 0, []
-    for i, code in enumerate(codes):
+    bootstrap = not os.path.exists(kpath)
+    kline = json.load(open(kpath)) if not bootstrap else {}
+    start = (dt.date.today() - dt.timedelta(days=20)).strftime('%Y-%m-%d')
+    errs = []
+
+    def sina_sym(code):
+        code = str(code).zfill(6)
+        if code.startswith(('600','601','603','605','688')): return 'sh' + code
+        if code.startswith(('920','83','87')): return 'bj' + code
+        return 'sz' + code
+
+    def fetch(code, full=False):
         try:
+            st = '2026-01-01' if full else start
             if code.startswith('HK'):
-                df = ak.stock_hk_daily(symbol=code.replace('HK','').zfill(5), adjust='')
-                df = df[df['date'] >= start]
+                df = ak.stock_hk_daily(symbol=code.replace('HK','').zfill(5), adjust='qfq')
+                df['date'] = df['date'].astype(str)
+                df = df[df['date'] >= st]
             else:
-                df = ak.stock_zh_a_daily(symbol=('sh' if code.startswith('6') else 'sz')+code, start_date=start, end_date=end, adjust='')
-            if df is None or df.empty: raise ValueError('empty')
-            df.columns = [str(c).lower() for c in df.columns]
-            df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
-            rows = df[['date','open','high','low','close','volume']].dropna().values.tolist()
-            hist = {r[0]: r for r in kline.get(code, [])}
-            for r in rows: hist[r[0]] = r
-            kline[code] = sorted(hist.values(), key=lambda r: r[0])[-300:]
-            ok += 1
+                df = ak.stock_zh_a_daily(symbol=sina_sym(code), start_date=st.replace('-',''),
+                                         end_date=dt.date.today().strftime('%Y%m%d'), adjust='qfq')
+                df['date'] = df['date'].astype(str)
+            if df is None or len(df) == 0: return code, None
+            df = df.rename(columns={'涨跌幅': 'pct'})
+            if 'pct' not in df: df['pct'] = df['close'].pct_change() * 100
+            recs = df[['date','open','close','high','low','volume','pct']].round(3).to_dict('records')
+            return code, recs
         except Exception as e:
-            fail.append(f'{code}:{type(e).__name__}')
-        if i % 20 == 19: time.sleep(1.2)
-    json.dump(kline, open(kpath, 'w'))
-    log('kline', 'ok' if ok else 'fail', f'成功{ok}/{len(codes)} 失败{len(fail)} {" ".join(fail[:6])}')
+            return code, f'{type(e).__name__}'
+
+    if bootstrap:
+        # 首次运行：从 pipeline/snapshot.json 的公司清单全量抓取
+        snap = json.load(open(os.path.join(ROOT, 'pipeline', 'snapshot.json')))
+        log('kline_bootstrap', 'ok', f'自举抓取{len(snap)}只全年K线')
+        ok = 0
+        with ThreadPoolExecutor(max_workers=5) as ex:
+            futs = {ex.submit(fetch, c, True): c for c in snap}
+            for f in as_completed(futs):
+                code, res = f.result()
+                if isinstance(res, list) and res:
+                    kline[code] = {'name': snap[code].get('name', code), 'data': res}; ok += 1
+                else: errs.append(code)
+        json.dump(kline, open(kpath, 'w'), ensure_ascii=False)
+        log('kline', 'ok' if not errs else 'partial', f'自举{ok}/{len(snap)}只' + (f', 失败:{errs[:5]}' if errs else ''))
+        return
+
+    codes = list(kline.keys())
+    updated = 0
+    with ThreadPoolExecutor(max_workers=5) as ex:
+        futs = {ex.submit(fetch, c): c for c in codes}
+        for f in as_completed(futs):
+            code, res = f.result()
+            if isinstance(res, list) and res:
+                old = {r['date']: r for r in kline[code]['data']}
+                for r in res: old[r['date']] = r
+                kline[code]['data'] = [old[d] for d in sorted(old)]
+                updated += 1
+            elif res:
+                errs.append(code)
+    json.dump(kline, open(kpath, 'w'), ensure_ascii=False)
+    log('kline', 'ok' if not errs else 'partial', f'更新{updated}/{len(codes)}只' + (f', 失败:{errs[:5]}' if errs else ''))
 
 if __name__ == '__main__':
     try: collect_spot()
-    except Exception as e: log('spot_prices', 'fail', repr(e))
+    except Exception as e: log('spot_prices', 'fail', repr(e)[:150])
     try: collect_kline()
-    except Exception as e: log('kline', 'fail', repr(e))
+    except Exception as e: log('kline', 'fail', repr(e)[:150])
     json.dump(run_log, open(os.path.join(DATA, 'run_log.json'), 'w'), ensure_ascii=False, indent=1)
-    print('DONE', json.dumps(run_log, ensure_ascii=False)[:400])
+    print('DONE')
