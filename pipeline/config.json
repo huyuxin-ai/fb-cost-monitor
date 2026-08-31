@@ -1,0 +1,1952 @@
+{
+ "meta": {
+  "SR": {
+   "name": "白砂糖",
+   "category": "糖类",
+   "unit": "元/吨",
+   "source": "现货(生意社/主产区)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应SR期货标的现货)"
+  },
+  "P": {
+   "name": "棕榈油",
+   "category": "油脂",
+   "unit": "元/吨",
+   "source": "24度港口现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应P期货标的现货)"
+  },
+  "C": {
+   "name": "玉米",
+   "category": "饲料原料",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应C期货标的现货)"
+  },
+  "M": {
+   "name": "豆粕",
+   "category": "饲料原料",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应M期货标的现货)"
+  },
+  "A": {
+   "name": "豆一(国产大豆)",
+   "category": "豆类",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应A期货标的现货)"
+  },
+  "Y": {
+   "name": "豆油",
+   "category": "油脂",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应Y期货标的现货)"
+  },
+  "AL": {
+   "name": "铝",
+   "category": "包材",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应AL期货标的现货)"
+  },
+  "FG": {
+   "name": "玻璃",
+   "category": "包材",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应FG期货标的现货)"
+  },
+  "SP": {
+   "name": "纸浆",
+   "category": "包材",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应SP期货标的现货)"
+  },
+  "TA": {
+   "name": "PTA(PET原料)",n   "category": "包材",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应TA期货标的现货)"
+  },
+  "PF": {
+   "name": "涤纶短纤",
+   "category": "包材",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应PF期货标的现货)"
+  },
+  "RM": {
+   "name": "菜粕",
+   "category": "饲料原料",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应RM期货标的现货)"
+  },
+  "OI": {
+   "name": "菜油",
+   "category": "油脂",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应OI期货标的现货)"
+  },
+  "LH": {
+   "name": "生猪",
+   "category": "蛋白与水产",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应LH期货标的现货)"
+  },
+  "BZ": {
+   "name": "瓶片PET(参)",
+   "category": "包材",
+   "unit": "元/吨",
+   "source": "现货(生意社)",
+   "source_status": "已接入",
+   "freq": "日采周聚",
+   "origin": "国产/进口(港口)混合口径",
+   "basis": "生意社现货评估价(对应BZ期货标的现货)"
+  }
+ },
+ "unavailable": [
+  {
+   "id": "RAW_MILK",
+   "name": "生鲜乳(原奶)",
+   "category": "乳制品原料",
+   "sub": "主产区收购价",
+   "unit": "元/公斤",
+   "source": "农业农村部周度监测(人工录入)/奶业信息网",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "CREAM",
+   "name": "奶油",
+   "category": "乳制品原料",
+   "sub": "无水奶油/稀奶油(进口+国产)",
+   "unit": "元/吨",
+   "source": "GDT拍卖/百川盈孚/卓创(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "WPC34",
+   "name": "乳清蛋白WPC34",
+   "category": "乳制品原料",
+   "sub": "WPC34",
+   "unit": "元/吨",
+   "source": "GDT/百川盈孚(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "WPC80",
+   "name": "乳清蛋白WPC80",
+   "category": "乳制品原料",
+   "sub": "WPC80",
+   "unit": "元/吨",
+   "source": "GDT/百川盈孚(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "WPI90",
+   "name": "乳清蛋白WPI90",
+   "category": "乳制品原料",
+   "sub": "WPI90",
+   "unit": "元/吨",
+   "source": "GDT/百川盈孚(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "D40",
+   "name": "脱盐乳清粉D40",
+   "category": "乳制品原料",
+   "sub": "D40",
+   "unit": "元/吨",
+   "source": "GDT/欧洲乳清周报(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "D90",
+   "name": "脱盐乳清粉D90",
+   "category": "乳制品原料",
+   "sub": "D90",
+   "unit": "元/吨",
+   "source": "GDT/欧洲乳清周报(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "MOLASSES",
+   "name": "糖蜜",
+   "category": "糖类",
+   "sub": "甘蔗糖蜜",
+   "unit": "元/吨",
+   "source": "广西糖协/百川盈孚(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "CASHEW",
+   "name": "腰果",
+   "category": "蛋白与水产",
+   "sub": "坚果",
+   "unit": "元/吨",
+   "source": "卓创/坚果协会(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "ALMOND",
+   "name": "巴旦木",
+   "category": "蛋白与水产",
+   "sub": "坚果",
+   "unit": "元/吨",
+   "source": "美国杏仁商会/卓创(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "WALNUT",
+   "name": "核桃仁",
+   "category": "蛋白与水产",
+   "sub": "坚果",
+   "unit": "元/吨",
+   "source": "卓创(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "MACADAMIA",
+   "name": "夏威夷果",
+   "category": "蛋白与水产",
+   "sub": "坚果",
+   "unit": "元/吨",
+   "source": "卓创(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "ANCHOVY",
+   "name": "鳀鱼",
+   "category": "蛋白与水产",
+   "sub": "鱼油原料鱼(秘鲁)",
+   "unit": "美元/吨",
+   "source": "秘鲁海洋研究院/IFFO(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "SARDINE",
+   "name": "沙丁鱼",
+   "category": "蛋白与水产",
+   "sub": "鱼油原料鱼",
+   "unit": "美元/吨",
+   "source": "IFFO(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "COQ10",
+   "name": "辅酶Q10",
+   "category": "功能性原料",
+   "sub": "发酵法原料",
+   "unit": "元/kg",
+   "source": "博亚和讯(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "VA",
+   "name": "维生素A",
+   "category": "功能性原料",
+   "sub": "VA醋酸酯",
+   "unit": "元/kg",
+   "source": "博亚和讯/百川盈孚(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "日频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "VB1",
+   "name": "维生素B1",
+   "category": "功能性原料",
+   "sub": "硫胺素",
+   "unit": "元/kg",
+   "source": "博亚和讯(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "日频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "VB2",
+   "name": "维生素B2",
+   "category": "功能性原料",
+   "sub": "核黄素",
+   "unit": "元/kg",
+   "source": "博亚和讯(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "日频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "VB6",
+   "name": "维生素B6",
+   "category": "功能性原料",
+   "sub": "吡哆醇",
+   "unit": "元/kg",
+   "source": "博亚和讯(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "日频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "VB12",
+   "name": "维生素B12",
+   "category": "功能性原料",
+   "sub": "氰钴胺",
+   "unit": "元/kg",
+   "source": "博亚和讯(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "日频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "VC",
+   "name": "维生素C",
+   "category": "功能性原料",
+   "sub": "VC原粉",
+   "unit": "元/kg",
+   "source": "博亚和讯(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "日频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "VD3",
+   "name": "维生素D3",
+   "category": "功能性原料",
+   "sub": "VD3",
+   "unit": "元/kg",
+   "source": "博亚和讯(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "日频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "FISHOIL",
+   "name": "鱼油",
+   "category": "功能性原料",
+   "sub": "EPA/DHA原料",
+   "unit": "美元/吨",
+   "source": "IFFO/卓创(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "ALGAEOIL",
+   "name": "DHA藻油",
+   "category": "功能性原料",
+   "sub": "藻油",
+   "unit": "元/kg",
+   "source": "百川盈孚(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "LUTEIN",
+   "name": "叶黄素",
+   "category": "功能性原料",
+   "sub": "万寿菊提取",
+   "unit": "元/kg",
+   "source": "百川盈孚(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "CAPSAICIN",
+   "name": "辣椒素",
+   "category": "功能性原料",
+   "sub": "辣椒素/辣椒精",
+   "unit": "元/kg",
+   "source": "百川盈孚(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "BARLEY",
+   "name": "大麦",
+   "category": "谷物",
+   "sub": "啤酒大麦(进口)",
+   "unit": "元/吨",
+   "source": "海关总署进口均价/卓创(采购)",
+   "source_status": "待采购/人工录入",
+   "freq": "月频",
+   "origin": "国产/进口分口径(预留字段)"
+  }
+ ],
+ "downstream": {
+  "SR": [
+   {
+    "code": "605499",
+    "name": "东鹏饮料",
+    "level": "高",
+    "note": "白砂糖占软饮料成本~10-15%"
+   },
+   {
+    "code": "HK9633",
+    "name": "农夫山泉",
+    "level": "高",
+    "note": "茶饮/果汁用糖"
+   },
+   {
+    "code": "HK0322",
+    "name": "康师傅控股",
+    "level": "高",
+    "note": "饮料/方便食品用糖"
+   },
+   {
+    "code": "HK0220",
+    "name": "统一企业中国",
+    "level": "中",
+    "note": "饮料用糖"
+   },
+   {
+    "code": "603711",
+    "name": "香飘飘",
+    "level": "中",
+    "note": "冲泡奶茶用糖"
+   },
+   {
+    "code": "600887",
+    "name": "伊利股份",
+    "level": "中",
+    "note": "乳品调味糖"
+   },
+   {
+    "code": "HK2319",
+    "name": "蒙牛乳业",
+    "level": "中",
+    "note": "乳品调味糖"
+   },
+   {
+    "code": "HK0151",
+    "name": "中国旺旺",
+    "level": "高",
+    "note": "休闲食品/乳饮用糖"
+   },
+   {
+    "code": "603156",
+    "name": "养元饮品",
+    "level": "中",
+    "note": "植物蛋白饮料"
+   },
+   {
+    "code": "605337",
+    "name": "李子园",
+    "level": "中",
+    "note": "含乳饮料"
+   }
+  ],
+  "P": [
+   {
+    "code": "002557",
+    "name": "洽洽食品",
+    "level": "高",
+    "note": "坚果炒货油炸用油"
+   },
+   {
+    "code": "002847",
+    "name": "盐津铺子",
+    "level": "高",
+    "note": "休闲食品油炸"
+   },
+   {
+    "code": "002991",
+    "name": "甘源食品",
+    "level": "高",
+    "note": "籽类炒货"
+   },
+   {
+    "code": "300783",
+    "name": "三只松鼠",
+    "level": "中",
+    "note": "零食综合"
+   },
+   {
+    "code": "603719",
+    "name": "良品铺子",
+    "level": "中",
+    "note": "零食综合"
+   },
+   {
+    "code": "300972",
+    "name": "万辰集团",
+    "level": "中",
+    "note": "量贩零食"
+   },
+   {
+    "code": "300973",
+    "name": "立高食品",
+    "level": "高",
+    "note": "烘焙油脂"
+   },
+   {
+    "code": "605339",
+    "name": "南侨食品",
+    "level": "高",
+    "note": "烘焙油脂"
+   },
+   {
+    "code": "300915",
+    "name": "海融科技",
+    "level": "高",
+    "note": "植脂奶油"
+   },
+   {
+    "code": "605300",
+    "name": "佳禾食品",
+    "level": "高",
+    "note": "植脂末/粉末油脂"
+   }
+  ],
+  "C": [
+   {
+    "code": "HK0546",
+    "name": "阜丰集团",
+    "level": "高",
+    "note": "玉米→味精/黄原胶"
+   },
+   {
+    "code": "600186",
+    "name": "莲花控股",
+    "level": "高",
+    "note": "玉米→味精"
+   },
+   {
+    "code": "000895",
+    "name": "双汇发展",
+    "level": "中",
+    "note": "饲料原料"
+   },
+   {
+    "code": "HK1610",
+    "name": "中粮家佳康",
+    "level": "高",
+    "note": "饲料原料"
+   },
+   {
+    "code": "000639",
+    "name": "西王食品",
+    "level": "高",
+    "note": "玉米胚芽→玉米油"
+   }
+  ],
+  "M": [
+   {
+    "code": "603288",
+    "name": "海天味业",
+    "level": "高",
+    "note": "酱油原料豆粕"
+   },
+   {
+    "code": "600872",
+    "name": "中炬高新",
+    "level": "高",
+    "note": "酱油原料"
+   },
+   {
+    "code": "603027",
+    "name": "千禾味业",
+    "level": "高",
+    "note": "酱油原料"
+   },
+   {
+    "code": "002650",
+    "name": "ST加加",
+    "level": "中",
+    "note": "酱油"
+   },
+   {
+    "code": "000895",
+    "name": "双汇发展",
+    "level": "中",
+    "note": "饲料→养殖成本"
+   },
+   {
+    "code": "002726",
+    "name": "龙大美食",
+    "level": "中",
+    "note": "饲料成本"
+   },
+   {
+    "code": "HK1610",
+    "name": "中粮家佳康",
+    "level": "高",
+    "note": "饲料成本"
+   }
+  ],
+  "A": [
+   {
+    "code": "603288",
+    "name": "海天味业",
+    "level": "高",
+    "note": "国产大豆原料"
+   },
+   {
+    "code": "600872",
+    "name": "中炬高新",
+    "level": "高",
+    "note": "大豆原料"
+   },
+   {
+    "code": "603027",
+    "name": "千禾味业",
+    "level": "高",
+    "note": "非转基因大豆"
+   },
+   {
+    "code": "000716",
+    "name": "黑芝麻",
+    "level": "中",
+    "note": "豆类/芝麻原料"
+   }
+  ],
+  "Y": [
+   {
+    "code": "000639",
+    "name": "西王食品",
+    "level": "中",
+    "note": "油脂参照"
+   },
+   {
+    "code": "605300",
+    "name": "佳禾食品",
+    "level": "中",
+    "note": "油脂原料"
+   }
+  ],
+  "AL": [
+   {
+    "code": "600600",
+    "name": "青岛啤酒",
+    "level": "高",
+    "note": "易拉罐包装"
+   },
+   {
+    "code": "600132",
+    "name": "重庆啤酒",
+    "level": "高",
+    "note": "罐装占比提升"
+   },
+   {
+    "code": "000729",
+    "name": "燕京啤酒",
+    "level": "高",
+    "note": "易拉罐"
+   },
+   {
+    "code": "HK0291",
+    "name": "华润啤酒",
+    "level": "高",
+    "note": "易拉罐"
+   },
+   {
+    "code": "HK1876",
+    "name": "百威亚太",
+    "level": "中",
+    "note": "罐装"
+   },
+   {
+    "code": "002461",
+    "name": "珠江啤酒",
+    "level": "高",
+    "note": "罐装占比高"
+   },
+   {
+    "code": "600573",
+    "name": "惠泉啤酒",
+    "level": "中",
+    "note": "罐装"
+   },
+   {
+    "code": "605499",
+    "name": "东鹏饮料",
+    "level": "中",
+    "note": "金属罐装产品"
+   }
+  ],
+  "FG": [
+   {
+    "code": "600519",
+    "name": "贵州茅台",
+    "level": "中",
+    "note": "玻璃瓶"
+   },
+   {
+    "code": "000858",
+    "name": "五 粮 液",
+    "level": "中",
+    "note": "玻璃瓶"
+   },
+   {
+    "code": "600809",
+    "name": "山西汾酒",
+    "level": "中",
+    "note": "玻璃瓶"
+   },
+   {
+    "code": "600600",
+    "name": "青岛啤酒",
+    "level": "高",
+    "note": "瓶装占比高"
+   },
+   {
+    "code": "600132",
+    "name": "重庆啤酒",
+    "level": "高",
+    "note": "玻璃瓶"
+   },
+   {
+    "code": "HK0291",
+    "name": "华润啤酒",
+    "level": "高",
+    "note": "瓶装"
+   },
+   {
+    "code": "603288",
+    "name": "海天味业",
+    "level": "中",
+    "note": "玻璃瓶装酱料"
+   }
+  ],
+  "SP": [
+   {
+    "code": "600887",
+    "name": "伊利股份",
+    "level": "中",
+    "note": "利乐包材"
+   },
+   {
+    "code": "HK2319",
+    "name": "蒙牛乳业",
+    "level": "中",
+    "note": "利乐包材"
+   },
+   {
+    "code": "HK0322",
+    "name": "康师傅控股",
+    "level": "中",
+    "note": "纸箱/包材"
+   },
+   {
+    "code": "603719",
+    "name": "良品铺子",
+    "level": "低",
+    "note": "外包装"
+   },
+   {
+    "code": "002557",
+    "name": "洽洽食品",
+    "level": "低",
+    "note": "外包装"
+   }
+  ],
+  "TA": [
+   {
+    "code": "HK9633",
+    "name": "农夫山泉",
+    "level": "高",
+    "note": "PTA→PET成本传导"
+   },
+   {
+    "code": "605499",
+    "name": "东鹏饮料",
+    "level": "高",
+    "note": "PTA→PET成本传导"
+   },
+   {
+    "code": "HK2460",
+    "name": "华润饮料",
+    "level": "高",
+    "note": "PTA→PET成本传导"
+   }
+  ],
+  "PF": [
+   {
+    "code": "HK0322",
+    "name": "康师傅控股",
+    "level": "低",
+    "note": "包装辅材"
+   }
+  ],
+  "RM": [
+   {
+    "code": "HK1610",
+    "name": "中粮家佳康",
+    "level": "中",
+    "note": "饲料"
+   },
+   {
+    "code": "000895",
+    "name": "双汇发展",
+    "level": "中",
+    "note": "饲料"
+   }
+  ],
+  "OI": [
+   {
+    "code": "002661",
+    "name": "克明食品",
+    "level": "低",
+    "note": "面条用油"
+   },
+   {
+    "code": "603345",
+    "name": "安井食品",
+    "level": "中",
+    "note": "速冻调制用油"
+   }
+  ],
+  "LH": [
+   {
+    "code": "000895",
+    "name": "双汇发展",
+    "level": "高",
+    "note": "屠宰/肉制品原料"
+   },
+   {
+    "code": "002726",
+    "name": "龙大美食",
+    "level": "高",
+    "note": "屠宰原料"
+   },
+   {
+    "code": "002330",
+    "name": "得利斯",
+    "level": "高",
+    "note": "肉制品"
+   },
+   {
+    "code": "002840",
+    "name": "华统股份",
+    "level": "高",
+    "note": "屠宰"
+   },
+   {
+    "code": "HK1610",
+    "name": "中粮家佳康",
+    "level": "高",
+    "note": "生猪养殖"
+   },
+   {
+    "code": "HK0288",
+    "name": "万洲国际",
+    "level": "高",
+    "note": "全球猪肉"
+   },
+   {
+    "code": "603345",
+    "name": "安井食品",
+    "level": "中",
+    "note": "肉糜原料"
+   },
+   {
+    "code": "002216",
+    "name": "三全食品",
+    "level": "中",
+    "note": "肉馅原料"
+   },
+   {
+    "code": "001215",
+    "name": "千味央厨",
+    "level": "中",
+    "note": "肉馅原料"
+   }
+  ],
+  "BZ": [
+   {
+    "code": "HK9633",
+    "name": "农夫山泉",
+    "level": "高",
+    "note": "PET瓶占包装成本大头"
+   },
+   {
+    "code": "605499",
+    "name": "东鹏饮料",
+    "level": "高",
+    "note": "PET瓶装"
+   },
+   {
+    "code": "HK2460",
+    "name": "华润饮料",
+    "level": "高",
+    "note": "瓶装水"
+   },
+   {
+    "code": "HK0322",
+    "name": "康师傅控股",
+    "level": "高",
+    "note": "瓶装饮料"
+   },
+   {
+    "code": "HK0220",
+    "name": "统一企业中国",
+    "level": "中",
+    "note": "瓶装饮料"
+   },
+   {
+    "code": "600189",
+    "name": "泉阳泉",
+    "level": "高",
+    "note": "瓶装水"
+   },
+   {
+    "code": "300997",
+    "name": "欢乐家",
+    "level": "中",
+    "note": "椰子汁PET/罐装"
+   }
+  ],
+  "RAW_MILK": [
+   {
+    "code": "600887",
+    "name": "伊利股份",
+    "level": "高",
+    "note": "原奶占液奶成本~40%"
+   },
+   {
+    "code": "HK2319",
+    "name": "蒙牛乳业",
+    "level": "高",
+    "note": "原奶成本"
+   },
+   {
+    "code": "600597",
+    "name": "光明乳业",
+    "level": "高",
+    "note": "原奶成本"
+   },
+   {
+    "code": "002946",
+    "name": "新乳业",
+    "level": "高",
+    "note": "原奶成本"
+   },
+   {
+    "code": "600429",
+    "name": "三元股份",
+    "level": "高",
+    "note": "原奶"
+   },
+   {
+    "code": "600419",
+    "name": "天润乳业",
+    "level": "高",
+    "note": "原奶"
+   },
+   {
+    "code": "HK1432",
+    "name": "中国圣牧",
+    "level": "高",
+    "note": "原奶生产商(上游受益)"
+   },
+   {
+    "code": "HK1117",
+    "name": "现代牧业",
+    "level": "高",
+    "note": "原奶生产商(上游受益)"
+   },
+   {
+    "code": "HK9858",
+    "name": "优然牧业",
+    "level": "高",
+    "note": "原奶生产商(上游受益)"
+   },
+   {
+    "code": "600882",
+    "name": "妙可蓝多",
+    "level": "中",
+    "note": "奶酪原料"
+   },
+   {
+    "code": "HK6186",
+    "name": "中国飞鹤",
+    "level": "中",
+    "note": "奶粉原料"
+   },
+   {
+    "code": "HK1717",
+    "name": "澳优",
+    "level": "中",
+    "note": "奶粉"
+   }
+  ],
+  "CREAM": [
+   {
+    "code": "600887",
+    "name": "伊利股份",
+    "level": "中",
+    "note": "冷饮/烘焙"
+   },
+   {
+    "code": "300973",
+    "name": "立高食品",
+    "level": "高",
+    "note": "奶油原料"
+   },
+   {
+    "code": "300915",
+    "name": "海融科技",
+    "level": "高",
+    "note": "奶油主业"
+   },
+   {
+    "code": "300898",
+    "name": "熊猫乳品",
+    "level": "中",
+    "note": "乳品原料"
+   }
+  ],
+  "WPC34": [
+   {
+    "code": "600887",
+    "name": "伊利股份",
+    "level": "中",
+    "note": "奶粉配方"
+   },
+   {
+    "code": "HK6186",
+    "name": "中国飞鹤",
+    "level": "高",
+    "note": "婴配粉原料"
+   },
+   {
+    "code": "HK1717",
+    "name": "澳优",
+    "level": "高",
+    "note": "婴配粉"
+   },
+   {
+    "code": "HK1112",
+    "name": "H&H国际控股",
+    "level": "高",
+    "note": "婴配粉/营养品"
+   },
+   {
+    "code": "002570",
+    "name": "贝因美",
+    "level": "高",
+    "note": "婴配粉"
+   }
+  ],
+  "WPC80": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "高",
+    "note": "蛋白粉原料"
+   },
+   {
+    "code": "920429",
+    "name": "康比特",
+    "level": "高",
+    "note": "运动营养"
+   },
+   {
+    "code": "300791",
+    "name": "仙乐健康",
+    "level": "中",
+    "note": "营养代工"
+   }
+  ],
+  "WPI90": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "高",
+    "note": "蛋白粉"
+   },
+   {
+    "code": "920429",
+    "name": "康比特",
+    "level": "高",
+    "note": "分离乳清"
+   }
+  ],
+  "D40": [
+   {
+    "code": "HK6186",
+    "name": "中国飞鹤",
+    "level": "高",
+    "note": "婴配粉"
+   },
+   {
+    "code": "600887",
+    "name": "伊利股份",
+    "level": "中",
+    "note": "婴配粉"
+   }
+  ],
+  "D90": [
+   {
+    "code": "HK6186",
+    "name": "中国飞鹤",
+    "level": "高",
+    "note": "婴配粉"
+   },
+   {
+    "code": "HK1112",
+    "name": "H&H国际控股",
+    "level": "中",
+    "note": "营养品"
+   }
+  ],
+  "MOLASSES": [
+   {
+    "code": "600298",
+    "name": "安琪酵母",
+    "level": "高",
+    "note": "糖蜜占酵母成本~40%"
+   },
+   {
+    "code": "HK0546",
+    "name": "阜丰集团",
+    "level": "中",
+    "note": "发酵原料"
+   }
+  ],
+  "CASHEW": [
+   {
+    "code": "300783",
+    "name": "三只松鼠",
+    "level": "高",
+    "note": "坚果"
+   },
+   {
+    "code": "603719",
+    "name": "良品铺子",
+    "level": "高",
+    "note": "坚果"
+   },
+   {
+    "code": "002557",
+    "name": "洽洽食品",
+    "level": "中",
+    "note": "坚果"
+   },
+   {
+    "code": "300972",
+    "name": "万辰集团",
+    "level": "中",
+    "note": "零食"
+   }
+  ],
+  "ALMOND": [
+   {
+    "code": "300783",
+    "name": "三只松鼠",
+    "level": "高",
+    "note": "坚果"
+   },
+   {
+    "code": "603719",
+    "name": "良品铺子",
+    "level": "高",
+    "note": "坚果"
+   },
+   {
+    "code": "002991",
+    "name": "甘源食品",
+    "level": "中",
+    "note": "坚果"
+   }
+  ],
+  "WALNUT": [
+   {
+    "code": "002557",
+    "name": "洽洽食品",
+    "level": "高",
+    "note": "核桃"
+   },
+   {
+    "code": "300783",
+    "name": "三只松鼠",
+    "level": "中",
+    "note": "坚果"
+   },
+   {
+    "code": "603156",
+    "name": "养元饮品",
+    "level": "高",
+    "note": "六个核桃原料"
+   }
+  ],
+  "MACADAMIA": [
+   {
+    "code": "300783",
+    "name": "三只松鼠",
+    "level": "高",
+    "note": "坚果"
+   },
+   {
+    "code": "603719",
+    "name": "良品铺子",
+    "level": "中",
+    "note": "坚果"
+   }
+  ],
+  "ANCHOVY": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "鱼油原料"
+   },
+   {
+    "code": "300791",
+    "name": "仙乐健康",
+    "level": "中",
+    "note": "鱼油软胶囊"
+   },
+   {
+    "code": "603102",
+    "name": "百合股份",
+    "level": "中",
+    "note": "鱼油"
+   }
+  ],
+  "SARDINE": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "鱼油"
+   },
+   {
+    "code": "603102",
+    "name": "百合股份",
+    "level": "中",
+    "note": "鱼油"
+   }
+  ],
+  "COQ10": [
+   {
+    "code": "002626",
+    "name": "金达威",
+    "level": "高",
+    "note": "Q10主要生产商(上游)"
+   },
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "Q10成品"
+   },
+   {
+    "code": "300791",
+    "name": "仙乐健康",
+    "level": "中",
+    "note": "Q10代工"
+   }
+  ],
+  "VA": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "多维产品"
+   },
+   {
+    "code": "300791",
+    "name": "仙乐健康",
+    "level": "中",
+    "note": "多维代工"
+   },
+   {
+    "code": "600530",
+    "name": "交大昂立",
+    "level": "中",
+    "note": "保健品"
+   },
+   {
+    "code": "603102",
+    "name": "百合股份",
+    "level": "中",
+    "note": "多维"
+   }
+  ],
+  "VB1": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "B族"
+   },
+   {
+    "code": "300791",
+    "name": "仙乐健康",
+    "level": "中",
+    "note": "B族"
+   },
+   {
+    "code": "920429",
+    "name": "康比特",
+    "level": "中",
+    "note": "运动营养"
+   }
+  ],
+  "VB2": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "B族"
+   },
+   {
+    "code": "603102",
+    "name": "百合股份",
+    "level": "中",
+    "note": "B族"
+   }
+  ],
+  "VB6": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "B族"
+   },
+   {
+    "code": "300791",
+    "name": "仙乐健康",
+    "level": "中",
+    "note": "B族"
+   }
+  ],
+  "VB12": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "B族"
+   },
+   {
+    "code": "920429",
+    "name": "康比特",
+    "level": "中",
+    "note": "运动营养"
+   }
+  ],
+  "VC": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "VC产品"
+   },
+   {
+    "code": "300791",
+    "name": "仙乐健康",
+    "level": "中",
+    "note": "VC代工"
+   },
+   {
+    "code": "605499",
+    "name": "东鹏饮料",
+    "level": "低",
+    "note": "功能饮料添加"
+   }
+  ],
+  "VD3": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "VD产品"
+   },
+   {
+    "code": "603102",
+    "name": "百合股份",
+    "level": "中",
+    "note": "VD"
+   }
+  ],
+  "FISHOIL": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "高",
+    "note": "鱼油软胶囊"
+   },
+   {
+    "code": "300791",
+    "name": "仙乐健康",
+    "level": "高",
+    "note": "鱼油代工"
+   },
+   {
+    "code": "603102",
+    "name": "百合股份",
+    "level": "高",
+    "note": "鱼油"
+   }
+  ],
+  "ALGAEOIL": [
+   {
+    "code": "HK6186",
+    "name": "中国飞鹤",
+    "level": "中",
+    "note": "婴配粉DHA"
+   },
+   {
+    "code": "HK1112",
+    "name": "H&H国际控股",
+    "level": "中",
+    "note": "DHA"
+   },
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "DHA"
+   }
+  ],
+  "LUTEIN": [
+   {
+    "code": "300146",
+    "name": "汤臣倍健",
+    "level": "中",
+    "note": "护眼产品"
+   },
+   {
+    "code": "603102",
+    "name": "百合股份",
+    "level": "中",
+    "note": "叶黄素"
+   }
+  ],
+  "CAPSAICIN": [
+   {
+    "code": "603288",
+    "name": "海天味业",
+    "level": "低",
+    "note": "辣味产品"
+   },
+   {
+    "code": "603317",
+    "name": "天味食品",
+    "level": "低",
+    "note": "辣味底料"
+   },
+   {
+    "code": "HK9985",
+    "name": "卫龙美味",
+    "level": "中",
+    "note": "辣味零食"
+   }
+  ],
+  "BARLEY": [
+   {
+    "code": "600600",
+    "name": "青岛啤酒",
+    "level": "高",
+    "note": "大麦占啤酒原料~60%"
+   },
+   {
+    "code": "600132",
+    "name": "重庆啤酒",
+    "level": "高",
+    "note": "大麦"
+   },
+   {
+    "code": "000729",
+    "name": "燕京啤酒",
+    "level": "高",
+    "note": "大麦"
+   },
+   {
+    "code": "HK0291",
+    "name": "华润啤酒",
+    "level": "高",
+    "note": "大麦"
+   },
+   {
+    "code": "HK1876",
+    "name": "百威亚太",
+    "level": "高",
+    "note": "大麦"
+   },
+   {
+    "code": "002461",
+    "name": "珠江啤酒",
+    "level": "中",
+    "note": "大麦"
+   },
+   {
+    "code": "600573",
+    "name": "惠泉啤酒",
+    "level": "中",
+    "note": "大麦"
+   }
+  ]
+ },
+ "sensitivity": [
+  {
+   "material": "SR",
+   "company": "605499",
+   "cost_ratio": 12,
+   "note": "白砂糖/软饮料成本"
+  },
+  {
+   "material": "SR",
+   "company": "HK9633",
+   "cost_ratio": 8,
+   "note": "含糖茶饮"
+  },
+  {
+   "material": "SR",
+   "company": "HK0322",
+   "cost_ratio": 9,
+   "note": "饮料业务"
+  },
+  {
+   "material": "SR",
+   "company": "603711",
+   "cost_ratio": 10,
+   "note": "冲泡奶茶"
+  },
+  {
+   "material": "P",
+   "company": "002557",
+   "cost_ratio": 18,
+   "note": "油炸工艺用油"
+  },
+  {
+   "material": "P",
+   "company": "002847",
+   "cost_ratio": 15,
+   "note": "油炸零食"
+  },
+  {
+   "material": "P",
+   "company": "300973",
+   "cost_ratio": 25,
+   "note": "烘焙油脂核心"
+  },
+  {
+   "material": "P",
+   "company": "605339",
+   "cost_ratio": 30,
+   "note": "油脂主业"
+  },
+  {
+   "material": "P",
+   "company": "300915",
+   "cost_ratio": 28,
+   "note": "植脂奶油"
+  },
+  {
+   "material": "P",
+   "company": "605300",
+   "cost_ratio": 32,
+   "note": "植脂末"
+  },
+  {
+   "material": "BZ",
+   "company": "HK9633",
+   "cost_ratio": 22,
+   "note": "PET瓶"
+  },
+  {
+   "material": "BZ",
+   "company": "605499",
+   "cost_ratio": 18,
+   "note": "PET瓶"
+  },
+  {
+   "material": "BZ",
+   "company": "HK2460",
+   "cost_ratio": 24,
+   "note": "瓶装水"
+  },
+  {
+   "material": "AL",
+   "company": "600600",
+   "cost_ratio": 15,
+   "note": "罐材"
+  },
+  {
+   "material": "AL",
+   "company": "600132",
+   "cost_ratio": 14,
+   "note": "罐材"
+  },
+  {
+   "material": "AL",
+   "company": "002461",
+   "cost_ratio": 16,
+   "note": "罐装占比高"
+  },
+  {
+   "material": "FG",
+   "company": "600600",
+   "cost_ratio": 10,
+   "note": "瓶材"
+  },
+  {
+   "material": "FG",
+   "company": "600519",
+   "cost_ratio": 6,
+   "note": "玻瓶"
+  },
+  {
+   "material": "M",
+   "company": "603288",
+   "cost_ratio": 25,
+   "note": "豆粕为主原料"
+  },
+  {
+   "material": "M",
+   "company": "600872",
+   "cost_ratio": 22,
+   "note": "豆粕"
+  },
+  {
+   "material": "M",
+   "company": "603027",
+   "cost_ratio": 23,
+   "note": "豆粕"
+  },
+  {
+   "material": "C",
+   "company": "HK0546",
+   "cost_ratio": 35,
+   "note": "玉米→味精"
+  },
+  {
+   "material": "C",
+   "company": "600186",
+   "cost_ratio": 33,
+   "note": "玉米"
+  },
+  {
+   "material": "LH",
+   "company": "000895",
+   "cost_ratio": 55,
+   "note": "生猪为最大成本"
+  },
+  {
+   "material": "LH",
+   "company": "002726",
+   "cost_ratio": 50,
+   "note": "生猪"
+  },
+  {
+   "material": "LH",
+   "company": "HK1610",
+   "cost_ratio": 60,
+   "note": "养殖"
+  },
+  {
+   "material": "RAW_MILK",
+   "company": "600887",
+   "cost_ratio": 38,
+   "note": "原奶"
+  },
+  {
+   "material": "RAW_MILK",
+   "company": "HK2319",
+   "cost_ratio": 37,
+   "note": "原奶"
+  },
+  {
+   "material": "RAW_MILK",
+   "company": "600597",
+   "cost_ratio": 40,
+   "note": "原奶"
+  },
+  {
+   "material": "RAW_MILK",
+   "company": "002946",
+   "cost_ratio": 42,
+   "note": "原奶"
+  },
+  {
+   "material": "MOLASSES",
+   "company": "600298",
+   "cost_ratio": 40,
+   "note": "糖蜜"
+  },
+  {
+   "material": "BARLEY",
+   "company": "600600",
+   "cost_ratio": 12,
+   "note": "大麦(麦芽)"
+  },
+  {
+   "material": "BARLEY",
+   "company": "HK0291",
+   "cost_ratio": 11,
+   "note": "大麦"
+  },
+  {
+   "material": "WPC80",
+   "company": "300146",
+   "cost_ratio": 10,
+   "note": "乳清蛋白"
+  },
+  {
+   "material": "WPC34",
+   "company": "HK6186",
+   "cost_ratio": 15,
+   "note": "乳清粉"
+  },
+  {
+   "material": "FISHOIL",
+   "company": "300146",
+   "cost_ratio": 6,
+   "note": "鱼油"
+  }
+ ],
+ "thresholds": {
+  "anomaly": {
+   "rule1_streak_weeks": 3,
+   "rule2_vol_window": 4,
+   "level_major": "rule1且rule2",
+   "level_normal": "rule1或rule2"
+  },
+  "announcement_risk": {
+   "keywords_high": [
+    "原材料涨价",
+    "成本压力",
+    "业绩预减",
+    "诉讼",
+    "处罚",
+    "退市风险",
+    "ST"
+   ],
+   "keywords_mid": [
+    "提价",
+    "毛利率下滑",
+    "减持",
+    "商誉减值"
+   ],
+   "scan_window_days": 30,
+   "alert_score_high": 70,
+   "alert_score_mid": 40
+  }
+ },
+ "data_sources": [
+  {
+   "name": "生意社现货(akshare futures_spot_price)",
+   "type": "原材料现货",
+   "status": "可用",
+   "freq": "交易日",
+   "items": "SR/P/C/M/A/Y/AL/FG/SP/TA/PF/RM/OI/LH/BZ 15品种",
+   "note": "口径:生意社现货评估价;2026-06-19缺1日"
+  },
+  {
+   "name": "沐甜科技白糖现货",
+   "type": "白糖现货(柳州/广州)",
+   "status": "备用-数据滞后",
+   "freq": "日",
+   "items": "白糖",
+   "note": "2026-04-21后停更且列错位,待修复"
+  },
+  {
+   "name": "新浪财经(akshare stock_zh_a_daily)",
+   "type": "A股K线",
+   "status": "可用",
+   "freq": "日",
+   "items": "127只",
+   "note": "前复权日线;*ST岩石(600696)无数据返回"
+  },
+  {
+   "name": "新浪财经港股(akshare stock_hk_daily)",
+   "type": "港股K线",
+   "status": "可用",
+   "freq": "日",
+   "items": "31只",
+   "note": "前复权日线,代码需5位补零"
+  },
+  {
+   "name": "新华财经(xhcj)",
+   "type": "资讯/公告",
+   "status": "可用",
+   "freq": "实时",
+   "items": "热点/个股/公告检索",
+   "note": "公告关键词检索需按股票池二次过滤"
+  },
+  {
+   "name": "东方财富(akshare stock_zh_a_hist)",
+   "type": "A股K线",
+   "status": "不可用-限流",
+   "freq": "-",
+   "items": "-",
+   "note": "RemoteDisconnected,疑似出口IP限流,需代理或换源"
+  },
+  {
+   "name": "生意社100ppi网页直采",
+   "type": "PET/维生素等",
+   "status": "不可用-反爬",
+   "freq": "-",
+   "items": "-",
+   "note": "JS challenge拦截,需selenium或采购API"
+  },
+  {
+   "name": "农业农村部生鲜乳监测",
+   "type": "原奶",
+   "status": "待接入-人工录入",
+   "freq": "周",
+   "items": "生鲜乳",
+   "note": "官网周度发布,无API,建议人工录入或爬虫"
+  },
+  {
+   "name": "博亚和讯/百川盈孚/卓创/GDT/IFFO",
+   "type": "维生素/乳清/坚果/鱼油等",
+   "status": "待采购",
+   "freq": "日/周",
+   "items": "27个品种(见不可得清单)",
+   "note": "需预算审批后接入"
+  }
+ ],
+ "test_log": [
+  {
+   "id": "T-001",
+   "module": "数据源-东财A股K线",
+   "issue": "12线程并发触发RemoteDisconnected,降并发+重试仍失败",
+   "result": "改新浪源后127/128成功",
+   "status": "已解决(换源)",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "T-002",
+   "module": "数据源-新浪A股",
+   "issue": "600696(*ST岩石)返回空JSON(JSONDecodeError)",
+   "result": "东财备用亦失败,标记无数据",
+   "status": "未解决-记录",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "T-003",
+   "module": "数据源-港股K线",
+   "issue": "stock_hk_hist用4位代码全量失败",
+   "result": "改stock_hk_daily+5位补零后31/31成功",
+   "status": "已解决",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "T-004",
+   "module": "数据源-生意社现货",
+   "issue": "futures_spot_price_daily的vars_list过滤失效(只返回部分品种)",
+   "result": "改逐日全量拉取+本地过滤,15品种1875行",
+   "status": "已解决",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "T-005",
+   "module": "数据源-生意社现货",
+   "issue": "2026-06-19单日KeyError(symbol)",
+   "result": "重试3次仍失败,缺1个交易日,周聚合不受影响",
+   "status": "未解决-容忍",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "T-006",
+   "module": "数据源-100ppi网页",
+   "issue": "JS反爬challenge(636字节拦截页)",
+   "result": "直采放弃,维生素/PET登记采购",
+   "status": "未解决-转采购",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "T-007",
+   "module": "数据源-沐甜白糖",
+   "issue": "数据停更于2026-04-21且柳州价列错位(1283元异常)",
+   "result": "降级为备用源,主源用生意社SR现货",
+   "status": "未解决-降级",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "T-008",
+   "module": "资讯-公告检索",
+   "issue": "关键词检索返回非行业公司(晶科科技/美湖股份等)",
+   "result": "按159家股票池二次过滤+强关键词白名单",
+   "status": "已解决",
+   "date": "2026-08-31"
+  },
+  {
+   "id": "T-009",
+   "module": "并发采集",
+   "issue": "多线程(12)并发请求同一数据源触发断连;pip镜像源超时",
+   "result": "并发降至3-8+退避重试;pip换pypi.org官方源",
+   "status": "已解决",
+   "date": "2026-08-31"
+  }
+ ]
+}
