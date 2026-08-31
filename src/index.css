@@ -1,0 +1,148 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 216 28% 7%;
+    --foreground: 214 20% 86%;
+    --card: 214 24% 11%;
+    --card-foreground: 214 20% 86%;
+    --popover: 214 24% 11%;
+    --popover-foreground: 214 20% 86%;
+    --primary: 43 96% 49%;
+    --primary-foreground: 216 28% 7%;
+    --secondary: 215 20% 16%;
+    --secondary-foreground: 214 20% 86%;
+    --muted: 215 20% 16%;
+    --muted-foreground: 215 14% 55%;
+    --accent: 215 22% 18%;
+    --accent-foreground: 214 20% 90%;
+    --destructive: 355 87% 58%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 215 21% 17%;
+    --input: 215 21% 20%;
+    --ring: 43 96% 49%;
+    --radius: 0.25rem;
+    --sidebar-background: 216 28% 7%;
+    --sidebar-foreground: 214 20% 86%;
+    --sidebar-primary: 43 96% 49%;
+    --sidebar-primary-foreground: 216 28% 7%;
+    --sidebar-accent: 215 20% 16%;
+    --sidebar-accent-foreground: 214 20% 86%;
+    --sidebar-border: 215 21% 17%;
+    --sidebar-ring: 43 96% 49%;
+  }
+
+  * {
+    border-color: hsl(var(--border));
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    background-color: #0d1117;
+    color: #d6dee8;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+      "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
+    font-size: 13px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #11161d;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2a3442;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #3a4657;
+  }
+}
+
+@layer components {
+  /* 金融终端面板 */
+  .panel {
+    @apply rounded border border-[#232b36] bg-[#161c24];
+  }
+  .panel-header {
+    @apply flex items-center justify-between gap-2 border-b border-[#232b36] px-3 py-1.5;
+  }
+  .panel-title {
+    @apply text-[13px] font-semibold text-[#e8eef5];
+  }
+  /* 数据源 · 更新时间 标注 */
+  .src-tag {
+    @apply whitespace-nowrap font-mono text-[10px] leading-tight text-[#7d8a9b];
+  }
+  /* 数字等宽 */
+  .num {
+    @apply font-mono;
+    font-variant-numeric: tabular-nums;
+  }
+  .text-up {
+    color: #f23645;
+  }
+  .text-down {
+    color: #089981;
+  }
+  .text-amber {
+    color: #f0b90b;
+  }
+  /* 高密度表格 */
+  .dt {
+    @apply w-full border-collapse text-[12px];
+  }
+  .dt thead th {
+    @apply sticky top-0 z-10 border-b border-[#2a3442] bg-[#131922] px-2 py-1.5 text-left font-medium text-[#8b98a9];
+  }
+  .dt tbody td {
+    @apply border-b border-[#1c242f] px-2 py-1 align-middle;
+  }
+  .dt tbody tr:hover {
+    background: #1a2230;
+  }
+  /* 等级徽章 */
+  .badge-major {
+    @apply inline-flex items-center gap-1 rounded-sm bg-[#f0b90b] px-1.5 py-px text-[11px] font-bold text-[#1a1305];
+    animation: amber-pulse 1.6s ease-in-out infinite;
+  }
+  .badge-normal {
+    @apply inline-flex items-center gap-1 rounded-sm border border-[#f0b90b]/70 px-1.5 py-px text-[11px] font-medium text-[#f0b90b];
+  }
+  /* 暴露度色块 */
+  .exp-high {
+    @apply inline-block rounded-sm bg-[#f23645] px-1.5 py-px text-[11px] font-bold text-white;
+  }
+  .exp-mid {
+    @apply inline-block rounded-sm bg-[#f0b90b] px-1.5 py-px text-[11px] font-bold text-[#1a1305];
+  }
+  .exp-low {
+    @apply inline-block rounded-sm bg-[#3a4657] px-1.5 py-px text-[11px] text-[#c8d2de];
+  }
+  .tag {
+    @apply inline-block rounded-sm border border-[#2a3442] bg-[#1a2230] px-1 py-px text-[10px] text-[#8b98a9];
+  }
+  .tag-import {
+    @apply inline-block rounded-sm border border-[#7c5e10] bg-[#2b230c] px-1 py-px text-[10px] text-[#f0b90b];
+  }
+}
+
+@keyframes amber-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 0 0 rgba(240, 185, 11, 0.55);
+  }
+  50% {
+    box-shadow: 0 0 0 5px rgba(240, 185, 11, 0);
+  }
+}
