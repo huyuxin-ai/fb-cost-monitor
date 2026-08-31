@@ -1,0 +1,73 @@
+name: 数据更新与站点部署
+
+on:
+  schedule:
+    # 每交易日 16:30 CST = 08:30 UTC
+    - cron: '30 8 * * 1-5'
+  push:
+    branches: [master, main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装数据依赖
+        run: pip install akshare pandas openpyxl numpy
+
+      - name: 采集最新数据（首次运行自动自举全年历史）
+        run: python3 pipeline/collect_daily.py
+
+      - name: 周度聚合+异动检测+重建 app_data.json
+        run: python3 pipeline/build_data.py
+
+      - name: 数据完整性校验
+        run: |
+          python3 - <<'EOF'
+          import json
+          d = json.load(open('public/data/app_data.json'))
+          assert len(d['materials']) >= 40, '品种数异常'
+          assert sum(1 for m in d['materials'] if m['series']) >= 14, '现货数据异常'
+          assert len(d['companies']) >= 150, '公司数异常'
+          print('数据校验通过:', d['data_week'])
+          EOF
+
+      - name: 提交数据更新
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add public/data/*.json public/data/*.csv pipeline/config.json
+          git diff --cached --quiet || git commit -m "data: 每日更新 $(date +%F)"
+          git push
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: 构建前端
+        run: npm install --no-audit --no-fund && npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
