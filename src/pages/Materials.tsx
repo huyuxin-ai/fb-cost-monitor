@@ -232,6 +232,14 @@ function MaterialDetail({ m }: { m: Material }) {
   )
 }
 
+/** 更新周期显示文案：freq 原始值 → 面向读表的说明（各品种采集周期不一致，逐行标注） */
+const FREQ_LABEL: Record<string, string> = {
+  日采周聚: '每交易日采集·周度聚合',
+  日频: '日频更新',
+  周频: '周频更新',
+  月频: '月频更新',
+}
+
 /* ============ 行情大表 ============ */
 export default function MaterialsPage() {
   const { DATA, MATERIALS, CATEGORIES } = useAppData()
@@ -279,7 +287,7 @@ export default function MaterialsPage() {
   const exportCsv = () => {
     downloadCsv(
       `原材料行情_${DATA.data_week}.csv`,
-      ['品种', '代码', '类别', '最新价', '单位', '周环比%', '连续涨跌周数', '前4周均波动%', '异动状态', '数据源', '数据状态', '口径', '标签'],
+      ['品种', '代码', '类别', '最新价', '单位', '周环比%', '连续涨跌周数', '前4周均波动%', '异动状态', '数据源', '数据状态', '数据时间', '更新周期', '口径', '标签'],
       rows.map((m) => {
         const l = m.latest
         const v4 = absvol(m, 4)
@@ -299,6 +307,8 @@ export default function MaterialsPage() {
           isConnected(m) ? l?.anomaly || '' : '',
           m.source,
           m.source_status,
+          isConnected(m) && l?.date ? `截至 ${l.date}` : '—',
+          FREQ_LABEL[m.freq] ?? m.freq,
           m.origin,
           tags.join('|'),
         ]
@@ -309,10 +319,18 @@ export default function MaterialsPage() {
   const selCls =
     'h-6 rounded-sm border border-[#2a3442] bg-[#0d1117] px-1.5 text-[11px] text-[#d6dee8] outline-none focus:border-[#f0b90b]/60'
 
+  /** 口径行日期动态化：取全部已接入品种最新报价日的最大值，随数据更新自动变化 */
+  const lastDate = useMemo(() => {
+    const ds = MATERIALS.map((m) => m.latest?.date)
+      .filter((d): d is string => Boolean(d))
+      .sort()
+    return ds.length ? ds[ds.length - 1] : null
+  }, [MATERIALS])
+
   return (
     <Panel
       title={`原材料行情总览（${rows.length}/${MATERIALS.length}）`}
-      source={`现货·生意社评估价 · 截至 2026-08-28（${DATA.data_week}）· 待采购源⚠`}
+      source={`现货·生意社评估价 · 截至 ${lastDate ?? DATA.data_week}（${DATA.data_week}）· 待采购源⚠`}
       bodyClassName="p-0"
       extra={
         <div className="flex flex-wrap items-center gap-1">
@@ -361,6 +379,7 @@ export default function MaterialsPage() {
               <th className="text-right">前4周均波动</th>
               <th>异动状态</th>
               <th>数据源</th>
+              <th>数据时间/周期</th>
               <th>口径/标签</th>
             </tr>
           </thead>
@@ -403,6 +422,21 @@ export default function MaterialsPage() {
                     <td>
                       <SourceDot connected={connected} />
                     </td>
+                    <td className="whitespace-nowrap">
+                      {connected && l?.date ? (
+                        <>
+                          <div className="num text-[#8b98a9]">截至 {l.date}</div>
+                          <div className="text-[10px] text-[#5c6875]">{FREQ_LABEL[m.freq] ?? m.freq}</div>
+                        </>
+                      ) : (
+                        <>
+                          <div className="text-[#5c6875]">—</div>
+                          <div className="text-[10px] text-[#5c6875]">
+                            {FREQ_LABEL[m.freq] ?? m.freq}·待采购
+                          </div>
+                        </>
+                      )}
+                    </td>
                     <td>
                       <span className="tag">{m.origin.includes('混合') ? '国产/进口混合' : '国产/进口分口径'}</span>
                       {IMPORT_DEPENDENT.has(m.id) && (
@@ -412,7 +446,7 @@ export default function MaterialsPage() {
                   </tr>
                   {open && (
                     <tr>
-                      <td colSpan={10} className="bg-[#10151c] p-2">
+                      <td colSpan={11} className="bg-[#10151c] p-2">
                         <MaterialDetail m={m} />
                       </td>
                     </tr>
@@ -424,7 +458,7 @@ export default function MaterialsPage() {
         </table>
       </div>
       <div className="border-t border-[#232b36] px-3 py-1.5 text-[10px] text-[#5c6875]">
-        注：周环比红涨绿跌（A股口径）；「前4周均波动」为 |周环比| 的4周均值；BZ 瓶片PET为参考口径。点击行展开详情（走势图/26周数据/下游传导/敏感度）；☆ 加入自选。
+        注：周环比红涨绿跌（A股口径）；「前4周均波动」为 |周环比| 的4周均值；「数据时间/周期」列为各品种最新报价日期与采集频率（品种间周期不同，逐行标注）；BZ 瓶片PET为参考口径。点击行展开详情（走势图/26周数据/下游传导/敏感度）；☆ 加入自选。
       </div>
     </Panel>
   )
