@@ -9,9 +9,11 @@ import {
   pctClass,
   streakText,
   IMPORT_DEPENDENT,
+  NEWS_KEYWORD_MAP,
   type Derived,
   type Material,
   type NewsExt,
+  type NewsItem,
 } from '@/lib/data'
 import { useAppData } from '@/lib/appData'
 import { useWatchlist } from '@/lib/watchlist'
@@ -218,6 +220,7 @@ function RiskRadar() {
   const { DATA, scanAnnouncementRisk } = useAppData()
   const { config } = useThresholds()
   const { hits, scanned, windowStart } = scanAnnouncementRisk(config.announcement)
+  const newsNav = useNewsNav()
   return (
     <Panel
       title="公告风险雷达"
@@ -239,15 +242,19 @@ function RiskRadar() {
         </div>
       ) : (
         <div className="space-y-1.5">
-          {hits.map((h, i) => (
-            <div
-              key={i}
-              className={`rounded-sm border px-2 py-1.5 ${
-                h.level === '高'
-                  ? 'border-[#f23645]/70 bg-[#f23645]/5'
-                  : 'border-[#f0b90b]/60 bg-[#f0b90b]/5'
-              }`}
-            >
+          {hits.map((h, i) => {
+            const nav = newsNav(h.news)
+            return (
+              <div
+                key={i}
+                onClick={nav?.go}
+                title={nav ? nav.hint : undefined}
+                className={`rounded-sm border px-2 py-1.5 ${
+                  h.level === '高'
+                    ? 'border-[#f23645]/70 bg-[#f23645]/5'
+                    : 'border-[#f0b90b]/60 bg-[#f0b90b]/5'
+                } ${nav ? 'cursor-pointer transition-colors hover:bg-[#1a2230]' : ''}`}
+              >
               <div className="flex items-center gap-2">
                 <span
                   className={`num rounded-sm px-1 text-[11px] font-bold ${
@@ -260,7 +267,10 @@ function RiskRadar() {
                 <span className="tag">{h.news.type}</span>
                 <span className="text-[11px] text-[#8b98a9]">{h.news.company}</span>
               </div>
-              <div className="mt-0.5 text-[12px] text-[#d6dee8]">{h.news.title}</div>
+              <div className="mt-0.5 text-[12px] text-[#d6dee8]">
+                {h.news.title}
+                {nav && <span className="ml-1 text-[10px] text-[#f0b90b]">↗</span>}
+              </div>
               <div className="mt-0.5 text-[10px]">
                 {h.hitsHigh.map((k) => (
                   <span key={k} className="mr-1 rounded-sm bg-[#f23645]/20 px-1 text-[#f23645]">
@@ -273,17 +283,45 @@ function RiskRadar() {
                   </span>
                 ))}
               </div>
-            </div>
-          ))}
+              </div>
+            )
+          })}
         </div>
       )}
     </Panel>
   )
 }
 
+/** 资讯跳转目标解析：原文url（如有）→ 关联品种行情（#/materials?id= 自动展开该行）→ 关联公司K线 */
+function useNewsNav() {
+  const { materialById, COMPANIES } = useAppData()
+  const navigate = useNavigate()
+  return (n: NewsItem): { hint: string; go: () => void } | null => {
+    if (n.url)
+      return {
+        hint: '打开资讯原文（新窗口）',
+        go: () => window.open(n.url, '_blank', 'noopener,noreferrer'),
+      }
+    for (const [kw, id] of NEWS_KEYWORD_MAP) {
+      if (n.title.includes(kw) && materialById.has(id)) {
+        const m = materialById.get(id)!
+        return { hint: `转跳到品种行情：${m.name}`, go: () => navigate(`/materials?id=${id}`) }
+      }
+    }
+    const c = COMPANIES.find((x) => x.name === n.company)
+    if (c)
+      return {
+        hint: `转跳到公司K线：${c.name}`,
+        go: () => navigate(`/kline?code=${encodeURIComponent(c.code)}`),
+      }
+    return null
+  }
+}
+
 /* ============ 相关资讯侧栏 ============ */
 function NewsSidebar() {
   const { NEWS_EXT } = useAppData()
+  const newsNav = useNewsNav()
   const [filter, setFilter] = useState('')
   const filtered = useMemo(() => {
     const f = filter.trim()
@@ -311,34 +349,40 @@ function NewsSidebar() {
       }
     >
       <div className="mb-1 text-[10px] text-[#5c6875]">
-        <span className="text-amber">■</span> 与本周异动品种相关的资讯已前置高亮
+        <span className="text-amber">■</span> 与本周异动品种相关的资讯已前置高亮；点击条目转跳关联品种/公司页面
       </div>
       <div className="min-h-0 flex-1 space-y-1 overflow-y-auto pr-1" style={{ maxHeight: 620 }}>
-        {filtered.map((n: NewsExt, i: number) => (
-          <div
-            key={i}
-            className={`rounded-sm border-l-2 px-2 py-1 ${
-              n.hot
-                ? 'border-[#f0b90b] bg-[#f0b90b]/5'
-                : 'border-[#2a3442] bg-[#131922]'
-            }`}
-          >
-            <div className="flex items-center gap-1.5 text-[10px] text-[#7d8a9b]">
-              <span className="num">{n.date}</span>
-              <span className="tag">{n.type}</span>
-              <span className="truncate">{n.company}</span>
-              {n.relatedMaterials.map((m) => (
-                <span key={m.id} className="tag-import">
-                  {m.name}
-                  {m.latest?.anomaly ? '⚡' : ''}
-                </span>
-              ))}
+        {filtered.map((n: NewsExt, i: number) => {
+          const nav = newsNav(n)
+          return (
+            <div
+              key={i}
+              onClick={nav?.go}
+              title={nav ? nav.hint : undefined}
+              className={`rounded-sm border-l-2 px-2 py-1 ${
+                n.hot
+                  ? 'border-[#f0b90b] bg-[#f0b90b]/5'
+                  : 'border-[#2a3442] bg-[#131922]'
+              } ${nav ? 'cursor-pointer transition-colors hover:bg-[#1a2230]' : ''}`}
+            >
+              <div className="flex items-center gap-1.5 text-[10px] text-[#7d8a9b]">
+                <span className="num">{n.date}</span>
+                <span className="tag">{n.type}</span>
+                <span className="truncate">{n.company}</span>
+                {n.relatedMaterials.map((m) => (
+                  <span key={m.id} className="tag-import">
+                    {m.name}
+                    {m.latest?.anomaly ? '⚡' : ''}
+                  </span>
+                ))}
+              </div>
+              <div className={`mt-0.5 text-[12px] leading-snug ${n.hot ? 'text-[#f0e6c8]' : 'text-[#c8d2de]'}`}>
+                {n.title}
+                {nav && <span className="ml-1 text-[10px] text-[#f0b90b]">↗</span>}
+              </div>
             </div>
-            <div className={`mt-0.5 text-[12px] leading-snug ${n.hot ? 'text-[#f0e6c8]' : 'text-[#c8d2de]'}`}>
-              {n.title}
-            </div>
-          </div>
-        ))}
+          )
+        })}
         {!filtered.length && <Empty text="无匹配资讯" />}
       </div>
     </Panel>

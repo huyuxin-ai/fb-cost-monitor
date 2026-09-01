@@ -259,7 +259,7 @@ export interface Derived {
 }
 
 /** 标题关键词 → 品种（用于资讯与品种挂钩） */
-const NEWS_KEYWORD_MAP: [string, string][] = [
+export const NEWS_KEYWORD_MAP: [string, string][] = [
   ['原奶', 'RAW_MILK'],
   ['奶价', 'RAW_MILK'],
   ['生鲜乳', 'RAW_MILK'],
