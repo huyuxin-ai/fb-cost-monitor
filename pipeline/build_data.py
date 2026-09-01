@@ -15,6 +15,10 @@ os.makedirs(DATA, exist_ok=True)  # 防御：目录不存在时先创建
 PIPE = os.path.join(ROOT, 'pipeline')
 cfg = json.load(open(os.path.join(PIPE, 'config.json')))
 news = json.load(open(os.path.join(PIPE, 'news_archive.json')))
+# 时效过滤：仅展示近90天资讯（窗口随构建日期滑动，archive 保留全量历史）
+_news_cutoff = (dt.date.today() - dt.timedelta(days=90)).isoformat()
+news = sorted((n for n in news if n.get('date', '') >= _news_cutoff),
+              key=lambda n: n.get('date', ''), reverse=True)
 
 # ---- 周度聚合 + 异动 ----
 mat = pd.read_csv(os.path.join(DATA, 'material_spot_daily.csv'), dtype={'date': str})
