@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'public', 'data')
 os.makedirs(DATA, exist_ok=True)  # 仓库初始不含 public/data，首次自举前必须建目录
-KEEP = ['SR','P','C','M','A','Y','AL','FG','SP','TA','PF','RM','OI','LH','BZ']
+KEEP = ['SR','P','C','M','A','Y','AL','FG','SP','TA','PF','RM','OI','LH','PR']  # PR=瓶片(水瓶级华东,生意社现期表)，替代原BZ(口径核查与水瓶级不符)
 run_log = {'run_at': dt.datetime.now().isoformat(timespec='seconds'), 'steps': []}
 
 def log(step, status, detail=''):
@@ -22,8 +22,15 @@ def log(step, status, detail=''):
 def collect_spot():
     import akshare as ak, pandas as pd
     path = os.path.join(DATA, 'material_spot_daily.csv')
+    need_pr_backfill = False
     if os.path.exists(path):
         old = pd.read_csv(path, dtype={'date': str})
+        # 口径迁移：BZ→PR（与人工采集线同源同值，见test_log）；BZ 旧口径行一次性剔除
+        if len(old) and 'BZ' in set(old['symbol']):
+            old = old[old['symbol'] != 'BZ']
+            old.to_csv(path, index=False)
+            log('spot_migrate_bz_pr', 'ok', '剔除BZ旧口径行')
+        need_pr_backfill = len(old) == 0 or 'PR' not in set(old['symbol'])
         start = (dt.date.today() - dt.timedelta(days=20)).strftime('%Y%m%d')
     else:  # 首次运行自举：补齐全年历史（用于26周周度聚合）
         old = pd.DataFrame()
@@ -47,6 +54,26 @@ def collect_spot():
             old = old[~old.set_index(['date','symbol']).index.isin(new.set_index(['date','symbol']).index)]
         out = pd.concat([old, new], ignore_index=True).sort_values(['symbol','date'])
         out.to_csv(path, index=False)
+    # PR 一次性历史回填（CSV 中无 PR 时触发，自举分支已含 PR 则跳过）
+    if need_pr_backfill:
+        frames_pr, fails_pr = [], []
+        for d in pd.bdate_range('20260301', end):
+            ds = d.strftime('%Y%m%d')
+            for attempt in range(3):
+                try:
+                    df = ak.futures_spot_price(ds)
+                    frames_pr.append(df[df['symbol'] == 'PR']); break
+                except Exception:
+                    if attempt == 2: fails_pr.append(ds)
+                    time.sleep(1.5)
+        if frames_pr:
+            cur = pd.read_csv(path, dtype={'date': str})
+            newpr = pd.concat(frames_pr, ignore_index=True)
+            newpr['date'] = newpr['date'].astype(str)
+            cur = cur[~cur.set_index(['date','symbol']).index.isin(newpr.set_index(['date','symbol']).index)]
+            pd.concat([cur, newpr], ignore_index=True).sort_values(['symbol','date']).to_csv(path, index=False)
+        log('spot_pr_backfill', 'ok' if not fails_pr else 'partial',
+            f"+{sum(len(f) for f in frames_pr)}行" + (f', 失败日期:{fails_pr}' if fails_pr else ''))
     log('spot_prices', 'ok' if not fails else 'partial',
         f'+{sum(len(f) for f in frames)}行' + (f', 失败日期:{fails}' if fails else ''))
 
