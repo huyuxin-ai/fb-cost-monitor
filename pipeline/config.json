@@ -140,15 +140,15 @@
    "origin": "国产/进口(港口)混合口径",
    "basis": "生意社现货评估价(对应LH期货标的现货)"
   },
-  "BZ": {
-   "name": "瓶片PET(参)",
+  "PR": {
+   "name": "瓶片PET(水瓶级)",
    "category": "包材",
    "unit": "元/吨",
    "source": "现货(生意社)",
    "source_status": "已接入",
    "freq": "日采周聚",
    "origin": "国产/进口(港口)混合口径",
-   "basis": "生意社现货评估价(对应BZ期货标的现货)"
+   "basis": "生意社现货评估价(对应PR期货标的现货·水瓶级华东)"
   }
  },
  "unavailable": [
@@ -448,39 +448,6 @@
    "source_status": "待采购/人工录入",
    "freq": "月频",
    "origin": "国产/进口分口径(预留字段)"
-  },
-  {
-   "id": "SUGAR_SPOT",
-   "name": "白砂糖现货",
-   "category": "糖类",
-   "sub": "柳州主产区仓库价",
-   "unit": "元/吨",
-   "source": "生意社/云南糖网(人工录入)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产"
-  },
-  {
-   "id": "PALM_SPOT",
-   "name": "棕榈油现货",
-   "category": "油脂",
-   "sub": "24度精炼棕榈油港口价",
-   "unit": "元/吨",
-   "source": "生意社现期表(人工录入)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "进口"
-  },
-  {
-   "id": "PET_SPOT",
-   "name": "PET瓶片现货",
-   "category": "包材",
-   "sub": "水瓶级·华东",
-   "unit": "元/吨",
-   "source": "生意社现期表(人工录入)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产"
   },
   {
    "id": "CREAM_DOM",
@@ -971,50 +938,6 @@
     "name": "千味央厨",
     "level": "中",
     "note": "肉馅原料"
-   }
-  ],
-  "BZ": [
-   {
-    "code": "HK9633",
-    "name": "农夫山泉",
-    "level": "高",
-    "note": "PET瓶占包装成本大头"
-   },
-   {
-    "code": "605499",
-    "name": "东鹏饮料",
-    "level": "高",
-    "note": "PET瓶装"
-   },
-   {
-    "code": "HK2460",
-    "name": "华润饮料",
-    "level": "高",
-    "note": "瓶装水"
-   },
-   {
-    "code": "HK0322",
-    "name": "康师傅控股",
-    "level": "高",
-    "note": "瓶装饮料"
-   },
-   {
-    "code": "HK0220",
-    "name": "统一企业中国",
-    "level": "中",
-    "note": "瓶装饮料"
-   },
-   {
-    "code": "600189",
-    "name": "泉阳泉",
-    "level": "高",
-    "note": "瓶装水"
-   },
-   {
-    "code": "300997",
-    "name": "欢乐家",
-    "level": "中",
-    "note": "椰子汁PET/罐装"
    }
   ],
   "RAW_MILK": [
@@ -1598,6 +1521,50 @@
     "level": "中",
     "note": "大麦"
    }
+  ],
+  "PR": [
+   {
+    "code": "HK9633",
+    "name": "农夫山泉",
+    "level": "高",
+    "note": "PET瓶占包装成本大头"
+   },
+   {
+    "code": "605499",
+    "name": "东鹏饮料",
+    "level": "高",
+    "note": "PET瓶装"
+   },
+   {
+    "code": "HK2460",
+    "name": "华润饮料",
+    "level": "高",
+    "note": "瓶装水"
+   },
+   {
+    "code": "HK0322",
+    "name": "康师傅控股",
+    "level": "高",
+    "note": "瓶装饮料"
+   },
+   {
+    "code": "HK0220",
+    "name": "统一企业中国",
+    "level": "中",
+    "note": "瓶装饮料"
+   },
+   {
+    "code": "600189",
+    "name": "泉阳泉",
+    "level": "高",
+    "note": "瓶装水"
+   },
+   {
+    "code": "300997",
+    "name": "欢乐家",
+    "level": "中",
+    "note": "椰子汁PET/罐装"
+   }
   ]
  },
  "sensitivity": [
@@ -1662,19 +1629,19 @@
    "note": "植脂末"
   },
   {
-   "material": "BZ",
+   "material": "PR",
    "company": "HK9633",
    "cost_ratio": 22,
    "note": "PET瓶"
   },
   {
-   "material": "BZ",
+   "material": "PR",
    "company": "605499",
    "cost_ratio": 18,
    "note": "PET瓶"
   },
   {
-   "material": "BZ",
+   "material": "PR",
    "company": "HK2460",
    "cost_ratio": 24,
    "note": "瓶装水"
@@ -1852,7 +1819,7 @@
    "type": "原材料现货",
    "status": "可用",
    "freq": "交易日",
-   "items": "SR/P/C/M/A/Y/AL/FG/SP/TA/PF/RM/OI/LH/BZ 15品种",
+   "items": "SR/P/C/M/A/Y/AL/FG/SP/TA/PF/RM/OI/LH/PR 15品种",
    "note": "口径:生意社现货评估价;2026-06-19缺1日"
   },
   {
@@ -2038,6 +2005,14 @@
    "module": "成员数据入库",
    "issue": "采集_亚楠_20260903.xlsx 验收通过(38行,提醒0条)",
    "result": "已合并 member_prices.csv",
+   "status": "已解决",
+   "date": "2026-09-03"
+  },
+  {
+   "id": "T-012",
+   "module": "数据采集",
+   "issue": "BZ口径核查：BZ并非水瓶级瓶片（8-28报8017.67），亚楠手工PET与生意社PR全日期一致（7751.50等）；白砂糖柳州/棕榈油手工线与自动SR/P同值重复",
+   "result": "KEEP中BZ改为PR并回填129个交易日历史；SUGAR_SPOT/PALM_SPOT/PET_SPOT三个手工品种撤销（转自动）",
    "status": "已解决",
    "date": "2026-09-03"
   }
