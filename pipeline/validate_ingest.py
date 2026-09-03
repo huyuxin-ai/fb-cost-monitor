@@ -25,7 +25,7 @@ def validate(path):
              ([{'id': k, **v} for k, v in cfg['meta'].items()] + cfg['unavailable'])}
     xl = pd.ExcelFile(path)
     for sheet in xl.sheet_names:
-        if '成员' not in sheet: continue
+        if sheet.strip() in ('填写说明', '整改说明'): continue  # v2模板按人分sheet，说明页除外均解析
         df = xl.parse(sheet, dtype=str).fillna('')
         if list(df.columns) != FIELDS:
             errs.append(f"[{sheet}] 表头不一致，请使用原版模板"); continue
