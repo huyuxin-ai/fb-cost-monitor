@@ -179,8 +179,8 @@
    "name": "乳清蛋白WPC34",
    "category": "乳制品原料",
    "sub": "WPC34",
-   "unit": "元/吨",
-   "source": "GDT/百川盈孚(采购)",
+   "unit": "美元/磅",
+   "source": "USDA AMS Dairy Market News(人工录入)",
    "source_status": "待采购/人工录入",
    "freq": "周频",
    "origin": "国产/进口分口径(预留字段)"
@@ -190,8 +190,8 @@
    "name": "乳清蛋白WPC80",
    "category": "乳制品原料",
    "sub": "WPC80",
-   "unit": "元/吨",
-   "source": "GDT/百川盈孚(采购)",
+   "unit": "美元/磅",
+   "source": "USDA AMS Dairy Market News(人工录入)",
    "source_status": "待采购/人工录入",
    "freq": "周频",
    "origin": "国产/进口分口径(预留字段)"
@@ -448,6 +448,50 @@
    "source_status": "待采购/人工录入",
    "freq": "月频",
    "origin": "国产/进口分口径(预留字段)"
+  },
+  {
+   "id": "SUGAR_SPOT",
+   "name": "白砂糖现货",
+   "category": "糖类",
+   "sub": "柳州主产区仓库价",
+   "unit": "元/吨",
+   "source": "生意社/云南糖网(人工录入)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产"
+  },
+  {
+   "id": "PALM_SPOT",
+   "name": "棕榈油现货",
+   "category": "油脂",
+   "sub": "24度精炼棕榈油港口价",
+   "unit": "元/吨",
+   "source": "生意社现期表(人工录入)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "进口"
+  },
+  {
+   "id": "PET_SPOT",
+   "name": "PET瓶片现货",
+   "category": "包材",
+   "sub": "水瓶级·华东",
+   "unit": "元/吨",
+   "source": "生意社现期表(人工录入)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "国产"
+  },
+  {
+   "id": "CREAM_DOM",
+   "name": "稀奶油(USDA基准)",
+   "category": "乳制品原料",
+   "sub": "美国Cream All Classes FOB",
+   "unit": "美元/磅",
+   "source": "USDA AMS Dairy Market News(人工录入)",
+   "source_status": "待采购/人工录入",
+   "freq": "周频",
+   "origin": "进口"
   }
  ],
  "downstream": {
@@ -1874,6 +1918,38 @@
    "freq": "日/周",
    "items": "27个品种(见不可得清单)",
    "note": "需预算审批后接入"
+  },
+  {
+   "name": "农业农村部畜牧兽医局周度监测",
+   "type": "原奶(人工录入)",
+   "status": "可用",
+   "freq": "周",
+   "items": "RAW_MILK",
+   "note": "主产区10省生鲜乳收购均价;发布滞后约11天"
+  },
+  {
+   "name": "USDA AMS Dairy Market News",
+   "type": "乳制品海外基准(人工录入)",
+   "status": "可用",
+   "freq": "周",
+   "items": "CREAM_DOM/WPC34/WPC80",
+   "note": "美元/磅;区间取中值并留上下限;有marsapi可自动化"
+  },
+  {
+   "name": "乳业在线",
+   "type": "乳制品国内现货(人工录入)",
+   "status": "不定期",
+   "freq": "不定期",
+   "items": "CREAM(无水奶油)",
+   "note": "仅作中国采购价参考,不作连续主序列(据数据源锁定清单)"
+  },
+  {
+   "name": "生意社现期表/云南糖网(人工)",
+   "type": "糖/油脂/包材现货(人工录入)",
+   "status": "可用",
+   "freq": "日",
+   "items": "SUGAR_SPOT/PALM_SPOT/PET_SPOT",
+   "note": "白糖主口径=柳州主产区;棕榈油/PET可走akshare自动化"
   }
  ],
  "test_log": [
