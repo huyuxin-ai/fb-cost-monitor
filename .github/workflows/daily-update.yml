@@ -32,6 +32,9 @@ jobs:
       - name: 采集最新数据（首次运行自动自举全年历史）
         run: python3 pipeline/collect_daily.py
 
+      - name: 成员采集数据入库（inbox 自动验收合并）
+        run: python3 pipeline/ingest_inbox.py
+
       - name: 周度聚合+异动检测+重建 app_data.json
         run: python3 pipeline/build_data.py
 
@@ -50,7 +53,7 @@ jobs:
         run: |
           git config user.name "data-bot"
           git config user.email "data-bot@users.noreply.github.com"
-          git add public/data/*.json public/data/*.csv pipeline/config.json
+          git add public/data/*.json public/data/*.csv pipeline/config.json pipeline/inbox/
           git diff --cached --quiet || git commit -m "data: 每日更新 $(date +%F)"
           git push
 
