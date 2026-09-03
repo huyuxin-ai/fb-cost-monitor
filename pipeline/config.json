@@ -2032,6 +2032,14 @@
    "result": "已合并 member_prices.csv",
    "status": "已解决",
    "date": "2026-09-03"
+  },
+  {
+   "id": "T-011",
+   "module": "成员数据入库",
+   "issue": "采集_亚楠_20260903.xlsx 验收通过(38行,提醒0条)",
+   "result": "已合并 member_prices.csv",
+   "status": "已解决",
+   "date": "2026-09-03"
   }
  ]
 }
