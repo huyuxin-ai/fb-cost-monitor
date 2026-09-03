@@ -1,10 +1,10 @@
 {
- "run_at": "2026-09-02T12:51:45",
+ "run_at": "2026-09-03T06:04:29",
  "steps": [
   {
    "step": "spot_prices",
    "status": "ok",
-   "detail": "+225行"
+   "detail": "+210行"
   },
   {
    "step": "kline",
