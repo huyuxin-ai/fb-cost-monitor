@@ -57,8 +57,29 @@ for sym, m in cfg['meta'].items():
     materials.append({**{'id': sym}, **m, 'series': series,
                       'latest': series[-1] if series else None,
                       'downstream': cfg['downstream'].get(sym, [])})
+# ---- 人工采集数据并入（member_prices.csv → 待采购品种转正为已接入） ----
+mem_map = {}
+mem_path = os.path.join(DATA, 'member_prices.csv')
+if os.path.exists(mem_path):
+    mem = pd.read_csv(mem_path, dtype={'date': str})
+    mem['date'] = pd.to_datetime(mem['date'])
+    mem['week'] = mem['date'].dt.strftime('%G-W%V')
+    memwk = mem.sort_values('date').groupby(['material_id', 'week']).agg(
+        price=('price', 'last'), date=('date', 'last')).reset_index()
+    mem_map = {pid: g.reset_index(drop=True) for pid, g in memwk.groupby('material_id')}
+
 for u in cfg['unavailable']:
-    materials.append({**u, 'basis': None, 'series': [], 'latest': None,
+    g = mem_map.get(u['id'])
+    series = []
+    if g is not None and len(g):
+        g = metrics(g)
+        series = [{'week': r.week, 'date': str(r.date)[:10], 'price': round(float(r.price), 2),
+                   'wow': None if pd.isna(r.wow) else round(float(r.wow), 2),
+                   'streak': int(r.streak), 'anomaly': r.anomaly} for r in g.itertuples()]
+    materials.append({**u,
+                      'source_status': '已接入' if series else u['source_status'],
+                      'basis': None, 'series': series,
+                      'latest': series[-1] if series else None,
                       'downstream': cfg['downstream'].get(u['id'], [])})
 
 # ---- 公司主档（由 kline.json 派生，行情快照并入） ----
