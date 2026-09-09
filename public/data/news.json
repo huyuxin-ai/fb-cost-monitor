@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-09T18:55+08:00",
+ "updated_at": "2026-09-09T19:05+08:00",
  "refresh_minutes": 30,
- "item_count": 47,
+ "item_count": 48,
  "source_counts": {
   "21财经": 1,
   "IDNFinancials": 1,
@@ -9,6 +9,7 @@
   "Sohu": 2,
   "Vietnam.vn": 1,
   "cbgc.scol.com.cn": 1,
+  "cj.sina.cn": 1,
   "finance.sina.com.cn": 8,
   "guandian.cn": 1,
   "qq.com": 1,
@@ -491,6 +492,25 @@
    ],
    "matched_keywords": [
     "鱼油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_412cc94395b42f59f2b0",
+   "date": "2026-09-07",
+   "published_at": "2026-09-07T17:42+08:00",
+   "fetched_at": "2026-09-09T19:05+08:00",
+   "title": "猪价深跌、鸡价回暖难抵成本压力,双主业同陷亏损,温氏股份中报转亏",
+   "summary": "",
+   "source": "cj.sina.cn",
+   "type": "价格行情",
+   "url": "https://cj.sina.cn/articles/view/1850649324/6e4eaaec00102itco",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },

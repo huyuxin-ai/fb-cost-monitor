@@ -464,6 +464,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_412cc94395b42f59f2b0",
+  "date": "2026-09-07",
+  "published_at": "2026-09-07T17:42+08:00",
+  "fetched_at": "2026-09-09T19:05+08:00",
+  "title": "猪价深跌、鸡价回暖难抵成本压力,双主业同陷亏损,温氏股份中报转亏",
+  "summary": "",
+  "source": "cj.sina.cn",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/1850649324/6e4eaaec00102itco",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_577c6119d62a099bc1e8",
   "date": "2026-09-07",
   "published_at": "2026-09-07T15:39+08:00",
