@@ -9,7 +9,13 @@ import {
 import { useAppData } from '@/lib/appData'
 import { useWatchlist, StarButton } from '@/lib/watchlist'
 import { loadKline, type KlineData } from '@/lib/kline'
-import { Panel, AnomalyBadge, ExpBadge, Empty } from '@/components/terminal'
+import {
+  Panel,
+  AnomalyBadge,
+  ExpBadge,
+  CompanyImpactTag,
+  Empty,
+} from '@/components/terminal'
 import EChart from '@/components/EChart'
 
 /* ============ K线图 ============ */
@@ -168,7 +174,7 @@ function RelatedMaterials({ company }: { company: Company }) {
     return <Empty text="该公司不在任何监控品种的下游映射中" />
   return (
     <div className="space-y-1">
-      {rel.map(({ material: m, level, note }) => {
+      {rel.map(({ material: m, downstream: d }) => {
         const anomaly = m.latest?.anomaly
         return (
           <div
@@ -185,14 +191,20 @@ function RelatedMaterials({ company }: { company: Company }) {
               <span className="text-[#089981]">●</span>
             )}
             <span className="font-semibold text-[#e8eef5]">{m.name}</span>
-            <ExpBadge level={level} />
+            {d.level && <ExpBadge level={d.level} />}
+            {d.relation === '竞品替代' && (
+              <span className="rounded-sm border border-[#4aa3ff]/50 bg-[#4aa3ff]/10 px-1 py-px text-[10px] text-[#7fbdff]">
+                竞品替代
+              </span>
+            )}
             {anomaly && <AnomalyBadge level={anomaly} />}
-            <span className="text-[#8b98a9]">{note}</span>
+            <span className="text-[#8b98a9]">{d.note}</span>
             <span className="ml-auto font-mono text-[11px] text-[#7d8a9b]">
               {m.latest
                 ? `${m.latest.price.toLocaleString()} ${m.unit} · ${fmtPct(m.latest.wow)} · 截至${m.latest.date}`
                 : `数据不可得（${m.source_status}）`}
             </span>
+            <CompanyImpactTag material={m} downstream={d} label="查看影响" />
           </div>
         )
       })}
@@ -202,7 +214,7 @@ function RelatedMaterials({ company }: { company: Company }) {
 
 /* ============ 页面 ============ */
 export default function KlinePage() {
-  const { COMPANIES } = useAppData()
+  const { COMPANIES, latestMaterialDate } = useAppData()
   const wl = useWatchlist()
   const [params, setParams] = useSearchParams()
   const [kw, setKw] = useState('')
@@ -263,7 +275,7 @@ export default function KlinePage() {
   const hasKline = current.has_kline && kdata?.[current.code]
 
   return (
-    <div className="grid grid-cols-1 gap-2 lg:grid-cols-[330px_1fr]">
+    <div className="grid grid-cols-1 gap-2 lg:grid-cols-[420px_minmax(0,1fr)]">
       {/* 左：公司列表 */}
       <Panel
         title={`公司池（${list.length}/${COMPANIES.length}）`}
@@ -295,7 +307,7 @@ export default function KlinePage() {
           <table className="dt">
             <thead>
               <tr>
-                <th>名称/代码</th>
+                <th className="min-w-[116px] whitespace-nowrap">名称/代码</th>
                 <th className="text-right">最新价</th>
                 <th className="text-right">涨幅</th>
                 <th className="text-right">PE</th>
@@ -311,13 +323,13 @@ export default function KlinePage() {
                     onClick={() => select(c)}
                     className={`cursor-pointer ${c.code === current.code ? 'bg-[#f0b90b]/10' : ''}`}
                   >
-                    <td>
-                      <div className="leading-tight">
+                    <td className="min-w-[116px] whitespace-nowrap">
+                      <div className="whitespace-nowrap leading-tight">
                         <StarButton
                           active={wl.companies.has(c.code)}
                           onToggle={() => wl.toggleCompany(c.code)}
                         />
-                        <span className={`text-[12px] ${c.code === current.code ? 'font-bold text-[#f0b90b]' : 'text-[#d6dee8]'}`}>
+                        <span className={`whitespace-nowrap text-[12px] ${c.code === current.code ? 'font-bold text-[#f0b90b]' : 'text-[#d6dee8]'}`}>
                           {c.name}
                         </span>
                         {!c.has_kline && <span className="ml-1 text-amber" title="无K线数据">⚠</span>}
@@ -379,17 +391,16 @@ export default function KlinePage() {
                 {current.name}（{current.code}）K线数据不可得 <span className="text-amber">⚠</span>
               </div>
               <div className="text-[12px] text-[#7d8a9b]">
-                数据源无返回（新浪返回空JSON，东财备用亦失败）—— 见测试日志 <span className="text-amber font-mono">T-002</span>
+                暂未获取到有效行情，后续数据可用时会自动显示
               </div>
-              <div className="text-[10px] text-[#5c6875]">缺失数据透明化：不静默剔除，保留占位以便跟踪补数</div>
             </div>
           )}
           {kdata && hasKline && <KlineChart company={current} kdata={kdata} />}
         </Panel>
 
         <Panel
-          title="关联原材料风险"
-          source={`原材料现货·生意社 · 截至 2026-08-28`}
+          title="关联原材料影响"
+          source={`原材料现货·生意社 · 截至 ${latestMaterialDate || '—'}`}
         >
           <RelatedMaterials company={current} />
         </Panel>

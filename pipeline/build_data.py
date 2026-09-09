@@ -86,18 +86,19 @@ for u in cfg['unavailable']:
 kline = json.load(open(os.path.join(DATA, 'kline.json')))
 snap_path = os.path.join(PIPE, 'snapshot.json')
 snap = json.load(open(snap_path)) if os.path.exists(snap_path) else {}
+company_name_fixes = {'000858': '五粮液'}
 companies = []
 for code, v in kline.items():
     data = v['data']
     q = snap.get(code)
-    companies.append({'code': code, 'name': v['name'],
+    companies.append({'code': code, 'name': company_name_fixes.get(code, v['name']),
                       'market': 'HK' if code.startswith('HK') else 'A',
                       'industry': (q or {}).get('industry', ''), 'main': (q or {}).get('main', ''),
                       'snapshot': q, 'kline_days': len(data), 'has_kline': bool(data)})
 # 快照中存在但无K线的公司（如 *ST岩石 600696，见测试日志T-002）
 for code, q in snap.items():
     if code not in kline:
-        companies.append({'code': code, 'name': q.get('name', code),
+        companies.append({'code': code, 'name': company_name_fixes.get(code, q.get('name', code)),
                           'market': 'HK' if code.startswith('HK') else 'A',
                           'industry': q.get('industry', ''), 'main': q.get('main', ''),
                           'snapshot': q, 'kline_days': 0, 'has_kline': False})

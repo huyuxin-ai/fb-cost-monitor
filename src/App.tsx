@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router'
+import { Navigate, Routes, Route } from 'react-router'
 import { AppDataProvider } from '@/lib/appData'
 import { ThresholdProvider } from '@/lib/config'
 import { WatchlistProvider } from '@/lib/watchlist'
@@ -8,7 +8,6 @@ import MaterialsPage from '@/pages/Materials'
 import KlinePage from '@/pages/Kline'
 import SensitivityPage from '@/pages/Sensitivity'
 import ThresholdsPage from '@/pages/Thresholds'
-import DataSourcesPage from '@/pages/DataSources'
 
 export default function App() {
   return (
@@ -23,7 +22,7 @@ export default function App() {
               <Route path="/kline" element={<KlinePage />} />
               <Route path="/sensitivity" element={<SensitivityPage />} />
               <Route path="/thresholds" element={<ThresholdsPage />} />
-              <Route path="/sources" element={<DataSourcesPage />} />
+              <Route path="*" element={<Navigate to="/" replace />} />
             </Route>
           </Routes>
         </ThresholdProvider>

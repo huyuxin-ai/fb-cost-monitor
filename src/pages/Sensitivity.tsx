@@ -65,18 +65,10 @@ export default function SensitivityPage() {
 
   return (
     <div className="space-y-2">
-      {/* 口径说明横幅 */}
-      <div className="rounded border border-[#f0b90b]/40 bg-[#f0b90b]/[0.06] px-3 py-2 text-[12px] leading-relaxed text-[#d9cfae]">
-        <span className="font-bold text-amber">口径说明：</span>
-        成本占营收比为<span className="font-bold">分析师经验假设 v1</span>
-        （口径：待年报校准），仅用于敏感度排序与压力测试的相对比较，不构成盈利预测。
-        压力测试公式：毛利率影响(pct) ≈ −成本占营收比 × 原材料价格涨幅（假设成本完全传导、售价不变）。
-      </div>
-
       {/* 敏感度矩阵 */}
       <Panel
         title={`敏感度矩阵（${matIds.length} 品种 × ${compCodes.length} 公司，仅显示有映射组合）`}
-        source="分析师假设v1 · 更新 2026-08-31 · 待年报校准⚠"
+        source="模型测算"
         bodyClassName="p-0"
       >
         <div className="overflow-x-auto">
@@ -144,7 +136,7 @@ export default function SensitivityPage() {
       {/* 压力测试模拟器 */}
       <Panel
         title="压力测试模拟器"
-        source="分析师假设v1 · 实时计算 · 待年报校准⚠"
+        source="即时测算"
         className={simAnomaly ? 'border-[#f0b90b]/60' : ''}
         extra={
           <button
@@ -260,9 +252,6 @@ export default function SensitivityPage() {
         ) : (
           <Empty text="该品种暂无敏感度映射" />
         )}
-        <div className="mt-1 text-[10px] text-[#5c6875]">
-          注：毛利率影响 = −成本占营收比 × 价格涨幅；正值表示毛利率改善（原材料降价）。影响 &gt;3pct 标红。
-        </div>
       </Panel>
     </div>
   )

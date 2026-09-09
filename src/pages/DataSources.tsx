@@ -234,7 +234,11 @@ export default function DataSourcesPage() {
                         <div className="flex flex-wrap gap-x-1.5 gap-y-0.5">
                           {(m.downstream ?? []).slice(0, 6).map((d) => (
                             <span key={d.code} className="flex items-center gap-0.5 text-[11px]">
-                              <ExpBadge level={d.level} />
+                              {d.level ? (
+                                <ExpBadge level={d.level} />
+                              ) : (
+                                <span className="text-[10px] text-[#7fbdff]">替代</span>
+                              )}
                               <CompanyLink code={d.code} name={d.name} />
                             </span>
                           ))}

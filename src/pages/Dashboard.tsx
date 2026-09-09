@@ -22,13 +22,13 @@ import {
   Panel,
   AnomalyBadge,
   ExpBadge,
-  CompanyLink,
+  CompanyImpactTag,
   Empty,
 } from '@/components/terminal'
 
 /* ============ KPI ============ */
 function KpiStrip() {
-  const { DATA, MATERIALS, COMPANIES, majorAnomalies, normalAnomalies } = useAppData()
+  const { DATA, MATERIALS, COMPANIES, latestMaterialDate, majorAnomalies, normalAnomalies } = useAppData()
   const connected = MATERIALS.filter(isConnected).length
   const kpis = [
     {
@@ -58,7 +58,7 @@ function KpiStrip() {
     {
       label: '数据周',
       value: DATA.data_week,
-      sub: '截至 2026-08-28',
+      sub: latestMaterialDate ? `截至 ${latestMaterialDate}` : '暂无数据',
       tone: 'text-amber',
     },
   ]
@@ -104,7 +104,7 @@ function buildWeeklyReport(D: Derived): string {
     if (IMPORT_DEPENDENT.has(m.id)) lines.push(`- 标签：进口依赖·汇率敏感`)
     lines.push(`- 下游影响：`)
     for (const d of m.downstream ?? []) {
-      lines.push(`  - [${d.level}] ${d.name}（${d.code}）— ${d.note}`)
+      lines.push(`  - ${d.level ? `[${d.level}] ` : ''}${d.name}（${d.code}）— ${d.note}`)
     }
     lines.push('')
   }
@@ -114,8 +114,6 @@ function buildWeeklyReport(D: Derived): string {
     lines.push(`- ${n.date} 【${n.type}】${n.title}（${n.company} / ${n.source}）`)
   }
   lines.push('')
-  lines.push(`---`)
-  lines.push(`*成本占营收比为分析师经验假设 v1（待年报校准）；缺失数据见测试日志。*`)
   return lines.join('\n')
 }
 
@@ -132,7 +130,6 @@ function downloadWeeklyReport(D: Derived) {
 
 /* ============ 异动预警卡片 ============ */
 function AnomalyCard({ m }: { m: Material }) {
-  const navigate = useNavigate()
   const { config } = useThresholds()
   const l = m.latest!
   const ev = evalAnomaly(m, config.anomaly)
@@ -145,7 +142,7 @@ function AnomalyCard({ m }: { m: Material }) {
     rules.push(
       `规则2 周波动${Math.abs(l.wow).toFixed(2)}% ≥ 前${config.anomaly.volWindow}周均值${v4.toFixed(2)}%`,
     )
-  if (!rules.length) rules.push('数据预计算口径触发（详见阈值配置页重算）')
+  if (!rules.length) rules.push('已按当前阈值触发')
 
   return (
     <div
@@ -195,19 +192,15 @@ function AnomalyCard({ m }: { m: Material }) {
       {/* 下游影响 */}
       <div className="flex-1 border-t border-[#1c242f] px-2.5 py-1.5">
         <div className="mb-1 text-[11px] font-semibold text-[#8b98a9]">
-          下游影响（{m.downstream?.length ?? 0} 家，点击公司看K线）
+          下游影响（{m.downstream?.length ?? 0} 家，点击公司查看利润影响）
         </div>
         <div className="flex flex-wrap gap-1">
           {(m.downstream ?? []).map((d) => (
-            <button
+            <CompanyImpactTag
               key={d.code}
-              onClick={() => navigate(`/kline?code=${encodeURIComponent(d.code)}`)}
-              title={`${d.note}`}
-              className="group flex items-center gap-1 rounded-sm border border-[#2a3442] bg-[#131922] px-1.5 py-0.5 text-[11px] hover:border-[#f0b90b]/60"
-            >
-              <ExpBadge level={d.level} />
-              <span className="text-[#d6dee8] group-hover:text-[#f0b90b]">{d.name}</span>
-            </button>
+              material={m}
+              downstream={d}
+            />
           ))}
         </div>
       </div>
@@ -217,14 +210,14 @@ function AnomalyCard({ m }: { m: Material }) {
 
 /* ============ 公告风险雷达 ============ */
 function RiskRadar() {
-  const { DATA, scanAnnouncementRisk } = useAppData()
+  const { DATA, latestNewsDate, scanAnnouncementRisk } = useAppData()
   const { config } = useThresholds()
   const { hits, scanned, windowStart } = scanAnnouncementRisk(config.announcement)
   const newsNav = useNewsNav()
   return (
     <Panel
       title="公告风险雷达"
-      source={`资讯·新华财经 · 更新 2026-08-21 · 窗口 ${windowStart}~${DATA.generated_at}`}
+      source={`资讯·新华财经 · 更新 ${latestNewsDate || '—'} · 窗口 ${windowStart}~${DATA.generated_at}`}
       extra={
         <span className="font-mono text-[10px] text-[#7d8a9b]">
           扫描 {scanned} 条 / 命中 {hits.length}
@@ -320,7 +313,7 @@ function useNewsNav() {
 
 /* ============ 相关资讯侧栏 ============ */
 function NewsSidebar() {
-  const { NEWS_EXT } = useAppData()
+  const { NEWS_EXT, latestNewsDate } = useAppData()
   const newsNav = useNewsNav()
   const [filter, setFilter] = useState('')
   const filtered = useMemo(() => {
@@ -336,7 +329,7 @@ function NewsSidebar() {
   return (
     <Panel
       title="相关资讯"
-      source="资讯·新华财经 · 更新 2026-08-21"
+      source={`资讯·新华财经 · 更新 ${latestNewsDate || '—'}`}
       className="flex h-full flex-col"
       bodyClassName="flex min-h-0 flex-1 flex-col"
       extra={
@@ -391,7 +384,7 @@ function NewsSidebar() {
 
 /* ============ 传导链速览 ============ */
 function ChainOverview() {
-  const { DATA, majorAnomalies } = useAppData()
+  const { DATA, latestMaterialDate, majorAnomalies } = useAppData()
   const rows = majorAnomalies.flatMap((m) =>
     (m.downstream ?? [])
       .filter((d) => d.level === '高')
@@ -400,7 +393,7 @@ function ChainOverview() {
   return (
     <Panel
       title="传导链速览 · 重大异动 → 高暴露下游"
-      source={`原材料现货·生意社 · 截至 2026-08-28（${DATA.data_week}）`}
+      source={`原材料现货·生意社 · 截至 ${latestMaterialDate || '—'}（${DATA.data_week}）`}
     >
       {rows.length === 0 ? (
         <Empty text="本周无「重大异动 × 高暴露」组合" />
@@ -433,11 +426,11 @@ function ChainOverview() {
                     {fmtPct(m.latest!.wow)}
                   </td>
                   <td>
-                    <CompanyLink code={d.code} name={d.name} />
+                    <CompanyImpactTag material={m} downstream={d} />
                     <span className="ml-1 font-mono text-[10px] text-[#5c6875]">{d.code}</span>
                   </td>
                   <td>
-                    <ExpBadge level={d.level} />
+                    {d.level && <ExpBadge level={d.level} />}
                   </td>
                   <td className="text-[#8b98a9]">{d.note}</td>
                 </tr>
@@ -514,7 +507,7 @@ function WatchlistStrip() {
 /* ============ 页面 ============ */
 export default function Dashboard() {
   const D = useAppData()
-  const { DATA, MATERIALS, anomalousMaterials } = D
+  const { DATA, latestMaterialDate, anomalousMaterials } = D
   const sorted = useMemo(
     () =>
       [...anomalousMaterials].sort((a, b) =>
@@ -553,7 +546,7 @@ export default function Dashboard() {
         <div className="xl:col-span-2">
           <Panel
             title={`本周异动预警（${anomalousMaterials.length} 个品种）`}
-            source={`原材料现货·生意社 · 截至 2026-08-28（${DATA.data_week}）`}
+            source={`原材料现货·生意社 · 截至 ${latestMaterialDate || '—'}（${DATA.data_week}）`}
             bodyClassName="grid grid-cols-1 gap-2 md:grid-cols-2"
           >
             {sorted.map((m) => (
@@ -568,13 +561,6 @@ export default function Dashboard() {
       <div className="grid grid-cols-1 gap-2 xl:grid-cols-2">
         <ChainOverview />
         <RiskRadar />
-      </div>
-
-      <div className="rounded border border-[#232b36] bg-[#11161d] px-3 py-1.5 text-[10.5px] leading-relaxed text-[#7d8a9b]">
-        <span className="text-amber">基差提示：</span>
-        现货价为生意社评估价，与期货存在基差；期货联动分析为后续扩展项（SPEC 排除项声明）。
-        数据新鲜度：原材料现货截至 2026-08-28（{DATA.data_week}）；公司快照/K线截至最近交易日；资讯最新 2026-08-21。
-        待采购品种（{MATERIALS.filter((m) => !isConnected(m)).length} 个）数据不可得，详见「数据源与口径」页采购清单。
       </div>
     </div>
   )

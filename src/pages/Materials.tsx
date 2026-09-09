@@ -16,9 +16,9 @@ import { downloadCsv } from '@/lib/csv'
 import {
   Panel,
   AnomalyBadge,
-  ExpBadge,
   SourceDot,
   CompanyLink,
+  CompanyImpactTag,
 } from '@/components/terminal'
 import EChart from '@/components/EChart'
 
@@ -114,14 +114,11 @@ function MaterialDetail({ m }: { m: Material }) {
           </div>
           <div className="flex flex-wrap gap-1">
             {(m.downstream ?? []).map((d) => (
-              <span
+              <CompanyImpactTag
                 key={d.code}
-                className="flex items-center gap-1 rounded-sm border border-[#2a3442] px-1.5 py-0.5 text-[11px]"
-                title={d.note}
-              >
-                <ExpBadge level={d.level} />
-                <CompanyLink code={d.code} name={d.name} />
-              </span>
+                material={m}
+                downstream={d}
+              />
             ))}
           </div>
         </div>
@@ -170,19 +167,16 @@ function MaterialDetail({ m }: { m: Material }) {
           </div>
           <div className="flex flex-wrap gap-1">
             {(m.downstream ?? []).map((d) => (
-              <span
+              <CompanyImpactTag
                 key={d.code}
-                className="flex items-center gap-1 rounded-sm border border-[#2a3442] px-1.5 py-0.5 text-[11px]"
-                title={d.note}
-              >
-                <ExpBadge level={d.level} />
-                <CompanyLink code={d.code} name={d.name} />
-              </span>
+                material={m}
+                downstream={d}
+              />
             ))}
           </div>
           {sens.length > 0 && (
             <div className="mt-2 border-t border-[#1c242f] pt-1.5">
-              <div className="mb-0.5 text-[10px] text-[#5c6875]">成本敏感度关联（占营收比%·假设v1）</div>
+              <div className="mb-0.5 text-[10px] text-[#5c6875]">成本敏感度关联</div>
               {sens.map((s) => (
                 <div key={s.company} className="flex justify-between gap-2 text-[11px]">
                   <CompanyLink
@@ -456,9 +450,6 @@ export default function MaterialsPage() {
             })}
           </tbody>
         </table>
-      </div>
-      <div className="border-t border-[#232b36] px-3 py-1.5 text-[10px] text-[#5c6875]">
-        注：周环比红涨绿跌（A股口径）；「前4周均波动」为 |周环比| 的4周均值；「数据时间/周期」列为各品种最新报价日期与采集频率（品种间周期不同，逐行标注）；BZ 瓶片PET为参考口径。点击行展开详情（走势图/26周数据/下游传导/敏感度）；☆ 加入自选。
       </div>
     </Panel>
   )

@@ -9,12 +9,17 @@ export interface SeriesPoint {
 }
 
 export type ExpLevel = '高' | '中' | '低'
+export type ImpactEffect = '偏利好' | '偏利空' | '中性'
+export type DownstreamRelation = '原料成本' | '包装成本' | '竞品替代'
 
 export interface Downstream {
   code: string
   name: string
-  level: ExpLevel
+  level?: ExpLevel
   note: string
+  relation?: DownstreamRelation
+  price_up_effect?: ImpactEffect
+  impact_note?: string
 }
 
 export interface Material {
@@ -238,13 +243,15 @@ export interface Derived {
   materialById: Map<string, Material>
   companyByCode: Map<string, Company>
   CATEGORIES: string[]
+  latestMaterialDate: string
+  latestNewsDate: string
   anomalousMaterials: Material[]
   majorAnomalies: Material[]
   normalAnomalies: Material[]
   hotCompanyNames: Set<string>
   NEWS_EXT: NewsExt[]
   /** 公司 → 关联品种（作为下游出现） */
-  materialsOfCompany: (code: string) => { material: Material; level: ExpLevel; note: string }[]
+  materialsOfCompany: (code: string) => { material: Material; downstream: Downstream }[]
   /** 品种 → 敏感度条目 */
   sensitivityOfMaterial: (id: string) => Sensitivity[]
   sensitivityOfCompany: (code: string) => Sensitivity[]
@@ -289,16 +296,24 @@ export function buildDerived(DATA: AppData): Derived {
   const materialById = new Map(MATERIALS.map((m) => [m.id, m]))
   const companyByCode = new Map(COMPANIES.map((c) => [c.code, c]))
   const CATEGORIES = [...new Set(MATERIALS.map((m) => m.category))]
+  const latestMaterialDate = MATERIALS.reduce(
+    (latest, m) => (m.latest?.date && m.latest.date > latest ? m.latest.date : latest),
+    '',
+  )
+  const latestNewsDate = NEWS.reduce(
+    (latest, n) => (n.date > latest ? n.date : latest),
+    '',
+  )
 
   const anomalousMaterials = MATERIALS.filter((m) => isConnected(m) && m.latest?.anomaly)
   const majorAnomalies = anomalousMaterials.filter((m) => m.latest!.anomaly === '重大异动')
   const normalAnomalies = anomalousMaterials.filter((m) => m.latest!.anomaly === '普通异动')
 
   const materialsOfCompany = (code: string) => {
-    const out: { material: Material; level: ExpLevel; note: string }[] = []
+    const out: { material: Material; downstream: Downstream }[] = []
     for (const m of MATERIALS) {
       const d = m.downstream?.find((x) => x.code === code)
-      if (d) out.push({ material: m, level: d.level, note: d.note })
+      if (d) out.push({ material: m, downstream: d })
     }
     return out
   }
@@ -359,6 +374,8 @@ export function buildDerived(DATA: AppData): Derived {
     materialById,
     companyByCode,
     CATEGORIES,
+    latestMaterialDate,
+    latestNewsDate,
     anomalousMaterials,
     majorAnomalies,
     normalAnomalies,
