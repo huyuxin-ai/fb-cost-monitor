@@ -197,67 +197,12 @@
    "origin": "国产/进口分口径(预留字段)"
   },
   {
-   "id": "WPI90",
-   "name": "乳清蛋白WPI90",
-   "category": "乳制品原料",
-   "sub": "WPI90",
-   "unit": "元/吨",
-   "source": "GDT/百川盈孚(采购)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产/进口分口径(预留字段)"
-  },
-  {
-   "id": "D40",
-   "name": "脱盐乳清粉D40",
-   "category": "乳制品原料",
-   "sub": "D40",
-   "unit": "元/吨",
-   "source": "GDT/欧洲乳清周报(采购)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产/进口分口径(预留字段)"
-  },
-  {
-   "id": "D90",
-   "name": "脱盐乳清粉D90",
-   "category": "乳制品原料",
-   "sub": "D90",
-   "unit": "元/吨",
-   "source": "GDT/欧洲乳清周报(采购)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产/进口分口径(预留字段)"
-  },
-  {
-   "id": "MOLASSES",
-   "name": "糖蜜",
-   "category": "糖类",
-   "sub": "甘蔗糖蜜",
-   "unit": "元/吨",
-   "source": "广西糖协/百川盈孚(采购)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产/进口分口径(预留字段)"
-  },
-  {
    "id": "CASHEW",
    "name": "腰果",
    "category": "蛋白与水产",
    "sub": "坚果",
    "unit": "元/吨",
    "source": "卓创/坚果协会(采购)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产/进口分口径(预留字段)"
-  },
-  {
-   "id": "ALMOND",
-   "name": "巴旦木",
-   "category": "蛋白与水产",
-   "sub": "坚果",
-   "unit": "元/吨",
-   "source": "美国杏仁商会/卓创(采购)",
    "source_status": "待采购/人工录入",
    "freq": "周频",
    "origin": "国产/进口分口径(预留字段)"
@@ -403,50 +348,6 @@
    "source": "IFFO/卓创(采购)",
    "source_status": "待采购/人工录入",
    "freq": "周频",
-   "origin": "国产/进口分口径(预留字段)"
-  },
-  {
-   "id": "ALGAEOIL",
-   "name": "DHA藻油",
-   "category": "功能性原料",
-   "sub": "藻油",
-   "unit": "元/kg",
-   "source": "百川盈孚(采购)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产/进口分口径(预留字段)"
-  },
-  {
-   "id": "LUTEIN",
-   "name": "叶黄素",
-   "category": "功能性原料",
-   "sub": "万寿菊提取",
-   "unit": "元/kg",
-   "source": "百川盈孚(采购)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产/进口分口径(预留字段)"
-  },
-  {
-   "id": "CAPSAICIN",
-   "name": "辣椒素",
-   "category": "功能性原料",
-   "sub": "辣椒素/辣椒精",
-   "unit": "元/kg",
-   "source": "百川盈孚(采购)",
-   "source_status": "待采购/人工录入",
-   "freq": "周频",
-   "origin": "国产/进口分口径(预留字段)"
-  },
-  {
-   "id": "BARLEY",
-   "name": "大麦",
-   "category": "谷物",
-   "sub": "啤酒大麦(进口)",
-   "unit": "元/吨",
-   "source": "海关总署进口均价/卓创(采购)",
-   "source_status": "待采购/人工录入",
-   "freq": "月频",
    "origin": "国产/进口分口径(预留字段)"
   },
   {
@@ -1090,70 +991,6 @@
     "impact_note": "乳清蛋白涨价后，酵母蛋白的相对价格优势更明显，替代需求可能增加，对安琪酵母相关业务利润偏利好。"
    }
   ],
-  "WPI90": [
-   {
-    "code": "300146",
-    "name": "汤臣倍健",
-    "level": "高",
-    "note": "蛋白粉"
-   },
-   {
-    "code": "920429",
-    "name": "康比特",
-    "level": "高",
-    "note": "分离乳清"
-   },
-   {
-    "code": "600298",
-    "name": "安琪酵母",
-    "relation": "竞品替代",
-    "price_up_effect": "偏利好",
-    "note": "酵母蛋白是乳清蛋白的替代选择",
-    "impact_note": "乳清蛋白涨价后，酵母蛋白的相对价格优势更明显，替代需求可能增加，对安琪酵母相关业务利润偏利好。"
-   }
-  ],
-  "D40": [
-   {
-    "code": "HK6186",
-    "name": "中国飞鹤",
-    "level": "高",
-    "note": "婴配粉"
-   },
-   {
-    "code": "600887",
-    "name": "伊利股份",
-    "level": "中",
-    "note": "婴配粉"
-   }
-  ],
-  "D90": [
-   {
-    "code": "HK6186",
-    "name": "中国飞鹤",
-    "level": "高",
-    "note": "婴配粉"
-   },
-   {
-    "code": "HK1112",
-    "name": "H&H国际控股",
-    "level": "中",
-    "note": "营养品"
-   }
-  ],
-  "MOLASSES": [
-   {
-    "code": "600298",
-    "name": "安琪酵母",
-    "level": "高",
-    "note": "糖蜜占酵母成本~40%"
-   },
-   {
-    "code": "HK0546",
-    "name": "阜丰集团",
-    "level": "中",
-    "note": "发酵原料"
-   }
-  ],
   "CASHEW": [
    {
     "code": "300783",
@@ -1178,26 +1015,6 @@
     "name": "万辰集团",
     "level": "中",
     "note": "零食"
-   }
-  ],
-  "ALMOND": [
-   {
-    "code": "300783",
-    "name": "三只松鼠",
-    "level": "高",
-    "note": "坚果"
-   },
-   {
-    "code": "603719",
-    "name": "良品铺子",
-    "level": "高",
-    "note": "坚果"
-   },
-   {
-    "code": "002991",
-    "name": "甘源食品",
-    "level": "中",
-    "note": "坚果"
    }
   ],
   "WALNUT": [
@@ -1430,104 +1247,6 @@
     "note": "鱼油"
    }
   ],
-  "ALGAEOIL": [
-   {
-    "code": "HK6186",
-    "name": "中国飞鹤",
-    "level": "中",
-    "note": "婴配粉DHA"
-   },
-   {
-    "code": "HK1112",
-    "name": "H&H国际控股",
-    "level": "中",
-    "note": "DHA"
-   },
-   {
-    "code": "300146",
-    "name": "汤臣倍健",
-    "level": "中",
-    "note": "DHA"
-   }
-  ],
-  "LUTEIN": [
-   {
-    "code": "300146",
-    "name": "汤臣倍健",
-    "level": "中",
-    "note": "护眼产品"
-   },
-   {
-    "code": "603102",
-    "name": "百合股份",
-    "level": "中",
-    "note": "叶黄素"
-   }
-  ],
-  "CAPSAICIN": [
-   {
-    "code": "603288",
-    "name": "海天味业",
-    "level": "低",
-    "note": "辣味产品"
-   },
-   {
-    "code": "603317",
-    "name": "天味食品",
-    "level": "低",
-    "note": "辣味底料"
-   },
-   {
-    "code": "HK9985",
-    "name": "卫龙美味",
-    "level": "中",
-    "note": "辣味零食"
-   }
-  ],
-  "BARLEY": [
-   {
-    "code": "600600",
-    "name": "青岛啤酒",
-    "level": "高",
-    "note": "大麦占啤酒原料~60%"
-   },
-   {
-    "code": "600132",
-    "name": "重庆啤酒",
-    "level": "高",
-    "note": "大麦"
-   },
-   {
-    "code": "000729",
-    "name": "燕京啤酒",
-    "level": "高",
-    "note": "大麦"
-   },
-   {
-    "code": "HK0291",
-    "name": "华润啤酒",
-    "level": "高",
-    "note": "大麦"
-   },
-   {
-    "code": "HK1876",
-    "name": "百威亚太",
-    "level": "高",
-    "note": "大麦"
-   },
-   {
-    "code": "002461",
-    "name": "珠江啤酒",
-    "level": "中",
-    "note": "大麦"
-   },
-   {
-    "code": "600573",
-    "name": "惠泉啤酒",
-    "level": "中",
-    "note": "大麦"
-   }
-  ],
   "PR": [
    {
     "code": "HK9633",
@@ -1749,24 +1468,6 @@
    "note": "原奶"
   },
   {
-   "material": "MOLASSES",
-   "company": "600298",
-   "cost_ratio": 40,
-   "note": "糖蜜"
-  },
-  {
-   "material": "BARLEY",
-   "company": "600600",
-   "cost_ratio": 12,
-   "note": "大麦(麦芽)"
-  },
-  {
-   "material": "BARLEY",
-   "company": "HK0291",
-   "cost_ratio": 11,
-   "note": "大麦"
-  },
-  {
    "material": "WPC80",
    "company": "300146",
    "cost_ratio": 10,
@@ -1883,8 +1584,8 @@
    "type": "维生素/乳清/坚果/鱼油等",
    "status": "待采购",
    "freq": "日/周",
-   "items": "27个品种(见不可得清单)",
-   "note": "需预算审批后接入"
+   "items": "历史人工采集品种",
+   "note": "保留已有历史数据；后续更新需继续人工录入或采购接口"
   },
   {
    "name": "农业农村部畜牧兽医局周度监测",

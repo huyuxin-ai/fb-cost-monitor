@@ -95,7 +95,7 @@ export default function SensitivityPage() {
                         {m.latest?.anomaly && <AnomalyBadge level={m.latest.anomaly} />}
                       </div>
                       <div className="font-mono text-[9px] text-[#5c6875]">
-                        {id} · {m.latest ? fmtPct(m.latest.wow) : '数据不可得'}
+                        {id} · {fmtPct(m.latest?.wow)}
                       </div>
                     </td>
                     {compCodes.map((c) => {

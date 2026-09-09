@@ -1,7 +1,6 @@
 import { useMemo, useState } from 'react'
 import { useNavigate } from 'react-router'
 import {
-  isConnected,
   absvol,
   evalAnomaly,
   fmtPct,
@@ -29,12 +28,11 @@ import {
 /* ============ KPI ============ */
 function KpiStrip() {
   const { DATA, MATERIALS, COMPANIES, latestMaterialDate, majorAnomalies, normalAnomalies } = useAppData()
-  const connected = MATERIALS.filter(isConnected).length
   const kpis = [
     {
       label: '监控品种数',
-      value: `${connected}`,
-      sub: `/ 全口径 ${MATERIALS.length}`,
+      value: `${MATERIALS.length}`,
+      sub: '均有价格记录',
       tone: 'text-[#e8eef5]',
     },
     {
@@ -87,7 +85,7 @@ function buildWeeklyReport(D: Derived): string {
   lines.push('')
   lines.push(`## 一、本周异动概览`)
   lines.push('')
-  lines.push(`- 监控品种：已接入 ${MATERIALS.filter(isConnected).length} / 全口径 ${MATERIALS.length}`)
+  lines.push(`- 监控品种：${MATERIALS.length} 个`)
   lines.push(`- 重大异动 ${majorAnomalies.length} 个；普通异动 ${normalAnomalies.length} 个`)
   lines.push('')
   const sorted = [...anomalousMaterials].sort((a, b) =>
@@ -100,7 +98,7 @@ function buildWeeklyReport(D: Derived): string {
     lines.push(
       `- 最新价 ${fmtPrice(l.price)} ${m.unit}（${l.date}），周环比 ${fmtPct(l.wow)}，${streakText(l.streak)}`,
     )
-    lines.push(`- 类别：${m.category} ｜ 数据源：${m.source}（${m.freq}）`)
+    lines.push(`- 类别：${m.category} ｜ 更新周期：${m.freq}`)
     if (IMPORT_DEPENDENT.has(m.id)) lines.push(`- 标签：进口依赖·汇率敏感`)
     lines.push(`- 下游影响：`)
     for (const d of m.downstream ?? []) {
@@ -156,7 +154,7 @@ function AnomalyCard({ m }: { m: Material }) {
             {IMPORT_DEPENDENT.has(m.id) && <span className="tag-import">进口依赖·汇率敏感</span>}
           </div>
           <div className="mt-0.5 font-mono text-[10px] text-[#5c6875]">
-            {m.id} · {m.source}
+            {m.id} · {m.freq}
           </div>
         </div>
         <AnomalyBadge level={l.anomaly} />
@@ -465,17 +463,11 @@ function WatchlistStrip() {
             key={m.id}
             onClick={() => navigate(`/materials?id=${encodeURIComponent(m.id)}`)}
             className="flex shrink-0 items-center gap-1 rounded-sm border border-[#2a3442] bg-[#131922] px-1.5 py-0.5 text-[11px] hover:border-[#f0b90b]/60"
-            title={`${m.id} · ${m.source}`}
+            title={m.id}
           >
             <span className="font-semibold text-[#e8eef5]">{m.name}</span>
-            {m.latest ? (
-              <>
-                <span className={`num ${pctClass(m.latest.wow)}`}>{fmtPct(m.latest.wow)}</span>
-                {m.latest.anomaly && <AnomalyBadge level={m.latest.anomaly} />}
-              </>
-            ) : (
-              <span className="text-[#5c6875]">数据不可得</span>
-            )}
+            <span className={`num ${pctClass(m.latest?.wow)}`}>{fmtPct(m.latest?.wow)}</span>
+            {m.latest?.anomaly && <AnomalyBadge level={m.latest.anomaly} />}
           </button>
         ))}
         {comps.map((c) => (

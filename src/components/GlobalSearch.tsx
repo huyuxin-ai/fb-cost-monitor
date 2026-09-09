@@ -53,13 +53,11 @@ export default function GlobalSearch({
           title: m.name,
           sub: `${m.id} · ${m.category}`,
           to: `/materials?id=${encodeURIComponent(m.id)}`,
-          right: m.latest ? (
+          right: (
             <span className="flex items-center gap-1.5">
-              <span className={`num ${pctClass(m.latest.wow)}`}>{fmtPct(m.latest.wow)}</span>
-              {m.latest.anomaly && <AnomalyBadge level={m.latest.anomaly} />}
+              <span className={`num ${pctClass(m.latest?.wow)}`}>{fmtPct(m.latest?.wow)}</span>
+              {m.latest?.anomaly && <AnomalyBadge level={m.latest.anomaly} />}
             </span>
-          ) : (
-            <span className="text-[10px] text-[#5c6875]">数据不可得</span>
           ),
         })
       }

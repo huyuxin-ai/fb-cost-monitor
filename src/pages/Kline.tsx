@@ -202,7 +202,7 @@ function RelatedMaterials({ company }: { company: Company }) {
             <span className="ml-auto font-mono text-[11px] text-[#7d8a9b]">
               {m.latest
                 ? `${m.latest.price.toLocaleString()} ${m.unit} · ${fmtPct(m.latest.wow)} · 截至${m.latest.date}`
-                : `数据不可得（${m.source_status}）`}
+                : '—'}
             </span>
             <CompanyImpactTag material={m} downstream={d} label="查看影响" />
           </div>

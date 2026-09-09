@@ -54,6 +54,8 @@ for sym, m in cfg['meta'].items():
     series = [{'week': r.week, 'date': str(r.date)[:10], 'price': round(float(r.price), 2),
                'wow': None if pd.isna(r.wow) else round(float(r.wow), 2),
                'streak': int(r.streak), 'anomaly': r.anomaly} for r in g.itertuples()]
+    if not series:
+        continue
     materials.append({**{'id': sym}, **m, 'series': series,
                       'latest': series[-1] if series else None,
                       'downstream': cfg['downstream'].get(sym, [])})
@@ -76,11 +78,16 @@ for u in cfg['unavailable']:
         series = [{'week': r.week, 'date': str(r.date)[:10], 'price': round(float(r.price), 2),
                    'wow': None if pd.isna(r.wow) else round(float(r.wow), 2),
                    'streak': int(r.streak), 'anomaly': r.anomaly} for r in g.itertuples()]
+    # 只发布真正有历史价格的品种；人工历史可保留，纯占位品种不进入网站。
+    if not series:
+        continue
     materials.append({**u,
-                      'source_status': '已接入' if series else u['source_status'],
+                      'source_status': '已接入',
                       'basis': None, 'series': series,
-                      'latest': series[-1] if series else None,
+                      'latest': series[-1],
                       'downstream': cfg['downstream'].get(u['id'], [])})
+
+material_ids = {m['id'] for m in materials}
 
 # ---- 公司主档（由 kline.json 派生，行情快照并入） ----
 kline = json.load(open(os.path.join(DATA, 'kline.json')))
@@ -112,7 +119,7 @@ app_data = {
     'pipeline': {'last_run': (run_log or {}).get('run_at'), 'steps': (run_log or {}).get('steps', []),
                  'mode': 'github-actions-cron', 'schedule': '每交易日 16:30 CST'},
     'materials': materials, 'companies': companies,
-    'sensitivity': cfg['sensitivity'], 'news': news,
+    'sensitivity': [s for s in cfg['sensitivity'] if s['material'] in material_ids], 'news': news,
     'thresholds': cfg['thresholds'], 'data_sources': cfg['data_sources'],
     'test_log': cfg['test_log'],
 }

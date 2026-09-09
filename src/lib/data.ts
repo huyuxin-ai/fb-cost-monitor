@@ -144,13 +144,10 @@ export interface AppData {
 export const IMPORT_DEPENDENT = new Set([
   'P', // 棕榈油
   'WPC34',
-  'WPC80',
-  'WPI90', // 乳清蛋白
+  'WPC80', // 乳清蛋白
   'CASHEW',
-  'ALMOND',
   'WALNUT',
   'MACADAMIA', // 坚果
-  'BARLEY', // 大麦
   'ANCHOVY', // 鳀鱼
 ])
 
@@ -279,7 +276,6 @@ export const NEWS_KEYWORD_MAP: [string, string][] = [
   ['白糖', 'SR'],
   ['甜菜糖', 'SR'],
   ['玉米', 'C'],
-  ['大麦', 'BARLEY'],
   ['纸浆', 'SP'],
   ['玻璃', 'FG'],
   ['PET', 'TA'],

@@ -1,7 +1,6 @@
 import { Fragment, useEffect, useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router'
 import {
-  isConnected,
   absvol,
   fmtPct,
   fmtPrice,
@@ -16,7 +15,6 @@ import { downloadCsv } from '@/lib/csv'
 import {
   Panel,
   AnomalyBadge,
-  SourceDot,
   CompanyLink,
   CompanyImpactTag,
 } from '@/components/terminal'
@@ -25,11 +23,9 @@ import EChart from '@/components/EChart'
 /* ============ 详情抽屉（展开行） ============ */
 function MaterialDetail({ m }: { m: Material }) {
   const { sensitivityOfMaterial, companyByCode } = useAppData()
-  const connected = isConnected(m)
   const sens = sensitivityOfMaterial(m.id)
 
   const chartOption = useMemo(() => {
-    if (!connected) return null
     const pts = m.series
     const anomalyPts = pts
       .map((p, i) => ({ i, p }))
@@ -84,65 +80,7 @@ function MaterialDetail({ m }: { m: Material }) {
         },
       ],
     }
-  }, [m, connected])
-
-  if (!connected) {
-    /* 待采购品种：数据不可得占位卡 */
-    return (
-      <div className="grid grid-cols-1 gap-2 md:grid-cols-3">
-        <div className="rounded border border-dashed border-[#3a4657] bg-[#131922] p-3">
-          <div className="text-[13px] font-bold text-[#8b98a9]">
-            数据不可得 <span className="text-amber">⚠</span>
-          </div>
-          <div className="mt-2 space-y-1 text-[11px] leading-relaxed text-[#7d8a9b]">
-            <div>
-              建议采购源：<span className="text-[#d6dee8]">{m.source}</span>
-            </div>
-            <div>
-              更新频率：<span className="num">{m.freq}</span>
-            </div>
-            <div>
-              口径：{m.origin}
-              {m.sub ? ` · ${m.sub}` : ''}
-            </div>
-            <div className="text-[#5c6875]">接入后自动纳入异动监控与压力测试</div>
-          </div>
-        </div>
-        <div className="rounded border border-[#232b36] bg-[#131922] p-2">
-          <div className="mb-1 text-[11px] font-semibold text-[#8b98a9]">
-            下游公司传导（{m.downstream?.length ?? 0} 家 · 全景仍可见）
-          </div>
-          <div className="flex flex-wrap gap-1">
-            {(m.downstream ?? []).map((d) => (
-              <CompanyImpactTag
-                key={d.code}
-                material={m}
-                downstream={d}
-              />
-            ))}
-          </div>
-        </div>
-        <div className="rounded border border-[#232b36] bg-[#131922] p-2">
-          <div className="mb-1 text-[11px] font-semibold text-[#8b98a9]">成本敏感度关联</div>
-          {sens.length ? (
-            <div className="space-y-0.5 text-[11px]">
-              {sens.map((s) => (
-                <div key={s.company} className="flex justify-between gap-2">
-                  <CompanyLink
-                    code={s.company}
-                    name={companyByCode.get(s.company)?.name ?? s.company}
-                  />
-                  <span className="num text-amber">{s.cost_ratio}%</span>
-                </div>
-              ))}
-            </div>
-          ) : (
-            <div className="text-[11px] text-[#5c6875]">暂无敏感度映射</div>
-          )}
-        </div>
-      </div>
-    )
-  }
+  }, [m])
 
   return (
     <div className="grid grid-cols-1 gap-2 xl:grid-cols-3">
@@ -152,12 +90,9 @@ function MaterialDetail({ m }: { m: Material }) {
           <span className="text-[11px] font-semibold text-[#8b98a9]">
             周度价格走势（26周 · 红点=异动周）
           </span>
-          <span className="src-tag">
-            {m.source} · 截至 {m.latest?.date}
-            {m.basis ? ` · ${m.basis}` : ''}
-          </span>
+          <span className="src-tag">截至 {m.latest?.date} · {FREQ_LABEL[m.freq] ?? m.freq}</span>
         </div>
-        {chartOption && <EChart option={chartOption} height={240} />}
+        <EChart option={chartOption} height={240} />
       </div>
       {/* 右侧：下游 + 敏感度 */}
       <div className="space-y-2">
@@ -240,7 +175,6 @@ export default function MaterialsPage() {
   const wl = useWatchlist()
   const [params, setParams] = useSearchParams()
   const [cat, setCat] = useState('全部')
-  const [src, setSrc] = useState('全部')
   const [origin, setOrigin] = useState('全部')
   const [kw, setKw] = useState('')
   const [expanded, setExpanded] = useState<string | null>(null)
@@ -251,7 +185,6 @@ export default function MaterialsPage() {
     if (focusId && MATERIALS.some((m) => m.id === focusId)) {
       setExpanded(focusId)
       setCat('全部')
-      setSrc('全部')
       setOrigin('全部')
       setKw('')
     }
@@ -267,21 +200,19 @@ export default function MaterialsPage() {
   const rows = useMemo(() => {
     return MATERIALS.filter((m) => {
       if (cat !== '全部' && m.category !== cat) return false
-      if (src === '已接入' && !isConnected(m)) return false
-      if (src === '待采购' && isConnected(m)) return false
       if (origin === '混合口径' && !m.origin.includes('混合')) return false
       if (origin === '分口径' && !m.origin.includes('分口径')) return false
       if (kw && !m.name.includes(kw) && !m.id.toLowerCase().includes(kw.toLowerCase()))
         return false
       return true
     })
-  }, [MATERIALS, cat, src, origin, kw])
+  }, [MATERIALS, cat, origin, kw])
 
   /** 导出当前筛选结果为 CSV（BOM头，中文不乱码） */
   const exportCsv = () => {
     downloadCsv(
       `原材料行情_${DATA.data_week}.csv`,
-      ['品种', '代码', '类别', '最新价', '单位', '周环比%', '连续涨跌周数', '前4周均波动%', '异动状态', '数据源', '数据状态', '数据时间', '更新周期', '口径', '标签'],
+      ['品种', '代码', '类别', '最新价', '单位', '周环比%', '连续涨跌周数', '前4周均波动%', '异动状态', '数据时间', '更新周期', '口径', '标签'],
       rows.map((m) => {
         const l = m.latest
         const v4 = absvol(m, 4)
@@ -293,15 +224,13 @@ export default function MaterialsPage() {
           m.name,
           m.id,
           m.category,
-          isConnected(m) ? l?.price ?? null : '数据不可得',
+          l?.price ?? null,
           m.unit,
-          isConnected(m) ? l?.wow ?? null : null,
-          isConnected(m) ? l?.streak ?? null : null,
-          isConnected(m) && v4 != null ? +v4.toFixed(2) : null,
-          isConnected(m) ? l?.anomaly || '' : '',
-          m.source,
-          m.source_status,
-          isConnected(m) && l?.date ? `截至 ${l.date}` : '—',
+          l?.wow ?? null,
+          l?.streak ?? null,
+          v4 != null ? +v4.toFixed(2) : null,
+          l?.anomaly || '',
+          l?.date ? `截至 ${l.date}` : '—',
           FREQ_LABEL[m.freq] ?? m.freq,
           m.origin,
           tags.join('|'),
@@ -313,7 +242,7 @@ export default function MaterialsPage() {
   const selCls =
     'h-6 rounded-sm border border-[#2a3442] bg-[#0d1117] px-1.5 text-[11px] text-[#d6dee8] outline-none focus:border-[#f0b90b]/60'
 
-  /** 口径行日期动态化：取全部已接入品种最新报价日的最大值，随数据更新自动变化 */
+  /** 口径行日期动态化：取全部品种最新报价日的最大值，随数据更新自动变化 */
   const lastDate = useMemo(() => {
     const ds = MATERIALS.map((m) => m.latest?.date)
       .filter((d): d is string => Boolean(d))
@@ -324,7 +253,7 @@ export default function MaterialsPage() {
   return (
     <Panel
       title={`原材料行情总览（${rows.length}/${MATERIALS.length}）`}
-      source={`现货·生意社评估价 · 截至 ${lastDate ?? DATA.data_week}（${DATA.data_week}）· 待采购源⚠`}
+      source={`价格数据 · 截至 ${lastDate ?? DATA.data_week}（${DATA.data_week}）`}
       bodyClassName="p-0"
       extra={
         <div className="flex flex-wrap items-center gap-1">
@@ -339,11 +268,6 @@ export default function MaterialsPage() {
             {CATEGORIES.map((c) => (
               <option key={c}>{c}</option>
             ))}
-          </select>
-          <select value={src} onChange={(e) => setSrc(e.target.value)} className={selCls}>
-            <option>全部</option>
-            <option>已接入</option>
-            <option>待采购</option>
           </select>
           <select value={origin} onChange={(e) => setOrigin(e.target.value)} className={selCls}>
             <option>全部</option>
@@ -372,7 +296,6 @@ export default function MaterialsPage() {
               <th>连续涨跌</th>
               <th className="text-right">前4周均波动</th>
               <th>异动状态</th>
-              <th>数据源</th>
               <th>数据时间/周期</th>
               <th>口径/标签</th>
             </tr>
@@ -382,7 +305,6 @@ export default function MaterialsPage() {
               const l = m.latest
               const v4 = absvol(m, 4)
               const open = expanded === m.id
-              const connected = isConnected(m)
               return (
                 <Fragment key={m.id}>
                   <tr
@@ -400,36 +322,22 @@ export default function MaterialsPage() {
                     </td>
                     <td className="text-[#8b98a9]">{m.category}</td>
                     <td className="num text-right font-semibold text-[#e8eef5]">
-                      {connected ? fmtPrice(l?.price) : <span className="text-[#5c6875]">数据不可得</span>}
+                      {fmtPrice(l?.price)}
                     </td>
                     <td className="text-[#7d8a9b]">{m.unit}</td>
                     <td className={`num text-right ${pctClass(l?.wow)}`}>
-                      {connected ? fmtPct(l?.wow) : '—'}
+                      {fmtPct(l?.wow)}
                     </td>
                     <td className="num text-[#8b98a9]">
-                      {connected ? streakText(l?.streak ?? 0) : '—'}
+                      {streakText(l?.streak ?? 0)}
                     </td>
                     <td className="num text-right text-[#8b98a9]">
-                      {connected && v4 != null ? `${v4.toFixed(2)}%` : '—'}
+                      {v4 != null ? `${v4.toFixed(2)}%` : '—'}
                     </td>
-                    <td>{connected ? <AnomalyBadge level={l?.anomaly ?? ''} /> : ''}</td>
-                    <td>
-                      <SourceDot connected={connected} />
-                    </td>
+                    <td><AnomalyBadge level={l?.anomaly ?? ''} /></td>
                     <td className="whitespace-nowrap">
-                      {connected && l?.date ? (
-                        <>
-                          <div className="num text-[#8b98a9]">截至 {l.date}</div>
-                          <div className="text-[10px] text-[#5c6875]">{FREQ_LABEL[m.freq] ?? m.freq}</div>
-                        </>
-                      ) : (
-                        <>
-                          <div className="text-[#5c6875]">—</div>
-                          <div className="text-[10px] text-[#5c6875]">
-                            {FREQ_LABEL[m.freq] ?? m.freq}·待采购
-                          </div>
-                        </>
-                      )}
+                      <div className="num text-[#8b98a9]">截至 {l?.date}</div>
+                      <div className="text-[10px] text-[#5c6875]">{FREQ_LABEL[m.freq] ?? m.freq}</div>
                     </td>
                     <td>
                       <span className="tag">{m.origin.includes('混合') ? '国产/进口混合' : '国产/进口分口径'}</span>
@@ -440,7 +348,7 @@ export default function MaterialsPage() {
                   </tr>
                   {open && (
                     <tr>
-                      <td colSpan={11} className="bg-[#10151c] p-2">
+                      <td colSpan={10} className="bg-[#10151c] p-2">
                         <MaterialDetail m={m} />
                       </td>
                     </tr>
