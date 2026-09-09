@@ -1,0 +1,211 @@
+{
+ "updated_at": "2026-09-09T18:12+08:00",
+ "refresh_minutes": 30,
+ "item_count": 10,
+ "source_counts": {
+  "南方财经网": 2,
+  "新华财经·期货日报": 1,
+  "新浪财经": 1,
+  "混沌天成期货": 1,
+  "申银万国期货": 1,
+  "第一财经": 1,
+  "证券时报": 1,
+  "铜冠金源期货": 1,
+  "长安期货": 1
+ },
+ "items": [
+  {
+   "id": "news_70415a8cbbf6c2c23d22",
+   "date": "2026-09-09",
+   "published_at": "2026-09-09T16:57+08:00",
+   "fetched_at": "2026-09-09T18:12+08:00",
+   "title": "【豆粕季报】北美定盘,南美蓄变",
+   "summary": "大地期货研究院 观点小结2026年Q3总结:巴西出口顺畅但升贴水持续偏强;美豆优良率持续下降,中国大量采购支撑出口+生柴利好国内压榨,26/27年度美豆供需双旺...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/2026-09-09/doc-inirfqcs5630460.shtml",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 7
+  },
+  {
+   "id": "news_bb229e29e1eed367d688",
+   "date": "2026-09-09",
+   "published_at": "2026-09-09T15:43+08:00",
+   "fetched_at": "2026-09-09T18:12+08:00",
+   "title": "玉米 主力合约收跌0.35%",
+   "summary": "南财智讯9月9日电,盘后期货数据显示,大连商品交易所的 玉米 主力合约收跌0.35%,收盘报2282.0元/吨,日内资金流出6003.3万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://futures.eastmoney.com/a/202609093869302089.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_9fd661a155fb780dbcc0",
+   "date": "2026-09-09",
+   "published_at": "2026-09-09T15:43+08:00",
+   "fetched_at": "2026-09-09T18:12+08:00",
+   "title": "生猪 主力合约收跌0.51%",
+   "summary": "南财智讯9月9日电,盘后期货数据显示,大连商品交易所的 生猪 主力合约收跌0.51%,收盘报11730.0元/吨,日内资金流入9118.89万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://futures.eastmoney.com/a/202609093869301483.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_d2c140fadc599b66efa3",
+   "date": "2026-09-09",
+   "published_at": "2026-09-09T09:27+08:00",
+   "fetched_at": "2026-09-09T18:12+08:00",
+   "title": "农产品 | 生猪:受节后消费淡季及夏季疫病影响 市场补栏积极性一般 多观望为主",
+   "summary": "本周仔猪 价格 整体变动不大,断奶仔猪主流报价130-170元/头。受节后消费淡季及夏季疫病影响,市场补栏积极性一般,多观望为主,整体成交有限。预计短期猪价延续震荡调整。 【 蛋白 粕】 蛋白 粕:夜盘豆菜粕偏弱震荡,根据最新作物生长报告,美豆优良率继续下降。",
+   "source": "申银万国期货",
+   "type": "价格行情",
+   "url": "https://futures.eastmoney.com/a/202609093868928021.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价",
+    "仔猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_3fbca4714955430336c4",
+   "date": "2026-09-09",
+   "published_at": "2026-09-09T09:10+08:00",
+   "fetched_at": "2026-09-09T18:12+08:00",
+   "title": "农产品 | 美 豆 优良率58% 连 粕 偏强震荡 豆粕 菜 粕",
+   "summary": "豆粕 菜粕 美豆优良率58%,连粕偏强震荡 周二, 豆粕 01合约收涨0.32%,报3415元/吨;广东 豆粕 现货涨10收于3280元/吨;菜粕01合约收涨0.04%,报2401元/吨;广西菜粕现货涨30收于2530元/吨;CBOT美豆11月合约涨6.5收于1316.75美分/蒲式耳",
+   "source": "铜冠金源期货",
+   "type": "价格行情",
+   "url": "https://futures.eastmoney.com/a/202609093868854214.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_09b86c76447458e5d771",
+   "date": "2026-09-09",
+   "published_at": "2026-09-09T08:52+08:00",
+   "fetched_at": "2026-09-09T18:12+08:00",
+   "title": "农产品 | 生猪:继续累积矛盾 关注均重数据油脂",
+   "summary": "国内方面,蛋白柏震荡运行,市场谨慎观望,现货库存压力下降,终端走货尚可。近远月市场拉锯,关注资金动态。(豆粕论坛) 生猪 今日主题:继续累积矛盾 关注均重数据 一.市场观点 现货端,今日全国均价录得10.9元/kg,环比未变。",
+   "source": "混沌天成期货",
+   "type": "价格行情",
+   "url": "https://futures.eastmoney.com/a/202609093868754329.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_b402ed412aef52e1031a",
+   "date": "2026-09-09",
+   "published_at": "2026-09-09T08:24+08:00",
+   "fetched_at": "2026-09-09T18:12+08:00",
+   "title": "长安期货:成本与供应端双重支撑继续被夯实 但 豆粕 此次大涨过后继续上行空间或受限",
+   "summary": "不过,高成本持续增加盘面榨利亏损,或限制远期采购动能,并收缩远月大豆与 豆粕 供应, 豆粕 成本与供应端双重支撑继续被夯实。整体而言, 豆粕 近期仍以成本逻辑为主,后续或将转移至四季度大豆供应收缩的逻辑,支撑坚挺,但此次大涨过后继续上行空间或受限,高位震荡为主。后续需重点关注:1.",
+   "source": "长安期货",
+   "type": "价格行情",
+   "url": "https://futures.eastmoney.com/a/202609093868711888.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_39f294cf86a4e71b40dd",
+   "date": "2026-07-27",
+   "published_at": "2026-07-27T00:00+08:00",
+   "fetched_at": "2026-07-27T00:00+08:00",
+   "title": "期货“托底”让内蒙古甜菜糖产业企业恢复信心",
+   "summary": "",
+   "source": "新华财经·期货日报",
+   "type": "价格行情",
+   "url": "https://www.cnfin.com/dz-lb/detail/20260727/4446276_1.html",
+   "company": "安琪酵母",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "甜菜糖"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_8cc26ec7f8dc1ed8314e",
+   "date": "2026-07-08",
+   "published_at": "2026-07-08T00:00+08:00",
+   "fetched_at": "2026-07-08T00:00+08:00",
+   "title": "超长下行周期后奶价初现回暖趋势,原奶终于要触底了",
+   "summary": "",
+   "source": "第一财经",
+   "type": "价格行情",
+   "url": "https://www.163.com/money/article/L1AOQ0BH002580S6.html",
+   "company": "伊利股份",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_4f8a96e505c6c2193979",
+   "date": "2026-07-02",
+   "published_at": "2026-07-02T00:00+08:00",
+   "fetched_at": "2026-07-02T00:00+08:00",
+   "title": "养殖板块底部反弹 政策加码改善生猪供需关系",
+   "summary": "",
+   "source": "证券时报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202607023790653198.html",
+   "company": "双汇发展",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  }
+ ]
+}

@@ -8,7 +8,7 @@ export const SITE = {
   subtitle: 'F&B RAW MATERIAL COST MONITOR',
   version: 'v2.0',
   /** 数据自动更新说明 */
-  updateNote: '每交易日16:30自动更新',
+  updateNote: '行情每交易日16:30更新 · 原材料新闻每30分钟检查',
   /** 仓库托管说明（页脚） */
-  hosting: 'GitHub Pages · Actions 每日重建数据',
+  hosting: 'GitHub Pages · Actions 自动更新行情与原材料新闻',
 } as const

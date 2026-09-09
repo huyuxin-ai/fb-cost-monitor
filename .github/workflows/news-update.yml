@@ -1,14 +1,9 @@
-name: 数据更新与站点部署
+name: 原材料新闻更新与站点部署
 
 on:
   schedule:
-    # 每交易日 16:30 CST = 08:30 UTC
-    - cron: '30 8 * * 1-5'
-  push:
-    branches: [master, main]
-    paths-ignore:
-      - pipeline/news_archive.json
-      - public/data/news.json
+    # GitHub Actions 使用 UTC；每30分钟检查一次新新闻
+    - cron: '*/30 * * * *'
   workflow_dispatch: {}
 
 concurrency:
@@ -21,7 +16,7 @@ permissions:
   id-token: write
 
 jobs:
-  update-and-deploy:
+  update-news:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -33,27 +28,18 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: 安装数据依赖
-        run: pip install akshare pandas openpyxl numpy
-
-      - name: 采集最新数据（首次运行自动自举全年历史）
-        run: python3 pipeline/collect_daily.py
-
-      - name: 成员采集数据入库（inbox 自动验收合并）
-        run: python3 pipeline/ingest_inbox.py
-
       - name: 测试原材料新闻筛选规则
         run: python3 pipeline/test_news_filter.py
 
-      - name: 更新原材料相关新闻
+      - name: 抓取并筛选原材料相关新闻
         id: collect_news
         continue-on-error: true
         run: python3 pipeline/collect_news.py
 
-      - name: 新闻采集失败时保留上一版
+      - name: 采集失败时恢复上一版新闻
         if: steps.collect_news.outcome == 'failure'
         run: |
-          echo "::warning::本轮新闻采集失败，继续使用仓库中上一版新闻。"
+          echo "::warning::本轮新闻采集失败，保留上一版新闻，不提交也不部署空数据。"
           git restore --source=HEAD --worktree -- pipeline/news_archive.json public/data/news.json
 
       - name: 新闻数据校验
@@ -77,39 +63,34 @@ jobs:
           print('新闻校验通过:', feed['item_count'], '条')
           EOF
 
-      - name: 周度聚合+异动检测+重建 app_data.json
-        run: python3 pipeline/build_data.py
-
-      - name: 数据完整性校验
+      - name: 检查新闻是否真的有变化
+        id: news_changes
         run: |
-          python3 - <<'EOF'
-          import json
-          d = json.load(open('public/data/app_data.json'))
-          assert len(d['materials']) == 34, '品种数异常（应为34项）'
-          assert all(m['series'] and m['latest'] for m in d['materials']), '存在无历史价格的品种'
-          material_ids = {m['id'] for m in d['materials']}
-          assert len(material_ids) == len(d['materials']), '品种代码重复'
-          assert all(s['material'] in material_ids for s in d['sensitivity']), '存在无效敏感度映射'
-          assert len(d['companies']) >= 150, '公司数异常'
-          print('数据校验通过:', d['data_week'])
-          EOF
-
-      - name: 在本地准备数据提交
-        id: data_changes
-        run: |
-          git config user.name "data-bot"
-          git config user.email "data-bot@users.noreply.github.com"
-          git add public/data/*.json public/data/*.csv pipeline/config.json pipeline/news_archive.json pipeline/inbox/
-          if git diff --cached --quiet; then
+          if git diff --quiet -- pipeline/news_archive.json public/data/news.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "本轮数据没有变化，不创建空提交。"
+            echo "没有新的相关新闻，本轮不提交、不部署。"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
-            git commit -m "data: 每日更新 $(date +%F)"
+            echo "检测到新的相关新闻，继续提交和部署。"
           fi
 
+      - name: 报告全部新闻源失败
+        if: steps.collect_news.outcome == 'failure'
+        run: |
+          echo "所有新闻源都失败，旧数据已保留，本次任务标记为失败以便排查。"
+          exit 1
+
+      - name: 在本地准备新闻提交
+        if: steps.news_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add pipeline/news_archive.json public/data/news.json
+          git commit -m "news: 更新原材料资讯 $(date -u +%F-%H%M)"
+
       - name: 同步远程最新版本
-        run: git pull --rebase origin "$GITHUB_REF_NAME"
+        run: |
+          git pull --rebase origin "$GITHUB_REF_NAME"
 
       - uses: actions/setup-node@v4
         with:
@@ -119,9 +100,10 @@ jobs:
       - name: 构建前端
         run: npm ci --no-audit --no-fund && npm run build
 
-      - name: 推送已通过构建的数据更新
-        if: steps.data_changes.outputs.changed == 'true'
-        run: git push origin "HEAD:$GITHUB_REF_NAME"
+      - name: 推送已通过构建的新闻更新
+        if: steps.news_changes.outputs.changed == 'true'
+        run: |
+          git push origin "HEAD:$GITHUB_REF_NAME"
 
       - uses: actions/configure-pages@v5
 

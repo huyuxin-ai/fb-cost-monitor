@@ -1,0 +1,145 @@
+{
+  "refresh_minutes": 30,
+  "browser_poll_minutes": 5,
+  "fetch_lookback_days": 7,
+  "public_lookback_days": 90,
+  "archive_lookback_days": 180,
+  "max_public_items": 200,
+  "max_archive_items": 500,
+  "timeout_seconds": 15,
+  "sources": {
+    "sina_finance": {
+      "enabled": true,
+      "urls": [
+        "https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2516&k=&num=50&page=1",
+        "https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2517&k=&num=50&page=1"
+      ]
+    },
+    "eastmoney": {
+      "enabled": true,
+      "queries": [
+        "白砂糖价格",
+        "棕榈油价格",
+        "玉米豆粕",
+        "生猪猪价",
+        "原奶奶价",
+        "乳清蛋白价格",
+        "维生素原料价格",
+        "PET瓶片价格",
+        "易拉罐玻璃瓶包装成本",
+        "纸浆PTA涤纶短纤价格",
+        "原奶稀奶油价格",
+        "坚果原料价格",
+        "鱼油辅酶Q10原料"
+      ]
+    },
+    "google_news": {
+      "enabled": true,
+      "queries": [
+        "白砂糖 OR 棕榈油 OR 豆油 OR 菜籽油 价格",
+        "玉米 OR 大豆 OR 豆粕 OR 菜粕 供需",
+        "生猪 OR 猪价 OR 原奶 OR 奶价",
+        "乳清蛋白 OR WPC80 OR WPC34 价格",
+        "原奶 OR 奶价 OR 稀奶油 OR 无水奶油 价格 供应",
+        "易拉罐 OR 铝罐 OR 玻璃瓶 OR 玻璃包装 价格 成本",
+        "纸浆 OR 木浆 价格 供应",
+        "PTA OR 涤纶短纤 OR 瓶级PET OR 聚酯瓶片 价格",
+        "腰果 OR 核桃仁 OR 夏威夷果 价格",
+        "鳀鱼 OR 沙丁鱼 OR 鱼油 OR Omega-3 供应 价格",
+        "辅酶Q10 原料价格 供应",
+        "维生素A OR 维生素B OR 维生素C OR 维生素D3 原料价格"
+      ]
+    },
+    "cctv": {
+      "enabled": true,
+      "urls": [
+        "https://jingji.cctv.com/",
+        "https://news.cctv.com/"
+      ]
+    },
+    "cls": {
+      "enabled": true,
+      "url": "https://www.cls.cn/telegraph"
+    }
+  },
+  "impact_terms": [
+    "价格", "报价", "涨价", "降价", "涨幅", "跌幅", "上涨", "下跌", "走高", "走低", "回暖", "反弹", "触底", "见底", "企稳", "承压", "走弱", "走强", "上行", "下行", "震荡", "波动", "调涨", "调降",
+    "现货", "期货", "收购价", "成本", "毛利", "原料", "行情", "市场", "贸易",
+    "产能", "开工", "停产", "复产", "扩产", "库存", "产量", "减产", "增产",
+    "供应", "供给", "需求", "供需", "短缺", "紧缺", "进口", "出口", "关税", "配额",
+    "禁运", "到港", "收储", "拍卖", "压榨", "种植", "播种", "收获", "丰收",
+    "捕捞", "养殖", "疫情", "病害", "干旱", "洪水", "台风", "政策", "监管", "食品安全",
+    "price", "prices", "spot", "futures", "cost", "costs", "margin", "capacity", "output", "inventory", "inventories",
+    "supply", "demand", "import", "imports", "export", "exports", "tariff", "tariffs", "quota", "harvest", "drought", "policy",
+    "rise", "rises", "rose", "rebound", "climb", "climbs", "fall", "falls", "fell", "decline", "declines", "tighten", "tightens"
+  ],
+  "core_impact_terms": [
+    "价格", "报价", "涨价", "降价", "涨幅", "跌幅", "上涨", "下跌", "走高", "走低", "回暖", "反弹", "触底", "见底", "企稳", "承压", "走弱", "走强", "上行", "下行", "震荡", "波动", "调涨", "调降", "收购价", "现货", "期货", "成本", "原料", "产能", "开工",
+    "停产", "库存", "产量", "减产", "供应", "供给", "需求", "供需", "进口", "出口", "关税",
+    "配额", "禁运", "到港", "拍卖", "压榨", "播种", "收获", "疫情", "干旱", "洪水", "台风",
+    "price", "prices", "spot", "futures", "cost", "costs", "capacity", "output", "inventory", "inventories", "supply", "demand",
+    "import", "imports", "export", "exports", "tariff", "tariffs", "quota", "harvest", "drought", "rise", "rises", "rose",
+    "rebound", "climb", "climbs", "fall", "falls", "fell", "decline", "declines", "tighten", "tightens"
+  ],
+  "fundamental_impact_terms": [
+    "价格", "报价", "涨价", "降价", "收购价", "现货", "成本", "原料", "产能", "开工", "停产", "复产", "扩产",
+    "库存", "产量", "减产", "增产", "供应", "供给", "需求", "供需", "短缺", "紧缺", "进口", "出口", "关税", "配额", "禁运", "到港",
+    "收储", "拍卖", "压榨", "播种", "收获", "疫情", "病害", "干旱", "洪水", "台风", "政策", "监管",
+    "price", "prices", "spot", "cost", "costs", "capacity", "output", "inventory", "inventories", "supply", "demand",
+    "import", "imports", "export", "exports", "tariff", "tariffs", "quota", "harvest", "drought", "policy"
+  ],
+  "financial_noise_terms": [
+    "财报", "年报", "半年报", "季报", "营收", "收入", "销量", "销售额", "净利润", "利润", "业绩", "订单", "市占率", "分红", "回购", "ipo", "上市",
+    "股份", "股票", "股权", "股东", "指数", "基金", "etf", "概念股", "板块", "龙头", "投资机会", "私募", "估值", "研报", "融资", "股价", "涨停", "跌停", "券商"
+  ],
+  "strong_financial_excluded_terms": [
+    "etf", "基金", "股票", "概念股", "a股", "涨停", "跌停", "投资机会", "龙虎榜", "业绩会"
+  ],
+  "excluded_terms": [
+    "食谱", "做法", "怎么吃", "营养功效", "减肥", "美容", "护肤", "保健", "补充剂", "心血管", "零售", "临床", "蛋糕教程", "奶油肌", "核桃木", "木材",
+    "pet-ct", "pet ct", "宠物", "venture capital", "vc投资", "创投",
+    "玻璃基板", "光伏玻璃", "汽车玻璃", "建筑玻璃", "玻纤",
+    "汽车用铝", "航空铝", "门窗铝", "电子铝箔", "纺织", "服装"
+  ],
+  "chain_context_terms": [
+    "食品包装", "饮料包装", "包装材料", "包装成本", "易拉罐", "铝罐", "铝包装", "罐料", "食品级铝箔", "玻璃瓶", "瓶罐玻璃", "玻璃包装", "饮料瓶",
+    "food packaging", "beverage packaging", "packaging material", "packaging cost", "aluminum can", "glass bottle"
+  ],
+  "chain_context_required": ["AL", "FG"],
+  "materials": {
+    "SR": ["白砂糖", "白糖", "食糖", "原糖", "甜菜糖", "甘蔗糖", "郑糖", "ice原糖"],
+    "P": ["棕榈油", "棕油", "马棕油", "palm oil", "mpob", "bmd棕榈油"],
+    "C": ["玉米", "corn"],
+    "M": ["豆粕", "soybean meal"],
+    "A": ["国产大豆", "大豆", "黄豆", "豆一", "soybean"],
+    "Y": ["豆油", "大豆油", "soybean oil"],
+    "AL": ["铝罐", "易拉罐", "罐料", "食品级铝箔", "铝包装", "铝价", "电解铝", "沪铝"],
+    "FG": ["玻璃瓶", "瓶罐玻璃", "玻璃包装", "日用玻璃", "玻璃期货", "玻璃价格"],
+    "SP": ["纸浆", "木浆", "浆价", "pulp"],
+    "TA": ["pta", "精对苯二甲酸", "purified terephthalic acid"],
+    "PF": ["涤纶短纤", "polyester staple fiber", "psf"],
+    "RM": ["菜粕", "菜籽粕", "rapeseed meal", "canola meal"],
+    "OI": ["菜油", "菜籽油", "rapeseed oil", "canola oil"],
+    "LH": ["生猪", "猪价", "仔猪", "能繁母猪", "猪肉价格", "live hog", "hog price", "pork price"],
+    "PR": ["瓶片pet", "瓶级pet", "聚酯瓶片", "饮料瓶片", "pet瓶", "bottle-grade pet", "pet resin"],
+    "RAW_MILK": ["生鲜乳", "原奶", "奶价", "收奶价", "raw milk", "farmgate milk price"],
+    "CREAM": ["稀奶油", "淡奶油", "无水奶油", "乳脂", "奶油原料", "anhydrous milk fat"],
+    "WPC34": ["wpc34", "wpc 34", "乳清蛋白34", "乳清蛋白", "whey protein"],
+    "WPC80": ["wpc80", "wpc 80", "乳清蛋白80", "乳清蛋白", "whey protein"],
+    "CASHEW": ["腰果", "cashew", "cashew kernel"],
+    "WALNUT": ["核桃仁", "核桃", "walnut kernel"],
+    "MACADAMIA": ["夏威夷果", "澳洲坚果", "macadamia"],
+    "ANCHOVY": ["鳀鱼", "秘鲁鳀鱼", "anchovy", "anchoveta"],
+    "SARDINE": ["沙丁鱼", "sardine"],
+    "COQ10": ["辅酶q10", "coq10", "coenzyme q10"],
+    "VA": ["维生素a", "维a", "vitamin a", "va醋酸酯"],
+    "VB1": ["维生素b1", "维b1", "vitamin b1", "硫胺素", "thiamine"],
+    "VB2": ["维生素b2", "维b2", "vitamin b2", "核黄素", "riboflavin"],
+    "VB6": ["维生素b6", "维b6", "vitamin b6", "吡哆醇", "pyridoxine"],
+    "VB12": ["维生素b12", "维b12", "vitamin b12", "氰钴胺", "cyanocobalamin"],
+    "VC": ["维生素c", "维c", "vitamin c", "抗坏血酸", "ascorbic acid", "vc原粉"],
+    "VD3": ["维生素d3", "维d3", "vitamin d3", "vd3", "胆钙化醇", "cholecalciferol"],
+    "FISHOIL": ["鱼油", "fish oil", "omega-3"],
+    "CREAM_DOM": ["usda cream", "cream all classes", "美国稀奶油", "cream fob"]
+  }
+}

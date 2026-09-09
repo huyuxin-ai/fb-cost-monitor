@@ -8,7 +8,6 @@ import {
   pctClass,
   streakText,
   IMPORT_DEPENDENT,
-  NEWS_KEYWORD_MAP,
   type Derived,
   type Material,
   type NewsExt,
@@ -24,6 +23,41 @@ import {
   CompanyImpactTag,
   Empty,
 } from '@/components/terminal'
+
+function formatNewsUpdate(value: string): string {
+  const parsed = new Date(value)
+  if (Number.isNaN(parsed.getTime())) return value.replace('T', ' ').slice(0, 16)
+  return parsed.toLocaleString('zh-CN', {
+    timeZone: 'Asia/Shanghai',
+    hour12: false,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+  })
+}
+
+function formatNewsPublished(value: string | undefined, fallback: string): string {
+  if (!value) return fallback
+  const parsed = new Date(value)
+  if (Number.isNaN(parsed.getTime())) return fallback
+  return parsed.toLocaleString('zh-CN', {
+    timeZone: 'Asia/Shanghai',
+    hour12: false,
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+  })
+}
+
+function newsFeedStatus(updatedAt: string | undefined, latestDate: string, refreshMinutes = 30) {
+  const freshness = updatedAt
+    ? `最近收录 ${formatNewsUpdate(updatedAt)}（北京时间）`
+    : `当前资讯截至 ${latestDate || '—'}`
+  return `多源公开资讯 · 每${refreshMinutes}分钟检查 · ${freshness}`
+}
 
 /* ============ KPI ============ */
 function KpiStrip() {
@@ -109,7 +143,8 @@ function buildWeeklyReport(D: Derived): string {
   lines.push(`## 三、相关资讯摘要（与异动品种相关前置）`)
   lines.push('')
   for (const n of NEWS_EXT.filter((x) => x.hot).slice(0, 10)) {
-    lines.push(`- ${n.date} 【${n.type}】${n.title}（${n.company} / ${n.source}）`)
+    const materials = n.relatedMaterials.map((m) => m.name).join('、')
+    lines.push(`- ${n.date} 【${n.type}】${n.title}（${materials} / ${n.source}）`)
   }
   lines.push('')
   return lines.join('\n')
@@ -212,10 +247,11 @@ function RiskRadar() {
   const { config } = useThresholds()
   const { hits, scanned, windowStart } = scanAnnouncementRisk(config.announcement)
   const newsNav = useNewsNav()
+  const windowEnd = (DATA.news_updated_at || DATA.generated_at).slice(0, 10)
   return (
     <Panel
-      title="公告风险雷达"
-      source={`资讯·新华财经 · 更新 ${latestNewsDate || '—'} · 窗口 ${windowStart}~${DATA.generated_at}`}
+      title="原材料资讯风险雷达"
+      source={`${newsFeedStatus(DATA.news_updated_at, latestNewsDate, DATA.news_refresh_minutes ?? 30)} · 窗口 ${windowStart}~${windowEnd}`}
       extra={
         <span className="font-mono text-[10px] text-[#7d8a9b]">
           扫描 {scanned} 条 / 命中 {hits.length}
@@ -224,7 +260,7 @@ function RiskRadar() {
     >
       {hits.length === 0 ? (
         <div className="py-2">
-          <Empty text={`扫描窗口内（${config.announcement.scanWindowDays}天）无命中风险关键词的公告/资讯`} />
+          <Empty text={`扫描窗口内（${config.announcement.scanWindowDays}天）无命中风险关键词的原材料资讯`} />
           <div className="px-1 pb-1 text-[10px] text-[#5c6875]">
             高风险词：[{config.announcement.keywordsHigh.join(' / ')}]（≥{config.announcement.scoreHigh}分）；
             中风险词：[{config.announcement.keywordsMid.join(' / ')}]（≥{config.announcement.scoreMid}分）。
@@ -233,11 +269,11 @@ function RiskRadar() {
         </div>
       ) : (
         <div className="space-y-1.5">
-          {hits.map((h, i) => {
+          {hits.map((h) => {
             const nav = newsNav(h.news)
             return (
               <div
-                key={i}
+                key={h.news.id}
                 onClick={nav?.go}
                 title={nav ? nav.hint : undefined}
                 className={`rounded-sm border px-2 py-1.5 ${
@@ -254,9 +290,11 @@ function RiskRadar() {
                 >
                   {h.score}
                 </span>
-                <span className="text-[10px] text-[#7d8a9b]">{h.news.date}</span>
+                <span className="text-[10px] text-[#7d8a9b]">
+                  {formatNewsPublished(h.news.published_at, h.news.date)}
+                </span>
                 <span className="tag">{h.news.type}</span>
-                <span className="text-[11px] text-[#8b98a9]">{h.news.company}</span>
+                <span className="text-[11px] text-[#8b98a9]">{h.news.source}</span>
               </div>
               <div className="mt-0.5 text-[12px] text-[#d6dee8]">
                 {h.news.title}
@@ -283,9 +321,9 @@ function RiskRadar() {
   )
 }
 
-/** 资讯跳转目标解析：原文url（如有）→ 关联品种行情（#/materials?id= 自动展开该行）→ 关联公司K线 */
+/** 资讯跳转目标解析：原文 URL（如有）→ 后端已关联的原材料行情 */
 function useNewsNav() {
-  const { materialById, COMPANIES } = useAppData()
+  const { materialById } = useAppData()
   const navigate = useNavigate()
   return (n: NewsItem): { hint: string; go: () => void } | null => {
     if (n.url)
@@ -293,61 +331,59 @@ function useNewsNav() {
         hint: '打开资讯原文（新窗口）',
         go: () => window.open(n.url, '_blank', 'noopener,noreferrer'),
       }
-    for (const [kw, id] of NEWS_KEYWORD_MAP) {
-      if (n.title.includes(kw) && materialById.has(id)) {
-        const m = materialById.get(id)!
-        return { hint: `转跳到品种行情：${m.name}`, go: () => navigate(`/materials?id=${id}`) }
+    const id = n.material_ids.find((materialId) => materialById.has(materialId))
+    if (id) {
+      const m = materialById.get(id)!
+      return {
+        hint: `转跳到原材料行情：${m.name}`,
+        go: () => navigate(`/materials?id=${encodeURIComponent(id)}`),
       }
     }
-    const c = COMPANIES.find((x) => x.name === n.company)
-    if (c)
-      return {
-        hint: `转跳到公司K线：${c.name}`,
-        go: () => navigate(`/kline?code=${encodeURIComponent(c.code)}`),
-      }
     return null
   }
 }
 
 /* ============ 相关资讯侧栏 ============ */
 function NewsSidebar() {
-  const { NEWS_EXT, latestNewsDate } = useAppData()
+  const { DATA, NEWS_EXT, latestNewsDate } = useAppData()
   const newsNav = useNewsNav()
   const [filter, setFilter] = useState('')
   const filtered = useMemo(() => {
-    const f = filter.trim()
+    const f = filter.trim().toLocaleLowerCase()
     if (!f) return NEWS_EXT
     return NEWS_EXT.filter(
       (n) =>
-        n.title.includes(f) ||
-        n.company.includes(f) ||
-        n.relatedMaterials.some((m) => m.name.includes(f) || m.id === f),
+        n.title.toLocaleLowerCase().includes(f) ||
+        n.source.toLocaleLowerCase().includes(f) ||
+        n.relatedMaterials.some(
+          (m) => m.name.toLocaleLowerCase().includes(f) || m.id.toLocaleLowerCase() === f,
+        ),
     )
   }, [filter, NEWS_EXT])
   return (
     <Panel
-      title="相关资讯"
-      source={`资讯·新华财经 · 更新 ${latestNewsDate || '—'}`}
+      title="原材料相关新闻"
+      source={newsFeedStatus(DATA.news_updated_at, latestNewsDate, DATA.news_refresh_minutes ?? 30)}
       className="flex h-full flex-col"
       bodyClassName="flex min-h-0 flex-1 flex-col"
       extra={
         <input
           value={filter}
           onChange={(e) => setFilter(e.target.value)}
-          placeholder="按品种/公司过滤"
+          placeholder="品种/来源/标题"
           className="h-6 w-28 rounded-sm border border-[#2a3442] bg-[#0d1117] px-1.5 py-0.5 text-[11px] text-[#d6dee8] outline-none placeholder:text-[#5c6875] focus:border-[#f0b90b]/60"
         />
       }
     >
       <div className="mb-1 text-[10px] text-[#5c6875]">
-        <span className="text-amber">■</span> 与本周异动品种相关的资讯已前置高亮；点击条目转跳关联品种/公司页面
+        <span className="text-amber">■</span> 仅展示与已监控原材料的价格、供需、产量或成本直接相关的新闻；异动品种已前置高亮
       </div>
       <div className="min-h-0 flex-1 space-y-1 overflow-y-auto pr-1" style={{ maxHeight: 620 }}>
-        {filtered.map((n: NewsExt, i: number) => {
+        {filtered.map((n: NewsExt) => {
           const nav = newsNav(n)
           return (
             <div
-              key={i}
+              key={n.id}
               onClick={nav?.go}
               title={nav ? nav.hint : undefined}
               className={`rounded-sm border-l-2 px-2 py-1 ${
@@ -357,9 +393,9 @@ function NewsSidebar() {
               } ${nav ? 'cursor-pointer transition-colors hover:bg-[#1a2230]' : ''}`}
             >
               <div className="flex items-center gap-1.5 text-[10px] text-[#7d8a9b]">
-                <span className="num">{n.date}</span>
+                <span className="num">{formatNewsPublished(n.published_at, n.date)}</span>
                 <span className="tag">{n.type}</span>
-                <span className="truncate">{n.company}</span>
+                <span className="truncate">{n.source}</span>
                 {n.relatedMaterials.map((m) => (
                   <span key={m.id} className="tag-import">
                     {m.name}

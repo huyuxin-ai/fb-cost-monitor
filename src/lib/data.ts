@@ -71,13 +71,19 @@ export interface Sensitivity {
 }
 
 export interface NewsItem {
+  id: string
   date: string
+  published_at: string
+  fetched_at: string
   title: string
   summary: string
   source: string
   type: string
   url: string
   company: string
+  material_ids: string[]
+  matched_keywords: string[]
+  relevance_score: number
 }
 
 export interface DataSource {
@@ -115,6 +121,8 @@ export interface PipelineInfo {
 export interface AppData {
   generated_at: string
   data_week: string
+  news_updated_at?: string
+  news_refresh_minutes?: number
   pipeline?: PipelineInfo
   materials: Material[]
   companies: Company[]
@@ -245,7 +253,6 @@ export interface Derived {
   anomalousMaterials: Material[]
   majorAnomalies: Material[]
   normalAnomalies: Material[]
-  hotCompanyNames: Set<string>
   NEWS_EXT: NewsExt[]
   /** 公司 → 关联品种（作为下游出现） */
   materialsOfCompany: (code: string) => { material: Material; downstream: Downstream }[]
@@ -262,34 +269,17 @@ export interface Derived {
   }) => { hits: RiskHit[]; scanned: number; windowStart: string }
 }
 
-/** 标题关键词 → 品种（用于资讯与品种挂钩） */
-export const NEWS_KEYWORD_MAP: [string, string][] = [
-  ['原奶', 'RAW_MILK'],
-  ['奶价', 'RAW_MILK'],
-  ['生鲜乳', 'RAW_MILK'],
-  ['生猪', 'LH'],
-  ['猪', 'LH'],
-  ['豆粕', 'M'],
-  ['菜粕', 'RM'],
-  ['棕榈油', 'P'],
-  ['豆油', 'Y'],
-  ['白糖', 'SR'],
-  ['甜菜糖', 'SR'],
-  ['玉米', 'C'],
-  ['纸浆', 'SP'],
-  ['玻璃', 'FG'],
-  ['PET', 'TA'],
-  ['铝', 'AL'],
-]
-
 /** 由运行时加载的 app_data.json 构建全部派生数据 */
 export function buildDerived(DATA: AppData): Derived {
   const MATERIALS = DATA.materials
   const COMPANIES = DATA.companies
-  const NEWS = DATA.news
   const SENSITIVITY = DATA.sensitivity
 
   const materialById = new Map(MATERIALS.map((m) => [m.id, m]))
+  // 新闻关联由后端统一判定；未标注有效原材料的条目不进入前端。
+  const NEWS = DATA.news.filter(
+    (n) => Array.isArray(n.material_ids) && n.material_ids.some((id) => materialById.has(id)),
+  )
   const companyByCode = new Map(COMPANIES.map((c) => [c.code, c]))
   const CATEGORIES = [...new Set(MATERIALS.map((m) => m.category))]
   const latestMaterialDate = MATERIALS.reduce(
@@ -317,31 +307,21 @@ export function buildDerived(DATA: AppData): Derived {
   const sensitivityOfMaterial = (id: string) => SENSITIVITY.filter((s) => s.material === id)
   const sensitivityOfCompany = (code: string) => SENSITIVITY.filter((s) => s.company === code)
 
-  /** 与本周异动品种关联的下游公司集合 */
-  const hotCompanyNames = new Set<string>()
-  for (const m of anomalousMaterials) {
-    for (const d of m.downstream ?? []) hotCompanyNames.add(d.name)
-  }
-
   const extendNews = (n: NewsItem): NewsExt => {
-    const related: Material[] = []
-    for (const [kw, id] of NEWS_KEYWORD_MAP) {
-      if (n.title.includes(kw)) {
-        const m = materialById.get(id)
-        if (m && !related.includes(m)) related.push(m)
-      }
-    }
-    const hot = hotCompanyNames.has(n.company) || related.some((m) => m.latest?.anomaly)
+    const related = [...new Set(n.material_ids)]
+      .map((id) => materialById.get(id))
+      .filter((m): m is Material => Boolean(m))
+    const hot = related.some((m) => Boolean(m.latest?.anomaly))
     return { ...n, relatedMaterials: related, hot }
   }
 
   const NEWS_EXT: NewsExt[] = NEWS.map(extendNews).sort((a, b) => {
     if (a.hot !== b.hot) return a.hot ? -1 : 1
-    return b.date.localeCompare(a.date)
+    return (b.published_at || b.date).localeCompare(a.published_at || a.date)
   })
 
   const scanAnnouncementRisk: Derived['scanAnnouncementRisk'] = (cfg) => {
-    const refDate = DATA.generated_at
+    const refDate = (DATA.news_updated_at || DATA.generated_at).slice(0, 10)
     const ref = new Date(refDate + 'T00:00:00')
     const start = new Date(ref.getTime() - cfg.scanWindowDays * 86400000)
     const windowStart = start.toISOString().slice(0, 10)
@@ -375,7 +355,6 @@ export function buildDerived(DATA: AppData): Derived {
     anomalousMaterials,
     majorAnomalies,
     normalAnomalies,
-    hotCompanyNames,
     NEWS_EXT,
     materialsOfCompany,
     sensitivityOfMaterial,

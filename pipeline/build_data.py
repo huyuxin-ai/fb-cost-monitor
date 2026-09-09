@@ -8,17 +8,17 @@
 import json, os, datetime as dt
 import pandas as pd
 import numpy as np
+from news_filter import BJT, build_public_feed, curate_news, load_news_config, validate_public_feed
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'public', 'data')
 os.makedirs(DATA, exist_ok=True)  # 防御：目录不存在时先创建
 PIPE = os.path.join(ROOT, 'pipeline')
 cfg = json.load(open(os.path.join(PIPE, 'config.json')))
-news = json.load(open(os.path.join(PIPE, 'news_archive.json')))
-# 时效过滤：仅展示近90天资讯（窗口随构建日期滑动，archive 保留全量历史）
-_news_cutoff = (dt.date.today() - dt.timedelta(days=90)).isoformat()
-news = sorted((n for n in news if n.get('date', '') >= _news_cutoff),
-              key=lambda n: n.get('date', ''), reverse=True)
+news_cfg = load_news_config()
+news_raw = json.load(open(os.path.join(PIPE, 'news_archive.json')))
+# 构建时再做一次后端强校验，避免手工编辑归档时混入无关资讯。
+news_curated, _news_stats = curate_news(news_raw, news_cfg, dt.datetime.now(BJT))
 
 # ---- 周度聚合 + 异动 ----
 mat = pd.read_csv(os.path.join(DATA, 'material_spot_daily.csv'), dtype={'date': str})
@@ -88,6 +88,10 @@ for u in cfg['unavailable']:
                       'downstream': cfg['downstream'].get(u['id'], [])})
 
 material_ids = {m['id'] for m in materials}
+news_curated = [n for n in news_curated if set(n['material_ids']) <= material_ids]
+news_feed = build_public_feed(news_curated, news_cfg, dt.datetime.now(BJT))
+validate_public_feed(news_feed, news_cfg, material_ids)
+news = news_feed['items']
 
 # ---- 公司主档（由 kline.json 派生，行情快照并入） ----
 kline = json.load(open(os.path.join(DATA, 'kline.json')))
@@ -120,6 +124,8 @@ app_data = {
                  'mode': 'github-actions-cron', 'schedule': '每交易日 16:30 CST'},
     'materials': materials, 'companies': companies,
     'sensitivity': [s for s in cfg['sensitivity'] if s['material'] in material_ids], 'news': news,
+    'news_updated_at': news_feed['updated_at'],
+    'news_refresh_minutes': news_feed['refresh_minutes'],
     'thresholds': cfg['thresholds'], 'data_sources': cfg['data_sources'],
     'test_log': cfg['test_log'],
 }

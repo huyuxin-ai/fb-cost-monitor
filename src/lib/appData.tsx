@@ -7,7 +7,7 @@ import {
   useState,
   type ReactNode,
 } from 'react'
-import { buildDerived, type AppData, type Derived } from './data'
+import { buildDerived, type AppData, type Derived, type NewsItem } from './data'
 import { SITE } from '@/config'
 
 /**
@@ -15,6 +15,14 @@ import { SITE } from '@/config'
  * 站点启动时以相对路径 fetch（兼容 GitHub Pages 子路径部署），经 Context 下发各页面。
  */
 const DATA_URL = 'data/app_data.json'
+const NEWS_URL = 'data/news.json'
+const NEWS_POLL_MS = 5 * 60 * 1000
+
+interface NewsFeed {
+  updated_at?: string
+  refresh_minutes?: number
+  items: NewsItem[]
+}
 
 const Ctx = createContext<Derived | null>(null)
 
@@ -86,6 +94,7 @@ function LoadError({ error, onRetry }: { error: string; onRetry: () => void }) {
 
 export function AppDataProvider({ children }: { children: ReactNode }) {
   const [data, setData] = useState<AppData | null>(null)
+  const [newsFeed, setNewsFeed] = useState<NewsFeed | null>(null)
   const [error, setError] = useState<string | null>(null)
   const [attempt, setAttempt] = useState(0)
 
@@ -109,9 +118,51 @@ export function AppDataProvider({ children }: { children: ReactNode }) {
     }
   }, [attempt])
 
+  // 新闻文件由轻量定时任务更新；页面每 5 分钟检查一次。
+  // 如果单独的新闻文件暂时不可用，保留 app_data.json 内的上一份新闻。
+  useEffect(() => {
+    let alive = true
+
+    const refreshNews = () => {
+      const cacheBuster = new URLSearchParams({ t: String(Date.now()) })
+      fetch(`${NEWS_URL}?${cacheBuster}`, { cache: 'no-store' })
+        .then((r) => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`)
+          return r.json() as Promise<NewsFeed>
+        })
+        .then((feed) => {
+          if (!feed || !Array.isArray(feed.items)) throw new Error('新闻数据格式不正确')
+          if (alive) setNewsFeed(feed)
+        })
+        .catch(() => {
+          // 这里不覆盖旧数据，也不影响行情和公司页正常打开。
+        })
+    }
+
+    refreshNews()
+    const timer = window.setInterval(refreshNews, NEWS_POLL_MS)
+    return () => {
+      alive = false
+      window.clearInterval(timer)
+    }
+  }, [])
+
   const retry = useCallback(() => setAttempt((n) => n + 1), [])
 
-  const derived = useMemo(() => (data ? buildDerived(data) : null), [data])
+  const mergedData = useMemo<AppData | null>(() => {
+    if (!data || !newsFeed) return data
+    return {
+      ...data,
+      news: newsFeed.items,
+      news_updated_at: newsFeed.updated_at || data.news_updated_at,
+      news_refresh_minutes:
+        newsFeed.refresh_minutes && newsFeed.refresh_minutes > 0
+          ? newsFeed.refresh_minutes
+          : data.news_refresh_minutes,
+    }
+  }, [data, newsFeed])
+
+  const derived = useMemo(() => (mergedData ? buildDerived(mergedData) : null), [mergedData])
 
   if (error) return <LoadError error={error} onRetry={retry} />
   if (!derived) return <LoadingSkeleton />
