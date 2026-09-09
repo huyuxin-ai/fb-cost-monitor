@@ -83,6 +83,8 @@ class NewsFilterTests(unittest.TestCase):
             "生猪住进智能楼，探索科技养殖新空间",
             "生猪供应压力叠加政策引导，养殖ETF重视投资机会",
             "某肉业公司业绩会：生猪养殖业务净利润亏损",
+            "农牧渔板块全线猛攻，生猪价格持续上涨",
+            "2连板公司称国际原糖价格上涨对业绩影响不确定",
         ):
             with self.subTest(title=title):
                 self.reject(title)
@@ -121,7 +123,19 @@ class NewsFilterTests(unittest.TestCase):
         )
         self.assertEqual(
             canonicalize_url("http://futures.eastmoney.com/a/123.html"),
-            "https://futures.eastmoney.com/a/123.html",
+            "https://finance.eastmoney.com/a/123.html",
+        )
+        self.assertEqual(
+            canonicalize_url("https://futures.eastmoney.com/a/456.html"),
+            "https://finance.eastmoney.com/a/456.html",
+        )
+        self.assertEqual(
+            canonicalize_url("http://m.10jqka.com.cn/20260905/a.shtml?scm=x"),
+            "https://m.10jqka.com.cn/20260905/a.shtml",
+        )
+        self.assertEqual(
+            canonicalize_url("https://finance.sina.cn/a?cid=1&node_id=2&vt=4&id=ok"),
+            "https://finance.sina.cn/a?id=ok",
         )
         self.assertEqual(
             canonicalize_url("https://[2606:4700:4700::1111]/news"),
@@ -136,6 +150,32 @@ class NewsFilterTests(unittest.TestCase):
                     normalize_news_item(self.raw("白糖价格上涨", published_at=value), self.cfg, NOW, 7)
                 )
 
+    def test_old_article_republished_as_today_is_rejected(self) -> None:
+        self.assertIsNone(
+            normalize_news_item(
+                self.raw(
+                    "PTA价格震荡偏强",
+                    url="https://finance.sina.cn/future/2026-04-30/detail-old.html",
+                    published_at="2026-09-08 12:00",
+                ),
+                self.cfg,
+                NOW,
+                7,
+            )
+        )
+        self.assertIsNotNone(
+            normalize_news_item(
+                self.raw(
+                    "PTA价格震荡偏强",
+                    url="https://finance.sina.cn/future/2026-09-08/detail-current.html",
+                    published_at="2026-09-08 12:00",
+                ),
+                self.cfg,
+                NOW,
+                7,
+            )
+        )
+
     def test_url_and_same_day_title_are_deduplicated(self) -> None:
         first = self.raw("豆粕现货价格上涨", url="https://example.com/a", summary="较长的市场供需分析")
         duplicate_url = self.raw("豆粕供应偏紧", url="https://example.com/a")
@@ -144,6 +184,53 @@ class NewsFilterTests(unittest.TestCase):
         rows, _ = curate_news([first, duplicate_url, duplicate_title, unique], self.cfg, NOW)
         self.assertEqual(len(rows), 2)
         self.assertEqual(len({row["url"] for row in rows}), 2)
+
+    def test_syndicated_and_rewritten_stories_are_deduplicated(self) -> None:
+        sina = self.raw(
+            "PX低库存筑牢价格支撑 PTA供应放量多空博弈",
+            source="新浪财经",
+            url="https://finance.sina.com.cn/article",
+            published_at="2026-09-07 09:45",
+        )
+        report = self.raw(
+            "宏源期货:《PX低库存筑牢价格支撑 PTA供应放量多空博弈》",
+            source="发现报告",
+            url="https://www.fxbaogao.com/detail/1",
+            published_at="2026-09-07 11:22",
+        )
+        idn = self.raw(
+            "CPO出口增长5.49%,安姆兰寻求棕榈油附加值",
+            source="IDNFinancials",
+            url="https://www.idnfinancials.com/cn/news/1",
+            published_at="2026-09-07 14:20",
+        )
+        shangbao = self.raw(
+            "印尼农业部长:棕榈油出口增长5.49% 加强印尼在全球贸易中的地位",
+            source="Shangbao Indonesia",
+            url="https://www.shangbaoindonesia.com/read/1",
+            published_at="2026-09-07 13:10",
+        )
+        rows, _ = curate_news([report, sina, shangbao, idn], self.cfg, NOW)
+        self.assertEqual(len(rows), 2)
+        self.assertIn("https://finance.sina.com.cn/article", {row["url"] for row in rows})
+        self.assertIn("https://www.idnfinancials.com/cn/news/1", {row["url"] for row in rows})
+
+    def test_repetitive_source_is_capped_per_material_day(self) -> None:
+        earlier = self.raw(
+            "9月9日猪价:止跌飘红",
+            source="Sohu",
+            url="https://m.sohu.com/a/earlier",
+            published_at="2026-09-09 05:00",
+        )
+        later = self.raw(
+            "9月9日猪价:止跌上涨",
+            source="Sohu",
+            url="https://m.sohu.com/a/later",
+            published_at="2026-09-09 07:00",
+        )
+        rows, _ = curate_news([earlier, later], self.cfg, NOW)
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(rows[0]["url"], "https://m.sohu.com/a/later")
 
     def test_direct_link_beats_google_redirect_for_duplicate_title(self) -> None:
         google = self.raw(
@@ -253,9 +340,10 @@ class NewsFilterTests(unittest.TestCase):
             "豆粕现货价格上涨",
             url="https://news.google.com/rss/articles/ARTICLE_A?oc=5",
         )
-        rows, _ = curate_news([google], self.cfg, NOW)
-        self.assertEqual(len(rows), 1)
-        self.assertEqual(rows[0]["summary"], "")
+        insecure = self.raw("玉米价格上涨", url="http://example.com/insecure")
+        rows, _ = curate_news([google, insecure], self.cfg, NOW)
+        self.assertEqual(len(rows), 2)
+        self.assertEqual(next(row for row in rows if "news.google.com" in row["url"])["summary"], "")
         feed = build_public_feed(rows, self.cfg, NOW)
         self.assertEqual(feed["items"], [])
         self.assertEqual(feed["item_count"], 0)

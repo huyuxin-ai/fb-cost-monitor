@@ -1,25 +1,5 @@
 [
  {
-  "id": "news_ee7bf7c67f336322e357",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T18:29+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "2连板红棉股份:国际原糖价格上涨、厄尔尼诺气候可能导致主要产糖国减产等事项对公司短期经营业绩影响存在不确定性",
-  "summary": "经公司自查,现就相关情况说明如下:公司制糖业务由子公司广州华糖食品有限公司开展,业务模式为采购原糖、普通一级白砂糖作为原料经精炼加工后销售,主要产品为“红棉”牌精制白砂糖等,产品主要用于食品加工、餐饮及民用消费等领域。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093869433868.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "原糖",
-   "白砂糖"
-  ],
-  "relevance_score": 12
- },
- {
   "id": "news_70415a8cbbf6c2c23d22",
   "date": "2026-09-09",
   "published_at": "2026-09-09T16:57+08:00",
@@ -39,26 +19,7 @@
   "relevance_score": 7
  },
  {
-  "id": "news_bb229e29e1eed367d688",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T15:43+08:00",
-  "fetched_at": "2026-09-09T18:12+08:00",
-  "title": "玉米 主力合约收跌0.35%",
-  "summary": "南财智讯9月9日电,盘后期货数据显示,大连商品交易所的 玉米 主力合约收跌0.35%,收盘报2282.0元/吨,日内资金流出6003.3万元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://futures.eastmoney.com/a/202609093869302089.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_9fd661a155fb780dbcc0",
+  "id": "news_da1295780749eec7f73e",
   "date": "2026-09-09",
   "published_at": "2026-09-09T15:43+08:00",
   "fetched_at": "2026-09-09T18:12+08:00",
@@ -66,13 +27,32 @@
   "summary": "南财智讯9月9日电,盘后期货数据显示,大连商品交易所的 生猪 主力合约收跌0.51%,收盘报11730.0元/吨,日内资金流入9118.89万元。其他相关指标见下表:",
   "source": "南方财经网",
   "type": "价格行情",
-  "url": "https://futures.eastmoney.com/a/202609093869301483.html",
+  "url": "https://finance.eastmoney.com/a/202609093869301483.html",
   "company": "",
   "material_ids": [
    "LH"
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_7099bf2f98a3a259eb98",
+  "date": "2026-09-09",
+  "published_at": "2026-09-09T15:43+08:00",
+  "fetched_at": "2026-09-09T18:12+08:00",
+  "title": "玉米 主力合约收跌0.35%",
+  "summary": "南财智讯9月9日电,盘后期货数据显示,大连商品交易所的 玉米 主力合约收跌0.35%,收盘报2282.0元/吨,日内资金流出6003.3万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609093869302089.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
   ],
   "relevance_score": 11
  },
@@ -154,7 +134,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_d2c140fadc599b66efa3",
+  "id": "news_01da22827f56702b5eda",
   "date": "2026-09-09",
   "published_at": "2026-09-09T09:27+08:00",
   "fetched_at": "2026-09-09T18:12+08:00",
@@ -162,7 +142,7 @@
   "summary": "本周仔猪 价格 整体变动不大,断奶仔猪主流报价130-170元/头。受节后消费淡季及夏季疫病影响,市场补栏积极性一般,多观望为主,整体成交有限。预计短期猪价延续震荡调整。 【 蛋白 粕】 蛋白 粕:夜盘豆菜粕偏弱震荡,根据最新作物生长报告,美豆优良率继续下降。",
   "source": "申银万国期货",
   "type": "价格行情",
-  "url": "https://futures.eastmoney.com/a/202609093868928021.html",
+  "url": "https://finance.eastmoney.com/a/202609093868928021.html",
   "company": "",
   "material_ids": [
    "LH"
@@ -175,7 +155,7 @@
   "relevance_score": 12
  },
  {
-  "id": "news_3fbca4714955430336c4",
+  "id": "news_be7563a333e980edfb1a",
   "date": "2026-09-09",
   "published_at": "2026-09-09T09:10+08:00",
   "fetched_at": "2026-09-09T18:12+08:00",
@@ -183,7 +163,7 @@
   "summary": "豆粕 菜粕 美豆优良率58%,连粕偏强震荡 周二, 豆粕 01合约收涨0.32%,报3415元/吨;广东 豆粕 现货涨10收于3280元/吨;菜粕01合约收涨0.04%,报2401元/吨;广西菜粕现货涨30收于2530元/吨;CBOT美豆11月合约涨6.5收于1316.75美分/蒲式耳",
   "source": "铜冠金源期货",
   "type": "价格行情",
-  "url": "https://futures.eastmoney.com/a/202609093868854214.html",
+  "url": "https://finance.eastmoney.com/a/202609093868854214.html",
   "company": "",
   "material_ids": [
    "M"
@@ -213,7 +193,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_6e89917a6b03b592f449",
+  "id": "news_6cefdba98a9df9cdb797",
   "date": "2026-09-09",
   "published_at": "2026-09-09T08:58+08:00",
   "fetched_at": "2026-09-09T18:42+08:00",
@@ -221,7 +201,7 @@
   "summary": "",
   "source": "Sohu",
   "type": "供需动态",
-  "url": "https://m.sohu.com/a/1073634873_121157270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+  "url": "https://m.sohu.com/a/1073634873_121157270",
   "company": "",
   "material_ids": [
    "LH"
@@ -232,7 +212,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_09b86c76447458e5d771",
+  "id": "news_0827a807b59a6627e379",
   "date": "2026-09-09",
   "published_at": "2026-09-09T08:52+08:00",
   "fetched_at": "2026-09-09T18:12+08:00",
@@ -240,7 +220,7 @@
   "summary": "国内方面,蛋白柏震荡运行,市场谨慎观望,现货库存压力下降,终端走货尚可。近远月市场拉锯,关注资金动态。(豆粕论坛) 生猪 今日主题:继续累积矛盾 关注均重数据 一.市场观点 现货端,今日全国均价录得10.9元/kg,环比未变。",
   "source": "混沌天成期货",
   "type": "价格行情",
-  "url": "https://futures.eastmoney.com/a/202609093868754329.html",
+  "url": "https://finance.eastmoney.com/a/202609093868754329.html",
   "company": "",
   "material_ids": [
    "LH"
@@ -251,7 +231,7 @@
   "relevance_score": 11
  },
  {
-  "id": "news_b402ed412aef52e1031a",
+  "id": "news_726c8853cd3b27419588",
   "date": "2026-09-09",
   "published_at": "2026-09-09T08:24+08:00",
   "fetched_at": "2026-09-09T18:12+08:00",
@@ -259,7 +239,7 @@
   "summary": "不过,高成本持续增加盘面榨利亏损,或限制远期采购动能,并收缩远月大豆与 豆粕 供应, 豆粕 成本与供应端双重支撑继续被夯实。整体而言, 豆粕 近期仍以成本逻辑为主,后续或将转移至四季度大豆供应收缩的逻辑,支撑坚挺,但此次大涨过后继续上行空间或受限,高位震荡为主。后续需重点关注:1.",
   "source": "长安期货",
   "type": "价格行情",
-  "url": "https://futures.eastmoney.com/a/202609093868711888.html",
+  "url": "https://finance.eastmoney.com/a/202609093868711888.html",
   "company": "",
   "material_ids": [
    "M"
@@ -289,45 +269,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_8ab5ab2e8feb23990bac",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T07:00+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "9月9日猪价:止跌上涨!猪价“突然升温”,新一轮“猛烈”上涨到来?",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1073470706_120238851?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6aa39cc36ca4d54d35b2",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T05:00+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "9月9日猪价:枯木逢春!猪价止跌“飘红”,二师兄旺季上涨序幕开启?",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1073467486_120238851?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_036b3777de1852ea76d1",
+  "id": "news_885fc615ef4ad14373ca",
   "date": "2026-09-09",
   "published_at": "2026-09-09T01:08+08:00",
   "fetched_at": "2026-09-09T18:42+08:00",
@@ -335,7 +277,7 @@
   "summary": "",
   "source": "新浪财经",
   "type": "供需动态",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-08/detail-inirapze9658367.d.html?cid=76576&node_id=76576&vt=4",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-08/detail-inirapze9658367.d.html",
   "company": "",
   "material_ids": [
    "C",
@@ -348,26 +290,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_9ccf200ce2a4234dc5bd",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T15:24+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "成本基本面双重提振 PTA价格震荡偏强为主",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-04-30/detail-inhwfyek6245378.d.html?cid=76576&node_id=76576&oid=%E5%AE%89%E5%93%A5%E6%8B%89%E5%AE%B6%E9%95%BF%E6%95%B0%E6%8D%AE%7Cshuju668%E7%82%B9c0m%7C%E6%88%BF%E4%B8%BB%E6%95%B0%E6%8D%AE_%E8%BD%A6%E4%B8%BB%E6%95%B0%E6%8D%AE&vt=4",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_53a4d606c3999903c2dc",
+  "id": "news_404ee76c9f0aac9e376b",
   "date": "2026-09-08",
   "published_at": "2026-09-08T14:01+08:00",
   "fetched_at": "2026-09-09T18:42+08:00",
@@ -375,7 +298,7 @@
   "summary": "",
   "source": "新浪财经",
   "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-08/detail-inirauia4783850.d.html?cid=76576&node_id=76576&vt=4",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-08/detail-inirauia4783850.d.html",
   "company": "",
   "material_ids": [
    "SP"
@@ -424,7 +347,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_3f9bfd0a4676600369f9",
+  "id": "news_c13fd84e5e03093c1080",
   "date": "2026-09-08",
   "published_at": "2026-09-08T06:49+08:00",
   "fetched_at": "2026-09-09T18:42+08:00",
@@ -432,7 +355,7 @@
   "summary": "",
   "source": "Sohu",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1072973442_120238851?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+  "url": "https://m.sohu.com/a/1072973442_120238851",
   "company": "",
   "material_ids": [
    "LH"
@@ -443,47 +366,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_9f6c91c9c50583ed889a",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T06:15+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "厄尔尼诺气候热度提升影响 豆粕棕榈油震荡偏强运行",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/pzyj/2026-04-23/detail-inhvnhrh5496284.d.html?cid=76576&node_id=76576&oid=%E6%B8%97%E9%80%8F%E7%8E%87%E8%B7%9F%E4%BB%80%E4%B9%88%E6%9C%89%E5%85%B3%E7%B3%BB%E2%86%98%E9%9C%80%E8%A6%81%E8%81%94%E7%B3%BBTG%3A%40HHCH8%E6%92%9E%E5%BA%93%E6%95%B0%E6%8D%AE%E6%B8%97%E9%80%8F%E6%95%B0%E6%8D%AE%E6%B5%B7%E5%A4%96%E6%94%AF%E4%BB%98%E9%80%9A%E9%81%93%E2%86%99RjJf&vt=4",
-  "company": "",
-  "material_ids": [
-   "P",
-   "M"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "豆粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7e00b753ef29ef3041c0",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T05:49+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "9月8日猪价:跌懵了!猪价“失控”下跌,“金九”旺季上涨“落空”?",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1072972406_120238851?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b9c8cfc9286e390b1dec",
+  "id": "news_f6825ed78e7246d5e1b0",
   "date": "2026-09-08",
   "published_at": "2026-09-08T01:25+08:00",
   "fetched_at": "2026-09-09T18:42+08:00",
@@ -491,7 +374,7 @@
   "summary": "",
   "source": "新浪财经",
   "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-09-08/detail-iniqzsvr0026729.d.html?vt=4&wm=4007%2C4007%2C4007%2C4007%2F%2F%2F%2F%3Fvt",
+  "url": "https://finance.sina.cn/2026-09-08/detail-iniqzsvr0026729.d.html",
   "company": "",
   "material_ids": [
    "LH"
@@ -638,25 +521,6 @@
   "relevance_score": 8
  },
  {
-  "id": "news_fac8a3f28a3933da118e",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T13:10+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "印尼农业部长:棕榈油出口增长5.49% 加强印尼在全球贸易中的地位",
-  "summary": "",
-  "source": "Shangbao Indonesia",
-  "type": "供需动态",
-  "url": "http://www.shangbaoindonesia.com/read/2026/09/07/economy-1788761436",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
   "id": "news_5d66a622e47e2a96d81c",
   "date": "2026-09-07",
   "published_at": "2026-09-07T11:49+08:00",
@@ -676,7 +540,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_5eb695bb6c3d40c02b96",
+  "id": "news_cd3c3138e71b45d5ba30",
   "date": "2026-09-07",
   "published_at": "2026-09-07T11:46+08:00",
   "fetched_at": "2026-09-09T18:42+08:00",
@@ -684,7 +548,7 @@
   "summary": "",
   "source": "新浪财经",
   "type": "价格行情",
-  "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101tvvy?finpagefr=p_103&vt=4",
+  "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101tvvy",
   "company": "",
   "material_ids": [
    "LH"
@@ -710,25 +574,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_415988cec11517206dd0",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T11:22+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "宏源期货:《PX低库存筑牢价格支撑 PTA供应放量多空博弈》",
-  "summary": "",
-  "source": "发现报告",
-  "type": "价格行情",
-  "url": "https://www.fxbaogao.com/detail/5676202",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
   ],
   "relevance_score": 8
  },
@@ -904,7 +749,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_3b19fec96054717d317c",
+  "id": "news_fb021019035958b327ae",
   "date": "2026-09-05",
   "published_at": "2026-09-05T15:00+08:00",
   "fetched_at": "2026-09-09T18:42+08:00",
@@ -912,33 +757,13 @@
   "summary": "",
   "source": "同花顺财经",
   "type": "供需动态",
-  "url": "http://m.10jqka.com.cn/20260905/c679628442.shtml",
+  "url": "https://m.10jqka.com.cn/20260905/c679628442.shtml",
   "company": "",
   "material_ids": [
    "LH"
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_796005b46a1bd6993caf",
-  "date": "2026-09-04",
-  "published_at": "2026-09-04T20:21+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "农牧渔板块全线猛攻!生猪价格持续上涨,猪周期拐点将至?",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://cj.sina.cn/articles/view/3163877770/bc94f18a02001c6cy",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
   ],
   "relevance_score": 8
  },
@@ -1001,7 +826,7 @@
   "relevance_score": 8
  },
  {
-  "id": "news_97520784a676727200e0",
+  "id": "news_58bddfcd0ab830030832",
   "date": "2026-09-04",
   "published_at": "2026-09-04T13:31+08:00",
   "fetched_at": "2026-09-09T18:42+08:00",
@@ -1009,7 +834,7 @@
   "summary": "",
   "source": "新浪财经",
   "type": "供需动态",
-  "url": "https://cj.sina.cn/articles/view/6673384970/18dc3c60a001029aag?finpagefr=p_103&vt=4",
+  "url": "https://cj.sina.cn/articles/view/6673384970/18dc3c60a001029aag",
   "company": "",
   "material_ids": [
    "ANCHOVY",
@@ -1077,25 +902,6 @@
   "matched_keywords": [
    "原奶",
    "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_4f8a96e505c6c2193979",
-  "date": "2026-07-02",
-  "published_at": "2026-07-02T00:00+08:00",
-  "fetched_at": "2026-07-02T00:00+08:00",
-  "title": "养殖板块底部反弹 政策加码改善生猪供需关系",
-  "summary": "",
-  "source": "证券时报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202607023790653198.html",
-  "company": "双汇发展",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  }

@@ -21,8 +21,22 @@ from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 PIPE = Path(__file__).resolve().parent
 CONFIG_PATH = PIPE / "news_config.json"
 BJT = timezone(timedelta(hours=8))
-TRACKING_PARAMS = {"spm", "from", "ref", "source", "src", "track", "tracking"}
-HTTPS_UPGRADE_HOSTS = {"futures.eastmoney.com", "stock.eastmoney.com", "finance.eastmoney.com"}
+TRACKING_PARAMS = {
+    "spm", "from", "ref", "source", "src", "track", "tracking",
+    "cid", "node_id", "oid", "vt", "wm", "scm", "finpagefr",
+}
+HTTPS_UPGRADE_HOSTS = {
+    "futures.eastmoney.com",
+    "stock.eastmoney.com",
+    "finance.eastmoney.com",
+    "m.10jqka.com.cn",
+    "www.shangbaoindonesia.com",
+}
+CANONICAL_HOSTS = {
+    # 东方财富期货旧入口会先降级跳转到 HTTP，再回到 HTTPS。
+    "futures.eastmoney.com": "finance.eastmoney.com",
+}
+LOWER_QUALITY_AGGREGATOR_HOSTS = {"www.fxbaogao.com"}
 
 
 def load_news_config(path: Path | None = None) -> dict:
@@ -101,6 +115,7 @@ def canonicalize_url(value: object) -> str | None:
         scheme = "https"
         if port == 80:
             port = None
+    host = CANONICAL_HOSTS.get(host, host)
     host_for_netloc = f"[{host}]" if ":" in host else host
     netloc = host_for_netloc
     if port and not ((scheme == "http" and port == 80) or (scheme == "https" and port == 443)):
@@ -199,6 +214,23 @@ def title_has_stale_event_date(title: str, published: datetime) -> bool:
         if distance > 1:
             return True
     return False
+
+
+def url_has_conflicting_date(url: str, published: datetime) -> bool:
+    """拦截搜索源把旧文当成当天新闻的情况。
+
+    例如 published_at 是 9 月 8 日，但原文路径明确写着 2026-04-30。
+    允许 14 天误差，兼容专题页、时区和少量后续编辑。
+    """
+    path = urlsplit(url).path
+    matches = re.findall(r"(?<!\d)(20\d{2})[-_/]?([01]\d)[-_/]?([0-3]\d)", path)
+    candidates: list[date] = []
+    for year_text, month_text, day_text in matches:
+        try:
+            candidates.append(date(int(year_text), int(month_text), int(day_text)))
+        except ValueError:
+            continue
+    return bool(candidates) and min(abs((candidate - published.date()).days) for candidate in candidates) > 14
 
 
 def match_materials(title: str, summary: str, cfg: dict) -> tuple[list[str], list[str], int]:
@@ -308,6 +340,8 @@ def normalize_news_item(raw: dict, cfg: dict, now: datetime, max_age_days: int) 
         return None
     if title_has_stale_event_date(title, published):
         return None
+    if url_has_conflicting_date(url, published):
+        return None
 
     material_ids, matched_keywords, score = match_materials(title, summary, cfg)
     if not material_ids:
@@ -340,9 +374,47 @@ def _title_key(item: dict) -> str:
     return f"{item['date']}|{title}"
 
 
-def _quality(item: dict) -> tuple[int, int, int, str, str]:
+def _quality(item: dict) -> tuple[int, int, int, int, int, str, str, str]:
     direct = 0 if is_google_news_url(item["url"]) else 1
-    return direct, int(item.get("relevance_score", 0)), len(item.get("summary", "")), item["source"], item["url"]
+    parts = urlsplit(item["url"])
+    secure = 1 if parts.scheme == "https" else 0
+    publisher_quality = 0 if (parts.hostname or "").lower() in LOWER_QUALITY_AGGREGATOR_HOSTS else 1
+    return (
+        direct,
+        secure,
+        publisher_quality,
+        int(item.get("relevance_score", 0)),
+        len(item.get("summary", "")),
+        item["published_at"],
+        item["source"],
+        item["url"],
+    )
+
+
+def _plain_title(item: dict) -> str:
+    return re.sub(r"[\W_]+", "", normalized_text(item["title"]), flags=re.UNICODE)
+
+
+def _has_common_substring(left: str, right: str, length: int = 7) -> bool:
+    shorter, longer = sorted((left, right), key=len)
+    if len(shorter) < length:
+        return False
+    return any(shorter[index : index + length] in longer for index in range(len(shorter) - length + 1))
+
+
+def _is_semantic_duplicate(item: dict, existing: dict) -> bool:
+    if item["date"] != existing["date"] or not set(item["material_ids"]) & set(existing["material_ids"]):
+        return False
+    left = _plain_title(item)
+    right = _plain_title(existing)
+    shorter, longer = sorted((left, right), key=len)
+    if len(shorter) >= 12 and shorter in longer:
+        return True
+    # 跨媒体转载常会改写前后缀，但保留同一个核心数字和短语。
+    # 同日、同品种、数字一致且有连续 7 个字符相同时，视为同篇转载。
+    left_numbers = set(re.findall(r"\d+(?:\.\d+)?%?", normalized_text(item["title"])))
+    right_numbers = set(re.findall(r"\d+(?:\.\d+)?%?", normalized_text(existing["title"])))
+    return bool(left_numbers & right_numbers) and _has_common_substring(left, right)
 
 
 def curate_news(raw_items: list[dict], cfg: dict, now: datetime | None = None) -> tuple[list[dict], dict]:
@@ -358,15 +430,28 @@ def curate_news(raw_items: list[dict], cfg: dict, now: datetime | None = None) -
 
     normalized.sort(key=_quality, reverse=True)
     unique: list[dict] = []
+    daily_counts: Counter[tuple[str, str, tuple[str, ...]]] = Counter()
+    source_caps = cfg.get("source_material_daily_caps", {})
     for item in normalized:
         key = _title_key(item)
         duplicate = next(
-            (existing for existing in unique if existing["url"] == item["url"] or _title_key(existing) == key),
+            (
+                existing
+                for existing in unique
+                if existing["url"] == item["url"]
+                or _title_key(existing) == key
+                or _is_semantic_duplicate(item, existing)
+            ),
             None,
         )
         if duplicate:
             duplicate["fetched_at"] = min(duplicate["fetched_at"], item["fetched_at"])
             continue
+        daily_key = (item["date"], item["source"], tuple(item["material_ids"]))
+        source_cap = source_caps.get(item["source"])
+        if isinstance(source_cap, int) and source_cap > 0 and daily_counts[daily_key] >= source_cap:
+            continue
+        daily_counts[daily_key] += 1
         unique.append(dict(item))
     unique.sort(key=lambda item: (item["published_at"], item["relevance_score"], item["id"]), reverse=True)
     unique = unique[: int(cfg["max_archive_items"])]
@@ -380,7 +465,9 @@ def build_public_feed(curated: list[dict], cfg: dict, now: datetime | None = Non
     items = [
         item
         for item in curated
-        if parse_datetime(item["published_at"]) >= cutoff and not is_google_news_url(item["url"])
+        if parse_datetime(item["published_at"]) >= cutoff
+        and not is_google_news_url(item["url"])
+        and urlsplit(item["url"]).scheme == "https"
     ]
     items = items[: int(cfg["max_public_items"])]
     updated_at = max((item["fetched_at"] for item in items), default=None)
@@ -437,6 +524,8 @@ def validate_public_feed(
             raise ValueError(f"新闻 {item.get('id')} 的 URL 或时间无效")
         if is_google_news_url(item["url"]):
             raise ValueError(f"新闻 {item.get('id')} 仍是 Google 聚合跳转，不可发布")
+        if urlsplit(item["url"]).scheme != "https":
+            raise ValueError(f"新闻 {item.get('id')} 不是 HTTPS 原文链接，不可发布")
         if published > now + timedelta(minutes=10) or fetched > now + timedelta(minutes=10):
             raise ValueError(f"新闻 {item.get('id')} 的时间来自未来")
         if item.get("date") != published.date().isoformat():
