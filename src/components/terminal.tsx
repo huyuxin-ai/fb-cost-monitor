@@ -28,6 +28,7 @@ export function Panel({
   children,
   className = '',
   bodyClassName = '',
+  headerLayout = 'responsive',
 }: {
   title: ReactNode
   source?: string
@@ -36,15 +37,16 @@ export function Panel({
   children: ReactNode
   className?: string
   bodyClassName?: string
+  headerLayout?: 'responsive' | 'stacked'
 }) {
   return (
     <section className={`panel ${className}`}>
-      <div className="panel-header">
-        <div className="flex items-center gap-2">
-          <span className="inline-block h-3 w-[3px] bg-[#f0b90b]" />
+      <div className={`panel-header ${headerLayout === 'stacked' ? 'panel-header-stacked' : ''}`}>
+        <div className="panel-heading">
+          <span className="inline-block h-3 w-[3px] shrink-0 bg-[#f0b90b]" />
           <h2 className="panel-title">{title}</h2>
         </div>
-        <div className="flex items-center gap-2">
+        <div className="panel-header-meta">
           {extra}
           {source && (
             <span className="src-tag" title="数据源·更新时间">

@@ -199,7 +199,7 @@ export default function SensitivityPage() {
         </div>
         {simRows.length ? (
           <div className="overflow-x-auto">
-          <table className="dt">
+          <table className="dt min-w-[700px]">
             <thead>
               <tr>
                 <th>#</th>

@@ -303,8 +303,8 @@ export default function KlinePage() {
             </button>
           ))}
         </div>
-        <div className="min-h-0 flex-1 overflow-y-auto" style={{ maxHeight: 720 }}>
-          <table className="dt">
+        <div className="min-h-0 flex-1 overflow-auto" style={{ maxHeight: 720 }}>
+          <table className="dt min-w-[520px]">
             <thead>
               <tr>
                 <th className="min-w-[116px] whitespace-nowrap">名称/代码</th>

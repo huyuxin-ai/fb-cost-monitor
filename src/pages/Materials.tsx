@@ -130,8 +130,8 @@ function MaterialDetail({ m }: { m: Material }) {
         <div className="px-1.5 pt-1 text-[11px] font-semibold text-[#8b98a9]">
           连续 {m.series.length} 周数据
         </div>
-        <div className="max-h-56 overflow-y-auto">
-          <table className="dt">
+        <div className="max-h-56 overflow-auto">
+          <table className="dt min-w-[620px]">
             <thead>
               <tr>
                 <th>周</th>
@@ -285,7 +285,7 @@ export default function MaterialsPage() {
       }
     >
       <div className="overflow-x-auto">
-        <table className="dt">
+        <table className="dt min-w-[1050px]">
           <thead>
             <tr>
               <th>品种</th>

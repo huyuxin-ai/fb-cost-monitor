@@ -48,24 +48,28 @@ export default function Layout() {
     <div className="flex min-h-full flex-col bg-[#0d1117]">
       {/* 顶部终端条 */}
       <header className="sticky top-0 z-40 border-b border-[#232b36] bg-[#11161d]">
-        <div className="flex items-center gap-3 px-3 pt-1.5">
+        <div className="flex min-w-0 items-center gap-2 px-2 pt-1.5 sm:gap-3 sm:px-3">
           {/* 移动端抽屉按钮 */}
           <button
             onClick={() => setDrawerOpen(true)}
-            className="flex h-6 w-6 items-center justify-center rounded-sm border border-[#2a3442] text-[13px] text-[#8b98a9] hover:border-[#f0b90b]/60 hover:text-[#f0b90b] md:hidden"
+            className="flex h-8 w-8 shrink-0 items-center justify-center rounded-sm border border-[#2a3442] text-[15px] text-[#8b98a9] hover:border-[#f0b90b]/60 hover:text-[#f0b90b] sm:h-7 sm:w-7 md:hidden"
             title="打开导航菜单"
+            aria-label="打开导航菜单"
           >
             ☰
           </button>
-          <div className="flex items-center gap-2">
-            <span className="flex h-5 w-5 items-center justify-center rounded-sm bg-[#f0b90b] text-[12px] font-black text-[#1a1305]">
+          <div className="flex min-w-0 flex-1 items-center gap-2 sm:flex-none">
+            <span className="flex h-5 w-5 shrink-0 items-center justify-center rounded-sm bg-[#f0b90b] text-[12px] font-black text-[#1a1305]">
               原
             </span>
-            <div className="leading-tight">
-              <div className="text-[13px] font-bold tracking-wide text-[#e8eef5]">
+            <div className="min-w-0 leading-tight">
+              <div className="truncate text-[13px] font-bold tracking-wide text-[#e8eef5] sm:hidden">
+                {SITE.name}
+              </div>
+              <div className="hidden text-[13px] font-bold tracking-wide text-[#e8eef5] sm:block">
                 {SITE.fullName}
               </div>
-              <div className="font-mono text-[10px] text-[#5c6875]">
+              <div className="hidden font-mono text-[10px] text-[#5c6875] sm:block">
                 {SITE.subtitle} · {SITE.version}
               </div>
             </div>
@@ -73,14 +77,15 @@ export default function Layout() {
           {/* 搜索入口 */}
           <button
             onClick={() => setSearchOpen(true)}
-            className="ml-2 flex h-6 items-center gap-1.5 rounded-sm border border-[#2a3442] bg-[#0d1117] px-2 text-[11px] text-[#5c6875] hover:border-[#f0b90b]/60 hover:text-[#8b98a9]"
+            className="flex h-8 w-8 shrink-0 items-center justify-center gap-1.5 rounded-sm border border-[#2a3442] bg-[#0d1117] px-0 text-[13px] text-[#5c6875] hover:border-[#f0b90b]/60 hover:text-[#8b98a9] sm:ml-2 sm:h-6 sm:w-auto sm:px-2 sm:text-[11px]"
+            aria-label="搜索品种或公司"
           >
             ⌕ <span className="hidden sm:inline">搜索品种/公司</span>
             <kbd className="hidden rounded-sm border border-[#2a3442] px-1 font-mono text-[9px] md:inline">
               Ctrl+K
             </kbd>
           </button>
-          <div className="ml-auto flex items-center gap-3 font-mono text-[11px] text-[#8b98a9]">
+          <div className="flex shrink-0 items-center gap-3 font-mono text-[11px] text-[#8b98a9] sm:ml-auto">
             <DataStatus />
             <span className="hidden xl:inline">
               异动{' '}

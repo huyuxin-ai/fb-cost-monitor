@@ -282,7 +282,7 @@ function RiskRadar() {
                     : 'border-[#f0b90b]/60 bg-[#f0b90b]/5'
                 } ${nav ? 'cursor-pointer transition-colors hover:bg-[#1a2230]' : ''}`}
               >
-              <div className="flex items-center gap-2">
+              <div className="flex flex-wrap items-center gap-1.5">
                 <span
                   className={`num rounded-sm px-1 text-[11px] font-bold ${
                     h.level === '高' ? 'bg-[#f23645] text-white' : 'bg-[#f0b90b] text-[#1a1305]'
@@ -366,19 +366,21 @@ function NewsSidebar() {
       source={newsFeedStatus(DATA.news_updated_at, latestNewsDate, DATA.news_refresh_minutes ?? 30)}
       className="flex h-full flex-col"
       bodyClassName="flex min-h-0 flex-1 flex-col"
+      headerLayout="stacked"
       extra={
         <input
           value={filter}
           onChange={(e) => setFilter(e.target.value)}
           placeholder="品种/来源/标题"
-          className="h-6 w-28 rounded-sm border border-[#2a3442] bg-[#0d1117] px-1.5 py-0.5 text-[11px] text-[#d6dee8] outline-none placeholder:text-[#5c6875] focus:border-[#f0b90b]/60"
+          aria-label="筛选原材料相关新闻"
+          className="h-7 w-32 shrink-0 rounded-sm border border-[#2a3442] bg-[#0d1117] px-1.5 py-0.5 text-[11px] text-[#d6dee8] outline-none placeholder:text-[#5c6875] focus:border-[#f0b90b]/60 sm:h-6 sm:w-28"
         />
       }
     >
       <div className="mb-1 text-[10px] text-[#5c6875]">
         <span className="text-amber">■</span> 仅展示与已监控原材料的价格、供需、产量或成本直接相关的新闻；异动品种已前置高亮
       </div>
-      <div className="min-h-0 flex-1 space-y-1 overflow-y-auto pr-1" style={{ maxHeight: 620 }}>
+      <div className="min-h-0 flex-1 space-y-1 xl:max-h-[620px] xl:overflow-y-auto xl:pr-1">
         {filtered.map((n: NewsExt) => {
           const nav = newsNav(n)
           return (
@@ -392,10 +394,10 @@ function NewsSidebar() {
                   : 'border-[#2a3442] bg-[#131922]'
               } ${nav ? 'cursor-pointer transition-colors hover:bg-[#1a2230]' : ''}`}
             >
-              <div className="flex items-center gap-1.5 text-[10px] text-[#7d8a9b]">
-                <span className="num">{formatNewsPublished(n.published_at, n.date)}</span>
+              <div className="flex flex-wrap items-center gap-1.5 text-[10px] text-[#7d8a9b]">
+                <span className="num shrink-0 whitespace-nowrap">{formatNewsPublished(n.published_at, n.date)}</span>
                 <span className="tag">{n.type}</span>
-                <span className="truncate">{n.source}</span>
+                <span className="max-w-full truncate">{n.source}</span>
                 {n.relatedMaterials.map((m) => (
                   <span key={m.id} className="tag-import">
                     {m.name}
@@ -433,7 +435,7 @@ function ChainOverview() {
         <Empty text="本周无「重大异动 × 高暴露」组合" />
       ) : (
         <div className="overflow-x-auto">
-          <table className="dt">
+          <table className="dt min-w-[720px]">
             <thead>
               <tr>
                 <th>异动品种</th>

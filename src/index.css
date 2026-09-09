@@ -75,14 +75,30 @@
     @apply rounded border border-[#232b36] bg-[#161c24];
   }
   .panel-header {
-    @apply flex items-center justify-between gap-2 border-b border-[#232b36] px-3 py-1.5;
+    @apply flex flex-col items-stretch gap-1.5 border-b border-[#232b36] px-3 py-2 sm:flex-row sm:items-start sm:justify-between sm:py-1.5;
+  }
+  .panel-heading {
+    @apply flex min-w-0 items-center gap-2;
+  }
+  .panel-header-meta {
+    @apply flex w-full min-w-0 flex-wrap items-center gap-x-2 gap-y-1 sm:w-auto sm:flex-1 sm:justify-end;
+  }
+  .panel-header-stacked {
+    @apply sm:flex-col sm:items-stretch;
+  }
+  .panel-header-stacked .panel-header-meta {
+    @apply sm:w-full sm:justify-between;
+  }
+  .panel-header-stacked .src-tag {
+    @apply sm:flex-1 sm:text-right;
   }
   .panel-title {
-    @apply text-[13px] font-semibold text-[#e8eef5];
+    @apply min-w-0 text-[13px] font-semibold leading-snug text-[#e8eef5];
   }
   /* 数据源 · 更新时间 标注 */
   .src-tag {
-    @apply whitespace-nowrap font-mono text-[10px] leading-tight text-[#7d8a9b];
+    @apply w-full min-w-0 whitespace-normal break-words font-mono text-[10px] leading-relaxed text-[#7d8a9b] sm:w-auto sm:flex-1 sm:text-right;
+    overflow-wrap: anywhere;
   }
   /* 数字等宽 */
   .num {
@@ -130,10 +146,10 @@
     @apply inline-block rounded-sm bg-[#3a4657] px-1.5 py-px text-[11px] text-[#c8d2de];
   }
   .tag {
-    @apply inline-block rounded-sm border border-[#2a3442] bg-[#1a2230] px-1 py-px text-[10px] text-[#8b98a9];
+    @apply inline-block shrink-0 whitespace-nowrap rounded-sm border border-[#2a3442] bg-[#1a2230] px-1 py-px text-[10px] text-[#8b98a9];
   }
   .tag-import {
-    @apply inline-block rounded-sm border border-[#7c5e10] bg-[#2b230c] px-1 py-px text-[10px] text-[#f0b90b];
+    @apply inline-block shrink-0 whitespace-nowrap rounded-sm border border-[#7c5e10] bg-[#2b230c] px-1 py-px text-[10px] text-[#f0b90b];
   }
 }
 
