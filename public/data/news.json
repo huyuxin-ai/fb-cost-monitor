@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-09-09T21:04+08:00",
+ "updated_at": "2026-09-09T23:02+08:00",
  "refresh_minutes": 30,
- "item_count": 51,
+ "item_count": 52,
  "source_counts": {
   "21财经": 1,
   "IDNFinancials": 1,
   "Shangbao Indonesia": 1,
   "Sohu": 2,
-  "Vietnam.vn": 1,
+  "Vietnam.vn": 2,
   "cbgc.scol.com.cn": 1,
   "finance.sina.com.cn": 8,
   "guandian.cn": 1,
@@ -111,6 +111,25 @@
     "棕榈油"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_2267691bdd8f2c1ad29b",
+   "date": "2026-09-09",
+   "published_at": "2026-09-09T18:47+08:00",
+   "fetched_at": "2026-09-09T23:02+08:00",
+   "title": "进口腰果平均价格",
+   "summary": "",
+   "source": "Vietnam.vn",
+   "type": "价格行情",
+   "url": "https://www.vietnam.vn/zh-cn/tag/gia-hat-dieu-nhap-khau-binh-quan",
+   "company": "",
+   "material_ids": [
+    "CASHEW"
+   ],
+   "matched_keywords": [
+    "腰果"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_70415a8cbbf6c2c23d22",
