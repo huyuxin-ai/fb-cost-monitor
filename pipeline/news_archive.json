@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_cf46bff585d59ab28276",
+  "date": "2026-09-09",
+  "published_at": "2026-09-09T19:07+08:00",
+  "fetched_at": "2026-09-09T19:41+08:00",
+  "title": "【现货异动】玉米纤维单日暴涨4.67%!玉米原料走强+饲料补库双轮驱动价格飙升",
+  "summary": "据同花顺iFinD数据显示,现货商品玉米纤维9月9日最新价格1120.00元/吨,单日上涨4.67%,最近一周上涨6.67%,一个月累计上涨1.82%。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-09/doc-inirfumn8858219.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_117ad68ce9054b725a5c",
+  "date": "2026-09-09",
+  "published_at": "2026-09-09T18:58+08:00",
+  "fetched_at": "2026-09-09T19:41+08:00",
+  "title": "红棉股份:国际原糖价格上涨等对公司短期经营业绩的影响存在不确定性",
+  "summary": "公司制糖业务由子公司广州华糖食品有限公司开展,业务模式为采购原糖、普通一级白砂糖作为原料经精炼加工后销售,主要产品为“红棉”牌精制白砂糖等,产品主要用于食品加工、餐饮及民用消费等领域。2026年半年度,公司制糖业务实现营业收入约7.25亿元,占公司营业收入的68.07%。",
+  "source": "界面新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609093869474394.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "原糖",
+   "白砂糖"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_cf9fd79f9860e2956529",
   "date": "2026-09-09",
   "published_at": "2026-09-09T18:54+08:00",
@@ -783,6 +822,25 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6f3ee6d299b8083ff3f2",
+  "date": "2026-09-05",
+  "published_at": "2026-09-05T05:48+08:00",
+  "fetched_at": "2026-09-09T19:41+08:00",
+  "title": "油脂有“料”:豆油利多气氛浓厚,9月或继续走高",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-04/detail-iniqrpqw4132615.d.html",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
   ],
   "relevance_score": 8
  },
