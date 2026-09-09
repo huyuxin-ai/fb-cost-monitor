@@ -85,6 +85,7 @@ class NewsFilterTests(unittest.TestCase):
             "某肉业公司业绩会：生猪养殖业务净利润亏损",
             "农牧渔板块全线猛攻，生猪价格持续上涨",
             "2连板公司称国际原糖价格上涨对业绩影响不确定",
+            "猪价深跌、鸡价回暖难抵成本压力，双主业同陷亏损，温氏股份中报转亏",
         ):
             with self.subTest(title=title):
                 self.reject(title)
