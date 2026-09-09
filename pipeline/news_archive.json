@@ -408,6 +408,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_d6a03d0490019b11d1b3",
+  "date": "2026-09-08",
+  "published_at": "2026-09-08T11:45+08:00",
+  "fetched_at": "2026-09-10T02:47+08:00",
+  "title": "【现货】9月8日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260908/c679692042.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_084179fa78410069fe66",
   "date": "2026-09-08",
   "published_at": "2026-09-08T09:30+08:00",
@@ -905,25 +924,6 @@
   "relevance_score": 8
  },
  {
-  "id": "news_9696b972fe77dfa6a68c",
-  "date": "2026-09-04",
-  "published_at": "2026-09-04T18:43+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "油脂有“料”:豆油利多气氛浓厚,9月或继续走高_期市动态",
-  "summary": "",
-  "source": "中金在线",
-  "type": "价格行情",
-  "url": "http://futures.cnfol.com/qishidongtai/20260904/32360670.shtml",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
   "id": "news_6ce38812148009d87ad0",
   "date": "2026-09-04",
   "published_at": "2026-09-04T15:06+08:00",
@@ -962,6 +962,25 @@
    "鳀鱼",
    "秘鲁鳀鱼",
    "鱼油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f32874792d6d0ebc8931",
+  "date": "2026-09-04",
+  "published_at": "2026-09-04T11:29+08:00",
+  "fetched_at": "2026-09-09T18:42+08:00",
+  "title": "油脂有“料”:豆油利多气氛浓厚,9月或继续走高",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/2026-09-04/doc-iniqrpqw4132615.shtml",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
   ],
   "relevance_score": 8
  },

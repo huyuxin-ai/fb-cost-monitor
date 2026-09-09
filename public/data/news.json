@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-09T23:02+08:00",
+ "updated_at": "2026-09-10T02:47+08:00",
  "refresh_minutes": 30,
- "item_count": 52,
+ "item_count": 54,
  "source_counts": {
   "21财经": 1,
   "IDNFinancials": 1,
@@ -9,7 +9,7 @@
   "Sohu": 2,
   "Vietnam.vn": 2,
   "cbgc.scol.com.cn": 1,
-  "finance.sina.com.cn": 8,
+  "finance.sina.com.cn": 9,
   "guandian.cn": 1,
   "qq.com": 1,
   "video.sina.com.cn": 1,
@@ -19,7 +19,7 @@
   "华联期货": 1,
   "南方财经网": 2,
   "发现报告": 2,
-  "同花顺财经": 8,
+  "同花顺财经": 9,
   "数据宝": 1,
   "新华财经·期货日报": 1,
   "新浪财经": 8,
@@ -437,6 +437,25 @@
    ],
    "matched_keywords": [
     "纸浆"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d6a03d0490019b11d1b3",
+   "date": "2026-09-08",
+   "published_at": "2026-09-08T11:45+08:00",
+   "fetched_at": "2026-09-10T02:47+08:00",
+   "title": "【现货】9月8日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260908/c679692042.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
    ],
    "relevance_score": 8
   },
@@ -976,6 +995,25 @@
     "鳀鱼",
     "秘鲁鳀鱼",
     "鱼油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_f32874792d6d0ebc8931",
+   "date": "2026-09-04",
+   "published_at": "2026-09-04T11:29+08:00",
+   "fetched_at": "2026-09-09T18:42+08:00",
+   "title": "油脂有“料”:豆油利多气氛浓厚,9月或继续走高",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/2026-09-04/doc-iniqrpqw4132615.shtml",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
    ],
    "relevance_score": 8
   },
