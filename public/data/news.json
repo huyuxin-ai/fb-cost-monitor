@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-10T02:47+08:00",
+ "updated_at": "2026-09-10T05:32+08:00",
  "refresh_minutes": 30,
- "item_count": 54,
+ "item_count": 56,
  "source_counts": {
   "21财经": 1,
   "IDNFinancials": 1,
@@ -9,7 +9,7 @@
   "Sohu": 2,
   "Vietnam.vn": 2,
   "cbgc.scol.com.cn": 1,
-  "finance.sina.com.cn": 9,
+  "finance.sina.com.cn": 10,
   "guandian.cn": 1,
   "qq.com": 1,
   "video.sina.com.cn": 1,
@@ -22,6 +22,7 @@
   "同花顺财经": 9,
   "数据宝": 1,
   "新华财经·期货日报": 1,
+  "新浪网": 1,
   "新浪财经": 8,
   "混沌天成期货": 1,
   "申银万国期货": 1,
@@ -32,6 +33,25 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_c72ef7a54707e82b631b",
+   "date": "2026-09-10",
+   "published_at": "2026-09-10T00:00+08:00",
+   "fetched_at": "2026-09-10T05:32+08:00",
+   "title": "涨,多地上涨!2026.9.10生猪市场信息交流",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-10/doc-inirhezh8775703.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_9eb6516f5ce98487e17d",
    "date": "2026-09-09",
@@ -128,6 +148,25 @@
    ],
    "matched_keywords": [
     "腰果"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_93d35669086b1c8d49ae",
+   "date": "2026-09-09",
+   "published_at": "2026-09-09T17:33+08:00",
+   "fetched_at": "2026-09-10T05:32+08:00",
+   "title": "生意社2026年9月9日PTA行情观点:震荡",
+   "summary": "",
+   "source": "新浪网",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-09-09/detail-iniresya5752144.d.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
    ],
    "relevance_score": 8
   },

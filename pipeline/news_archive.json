@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_c72ef7a54707e82b631b",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T00:00+08:00",
+  "fetched_at": "2026-09-10T05:32+08:00",
+  "title": "涨,多地上涨!2026.9.10生猪市场信息交流",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-10/doc-inirhezh8775703.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_9eb6516f5ce98487e17d",
   "date": "2026-09-09",
   "published_at": "2026-09-09T19:45+08:00",
@@ -95,6 +114,25 @@
   ],
   "matched_keywords": [
    "腰果"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_93d35669086b1c8d49ae",
+  "date": "2026-09-09",
+  "published_at": "2026-09-09T17:33+08:00",
+  "fetched_at": "2026-09-10T05:32+08:00",
+  "title": "生意社2026年9月9日PTA行情观点:震荡",
+  "summary": "",
+  "source": "新浪网",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-09-09/detail-iniresya5752144.d.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
   ],
   "relevance_score": 8
  },
