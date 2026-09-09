@@ -447,8 +447,12 @@ def curate_news(raw_items: list[dict], cfg: dict, now: datetime | None = None) -
         if duplicate:
             duplicate["fetched_at"] = min(duplicate["fetched_at"], item["fetched_at"])
             continue
-        daily_key = (item["date"], item["source"], tuple(item["material_ids"]))
-        source_cap = source_caps.get(item["source"])
+        # 聚合源可能把同一网站写成不同来源名（如 Sohu / sohu.com），
+        # 因此按实际发布域名限频，避免重复改写稿在下一轮采集时重新进入。
+        publisher = (urlsplit(item["url"]).hostname or "").lower()
+        cap_key = publisher if publisher in source_caps else item["source"]
+        daily_key = (item["date"], cap_key, tuple(item["material_ids"]))
+        source_cap = source_caps.get(cap_key)
         if isinstance(source_cap, int) and source_cap > 0 and daily_counts[daily_key] >= source_cap:
             continue
         daily_counts[daily_key] += 1

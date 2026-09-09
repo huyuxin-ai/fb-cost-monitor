@@ -219,18 +219,18 @@ class NewsFilterTests(unittest.TestCase):
         earlier = self.raw(
             "9月9日猪价:止跌飘红",
             source="Sohu",
-            url="https://m.sohu.com/a/earlier",
+            url="https://m.sohu.com/a/1073467486_120238851",
             published_at="2026-09-09 05:00",
         )
         later = self.raw(
             "9月9日猪价:止跌上涨",
-            source="Sohu",
-            url="https://m.sohu.com/a/later",
+            source="sohu.com",
+            url="https://m.sohu.com/a/1073470706_120238851",
             published_at="2026-09-09 07:00",
         )
         rows, _ = curate_news([earlier, later], self.cfg, NOW)
         self.assertEqual(len(rows), 1)
-        self.assertEqual(rows[0]["url"], "https://m.sohu.com/a/later")
+        self.assertEqual(rows[0]["url"], "https://m.sohu.com/a/1073470706_120238851")
 
     def test_direct_link_beats_google_redirect_for_duplicate_title(self) -> None:
         google = self.raw(

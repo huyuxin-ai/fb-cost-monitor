@@ -1,7 +1,7 @@
 {
  "updated_at": "2026-09-09T18:55+08:00",
  "refresh_minutes": 30,
- "item_count": 50,
+ "item_count": 47,
  "source_counts": {
   "21财经": 1,
   "IDNFinancials": 1,
@@ -12,7 +12,6 @@
   "finance.sina.com.cn": 8,
   "guandian.cn": 1,
   "qq.com": 1,
-  "sohu.com": 3,
   "video.sina.com.cn": 1,
   "东方财富网": 1,
   "中华网": 1,
@@ -320,44 +319,6 @@
    "relevance_score": 8
   },
   {
-   "id": "news_fa417a92fb0e07647361",
-   "date": "2026-09-09",
-   "published_at": "2026-09-09T07:00+08:00",
-   "fetched_at": "2026-09-09T18:55+08:00",
-   "title": "9月9日猪价:止跌上涨!猪价“突然升温”,新一轮“猛烈”上涨到来?",
-   "summary": "",
-   "source": "sohu.com",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1073470706_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_0616c0020d2442c17c45",
-   "date": "2026-09-09",
-   "published_at": "2026-09-09T05:00+08:00",
-   "fetched_at": "2026-09-09T18:55+08:00",
-   "title": "9月9日猪价:枯木逢春!猪价止跌“飘红”,二师兄旺季上涨序幕开启?",
-   "summary": "",
-   "source": "sohu.com",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1073467486_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
    "id": "news_885fc615ef4ad14373ca",
    "date": "2026-09-09",
    "published_at": "2026-09-09T01:08+08:00",
@@ -445,25 +406,6 @@
    "source": "Sohu",
    "type": "价格行情",
    "url": "https://m.sohu.com/a/1072973442_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_14608d2ebc9543d9dfa2",
-   "date": "2026-09-08",
-   "published_at": "2026-09-08T05:49+08:00",
-   "fetched_at": "2026-09-09T18:55+08:00",
-   "title": "9月8日猪价:跌懵了!猪价“失控”下跌,“金九”旺季上涨“落空”?",
-   "summary": "",
-   "source": "sohu.com",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1072972406_120238851",
    "company": "",
    "material_ids": [
     "LH"

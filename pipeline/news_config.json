@@ -7,7 +7,7 @@
   "max_public_items": 200,
   "max_archive_items": 500,
   "source_material_daily_caps": {
-    "Sohu": 1
+    "m.sohu.com": 1
   },
   "timeout_seconds": 15,
   "sources": {
