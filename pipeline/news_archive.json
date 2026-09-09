@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_cf9fd79f9860e2956529",
+  "date": "2026-09-09",
+  "published_at": "2026-09-09T18:54+08:00",
+  "fetched_at": "2026-09-09T18:55+08:00",
+  "title": "8月马棕大概率累库 棕榈油短期或宽幅震荡",
+  "summary": "近期印尼部分地区火灾频繁,棕榈园农场工人被抽调去灭火,同时雾霾和干旱影响到棕榈油的产量。预计油脂短期或宽幅震荡为主。",
+  "source": "华联期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609093869446190.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_70415a8cbbf6c2c23d22",
   "date": "2026-09-09",
   "published_at": "2026-09-09T16:57+08:00",
@@ -269,6 +288,44 @@
   "relevance_score": 8
  },
  {
+  "id": "news_fa417a92fb0e07647361",
+  "date": "2026-09-09",
+  "published_at": "2026-09-09T07:00+08:00",
+  "fetched_at": "2026-09-09T18:55+08:00",
+  "title": "9月9日猪价:止跌上涨!猪价“突然升温”,新一轮“猛烈”上涨到来?",
+  "summary": "",
+  "source": "sohu.com",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1073470706_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0616c0020d2442c17c45",
+  "date": "2026-09-09",
+  "published_at": "2026-09-09T05:00+08:00",
+  "fetched_at": "2026-09-09T18:55+08:00",
+  "title": "9月9日猪价:枯木逢春!猪价止跌“飘红”,二师兄旺季上涨序幕开启?",
+  "summary": "",
+  "source": "sohu.com",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1073467486_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_885fc615ef4ad14373ca",
   "date": "2026-09-09",
   "published_at": "2026-09-09T01:08+08:00",
@@ -356,6 +413,25 @@
   "source": "Sohu",
   "type": "价格行情",
   "url": "https://m.sohu.com/a/1072973442_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_14608d2ebc9543d9dfa2",
+  "date": "2026-09-08",
+  "published_at": "2026-09-08T05:49+08:00",
+  "fetched_at": "2026-09-09T18:55+08:00",
+  "title": "9月8日猪价:跌懵了!猪价“失控”下跌,“金九”旺季上涨“落空”?",
+  "summary": "",
+  "source": "sohu.com",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1072972406_120238851",
   "company": "",
   "material_ids": [
    "LH"
