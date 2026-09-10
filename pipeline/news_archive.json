@@ -1,5 +1,45 @@
 [
  {
+  "id": "news_8c25af7b0a92ca0c6264",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T08:47+08:00",
+  "fetched_at": "2026-09-10T11:46+08:00",
+  "title": "农产品 | 当前生猪价格虽已深陷极度疲弱的底部区间 但供强需弱尚未发生根本改变",
+  "summary": "策略方面:当前生猪价格虽已深陷极度疲弱的底部区间,但供强需弱尚未发生根本改变。因此,在研判生猪价格趋势时,应秉承审慎立场,对价格底部反转的预期保持谨慎态度。",
+  "source": "正信期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609103869954445.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_f5e7c04f6299d7a74ce9",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T08:24+08:00",
+  "fetched_at": "2026-09-10T07:53+08:00",
+  "title": "8月生猪养殖业延续亏损 中小上市猪企负债压力加剧",
+  "summary": "今年8月,国内生猪价格处于窄幅波动当中。 养猪网数据显示,当月生猪(外三元)现货最低价为10.32元/kg,最高价为11.28元/kg,整体价格与今年7月基本持平。 对应到上市公司经营层面,生猪销售价格也基本保持稳定。",
+  "source": "21世纪经济报道",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609103869725690.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_eabd055f6eca41fc632c",
   "date": "2026-09-10",
   "published_at": "2026-09-10T07:37+08:00",
@@ -15,26 +55,6 @@
   ],
   "matched_keywords": [
    "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_f5e7c04f6299d7a74ce9",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T07:00+08:00",
-  "fetched_at": "2026-09-10T07:53+08:00",
-  "title": "8月生猪养殖业延续亏损 中小上市猪企负债压力加剧",
-  "summary": "今年8月,国内生猪价格处于窄幅波动当中。 养猪网数据显示,当月生猪(外三元)现货最低价为10.32元/kg,最高价为11.28元/kg,整体价格与今年7月基本持平。 对应到上市公司经营层面,生猪销售价格也基本保持稳定。",
-  "source": "21世纪经济报道",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609103869725690.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
   ],
   "relevance_score": 12
  },
