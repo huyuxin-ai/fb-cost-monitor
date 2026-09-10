@@ -1,5 +1,64 @@
 [
  {
+  "id": "news_949cdfd3b2d80481ced2",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T19:09+08:00",
+  "fetched_at": "2026-09-10T21:01+08:00",
+  "title": "厄尔尼诺搅动全球糖市!外盘原糖单月大涨22%,多国主产区或遭遇减产冲击|大宗风云",
+  "summary": "本报(chinatimes.net.cn)记者叶青 北京报道自8月初以来,郑糖SR2701主力合约整体震荡上行,厄尔尼诺引发全球主产国减产预期,受ICE原糖大涨带动,期货价格重心持续抬升...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/roll/2026-09-10/doc-inirixks7631990.shtml",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "原糖",
+   "郑糖",
+   "ice原糖"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_5036b1f43bc4f2710dba",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T18:51+08:00",
+  "fetched_at": "2026-09-10T21:01+08:00",
+  "title": "棕榈油承压下行,库存与出口数据主导短期逻辑",
+  "summary": "",
+  "source": "汇通网 Fx678",
+  "type": "价格行情",
+  "url": "https://news.fx678.com/202609101851202285.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0305af237805c23ac2a6",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T18:08+08:00",
+  "fetched_at": "2026-09-10T21:01+08:00",
+  "title": "玉米供需内忧外患,国内外冰火两重天",
+  "summary": "",
+  "source": "k.sina.com.cn",
+  "type": "供需动态",
+  "url": "https://k.sina.com.cn/article_5952915705_162d248f906703h6lq.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_ef2ea96945bf7bc7a5bd",
   "date": "2026-09-10",
   "published_at": "2026-09-10T15:10+08:00",
@@ -28,6 +87,25 @@
   "source": "财联社",
   "type": "供需动态",
   "url": "https://finance.eastmoney.com/a/202609103870515885.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7891c47a65bc6cca5753",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T15:05+08:00",
+  "fetched_at": "2026-09-10T21:01+08:00",
+  "title": "Mysteel解读:9月USDA供需报告前瞻——新作定产悬念与豆粕后市推演",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "供需动态",
+  "url": "https://m.10jqka.com.cn/20260910/c679778554.shtml",
   "company": "",
   "material_ids": [
    "M"
@@ -92,6 +170,44 @@
   ],
   "matched_keywords": [
    "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0fe08915bc4c16cc4afb",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T09:53+08:00",
+  "fetched_at": "2026-09-10T21:01+08:00",
+  "title": "生意社2026年9月10日涤纶短纤行情观点:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-10/doc-iniriaey5421733.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b3f1e30fe7e6f26f46e4",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T09:32+08:00",
+  "fetched_at": "2026-09-10T21:01+08:00",
+  "title": "生意社2026年9月10日PTA行情观点:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-10/doc-iniriafa3067602.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
   ],
   "relevance_score": 8
  },
