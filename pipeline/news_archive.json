@@ -1,5 +1,101 @@
 [
  {
+  "id": "news_ef2ea96945bf7bc7a5bd",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T15:10+08:00",
+  "fetched_at": "2026-09-10T16:46+08:00",
+  "title": "农业农村部:探索实施生猪养殖头部企业产能集中度目标调控",
+  "summary": "农业农村部印发《全国畜牧兽医行业发展“十五五”规划》,其中提到,探索实施生猪养殖头部企业产能集中度目标调控,开展年度生产备案管理,实施产能和产量综合调控。规范发展楼房养猪,制定并推行楼房养猪建设和运行规范。探索建立奶牛养殖规模与粪污消纳用地配套制度。",
+  "source": "界面新闻",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609103870515681.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_089bab5007017f2291e6",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T15:10+08:00",
+  "fetched_at": "2026-09-10T16:46+08:00",
+  "title": "农业农村部:全面推行养殖业节粮 深入推进饲用豆粕减量替代",
+  "summary": "鼓励增加小品种氨基酸和酶制剂等生产供应,支持高效菌株创新研发,优化生物技术构建菌株审批程序。推进地源性特色饲料资源调查评估,完善饲料原料营养和加工参数基础数据库。推进新蛋白资源饲料化利用,加快发酵饲料推广应用,促进秸秆、糟渣类饲料资源提效加工利用。",
+  "source": "财联社",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609103870515885.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_38b98cf087ab7011b1da",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T15:01+08:00",
+  "fetched_at": "2026-09-10T16:46+08:00",
+  "title": "【玉米专题】回到现实:无法视而不见的“港存”",
+  "summary": "来源:中州私友会 回顾8月玉米市场,总结一点:“强预期,弱现实”,即基差大幅下跌。 展望9月玉米市场,核心一点:关注北港库存累库速度。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-10/doc-inirinus8618942.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_4eb6baf2ecec0ecc0dd9",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T13:49+08:00",
+  "fetched_at": "2026-09-10T16:46+08:00",
+  "title": "机构:出栏压力边际改善,生猪价格偏强运行",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1074244792_121157270",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_1c95d862859f808f46c6",
+  "date": "2026-09-10",
+  "published_at": "2026-09-10T11:51+08:00",
+  "fetched_at": "2026-09-10T16:46+08:00",
+  "title": "【现货】9月10日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260910/c679776246.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_8c25af7b0a92ca0c6264",
   "date": "2026-09-10",
   "published_at": "2026-09-10T08:47+08:00",
