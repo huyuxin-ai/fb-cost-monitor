@@ -1,5 +1,100 @@
 [
  {
+  "id": "news_692bd21637ef763e0fe9",
+  "date": "2026-09-11",
+  "published_at": "2026-09-11T15:47+08:00",
+  "fetched_at": "2026-09-11T17:55+08:00",
+  "title": "生猪主力合约收跌1.85%",
+  "summary": "南财智讯9月11日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.85%,收盘报11415.0元/吨,日内资金流出2.33亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609113872057386.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_f09a30395b47415b7768",
+  "date": "2026-09-11",
+  "published_at": "2026-09-11T15:45+08:00",
+  "fetched_at": "2026-09-11T17:55+08:00",
+  "title": "玉米主力合约收跌0.62%",
+  "summary": "南财智讯9月11日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.62%,收盘报2255.0元/吨,日内资金流出6505.51万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609113872050580.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_6830b2aba156b28586cc",
+  "date": "2026-09-11",
+  "published_at": "2026-09-11T15:36+08:00",
+  "fetched_at": "2026-09-11T17:55+08:00",
+  "title": "生猪期货日报(2026.09.11)生猪加权跌破12150重要支撑后继续走弱,短期延续下跌关注11655附近支撑,供强需",
+  "summary": "",
+  "source": "video.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://video.sina.com.cn/p/finance/2026-09-11/detail-inirmvzz2139584.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_663b6a0633eff69d2b53",
+  "date": "2026-09-11",
+  "published_at": "2026-09-11T15:33+08:00",
+  "fetched_at": "2026-09-11T17:55+08:00",
+  "title": "旺季不旺特征未改 生猪期货震荡思路对待",
+  "summary": "",
+  "source": "新浪网",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmvzu6867674.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0536e781b9db72489e15",
+  "date": "2026-09-11",
+  "published_at": "2026-09-11T15:29+08:00",
+  "fetched_at": "2026-09-11T17:55+08:00",
+  "title": "跌了,猪价“坐滑梯”,无休止下跌?附:9月12日猪价",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1074753803_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_fbae145de3395e2506f8",
   "date": "2026-09-11",
   "published_at": "2026-09-11T12:54+08:00",
@@ -95,25 +190,6 @@
   ],
   "matched_keywords": [
    "白糖"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d819df329a7ba89493c5",
-  "date": "2026-09-11",
-  "published_at": "2026-09-11T07:32+08:00",
-  "fetched_at": "2026-09-11T08:26+08:00",
-  "title": "9月11日猪价:4涨13跌!猪价下跌“一日游”,1个好消息!",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1074405488_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  },
