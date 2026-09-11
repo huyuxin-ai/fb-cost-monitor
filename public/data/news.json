@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-09-11T03:57+08:00",
+ "updated_at": "2026-09-11T08:26+08:00",
  "refresh_minutes": 30,
- "item_count": 71,
+ "item_count": 75,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
   "IDNFinancials": 1,
   "Shangbao Indonesia": 1,
-  "Sohu": 3,
+  "Sohu": 4,
   "Vietnam.vn": 2,
   "cbgc.scol.com.cn": 1,
   "finance.sina.com.cn": 10,
@@ -18,6 +18,7 @@
   "东方财富网": 1,
   "中华网": 1,
   "中国证券报·中证网": 1,
+  "中泰期货": 1,
   "亚洲电视新闻": 1,
   "华联期货": 1,
   "南方财经网": 2,
@@ -27,7 +28,8 @@
   "新华财经": 1,
   "新华财经·期货日报": 1,
   "新浪网": 1,
-  "新浪财经": 12,
+  "新浪财经": 13,
+  "期货日报": 1,
   "正信期货": 1,
   "汇通网 Fx678": 1,
   "混沌天成期货": 1,
@@ -40,6 +42,86 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_288e958a4c1b2837e9bb",
+   "date": "2026-09-11",
+   "published_at": "2026-09-11T08:16+08:00",
+   "fetched_at": "2026-09-11T08:26+08:00",
+   "title": "中泰期货:直到高库存消化完毕 白糖价格中枢才会抬升",
+   "summary": "预计短期内价格区间震荡,直到高库存消化完毕,价格中枢才会抬升。 (本内容及观点仅供参考,不构成任何投资建议)",
+   "source": "中泰期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609113871240319.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "白糖"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d819df329a7ba89493c5",
+   "date": "2026-09-11",
+   "published_at": "2026-09-11T07:32+08:00",
+   "fetched_at": "2026-09-11T08:26+08:00",
+   "title": "9月11日猪价:4涨13跌!猪价下跌“一日游”,1个好消息!",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1074405488_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_893195e11cf9881bc4f6",
+   "date": "2026-09-11",
+   "published_at": "2026-09-11T07:31+08:00",
+   "fetched_at": "2026-09-11T08:26+08:00",
+   "title": "“弱现实”与“强预期”交织,白糖后市怎么走?",
+   "summary": "来源:期货日报 8月初以来,ICE原糖价格快速拉升,已经从15美分/磅下方攀升至18美分/磅以上,累计涨幅超过20%。国内市场上,郑糖主力2701合约自7月末的5178元/吨开启反弹...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfea7054600.shtml",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "白糖",
+    "原糖",
+    "郑糖",
+    "ice原糖"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_980f33866037c85ee7ca",
+   "date": "2026-09-11",
+   "published_at": "2026-09-11T07:19+08:00",
+   "fetched_at": "2026-09-11T08:26+08:00",
+   "title": "“弱现实”与“强预期”交织 郑糖短期或区间震荡",
+   "summary": "主产区广西现货市场报价多在5250元/吨以下,低于成本。 图为国内食糖工业库存变化 从下游表现来看,食品饮料等行业消费增长缓慢,终端采购以刚需为主,食品饮料企业在传统旺季也缺乏大规模备货的动力。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609113871024074.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "郑糖",
+    "食糖"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_19a07ad9b097a247f3ec",
    "date": "2026-09-10",
