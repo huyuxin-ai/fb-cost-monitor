@@ -1,5 +1,85 @@
 [
  {
+  "id": "news_fbae145de3395e2506f8",
+  "date": "2026-09-11",
+  "published_at": "2026-09-11T12:54+08:00",
+  "fetched_at": "2026-09-11T13:03+08:00",
+  "title": "【现货】9月11日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260911/c679820666.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_ecf4182e7a0ad4c28574",
+  "date": "2026-09-11",
+  "published_at": "2026-09-11T11:11+08:00",
+  "fetched_at": "2026-09-11T13:03+08:00",
+  "title": "厄尔尼诺冲击下:国际糖价大涨25% 国内白糖会涨价吗?",
+  "summary": "厄尔尼诺正在对全球农业造成全面扰动,在小麦、玉米等大宗农产品国际价格大幅上涨的同时,食糖也不甘示弱,ICE原糖价格最近一个多月涨幅达25%。 全球主要生产地区欧盟、印度此前发布了减产预期,而在近日,泰国糖业组织预计2026/27榨季当地将减产20%。",
+  "source": "第一财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609113871882554.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖",
+   "食糖",
+   "原糖",
+   "ice原糖"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_ab8d5705d39efc5ae124",
+  "date": "2026-09-11",
+  "published_at": "2026-09-11T08:47+08:00",
+  "fetched_at": "2026-09-11T13:03+08:00",
+  "title": "农产品 | 生猪:短期供需博弈加剧 生猪价格震荡反复 关注出栏节奏",
+  "summary": "需求端,高温影响逐渐消退,终端采购意愿或缓慢回暖,预计生猪需求持续小幅增量,只是当前备货尚未启动,增量有限,支撑也相对有限。总的来说,短期供需博弈加剧,生猪价格震荡反复,关注出栏节奏。",
+  "source": "瑞达期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609113871249389.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_ad5bc8d094a5e79cd532",
+  "date": "2026-09-11",
+  "published_at": "2026-09-11T08:45+08:00",
+  "fetched_at": "2026-09-11T13:03+08:00",
+  "title": "9月10日玉米“闪崩”,新作低开? 供需博弈加剧",
+  "summary": "",
+  "source": "中华网",
+  "type": "供需动态",
+  "url": "https://3g.china.com/act/redian/13004758/20260911/49734196.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_288e958a4c1b2837e9bb",
   "date": "2026-09-11",
   "published_at": "2026-09-11T08:16+08:00",
@@ -908,6 +988,25 @@
   "matched_keywords": [
    "生猪",
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0caea50dadf681b0cfe1",
+  "date": "2026-09-08",
+  "published_at": "2026-09-08T01:16+08:00",
+  "fetched_at": "2026-09-11T13:03+08:00",
+  "title": "仙乐健康:鱼油原料价格阶段性波动,毛利率影响整体可控",
+  "summary": "",
+  "source": "东方财富",
+  "type": "价格行情",
+  "url": "https://wap.eastmoney.com/a/202609073866863069.html",
+  "company": "",
+  "material_ids": [
+   "FISHOIL"
+  ],
+  "matched_keywords": [
+   "鱼油"
   ],
   "relevance_score": 8
  },
