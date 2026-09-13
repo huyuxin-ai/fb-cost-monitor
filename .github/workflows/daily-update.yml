@@ -103,6 +103,14 @@ jobs:
               (s['material'], s['company']) in tag_pairs
               for s in d['profit_sensitivity']
           ), '同伴敏感性存在无法点击的公司标签'
+          internal_fields = {
+              'source_row', 'formula', 'calculation_status', 'quality_flags',
+              'calculation_note', 'source_calculation_note', 'source_company_name', 'source_level',
+          }
+          assert all(
+              not (internal_fields & set(s))
+              for s in d['profit_sensitivity']
+          ), '客户数据包含内部复核字段'
           assert len(d['companies']) >= 150, '公司数异常'
           print('数据校验通过:', d['data_week'])
           EOF

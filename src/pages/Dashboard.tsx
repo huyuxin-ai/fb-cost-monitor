@@ -121,7 +121,7 @@ function KpiStrip() {
   )
 }
 
-/* ============ 同伴净利润敏感性提示 ============ */
+/* ============ 净利润敏感性提示 ============ */
 interface ProfitAlertRow {
   material: Material
   downstream: Downstream
@@ -177,13 +177,13 @@ function ProfitSensitivityAlerts() {
   return (
     <Panel
       title={`净利润敏感性提示（${rows.length} 条）`}
-      source={`${meta?.source_label ?? '同伴敏感性分析'} · ${meta?.baseline_year ?? 2025}年净利润基准 · 非业绩预测`}
+      source={`敏感性分析 · ${meta?.baseline_year ?? 2025}年净利润基准 · 非业绩预测`}
     >
       <div className="mb-2 rounded-sm border border-[#f0b90b]/30 bg-[#f0b90b]/[0.05] px-2.5 py-1.5 text-[11px] leading-relaxed text-[#c9b97f]">
         {usesRecentPrice
-          ? '按原材料最近一次可比周涨跌，将同伴的±20%压力情景线性折算。'
+          ? '按原材料最近一次可比周涨跌，将±20%压力情景线性折算。'
           : '最近价格暂无非零周环比，先展示原材料上涨20%的压力情景。'}
-        点击对应公司标签，可查看净利润具体金额、双向情景、计算依据和复核提示。
+        点击对应公司标签，可查看净利润具体金额、双向情景、原因和跟踪建议。
       </div>
       <div className="grid grid-cols-1 gap-2 md:grid-cols-2 xl:grid-cols-4">
         {rows.map((item) => {
@@ -217,18 +217,15 @@ function ProfitSensitivityAlerts() {
               </div>
               <div className="mt-1 text-[10px] leading-relaxed text-[#7d8a9b]">
                 {item.sensitivity.base_net_profit_yi < 0
-                  ? `原表比率 ${fmtPct(item.profitChangePct)}，亏损基数下以金额方向为准`
+                  ? `情景变动比例 ${fmtPct(item.profitChangePct)}，亏损基数下以金额方向为准`
                   : `相对${item.sensitivity.baseline_year}年净利润 ${fmtPct(item.profitChangePct)}`}
                 {item.isRecentPrice && item.material.latest && (
                   <span> · 截至 {item.material.latest.date}</span>
                 )}
               </div>
-              <div className="mt-1 flex flex-wrap gap-1 text-[9px]">
-                {stale && <span className="text-[#f0b90b]">⚠ 价格已滞后{ageDays}天</span>}
-                {item.sensitivity.quality_flags.length > 0 && (
-                  <span className="text-[#d9a2a7]">需复核 {item.sensitivity.quality_flags.length} 项</span>
-                )}
-              </div>
+              {stale && (
+                <div className="mt-1 text-[9px] text-[#f0b90b]">⚠ 价格已滞后{ageDays}天</div>
+              )}
             </div>
           )
         })}

@@ -93,6 +93,23 @@ profit_sensitivity = [
     row for row in profit_sensitivity_doc.get('items', [])
     if row.get('material') in material_ids
 ]
+# 客户网页只发布展示所需字段；公式、来源行和内部复核标记仍保留在 pipeline 原始文件中。
+public_profit_fields = (
+    'material', 'company', 'company_name', 'baseline_year', 'base_net_profit_yi',
+    'scenario_price_change_pct', 'plus20_np_change_pct', 'minus20_np_change_pct',
+    'plus20_np_change_yi', 'minus20_np_change_yi', 'level', 'impact_note',
+)
+public_profit_sensitivity = [
+    {field: row[field] for field in public_profit_fields}
+    for row in profit_sensitivity
+]
+profit_metadata = profit_sensitivity_doc.get('metadata', {})
+public_profit_metadata = {
+    'source_label': '敏感性分析',
+    'baseline_year': profit_metadata.get('baseline_year', 2025),
+    'scenario_price_change_pct': profit_metadata.get('scenario_price_change_pct', 20),
+    'result_type': profit_metadata.get('result_type', 'scenario'),
+}
 news_curated = [n for n in news_curated if set(n['material_ids']) <= material_ids]
 news_feed = build_public_feed(news_curated, news_cfg, dt.datetime.now(BJT))
 validate_public_feed(news_feed, news_cfg, material_ids)
@@ -129,8 +146,8 @@ app_data = {
                  'mode': 'github-actions-cron', 'schedule': '每交易日 16:30 CST'},
     'materials': materials, 'companies': companies,
     'sensitivity': [s for s in cfg['sensitivity'] if s['material'] in material_ids], 'news': news,
-    'profit_sensitivity_meta': profit_sensitivity_doc.get('metadata', {}),
-    'profit_sensitivity': profit_sensitivity,
+    'profit_sensitivity_meta': public_profit_metadata,
+    'profit_sensitivity': public_profit_sensitivity,
     'news_updated_at': news_feed['updated_at'],
     'news_refresh_minutes': news_feed['refresh_minutes'],
     'thresholds': cfg['thresholds'], 'data_sources': cfg['data_sources'],

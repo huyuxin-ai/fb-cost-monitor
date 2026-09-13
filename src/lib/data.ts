@@ -70,27 +70,11 @@ export interface Sensitivity {
   note: string
 }
 
-export type ProfitSensitivityQualityFlag =
-  | 'BASELINE_LOSS'
-  | 'CALC_NOTE_MATERIAL_MISMATCH'
-  | 'LEVEL_INCONSISTENT_OR_MISSING'
-  | 'NOTE_RESULT_METHOD_CONFLICT'
-  | 'CALCULATION_BASIS_INCONSISTENT'
-  | 'LARGE_SCENARIO_RESULT'
-  | 'HARDCODED_RESULT'
-
 export interface ProfitSensitivityMeta {
   source_label: string
-  source_file: string
-  source_sheet: string
-  financial_sheet: string
-  method_file: string
   baseline_year: number
   scenario_price_change_pct: number
   result_type: 'scenario'
-  level_basis: string
-  method_scope_note: string
-  imported_at: string
 }
 
 /**
@@ -101,7 +85,6 @@ export interface ProfitSensitivity {
   material: string
   company: string
   company_name: string
-  source_company_name: string
   baseline_year: number
   base_net_profit_yi: number
   scenario_price_change_pct: number
@@ -110,14 +93,7 @@ export interface ProfitSensitivity {
   plus20_np_change_yi: number
   minus20_np_change_yi: number
   level: ExpLevel
-  source_level: ExpLevel | null
-  calculation_status: 'formula' | 'hardcoded'
-  formula: string | null
   impact_note: string
-  calculation_note: string | null
-  source_calculation_note?: string | null
-  quality_flags: ProfitSensitivityQualityFlag[]
-  source_row: number
 }
 
 export interface ProfitImpactEstimate {

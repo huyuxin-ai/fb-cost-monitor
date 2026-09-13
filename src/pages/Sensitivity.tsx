@@ -96,14 +96,14 @@ export default function SensitivityPage() {
 
   return (
     <div className="space-y-2">
-      {/* 同伴净利润压力情景，与下方旧版成本占比经验模型分开展示 */}
+      {/* 净利润压力情景，与下方旧版成本占比经验模型分开展示 */}
       <Panel
-        title={`同伴净利润敏感性结果（${profitRows.length} 个组合）`}
-        source={`${DATA.profit_sensitivity_meta?.source_label ?? '同伴敏感性分析'} · ${DATA.profit_sensitivity_meta?.baseline_year ?? 2025}年归母净利润基准 · ±${DATA.profit_sensitivity_meta?.scenario_price_change_pct ?? 20}%压力情景`}
+        title={`净利润敏感性结果（${profitRows.length} 个组合）`}
+        source={`敏感性分析 · ${DATA.profit_sensitivity_meta?.baseline_year ?? 2025}年归母净利润基准 · ±${DATA.profit_sensitivity_meta?.scenario_price_change_pct ?? 20}%压力情景`}
       >
         <div className="mb-2 rounded-sm border border-[#f0b90b]/30 bg-[#f0b90b]/[0.05] px-2.5 py-1.5 text-[11px] leading-relaxed text-[#c9b97f]">
           金额按“2025年归母净利润 × 表内变动比例”换算；最近价格影响只按±20%结果线性折算，不是业绩预测。
-          点击公司标签，可查看完整双向情景、原因、公式和数据复核提示。
+          点击公司标签，可查看完整双向情景、原因和跟踪建议。
         </div>
         {profitRows.length ? (
           <div className="grid grid-cols-1 gap-2 md:grid-cols-2 xl:grid-cols-3">
@@ -115,19 +115,15 @@ export default function SensitivityPage() {
                   key={`${sensitivity.material}|${sensitivity.company}`}
                   className="rounded-sm border border-[#2a3442] bg-[#131922] px-2.5 py-2"
                 >
-                  <div className="flex flex-wrap items-center justify-between gap-1">
+                  <div className="flex flex-wrap items-center gap-1">
                     <div>
                       <span className="font-semibold text-[#e8eef5]">{material.name}</span>
                       <span className="ml-1 font-mono text-[9px] text-[#5c6875]">{material.id}</span>
                     </div>
-                    <span className="text-[9px] text-[#5c6875]">源表第 {sensitivity.source_row} 行</span>
                   </div>
 
-                  <div className="mt-1 flex flex-wrap items-center justify-between gap-1.5">
+                  <div className="mt-1 flex flex-wrap items-center gap-1.5">
                     <CompanyImpactTag material={material} downstream={downstream} />
-                    <span className={`text-[9px] ${sensitivity.calculation_status === 'formula' ? 'text-[#53c9b2]' : 'text-[#d9a2a7]'}`}>
-                      {sensitivity.calculation_status === 'formula' ? '原表含公式' : '原表固定值'}
-                    </span>
                   </div>
 
                   <div className="mt-2 grid grid-cols-2 gap-1.5">
@@ -150,29 +146,19 @@ export default function SensitivityPage() {
                         </div>
                         <div className="mt-0.5 font-mono text-[9px] text-[#5c6875]">
                           {sensitivity.base_net_profit_yi < 0
-                            ? `原表比率 ${fmtPct(scenario.pct)}`
+                            ? `情景变动比例 ${fmtPct(scenario.pct)}`
                             : fmtPct(scenario.pct)}
                         </div>
                       </div>
                     ))}
                   </div>
 
-                  <div className="mt-1.5 rounded-sm border border-[#232b36] px-2 py-1 text-[10px] leading-relaxed text-[#8b98a9]">
-                    {recent ? (
-                      <>
-                        最近一次价格 {fmtPct(wow)}（{material.latest?.date}）→{' '}
-                        <span className={`font-semibold ${profitTone(recent.profitChangeYi)}`}>
-                          {profitImpactPhrase(sensitivity, recent.profitChangeYi)}
-                        </span>
-                      </>
-                    ) : (
-                      <>最近价格不足两期，暂不折算实际变动影响</>
-                    )}
-                  </div>
-
-                  {sensitivity.quality_flags.length > 0 && (
-                    <div className="mt-1 text-[9px] text-[#d9a2a7]">
-                      ⚠ 有 {sensitivity.quality_flags.length} 项口径或数据复核提示，点击公司查看
+                  {recent && (
+                    <div className="mt-1.5 rounded-sm border border-[#232b36] px-2 py-1 text-[10px] leading-relaxed text-[#8b98a9]">
+                      最近一次价格 {fmtPct(wow)}（{material.latest?.date}）→{' '}
+                      <span className={`font-semibold ${profitTone(recent.profitChangeYi)}`}>
+                        {profitImpactPhrase(sensitivity, recent.profitChangeYi)}
+                      </span>
                     </div>
                   )}
                 </article>
@@ -180,14 +166,14 @@ export default function SensitivityPage() {
             })}
           </div>
         ) : (
-          <Empty text="同伴净利润敏感性结果尚未载入" />
+          <Empty text="净利润敏感性结果尚未载入" />
         )}
       </Panel>
 
       {/* 敏感度矩阵 */}
       <Panel
-        title={`旧版成本占比经验矩阵（${matIds.length} 品种 × ${compCodes.length} 公司）`}
-        source="分析师经验假设 v1 · 与上方净利润情景分开"
+        title={`成本占比敏感度矩阵（${matIds.length} 品种 × ${compCodes.length} 公司）`}
+        source="成本占比模型 · 非净利润口径"
         bodyClassName="p-0"
       >
         <div className="overflow-x-auto">
@@ -254,8 +240,8 @@ export default function SensitivityPage() {
 
       {/* 压力测试模拟器 */}
       <Panel
-        title="旧版成本占比经验压力测试"
-        source="旧版经验公式即时测算 · 非净利润口径"
+        title="成本占比压力测试"
+        source="成本占比模型即时测算 · 非净利润口径"
         className={simAnomaly ? 'border-[#f0b90b]/60' : ''}
         extra={
           <button
