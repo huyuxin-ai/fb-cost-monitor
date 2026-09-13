@@ -106,7 +106,7 @@ function statusBadge(s: string) {
   return <span className={`inline-block rounded-sm px-1.5 py-px text-[11px] font-bold ${cls}`}>{s}</span>
 }
 
-/* 口径字典（dim_caliber，13条） */
+/* 口径字典（dim_caliber） */
 const CALIBER_DICT: [string, string, string][] = [
   ['spot_price', '现货价', '生意社现货评估价（对应期货标的现货），与期货存在基差'],
   ['iso_week', '数据周', 'ISO-8601 周口径，如 2026-W35；周聚合取该周最后一个交易日'],
@@ -120,6 +120,9 @@ const CALIBER_DICT: [string, string, string][] = [
   ['adj_kline', '复权口径', '公司K线为前复权日频（新浪 stock_zh_a_daily / stock_hk_daily）'],
   ['snapshot_pe', '估值口径', 'PE 为 TTM 口径；市值为最新收盘价 × 总股本'],
   ['cost_ratio', '成本占营收比', '分析师经验假设 v1（待年报校准），仅用于相对比较与压力测试'],
+  ['profit_sensitivity_pct', '同伴净利润敏感度%', '原材料价格±20%压力情景下，归母净利润相对2025年基准净利润的变动比例；不是毛利率百分点'],
+  ['profit_sensitivity_yi', '净利润影响金额', '2025年归母净利润（亿元）× 同伴净利润敏感度% ÷ 100；亏损公司以金额方向解释亏损扩大或收窄'],
+  ['recent_profit_estimate', '最近价格影响折算', '按最近一次原材料周环比对±20%情景作线性缩放；属于情景折算，不是实时业绩或盈利预测'],
   ['risk_score', '公告风险分', 'min(100, 高风险词×35 + 中风险词×15)；≥70 红框 / ≥40 黄框（可调）'],
 ]
 

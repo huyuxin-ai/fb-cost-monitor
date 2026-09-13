@@ -15,6 +15,7 @@ DATA = os.path.join(ROOT, 'public', 'data')
 os.makedirs(DATA, exist_ok=True)  # 防御：目录不存在时先创建
 PIPE = os.path.join(ROOT, 'pipeline')
 cfg = json.load(open(os.path.join(PIPE, 'config.json')))
+profit_sensitivity_doc = json.load(open(os.path.join(PIPE, 'profit_sensitivity.json')))
 news_cfg = load_news_config()
 news_raw = json.load(open(os.path.join(PIPE, 'news_archive.json')))
 # 构建时再做一次后端强校验，避免手工编辑归档时混入无关资讯。
@@ -88,6 +89,10 @@ for u in cfg['unavailable']:
                       'downstream': cfg['downstream'].get(u['id'], [])})
 
 material_ids = {m['id'] for m in materials}
+profit_sensitivity = [
+    row for row in profit_sensitivity_doc.get('items', [])
+    if row.get('material') in material_ids
+]
 news_curated = [n for n in news_curated if set(n['material_ids']) <= material_ids]
 news_feed = build_public_feed(news_curated, news_cfg, dt.datetime.now(BJT))
 validate_public_feed(news_feed, news_cfg, material_ids)
@@ -124,6 +129,8 @@ app_data = {
                  'mode': 'github-actions-cron', 'schedule': '每交易日 16:30 CST'},
     'materials': materials, 'companies': companies,
     'sensitivity': [s for s in cfg['sensitivity'] if s['material'] in material_ids], 'news': news,
+    'profit_sensitivity_meta': profit_sensitivity_doc.get('metadata', {}),
+    'profit_sensitivity': profit_sensitivity,
     'news_updated_at': news_feed['updated_at'],
     'news_refresh_minutes': news_feed['refresh_minutes'],
     'thresholds': cfg['thresholds'], 'data_sources': cfg['data_sources'],

@@ -45,6 +45,9 @@ jobs:
       - name: 测试原材料新闻筛选规则
         run: python3 pipeline/test_news_filter.py
 
+      - name: 校验同伴净利润敏感性结果
+        run: python3 pipeline/test_profit_sensitivity.py
+
       - name: 更新原材料相关新闻
         id: collect_news
         continue-on-error: true
@@ -90,6 +93,16 @@ jobs:
           material_ids = {m['id'] for m in d['materials']}
           assert len(material_ids) == len(d['materials']), '品种代码重复'
           assert all(s['material'] in material_ids for s in d['sensitivity']), '存在无效敏感度映射'
+          assert len(d.get('profit_sensitivity', [])) == 25, '同伴净利润敏感性结果数量异常'
+          tag_pairs = {
+              (m['id'], downstream['code'])
+              for m in d['materials']
+              for downstream in m.get('downstream', [])
+          }
+          assert all(
+              (s['material'], s['company']) in tag_pairs
+              for s in d['profit_sensitivity']
+          ), '同伴敏感性存在无法点击的公司标签'
           assert len(d['companies']) >= 150, '公司数异常'
           print('数据校验通过:', d['data_week'])
           EOF

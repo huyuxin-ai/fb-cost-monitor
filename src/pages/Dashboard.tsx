@@ -2,16 +2,20 @@ import { useMemo, useState } from 'react'
 import { useNavigate } from 'react-router'
 import {
   absvol,
+  estimateProfitImpact,
   evalAnomaly,
   fmtPct,
   fmtPrice,
   pctClass,
+  profitImpactPhrase,
   streakText,
   IMPORT_DEPENDENT,
   type Derived,
+  type Downstream,
   type Material,
   type NewsExt,
   type NewsItem,
+  type ProfitSensitivity,
 } from '@/lib/data'
 import { useAppData } from '@/lib/appData'
 import { useWatchlist } from '@/lib/watchlist'
@@ -57,6 +61,14 @@ function newsFeedStatus(updatedAt: string | undefined, latestDate: string, refre
     ? `最近收录 ${formatNewsUpdate(updatedAt)}（北京时间）`
     : `当前资讯截至 ${latestDate || '—'}`
   return `多源公开资讯 · 每${refreshMinutes}分钟检查 · ${freshness}`
+}
+
+function dateAgeDays(value: string | undefined, reference: string): number | null {
+  if (!value) return null
+  const observedAt = Date.parse(`${value}T00:00:00Z`)
+  const generatedAt = Date.parse(`${reference.slice(0, 10)}T00:00:00Z`)
+  if (Number.isNaN(observedAt) || Number.isNaN(generatedAt)) return null
+  return Math.max(0, Math.round((generatedAt - observedAt) / 86_400_000))
 }
 
 /* ============ KPI ============ */
@@ -106,6 +118,122 @@ function KpiStrip() {
         </div>
       ))}
     </div>
+  )
+}
+
+/* ============ 同伴净利润敏感性提示 ============ */
+interface ProfitAlertRow {
+  material: Material
+  downstream: Downstream
+  sensitivity: ProfitSensitivity
+  priceChangePct: number
+  profitChangePct: number
+  profitChangeYi: number
+  isRecentPrice: boolean
+}
+
+function ProfitSensitivityAlerts() {
+  const { DATA, PROFIT_SENSITIVITY, materialById } = useAppData()
+  const { rows, usesRecentPrice } = useMemo(() => {
+    const pairs: { material: Material; downstream: Downstream; sensitivity: ProfitSensitivity }[] = []
+    for (const sensitivity of PROFIT_SENSITIVITY) {
+      const material = materialById.get(sensitivity.material)
+      const downstream = material?.downstream.find((d) => d.code === sensitivity.company)
+      if (material && downstream) pairs.push({ material, downstream, sensitivity })
+    }
+
+    const recent: ProfitAlertRow[] = []
+    for (const pair of pairs) {
+      const wow = pair.material.latest?.wow
+      if (wow == null || Math.abs(wow) < 1e-10) continue
+      const estimate = estimateProfitImpact(pair.sensitivity, wow)
+      recent.push({
+        ...pair,
+        priceChangePct: wow,
+        profitChangePct: estimate.profitChangePct,
+        profitChangeYi: estimate.profitChangeYi,
+        isRecentPrice: true,
+      })
+    }
+    recent.sort((a, b) => Math.abs(b.profitChangeYi) - Math.abs(a.profitChangeYi))
+    if (recent.length) return { rows: recent.slice(0, 6), usesRecentPrice: true }
+
+    const scenario = pairs
+      .map<ProfitAlertRow>((pair) => ({
+        ...pair,
+        priceChangePct: pair.sensitivity.scenario_price_change_pct,
+        profitChangePct: pair.sensitivity.plus20_np_change_pct,
+        profitChangeYi: pair.sensitivity.plus20_np_change_yi,
+        isRecentPrice: false,
+      }))
+      .sort((a, b) => Math.abs(b.profitChangeYi) - Math.abs(a.profitChangeYi))
+      .slice(0, 6)
+    return { rows: scenario, usesRecentPrice: false }
+  }, [PROFIT_SENSITIVITY, materialById])
+
+  if (!rows.length) return null
+  const meta = DATA.profit_sensitivity_meta
+
+  return (
+    <Panel
+      title={`净利润敏感性提示（${rows.length} 条）`}
+      source={`${meta?.source_label ?? '同伴敏感性分析'} · ${meta?.baseline_year ?? 2025}年净利润基准 · 非业绩预测`}
+    >
+      <div className="mb-2 rounded-sm border border-[#f0b90b]/30 bg-[#f0b90b]/[0.05] px-2.5 py-1.5 text-[11px] leading-relaxed text-[#c9b97f]">
+        {usesRecentPrice
+          ? '按原材料最近一次可比周涨跌，将同伴的±20%压力情景线性折算。'
+          : '最近价格暂无非零周环比，先展示原材料上涨20%的压力情景。'}
+        点击对应公司标签，可查看净利润具体金额、双向情景、计算依据和复核提示。
+      </div>
+      <div className="grid grid-cols-1 gap-2 md:grid-cols-2 xl:grid-cols-4">
+        {rows.map((item) => {
+          const ageDays = dateAgeDays(item.material.latest?.date, DATA.generated_at)
+          const stale = item.isRecentPrice && ageDays != null && ageDays > 7
+          return (
+            <div
+              key={`${item.sensitivity.material}|${item.sensitivity.company}`}
+              className={`rounded-sm border bg-[#131922] px-2.5 py-2 ${
+                item.profitChangeYi < 0
+                  ? 'border-[#f23645]/35'
+                  : item.profitChangeYi > 0
+                    ? 'border-[#089981]/35'
+                    : 'border-[#2a3442]'
+              }`}
+            >
+              <div className="flex flex-wrap items-center justify-between gap-1">
+                <div>
+                  <span className="font-semibold text-[#e8eef5]">{item.material.name}</span>
+                  <span className="ml-1 font-mono text-[9px] text-[#5c6875]">{item.material.id}</span>
+                </div>
+                <span className={`font-mono text-[11px] ${pctClass(item.priceChangePct)}`}>
+                  {item.isRecentPrice ? '最近 ' : '情景 '}{fmtPct(item.priceChangePct)}
+                </span>
+              </div>
+              <div className="mt-1 flex flex-wrap items-center justify-between gap-1.5">
+                <CompanyImpactTag material={item.material} downstream={item.downstream} />
+                <span className={`text-[12px] font-bold ${item.profitChangeYi < 0 ? 'text-[#ff6672]' : 'text-[#53c9b2]'}`}>
+                  {profitImpactPhrase(item.sensitivity, item.profitChangeYi)}
+                </span>
+              </div>
+              <div className="mt-1 text-[10px] leading-relaxed text-[#7d8a9b]">
+                {item.sensitivity.base_net_profit_yi < 0
+                  ? `原表比率 ${fmtPct(item.profitChangePct)}，亏损基数下以金额方向为准`
+                  : `相对${item.sensitivity.baseline_year}年净利润 ${fmtPct(item.profitChangePct)}`}
+                {item.isRecentPrice && item.material.latest && (
+                  <span> · 截至 {item.material.latest.date}</span>
+                )}
+              </div>
+              <div className="mt-1 flex flex-wrap gap-1 text-[9px]">
+                {stale && <span className="text-[#f0b90b]">⚠ 价格已滞后{ageDays}天</span>}
+                {item.sensitivity.quality_flags.length > 0 && (
+                  <span className="text-[#d9a2a7]">需复核 {item.sensitivity.quality_flags.length} 项</span>
+                )}
+              </div>
+            </div>
+          )
+        })}
+      </div>
+    </Panel>
   )
 }
 
@@ -570,6 +698,8 @@ export default function Dashboard() {
       >
         ⬇ 导出异动周报（Markdown）
       </button>
+
+      <ProfitSensitivityAlerts />
 
       <div className="grid grid-cols-1 gap-2 xl:grid-cols-3">
         {/* 异动卡片区 */}

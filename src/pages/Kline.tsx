@@ -168,7 +168,7 @@ function KlineChart({ company, kdata }: { company: Company; kdata: KlineData }) 
 
 /* ============ 关联原材料风险 ============ */
 function RelatedMaterials({ company }: { company: Company }) {
-  const { materialsOfCompany } = useAppData()
+  const { materialsOfCompany, profitSensitivityOfPair } = useAppData()
   const rel = materialsOfCompany(company.code)
   if (!rel.length)
     return <Empty text="该公司不在任何监控品种的下游映射中" />
@@ -176,6 +176,7 @@ function RelatedMaterials({ company }: { company: Company }) {
     <div className="space-y-1">
       {rel.map(({ material: m, downstream: d }) => {
         const anomaly = m.latest?.anomaly
+        const profitSensitivity = profitSensitivityOfPair(m.id, company.code)
         return (
           <div
             key={m.id}
@@ -191,7 +192,7 @@ function RelatedMaterials({ company }: { company: Company }) {
               <span className="text-[#089981]">●</span>
             )}
             <span className="font-semibold text-[#e8eef5]">{m.name}</span>
-            {d.level && <ExpBadge level={d.level} />}
+            {d.level && !profitSensitivity && <ExpBadge level={d.level} />}
             {d.relation === '竞品替代' && (
               <span className="rounded-sm border border-[#4aa3ff]/50 bg-[#4aa3ff]/10 px-1 py-px text-[10px] text-[#7fbdff]">
                 竞品替代

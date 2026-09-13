@@ -1,8 +1,15 @@
 import { useMemo, useState } from 'react'
-import { fmtPct, type Material } from '@/lib/data'
+import {
+  estimateProfitImpact,
+  fmtPct,
+  profitImpactPhrase,
+  type Downstream,
+  type Material,
+  type ProfitSensitivity,
+} from '@/lib/data'
 import { useAppData } from '@/lib/appData'
 import { downloadCsv } from '@/lib/csv'
-import { Panel, AnomalyBadge, CompanyLink, Empty } from '@/components/terminal'
+import { Panel, AnomalyBadge, CompanyImpactTag, CompanyLink, Empty } from '@/components/terminal'
 
 /* 热度色：成本占营收比 → 琥珀深浅 */
 function heatStyle(ratio: number, max: number) {
@@ -13,8 +20,17 @@ function heatStyle(ratio: number, max: number) {
   }
 }
 
+const profitTone = (valueYi: number) =>
+  valueYi > 0 ? 'text-[#53c9b2]' : valueYi < 0 ? 'text-[#ff6672]' : 'text-[#c8d2de]'
+
+interface ProfitSensitivityCardRow {
+  sensitivity: ProfitSensitivity
+  material: Material
+  downstream: Downstream
+}
+
 export default function SensitivityPage() {
-  const { SENSITIVITY, materialById, companyByCode } = useAppData()
+  const { DATA, SENSITIVITY, PROFIT_SENSITIVITY, materialById, companyByCode } = useAppData()
   const matIds = useMemo(() => [...new Set(SENSITIVITY.map((s) => s.material))], [SENSITIVITY])
   const compCodes = useMemo(() => [...new Set(SENSITIVITY.map((s) => s.company))], [SENSITIVITY])
   const maxRatio = useMemo(() => Math.max(...SENSITIVITY.map((s) => s.cost_ratio)), [SENSITIVITY])
@@ -23,6 +39,21 @@ export default function SensitivityPage() {
     for (const s of SENSITIVITY) m.set(`${s.material}|${s.company}`, s.cost_ratio)
     return m
   }, [SENSITIVITY])
+  const profitRows = useMemo(() => {
+    const rows: ProfitSensitivityCardRow[] = []
+    for (const sensitivity of PROFIT_SENSITIVITY) {
+      const material = materialById.get(sensitivity.material)
+      const downstream = material?.downstream.find((d) => d.code === sensitivity.company)
+      if (material && downstream) rows.push({ sensitivity, material, downstream })
+    }
+    const rank = { 高: 0, 中: 1, 低: 2 }
+    rows.sort(
+      (a, b) =>
+        rank[a.sensitivity.level] - rank[b.sensitivity.level] ||
+        Math.abs(b.sensitivity.plus20_np_change_pct) - Math.abs(a.sensitivity.plus20_np_change_pct),
+    )
+    return rows
+  }, [PROFIT_SENSITIVITY, materialById])
 
   /* 压力测试模拟器 */
   const anomalousWithSens = matIds.filter((id) => materialById.get(id)?.latest?.anomaly)
@@ -65,10 +96,98 @@ export default function SensitivityPage() {
 
   return (
     <div className="space-y-2">
+      {/* 同伴净利润压力情景，与下方旧版成本占比经验模型分开展示 */}
+      <Panel
+        title={`同伴净利润敏感性结果（${profitRows.length} 个组合）`}
+        source={`${DATA.profit_sensitivity_meta?.source_label ?? '同伴敏感性分析'} · ${DATA.profit_sensitivity_meta?.baseline_year ?? 2025}年归母净利润基准 · ±${DATA.profit_sensitivity_meta?.scenario_price_change_pct ?? 20}%压力情景`}
+      >
+        <div className="mb-2 rounded-sm border border-[#f0b90b]/30 bg-[#f0b90b]/[0.05] px-2.5 py-1.5 text-[11px] leading-relaxed text-[#c9b97f]">
+          金额按“2025年归母净利润 × 表内变动比例”换算；最近价格影响只按±20%结果线性折算，不是业绩预测。
+          点击公司标签，可查看完整双向情景、原因、公式和数据复核提示。
+        </div>
+        {profitRows.length ? (
+          <div className="grid grid-cols-1 gap-2 md:grid-cols-2 xl:grid-cols-3">
+            {profitRows.map(({ sensitivity, material, downstream }) => {
+              const wow = material.latest?.wow
+              const recent = wow != null ? estimateProfitImpact(sensitivity, wow) : null
+              return (
+                <article
+                  key={`${sensitivity.material}|${sensitivity.company}`}
+                  className="rounded-sm border border-[#2a3442] bg-[#131922] px-2.5 py-2"
+                >
+                  <div className="flex flex-wrap items-center justify-between gap-1">
+                    <div>
+                      <span className="font-semibold text-[#e8eef5]">{material.name}</span>
+                      <span className="ml-1 font-mono text-[9px] text-[#5c6875]">{material.id}</span>
+                    </div>
+                    <span className="text-[9px] text-[#5c6875]">源表第 {sensitivity.source_row} 行</span>
+                  </div>
+
+                  <div className="mt-1 flex flex-wrap items-center justify-between gap-1.5">
+                    <CompanyImpactTag material={material} downstream={downstream} />
+                    <span className={`text-[9px] ${sensitivity.calculation_status === 'formula' ? 'text-[#53c9b2]' : 'text-[#d9a2a7]'}`}>
+                      {sensitivity.calculation_status === 'formula' ? '原表含公式' : '原表固定值'}
+                    </span>
+                  </div>
+
+                  <div className="mt-2 grid grid-cols-2 gap-1.5">
+                    {[
+                      {
+                        label: `原料 +${sensitivity.scenario_price_change_pct}%`,
+                        pct: sensitivity.plus20_np_change_pct,
+                        yi: sensitivity.plus20_np_change_yi,
+                      },
+                      {
+                        label: `原料 -${sensitivity.scenario_price_change_pct}%`,
+                        pct: sensitivity.minus20_np_change_pct,
+                        yi: sensitivity.minus20_np_change_yi,
+                      },
+                    ].map((scenario) => (
+                      <div key={scenario.label} className="rounded-sm border border-[#232b36] bg-[#0d1117] px-2 py-1.5">
+                        <div className="text-[9px] text-[#7d8a9b]">{scenario.label}</div>
+                        <div className={`mt-0.5 text-[11px] font-bold ${profitTone(scenario.yi)}`}>
+                          {profitImpactPhrase(sensitivity, scenario.yi)}
+                        </div>
+                        <div className="mt-0.5 font-mono text-[9px] text-[#5c6875]">
+                          {sensitivity.base_net_profit_yi < 0
+                            ? `原表比率 ${fmtPct(scenario.pct)}`
+                            : fmtPct(scenario.pct)}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+
+                  <div className="mt-1.5 rounded-sm border border-[#232b36] px-2 py-1 text-[10px] leading-relaxed text-[#8b98a9]">
+                    {recent ? (
+                      <>
+                        最近一次价格 {fmtPct(wow)}（{material.latest?.date}）→{' '}
+                        <span className={`font-semibold ${profitTone(recent.profitChangeYi)}`}>
+                          {profitImpactPhrase(sensitivity, recent.profitChangeYi)}
+                        </span>
+                      </>
+                    ) : (
+                      <>最近价格不足两期，暂不折算实际变动影响</>
+                    )}
+                  </div>
+
+                  {sensitivity.quality_flags.length > 0 && (
+                    <div className="mt-1 text-[9px] text-[#d9a2a7]">
+                      ⚠ 有 {sensitivity.quality_flags.length} 项口径或数据复核提示，点击公司查看
+                    </div>
+                  )}
+                </article>
+              )
+            })}
+          </div>
+        ) : (
+          <Empty text="同伴净利润敏感性结果尚未载入" />
+        )}
+      </Panel>
+
       {/* 敏感度矩阵 */}
       <Panel
-        title={`敏感度矩阵（${matIds.length} 品种 × ${compCodes.length} 公司，仅显示有映射组合）`}
-        source="模型测算"
+        title={`旧版成本占比经验矩阵（${matIds.length} 品种 × ${compCodes.length} 公司）`}
+        source="分析师经验假设 v1 · 与上方净利润情景分开"
         bodyClassName="p-0"
       >
         <div className="overflow-x-auto">
@@ -135,8 +254,8 @@ export default function SensitivityPage() {
 
       {/* 压力测试模拟器 */}
       <Panel
-        title="压力测试模拟器"
-        source="即时测算"
+        title="旧版成本占比经验压力测试"
+        source="旧版经验公式即时测算 · 非净利润口径"
         className={simAnomaly ? 'border-[#f0b90b]/60' : ''}
         extra={
           <button

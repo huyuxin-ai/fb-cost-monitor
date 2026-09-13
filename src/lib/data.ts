@@ -10,7 +10,7 @@ export interface SeriesPoint {
 
 export type ExpLevel = '高' | '中' | '低'
 export type ImpactEffect = '偏利好' | '偏利空' | '中性'
-export type DownstreamRelation = '原料成本' | '包装成本' | '竞品替代'
+export type DownstreamRelation = '原料成本' | '包装成本' | '竞品替代' | '上游售价' | '综合影响'
 
 export interface Downstream {
   code: string
@@ -70,6 +70,62 @@ export interface Sensitivity {
   note: string
 }
 
+export type ProfitSensitivityQualityFlag =
+  | 'BASELINE_LOSS'
+  | 'CALC_NOTE_MATERIAL_MISMATCH'
+  | 'LEVEL_INCONSISTENT_OR_MISSING'
+  | 'NOTE_RESULT_METHOD_CONFLICT'
+  | 'CALCULATION_BASIS_INCONSISTENT'
+  | 'LARGE_SCENARIO_RESULT'
+  | 'HARDCODED_RESULT'
+
+export interface ProfitSensitivityMeta {
+  source_label: string
+  source_file: string
+  source_sheet: string
+  financial_sheet: string
+  method_file: string
+  baseline_year: number
+  scenario_price_change_pct: number
+  result_type: 'scenario'
+  level_basis: string
+  method_scope_note: string
+  imported_at: string
+}
+
+/**
+ * 同伴工作簿给出的净利润压力测试。
+ * pct 字段是“相对2025年归母净利润的变动%”，不是毛利率百分点。
+ */
+export interface ProfitSensitivity {
+  material: string
+  company: string
+  company_name: string
+  source_company_name: string
+  baseline_year: number
+  base_net_profit_yi: number
+  scenario_price_change_pct: number
+  plus20_np_change_pct: number
+  minus20_np_change_pct: number
+  plus20_np_change_yi: number
+  minus20_np_change_yi: number
+  level: ExpLevel
+  source_level: ExpLevel | null
+  calculation_status: 'formula' | 'hardcoded'
+  formula: string | null
+  impact_note: string
+  calculation_note: string | null
+  source_calculation_note?: string | null
+  quality_flags: ProfitSensitivityQualityFlag[]
+  source_row: number
+}
+
+export interface ProfitImpactEstimate {
+  priceChangePct: number
+  profitChangePct: number
+  profitChangeYi: number
+}
+
 export interface NewsItem {
   id: string
   date: string
@@ -127,6 +183,8 @@ export interface AppData {
   materials: Material[]
   companies: Company[]
   sensitivity: Sensitivity[]
+  profit_sensitivity_meta?: ProfitSensitivityMeta
+  profit_sensitivity?: ProfitSensitivity[]
   news: NewsItem[]
   thresholds: {
     anomaly: {
@@ -235,6 +293,36 @@ export const fmtPrice = (v: number | null | undefined) =>
 
 export const fmtMktcap = (v: number) => `${(v / 1e8).toLocaleString('zh-CN', { maximumFractionDigits: 0 })}亿`
 
+export const fmtProfitAmount = (valueYi: number) => {
+  const abs = Math.abs(valueYi)
+  if (abs >= 1) return `${abs.toLocaleString('zh-CN', { maximumFractionDigits: 2 })}亿元`
+  return `${(abs * 10000).toLocaleString('zh-CN', {
+    minimumFractionDigits: 0,
+    maximumFractionDigits: 2,
+  })}万元`
+}
+
+/** 把工作簿的±20%压力情景线性缩放到指定原材料变动幅度。 */
+export function estimateProfitImpact(
+  row: ProfitSensitivity,
+  priceChangePct: number,
+): ProfitImpactEstimate {
+  const factor = priceChangePct / row.scenario_price_change_pct
+  return {
+    priceChangePct,
+    profitChangePct: row.plus20_np_change_pct * factor,
+    profitChangeYi: row.plus20_np_change_yi * factor,
+  }
+}
+
+/** 亏损基数下不直接用百分比正负判利好/利空，改用绝对利润金额解释。 */
+export function profitImpactPhrase(row: ProfitSensitivity, valueYi: number) {
+  if (Math.abs(valueYi) < 1e-10) return '利润影响接近0'
+  const amount = fmtProfitAmount(valueYi)
+  if (row.base_net_profit_yi < 0) return valueYi < 0 ? `亏损扩大 ${amount}` : `亏损收窄 ${amount}`
+  return valueYi < 0 ? `净利润减少 ${amount}` : `净利润增加 ${amount}`
+}
+
 export const streakText = (s: number) =>
   s === 0 ? '—' : s > 0 ? `连涨${s}周` : `连跌${-s}周`
 
@@ -245,6 +333,7 @@ export interface Derived {
   COMPANIES: Company[]
   NEWS: NewsItem[]
   SENSITIVITY: Sensitivity[]
+  PROFIT_SENSITIVITY: ProfitSensitivity[]
   materialById: Map<string, Material>
   companyByCode: Map<string, Company>
   CATEGORIES: string[]
@@ -259,6 +348,10 @@ export interface Derived {
   /** 品种 → 敏感度条目 */
   sensitivityOfMaterial: (id: string) => Sensitivity[]
   sensitivityOfCompany: (code: string) => Sensitivity[]
+  /** 同伴净利润压力情景 */
+  profitSensitivityOfMaterial: (id: string) => ProfitSensitivity[]
+  profitSensitivityOfCompany: (code: string) => ProfitSensitivity[]
+  profitSensitivityOfPair: (id: string, code: string) => ProfitSensitivity | undefined
   /** 公告风险扫描（绑定当前数据集） */
   scanAnnouncementRisk: (cfg: {
     keywordsHigh: string[]
@@ -274,6 +367,7 @@ export function buildDerived(DATA: AppData): Derived {
   const MATERIALS = DATA.materials
   const COMPANIES = DATA.companies
   const SENSITIVITY = DATA.sensitivity
+  const PROFIT_SENSITIVITY = DATA.profit_sensitivity ?? []
 
   const materialById = new Map(MATERIALS.map((m) => [m.id, m]))
   // 新闻关联由后端统一判定；未标注有效原材料的条目不进入前端。
@@ -306,6 +400,12 @@ export function buildDerived(DATA: AppData): Derived {
 
   const sensitivityOfMaterial = (id: string) => SENSITIVITY.filter((s) => s.material === id)
   const sensitivityOfCompany = (code: string) => SENSITIVITY.filter((s) => s.company === code)
+  const profitSensitivityOfMaterial = (id: string) =>
+    PROFIT_SENSITIVITY.filter((s) => s.material === id)
+  const profitSensitivityOfCompany = (code: string) =>
+    PROFIT_SENSITIVITY.filter((s) => s.company === code)
+  const profitSensitivityOfPair = (id: string, code: string) =>
+    PROFIT_SENSITIVITY.find((s) => s.material === id && s.company === code)
 
   const extendNews = (n: NewsItem): NewsExt => {
     const related = [...new Set(n.material_ids)]
@@ -347,6 +447,7 @@ export function buildDerived(DATA: AppData): Derived {
     COMPANIES,
     NEWS,
     SENSITIVITY,
+    PROFIT_SENSITIVITY,
     materialById,
     companyByCode,
     CATEGORIES,
@@ -359,6 +460,9 @@ export function buildDerived(DATA: AppData): Derived {
     materialsOfCompany,
     sensitivityOfMaterial,
     sensitivityOfCompany,
+    profitSensitivityOfMaterial,
+    profitSensitivityOfCompany,
+    profitSensitivityOfPair,
     scanAnnouncementRisk,
   }
 }

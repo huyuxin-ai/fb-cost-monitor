@@ -1,11 +1,15 @@
 import type { ReactNode } from 'react'
 import { Link } from 'react-router'
 import {
+  estimateProfitImpact,
   fmtPct,
+  fmtProfitAmount,
+  profitImpactPhrase,
   type Downstream,
   type ExpLevel,
   type ImpactEffect,
   type Material,
+  type ProfitSensitivityQualityFlag,
 } from '@/lib/data'
 import { useAppData } from '@/lib/appData'
 import {
@@ -124,6 +128,26 @@ const effectClass = (effect: ImpactEffect) =>
       ? 'border-[#f23645]/50 bg-[#f23645]/10 text-[#ff6672]'
       : 'border-[#3a4657] bg-[#1a2230] text-[#aeb9c6]'
 
+const profitLevelClass = (level: ExpLevel) =>
+  level === '高'
+    ? 'border-[#f23645]/60 bg-[#f23645]/15 text-[#ff6672]'
+    : level === '中'
+      ? 'border-[#f0b90b]/60 bg-[#f0b90b]/10 text-[#f0b90b]'
+      : 'border-[#4a586a] bg-[#26303d] text-[#aeb9c6]'
+
+const profitDeltaClass = (valueYi: number) =>
+  valueYi > 0 ? 'text-[#53c9b2]' : valueYi < 0 ? 'text-[#ff6672]' : 'text-[#c8d2de]'
+
+const qualityFlagText: Record<ProfitSensitivityQualityFlag, string> = {
+  BASELINE_LOSS: '基准年为亏损，已按绝对金额显示“亏损扩大/收窄”，不用百分比正负直接判断利好利空。',
+  CALC_NOTE_MATERIAL_MISMATCH: '工作簿的测算备注与本行原材料名称不一致，结果需复核。',
+  LEVEL_INCONSISTENT_OR_MISSING: '原表等级缺失或与其自身阈值不一致，页面等级已按±20%结果重新计算。',
+  NOTE_RESULT_METHOD_CONFLICT: '工作簿备注中的毛利率/税率口径与结果无法完全复算，仅作待复核情景。',
+  CALCULATION_BASIS_INCONSISTENT: '同类维生素结果存在税前/税后口径不一致，本行结果需与同伴复核。',
+  LARGE_SCENARIO_RESULT: '情景结果幅度较大，应视为压力测试，不是业绩预测。',
+  HARDCODED_RESULT: '该数值在工作簿中为固定值，没有可复算公式。',
+}
+
 /** 公司影响标签：点击查看传导方向与测算，弹层内再进入 K 线 */
 export function CompanyImpactTag({
   material,
@@ -136,19 +160,47 @@ export function CompanyImpactTag({
   className?: string
   label?: string
 }) {
-  const { sensitivityOfMaterial } = useAppData()
+  const { DATA, sensitivityOfMaterial, profitSensitivityOfPair, companyByCode } = useAppData()
   const sensitivity = sensitivityOfMaterial(material.id).find(
     (s) => s.company === downstream.code,
   )
+  const profitSensitivity = profitSensitivityOfPair(material.id, downstream.code)
   const relation =
     downstream.relation ??
     (material.category.includes('包装') || material.category.includes('包材')
       ? '包装成本'
       : '原料成本')
-  const priceUpEffect = downstream.price_up_effect ?? '偏利空'
+  const priceUpEffect: ImpactEffect = profitSensitivity
+    ? profitSensitivity.plus20_np_change_yi > 0
+      ? '偏利好'
+      : profitSensitivity.plus20_np_change_yi < 0
+        ? '偏利空'
+        : '中性'
+    : downstream.price_up_effect ?? '偏利空'
   const wow = material.latest?.wow
-  const currentEffect: ImpactEffect | null =
-    wow == null ? null : wow > 0 ? priceUpEffect : wow < 0 ? oppositeEffect(priceUpEffect) : '中性'
+  const currentProfit =
+    profitSensitivity && wow != null ? estimateProfitImpact(profitSensitivity, wow) : null
+  const priceAgeDays = (() => {
+    if (!material.latest?.date) return null
+    const latestAt = Date.parse(`${material.latest.date}T00:00:00Z`)
+    const generatedAt = Date.parse(`${DATA.generated_at.slice(0, 10)}T00:00:00Z`)
+    if (Number.isNaN(latestAt) || Number.isNaN(generatedAt)) return null
+    return Math.max(0, Math.round((generatedAt - latestAt) / 86_400_000))
+  })()
+  const priceIsStale = priceAgeDays != null && priceAgeDays > 7
+  const currentEffect: ImpactEffect | null = currentProfit
+    ? currentProfit.profitChangeYi > 0
+      ? '偏利好'
+      : currentProfit.profitChangeYi < 0
+        ? '偏利空'
+        : '中性'
+    : wow == null
+      ? null
+      : wow > 0
+        ? priceUpEffect
+        : wow < 0
+          ? oppositeEffect(priceUpEffect)
+          : '中性'
   const marginImpact =
     relation !== '竞品替代' && sensitivity && wow != null
       ? -(sensitivity.cost_ratio * wow) / 100
@@ -158,6 +210,14 @@ export function CompanyImpactTag({
     (relation === '包装成本'
       ? `${material.name}价格上涨会通过“${downstream.note}”抬高包装采购成本；如果产品售价不变，毛利会承压。`
       : `${material.name}价格上涨会通过“${downstream.note}”抬高相关成本；价格下降时则减轻成本压力。`)
+  const nextStep = profitSensitivity
+    ? profitSensitivity.level === '高'
+      ? profitSensitivity.plus20_np_change_yi > 0
+        ? '核实产品成交价、出货量和自用原料成本是否同步变化。'
+        : '优先核实采购价、库存周期和产品提价传导情况。'
+      : '持续跟踪原材料价格，并在新财报发布后更新基准净利润。'
+    : null
+  const companyHasKline = companyByCode.get(downstream.code)?.has_kline === true
 
   return (
     <Dialog>
@@ -165,14 +225,19 @@ export function CompanyImpactTag({
         <button
           type="button"
           onClick={(e) => e.stopPropagation()}
-          className={`group inline-flex items-center gap-1 whitespace-nowrap rounded-sm border border-[#2a3442] bg-[#131922] px-1.5 py-0.5 text-[11px] hover:border-[#f0b90b]/60 ${className}`}
+          className={`group inline-flex min-h-9 items-center gap-1 whitespace-nowrap rounded-sm border border-[#2a3442] bg-[#131922] px-2 py-1 text-[11px] hover:border-[#f0b90b]/60 sm:min-h-0 sm:px-1.5 sm:py-0.5 ${className}`}
           title={`查看 ${downstream.name} 的利润影响`}
         >
-          {downstream.level ? (
-            <ExpBadge level={downstream.level} />
-          ) : (
+          {relation === '竞品替代' ? (
             <span className="rounded-sm border border-[#4aa3ff]/50 bg-[#4aa3ff]/10 px-1 py-px text-[10px] text-[#7fbdff]">
               替代
+            </span>
+          ) : !profitSensitivity && downstream.level ? (
+            <ExpBadge level={downstream.level} />
+          ) : null}
+          {profitSensitivity && (
+            <span className={`rounded-sm border px-1 py-px text-[10px] font-semibold ${profitLevelClass(profitSensitivity.level)}`}>
+              净利{profitSensitivity.level}
             </span>
           )}
           <span className="text-[#d6dee8] group-hover:text-[#f0b90b]">
@@ -184,7 +249,7 @@ export function CompanyImpactTag({
         </button>
       </DialogTrigger>
       <DialogContent
-        className="border-[#2a3442] bg-[#11161d] p-0 text-[#d6dee8] sm:max-w-[520px]"
+        className="max-h-[calc(100dvh-1rem)] w-[calc(100vw-1rem)] grid-rows-[auto_minmax(0,1fr)_auto] gap-0 overflow-hidden border-[#2a3442] bg-[#11161d] p-0 text-[#d6dee8] sm:max-w-[640px]"
         onClick={(e) => e.stopPropagation()}
       >
         <DialogHeader className="border-b border-[#232b36] px-4 py-3 pr-12 text-left">
@@ -196,59 +261,168 @@ export function CompanyImpactTag({
           </DialogDescription>
         </DialogHeader>
 
-        <div className="space-y-3 px-4 py-1">
-          <div className="grid grid-cols-[92px_1fr] items-center gap-x-3 gap-y-2 rounded border border-[#232b36] bg-[#131922] px-3 py-2 text-[12px]">
-            <span className="text-[#7d8a9b]">价格上涨时</span>
-            <span className={`w-fit rounded-sm border px-2 py-0.5 font-semibold ${effectClass(priceUpEffect)}`}>
-              {priceUpEffect}
-            </span>
-            <span className="text-[#7d8a9b]">最新原料变动</span>
-            <span className="font-mono text-[#d6dee8]">
-              {material.latest && wow != null
-                ? `${fmtPct(wow)} · 截至 ${material.latest.date}`
-                : '暂无最新价格'}
-            </span>
-            <span className="text-[#7d8a9b]">本期利润方向</span>
-            {currentEffect ? (
-              <span className={`w-fit rounded-sm border px-2 py-0.5 font-semibold ${effectClass(currentEffect)}`}>
-                {currentEffect}
-              </span>
-            ) : (
-              <span className="text-[#5c6875]">待有价格后判断</span>
-            )}
-            <span className="text-[#7d8a9b]">毛利率测算</span>
-            {marginImpact != null ? (
-              <span className="font-mono font-semibold text-[#e8eef5]">
-                {marginImpact > 0 ? '+' : ''}{marginImpact.toFixed(2)} pct
-              </span>
-            ) : (
-              <span className="text-[#5c6875]">
-                {relation === '竞品替代' ? '竞品关系不套用成本公式' : '成本占比数据待补充'}
-              </span>
-            )}
-          </div>
-          <div className="rounded border border-[#f0b90b]/30 bg-[#f0b90b]/[0.05] px-3 py-2 text-[12px] leading-relaxed text-[#d9cfae]">
-            {impactNote}
-          </div>
+        <div className="min-h-0 space-y-3 overflow-y-auto px-4 py-3">
+          {profitSensitivity ? (
+            <>
+              <div className="flex flex-wrap items-center gap-1.5 text-[10px]">
+                <span className={`rounded-sm border px-1.5 py-0.5 font-semibold ${profitLevelClass(profitSensitivity.level)}`}>
+                  同伴测算：净利{profitSensitivity.level}敏感
+                </span>
+                <span className="tag">±20%压力情景</span>
+                <span className="tag">{profitSensitivity.calculation_status === 'formula' ? '有公式' : '固定值待复核'}</span>
+              </div>
+
+              <div className="grid grid-cols-[96px_minmax(0,1fr)] items-start gap-x-3 gap-y-2 rounded border border-[#232b36] bg-[#131922] px-3 py-2 text-[12px]">
+                <span className="text-[#7d8a9b]">最近原料变动</span>
+                <span className="font-mono text-[#d6dee8]">
+                  {material.latest && wow != null
+                    ? `${fmtPct(wow)} · 截至 ${material.latest.date}${priceIsStale ? ` · ⚠ 已滞后${priceAgeDays}天` : ''}`
+                    : material.latest
+                      ? `已有价格，但不足两期计算涨跌 · ${material.latest.date}`
+                      : '暂无最新价格'}
+                </span>
+                <span className="text-[#7d8a9b]">最近一次折算</span>
+                {currentProfit ? (
+                  <span className={`font-semibold ${profitDeltaClass(currentProfit.profitChangeYi)}`}>
+                    {profitImpactPhrase(profitSensitivity, currentProfit.profitChangeYi)}
+                    <span className="ml-1 block font-mono text-[10px] font-normal text-[#7d8a9b] sm:inline">
+                      {profitSensitivity.base_net_profit_yi < 0
+                        ? `原表比率 ${fmtPct(currentProfit.profitChangePct)}（亏损基数，方向以金额为准）`
+                        : `${fmtPct(currentProfit.profitChangePct)}（相对${profitSensitivity.baseline_year}年净利润）`}
+                    </span>
+                  </span>
+                ) : (
+                  <span className="text-[#5c6875]">待原材料有可比价格后折算</span>
+                )}
+                <span className="text-[#7d8a9b]">价格上涨时</span>
+                <span className={`w-fit rounded-sm border px-2 py-0.5 font-semibold ${effectClass(priceUpEffect)}`}>
+                  {priceUpEffect}
+                </span>
+                <span className="text-[#7d8a9b]">基准归母净利润</span>
+                <span className="font-mono text-[#d6dee8]">
+                  {profitSensitivity.base_net_profit_yi.toFixed(2)} 亿元 · {profitSensitivity.baseline_year}年
+                </span>
+              </div>
+
+              <div className="grid grid-cols-1 gap-2 sm:grid-cols-2">
+                {[
+                  {
+                    title: `原材料 +${profitSensitivity.scenario_price_change_pct}%`,
+                    pct: profitSensitivity.plus20_np_change_pct,
+                    yi: profitSensitivity.plus20_np_change_yi,
+                  },
+                  {
+                    title: `原材料 -${profitSensitivity.scenario_price_change_pct}%`,
+                    pct: profitSensitivity.minus20_np_change_pct,
+                    yi: profitSensitivity.minus20_np_change_yi,
+                  },
+                ].map((scenario) => (
+                  <div key={scenario.title} className="rounded border border-[#2a3442] bg-[#131922] px-3 py-2">
+                    <div className="text-[10px] text-[#7d8a9b]">{scenario.title}压力情景</div>
+                    <div className={`mt-0.5 text-[13px] font-bold ${profitDeltaClass(scenario.yi)}`}>
+                      {profitImpactPhrase(profitSensitivity, scenario.yi)}
+                    </div>
+                    <div className="mt-0.5 font-mono text-[10px] text-[#7d8a9b]">
+                      {profitSensitivity.base_net_profit_yi < 0
+                        ? `原表比率 ${fmtPct(scenario.pct)}（亏损基数，方向以金额为准）`
+                        : `相对净利润变动 ${fmtPct(scenario.pct)}`}
+                      {' · '}绝对金额 {fmtProfitAmount(scenario.yi)}
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              <div className="rounded border border-[#f0b90b]/30 bg-[#f0b90b]/[0.05] px-3 py-2 text-[12px] leading-relaxed text-[#d9cfae]">
+                <div><span className="font-semibold text-[#f0b90b]">原因：</span>{profitSensitivity.impact_note}</div>
+                <div className="mt-1"><span className="font-semibold text-[#f0b90b]">下一步：</span>{nextStep}</div>
+              </div>
+
+              <div className="rounded border border-[#232b36] bg-[#0d1117] px-3 py-2 text-[10px] leading-relaxed text-[#7d8a9b]">
+                <div className="font-semibold text-[#aeb9c6]">证据与口径</div>
+                <div>
+                  来源：《{DATA.profit_sensitivity_meta?.source_file ?? '食品原材料敏感性分析.xlsx'}》
+                  “{DATA.profit_sensitivity_meta?.source_sheet ?? '品种-下游公司映射表'}”第{' '}
+                  {profitSensitivity.source_row} 行。
+                </div>
+                <div>口径：原材料±20%时，净利润相对{profitSensitivity.baseline_year}年归母净利润的变动；当前值只是线性折算，不是业绩预测。</div>
+                {profitSensitivity.source_calculation_note !== undefined && (
+                  <div>原表备注：{profitSensitivity.source_calculation_note ?? '空白'}</div>
+                )}
+                {profitSensitivity.calculation_note && <div>测算备注：{profitSensitivity.calculation_note}</div>}
+                {profitSensitivity.formula && <div className="mt-1 break-all font-mono">原表公式：{profitSensitivity.formula}</div>}
+                {DATA.profit_sensitivity_meta?.method_scope_note && (
+                  <div className="mt-1 text-[#b89a4a]">方法范围：{DATA.profit_sensitivity_meta.method_scope_note}</div>
+                )}
+              </div>
+
+              {profitSensitivity.quality_flags.length > 0 && (
+                <div className="rounded border border-[#f23645]/35 bg-[#f23645]/[0.05] px-3 py-2 text-[10px] leading-relaxed text-[#d9a2a7]">
+                  <div className="font-semibold text-[#ff6672]">数据复核提示</div>
+                  {profitSensitivity.quality_flags.map((flag) => (
+                    <div key={flag} className="mt-0.5">• {qualityFlagText[flag]}</div>
+                  ))}
+                </div>
+              )}
+            </>
+          ) : (
+            <>
+              <div className="mb-2 text-[10px] text-[#7d8a9b]">该组合尚无同伴净利润压力测试，以下为网站旧版成本占比经验测算。</div>
+              <div className="grid grid-cols-[92px_1fr] items-center gap-x-3 gap-y-2 rounded border border-[#232b36] bg-[#131922] px-3 py-2 text-[12px]">
+                <span className="text-[#7d8a9b]">价格上涨时</span>
+                <span className={`w-fit rounded-sm border px-2 py-0.5 font-semibold ${effectClass(priceUpEffect)}`}>
+                  {priceUpEffect}
+                </span>
+                <span className="text-[#7d8a9b]">最新原料变动</span>
+                <span className="font-mono text-[#d6dee8]">
+                  {material.latest && wow != null
+                    ? `${fmtPct(wow)} · 截至 ${material.latest.date}`
+                    : '暂无最新价格'}
+                </span>
+                <span className="text-[#7d8a9b]">本期利润方向</span>
+                {currentEffect ? (
+                  <span className={`w-fit rounded-sm border px-2 py-0.5 font-semibold ${effectClass(currentEffect)}`}>
+                    {currentEffect}
+                  </span>
+                ) : (
+                  <span className="text-[#5c6875]">待有价格后判断</span>
+                )}
+                <span className="text-[#7d8a9b]">毛利率经验测算</span>
+                {marginImpact != null ? (
+                  <span className="font-mono font-semibold text-[#e8eef5]">
+                    {marginImpact > 0 ? '+' : ''}{marginImpact.toFixed(2)} pct
+                  </span>
+                ) : (
+                  <span className="text-[#5c6875]">
+                    {relation === '竞品替代' ? '竞品关系不套用成本公式' : '成本占比数据待补充'}
+                  </span>
+                )}
+              </div>
+              <div className="rounded border border-[#f0b90b]/30 bg-[#f0b90b]/[0.05] px-3 py-2 text-[12px] leading-relaxed text-[#d9cfae]">
+                {impactNote}
+              </div>
+            </>
+          )}
         </div>
 
-        <DialogFooter className="border-t border-[#232b36] px-4 py-3 sm:justify-between">
+        <DialogFooter className={`border-t border-[#232b36] px-4 py-3 ${companyHasKline ? 'sm:justify-between' : 'sm:justify-end'}`}>
           <DialogClose asChild>
             <button
               type="button"
-              className="rounded-sm border border-[#2a3442] px-3 py-1.5 text-[12px] text-[#8b98a9] hover:text-[#d6dee8]"
+              className="min-h-10 rounded-sm border border-[#2a3442] px-3 py-1.5 text-[12px] text-[#8b98a9] hover:text-[#d6dee8] sm:min-h-0"
             >
               关闭
             </button>
           </DialogClose>
-          <DialogClose asChild>
-            <Link
-              to={`/kline?code=${encodeURIComponent(downstream.code)}`}
-              className="rounded-sm border border-[#f0b90b]/60 bg-[#f0b90b]/10 px-3 py-1.5 text-[12px] font-semibold text-[#f0b90b] hover:bg-[#f0b90b]/20"
-            >
-              查看公司 K 线 →
-            </Link>
-          </DialogClose>
+          {companyHasKline && (
+            <DialogClose asChild>
+              <Link
+                to={`/kline?code=${encodeURIComponent(downstream.code)}`}
+                className="min-h-10 rounded-sm border border-[#f0b90b]/60 bg-[#f0b90b]/10 px-3 py-1.5 text-[12px] font-semibold text-[#f0b90b] hover:bg-[#f0b90b]/20 sm:min-h-0"
+              >
+                查看公司 K 线 →
+              </Link>
+            </DialogClose>
+          )}
         </DialogFooter>
       </DialogContent>
     </Dialog>
