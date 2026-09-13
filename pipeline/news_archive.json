@@ -1,5 +1,63 @@
 [
  {
+  "id": "news_0c0b1f5297162f04dba2",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T00:22+08:00",
+  "fetched_at": "2026-09-14T01:59+08:00",
+  "title": "猪价上涨!2026年9月14日-今日最新猪价行情分享",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1075598204_122014422",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_5184ea6a96ca51adc01d",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T00:13+08:00",
+  "fetched_at": "2026-09-14T01:59+08:00",
+  "title": "8月猪价温和回暖 养殖企业下半年利润有望修复",
+  "summary": "对于当前的价格走势,上海钢联生猪行业分析师王红炎告诉《证券日报》记者,本轮价格回升是产能去化见效后的修复性行情,而非传统强周期开启。从监测数据透露的情况可知,行业正进入低波动、长磨底周期,未来供给稳定性增强,但是很难再出现价格大涨大跌的现象。",
+  "source": "证券日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609143872895720.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_e4dcf0239beeac97c45d",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T00:00+08:00",
+  "fetched_at": "2026-09-14T01:59+08:00",
+  "title": "【止跌上涨】2026.9.14生猪市场信息交流",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-14/doc-inirtfmq7543996.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_e83e4bd7cb7e7e786219",
   "date": "2026-09-13",
   "published_at": "2026-09-13T18:52+08:00",
@@ -55,6 +113,25 @@
    "生猪"
   ],
   "relevance_score": 8
+ },
+ {
+  "id": "news_4f62b9a8bc22abcbf705",
+  "date": "2026-09-13",
+  "published_at": "2026-09-13T02:15+08:00",
+  "fetched_at": "2026-09-14T01:59+08:00",
+  "title": "废品回收价格上涨 纸箱塑料瓶铝罐废铜旧手机成热门品类",
+  "summary": "",
+  "source": "无忧资讯",
+  "type": "价格行情",
+  "url": "https://info.51.ca/articles/1577267?wyacs=info-article-list",
+  "company": "",
+  "material_ids": [
+   "AL"
+  ],
+  "matched_keywords": [
+   "铝罐"
+  ],
+  "relevance_score": 9
  },
  {
   "id": "news_de0f60b5c1db8b14b1e9",
