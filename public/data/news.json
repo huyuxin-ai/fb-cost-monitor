@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-14T01:59+08:00",
+ "updated_at": "2026-09-14T06:59+08:00",
  "refresh_minutes": 30,
- "item_count": 102,
+ "item_count": 103,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -35,7 +35,7 @@
   "新华财经": 1,
   "新华财经·期货日报": 1,
   "新浪网": 2,
-  "新浪财经": 17,
+  "新浪财经": 18,
   "无忧资讯": 1,
   "期货日报": 1,
   "正信期货": 1,
@@ -437,15 +437,15 @@
    "relevance_score": 8
   },
   {
-   "id": "news_c9fc60172c3d4d899127",
+   "id": "news_0536e781b9db72489e15",
    "date": "2026-09-11",
    "published_at": "2026-09-11T15:29+08:00",
    "fetched_at": "2026-09-11T17:55+08:00",
-   "title": "一夜崩落,猪价下跌“势不可挡”!附:9月12日猪价",
+   "title": "跌了,猪价“坐滑梯”,无休止下跌?附:9月12日猪价",
    "summary": "",
    "source": "sohu.com",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1074751172_120238851",
+   "url": "https://m.sohu.com/a/1074753803_120238851",
    "company": "",
    "material_ids": [
     "LH"
@@ -1369,6 +1369,26 @@
    ],
    "matched_keywords": [
     "纸浆"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9eaf1d3df6a18b3c5c9d",
+   "date": "2026-09-08",
+   "published_at": "2026-09-08T13:19+08:00",
+   "fetched_at": "2026-09-14T06:59+08:00",
+   "title": "2026.9.9-全国生猪价格参考(好消息,猪价又上涨了!)",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/wm/2026-09-08/doc-inirauia4779991.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
    ],
    "relevance_score": 8
   },
