@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-09-12T01:50+08:00",
+ "updated_at": "2026-09-13T23:17+08:00",
  "refresh_minutes": 30,
- "item_count": 89,
+ "item_count": 98,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
   "IDNFinancials": 1,
   "IndexBox": 1,
   "Shangbao Indonesia": 1,
-  "Sohu": 3,
+  "Sohu": 5,
   "Vietnam.vn": 2,
   "cbgc.scol.com.cn": 1,
   "finance.sina.com.cn": 11,
@@ -16,7 +16,7 @@
   "k.sina.com.cn": 1,
   "qq.com": 1,
   "sohu.com": 1,
-  "video.sina.com.cn": 2,
+  "video.sina.com.cn": 3,
   "东方财富": 1,
   "东方财富网": 1,
   "中华网": 2,
@@ -28,16 +28,19 @@
   "华联期货": 1,
   "南方财经网": 4,
   "发现报告": 2,
+  "同花顺": 1,
   "同花顺财经": 12,
+  "富途牛牛": 1,
   "数据宝": 1,
   "新华财经": 1,
   "新华财经·期货日报": 1,
   "新浪网": 2,
-  "新浪财经": 13,
+  "新浪财经": 16,
   "期货日报": 1,
   "正信期货": 1,
   "汇通网 Fx678": 1,
   "混沌天成期货": 1,
+  "澎湃新闻": 1,
   "瑞达期货": 1,
   "申银万国期货": 1,
   "界面新闻": 3,
@@ -48,6 +51,159 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_e83e4bd7cb7e7e786219",
+   "date": "2026-09-13",
+   "published_at": "2026-09-13T18:52+08:00",
+   "fetched_at": "2026-09-13T23:17+08:00",
+   "title": "生猪期货周报(2026.09.13)生猪增仓下跌,供强需弱格局未改,近月承压远月抗跌,出栏增量+冻品高位+期货升水三重压",
+   "summary": "",
+   "source": "video.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://video.sina.com.cn/p/finance/2026-09-13/detail-inirsqpv0351918.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_30d1d5361fdab603d685",
+   "date": "2026-09-13",
+   "published_at": "2026-09-13T17:39+08:00",
+   "fetched_at": "2026-09-13T23:17+08:00",
+   "title": "猪价上涨“拐点”来了!附:9月14日猪价",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1075542265_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e5568fda5b094118484e",
+   "date": "2026-09-13",
+   "published_at": "2026-09-13T06:18+08:00",
+   "fetched_at": "2026-09-13T23:17+08:00",
+   "title": "农业农村部:探索实施生猪养殖头部企业产能集中度目标调控",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.cn/2026-09-12/detail-inirpqmh8522230.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1418b86eccff401f6363",
+   "date": "2026-09-12",
+   "published_at": "2026-09-12T15:32+08:00",
+   "fetched_at": "2026-09-13T23:17+08:00",
+   "title": "价格周报|猪价震荡调整,机构称年内猪价低点基本已明确",
+   "summary": "近期的猪肉和生猪价格。制表澎湃新闻 本周全国生猪交易均重继续微涨。卓创资讯监测全国生猪平均交易体重为124.54公斤,环比涨0.23%。出栏均重为124.86公斤,较上周增0.27公斤,收购均重为124.22公斤,较上周增0.31公斤。",
+   "source": "澎湃新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609123872725945.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_7cde60eafd56f6176b57",
+   "date": "2026-09-12",
+   "published_at": "2026-09-12T14:37+08:00",
+   "fetched_at": "2026-09-13T23:17+08:00",
+   "title": "生意社:原油成本端利好支撑 PTA价格震荡上行",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-12/doc-inirpyyz1474852.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_3188d7152f83c068d032",
+   "date": "2026-09-12",
+   "published_at": "2026-09-12T12:30+08:00",
+   "fetched_at": "2026-09-13T23:17+08:00",
+   "title": "旺季不旺特征未改 生猪期货震荡思路对待",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-11/detail-inirmvzu6867674.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_94cc9f7eb3d38923b81b",
+   "date": "2026-09-12",
+   "published_at": "2026-09-12T07:00+08:00",
+   "fetched_at": "2026-09-13T23:17+08:00",
+   "title": "9月12日猪价:跌跌不休!二师兄“产销失衡”,猪价“超预期”下跌!何时上涨?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1074952072_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_c7313383bd396680f761",
+   "date": "2026-09-12",
+   "published_at": "2026-09-12T03:32+08:00",
+   "fetched_at": "2026-09-13T23:17+08:00",
+   "title": "USDA 9月月报:美国大豆供需预期数据",
+   "summary": "",
+   "source": "富途牛牛",
+   "type": "供需动态",
+   "url": "https://news.futunn.com/post/79165686/usda-september-monthly-report-us-soybean-supply-and-demand-outlook",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_be1aea0801a402187004",
    "date": "2026-09-11",
@@ -217,6 +373,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_dc9b303c8ce9abb13609",
+   "date": "2026-09-11",
+   "published_at": "2026-09-11T15:00+08:00",
+   "fetched_at": "2026-09-13T23:17+08:00",
+   "title": "【现货】9月11日各地区一级豆油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260911/c679819785.shtml",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
    ],
    "relevance_score": 8
   },
