@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-14T08:57+08:00",
+ "updated_at": "2026-09-14T14:03+08:00",
  "refresh_minutes": 30,
- "item_count": 106,
+ "item_count": 112,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -14,6 +14,7 @@
   "finance.sina.com.cn": 11,
   "guandian.cn": 1,
   "k.sina.com.cn": 1,
+  "news.mysteel.com": 1,
   "qq.com": 1,
   "sohu.com": 1,
   "video.sina.com.cn": 3,
@@ -29,14 +30,14 @@
   "华联期货": 1,
   "南方财经网": 4,
   "发现报告": 2,
-  "同花顺": 1,
+  "同花顺": 2,
   "同花顺财经": 12,
   "富途牛牛": 1,
   "数据宝": 1,
   "新华财经": 1,
   "新华财经·期货日报": 1,
   "新浪网": 2,
-  "新浪财经": 18,
+  "新浪财经": 20,
   "无忧资讯": 1,
   "期货日报": 1,
   "正信期货": 1,
@@ -49,11 +50,125 @@
   "第一财经": 2,
   "联合早报": 1,
   "证券日报": 1,
-  "财联社": 1,
+  "财联社": 3,
   "铜冠金源期货": 1,
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_d25900af96e7ab35e341",
+   "date": "2026-09-14",
+   "published_at": "2026-09-14T11:46+08:00",
+   "fetched_at": "2026-09-14T14:03+08:00",
+   "title": "【现货】9月14日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260914/c679871326.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_37f88c830197738bd54c",
+   "date": "2026-09-14",
+   "published_at": "2026-09-14T11:20+08:00",
+   "fetched_at": "2026-09-14T14:03+08:00",
+   "title": "农业农村部:9月第1周生猪定点屠宰企业生猪平均收购价格为12.14元/公斤",
+   "summary": "据农业农村部监测,2026年8月31日—9月6日,生猪定点屠宰企业生猪平均收购价格为12.14元/公斤,环比下降0.6%,同比下降18.4%。白条肉平均出厂价格为15.91元/公斤,环比下降0.5%,同比下降17.0%。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609143873255835.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_4d93aa0258e8fdef59a1",
+   "date": "2026-09-14",
+   "published_at": "2026-09-14T10:03+08:00",
+   "fetched_at": "2026-09-14T14:03+08:00",
+   "title": "Mysteel解读:2026年9月份世界玉米供需情况分析",
+   "summary": "",
+   "source": "news.mysteel.com",
+   "type": "供需动态",
+   "url": "https://news.mysteel.com/a/26091410/24A8E14470B561D6.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_01a62dc36662e32432de",
+   "date": "2026-09-14",
+   "published_at": "2026-09-14T09:40+08:00",
+   "fetched_at": "2026-09-14T14:03+08:00",
+   "title": "生意社2026年9月14日涤纶短纤趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-14/doc-iniruarh4121990.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d69f9a401a20e6944db4",
+   "date": "2026-09-14",
+   "published_at": "2026-09-14T09:35+08:00",
+   "fetched_at": "2026-09-14T14:03+08:00",
+   "title": "国家统计局:9月上旬生猪(外三元)价格环比上涨0.9%",
+   "summary": "其中,生猪(外三元)价格为11.0元/千克,环比上涨0.9%。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609143873031987.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_8550efd07b14d7727952",
+   "date": "2026-09-14",
+   "published_at": "2026-09-14T09:08+08:00",
+   "fetched_at": "2026-09-14T14:03+08:00",
+   "title": "生意社2026年9月14日PTA趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-14/doc-iniruarh4043969.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_adf18b4c679867f534f4",
    "date": "2026-09-14",
