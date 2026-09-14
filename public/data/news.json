@@ -1,13 +1,14 @@
 {
- "updated_at": "2026-09-15T05:08+08:00",
+ "updated_at": "2026-09-15T06:20+08:00",
  "refresh_minutes": 30,
- "item_count": 124,
+ "item_count": 126,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
   "Dairy News Today": 1,
   "IDNFinancials": 1,
   "IndexBox": 2,
+  "Moomoo": 1,
   "Shangbao Indonesia": 1,
   "Sohu": 9,
   "Vietnam.vn": 2,
@@ -42,6 +43,7 @@
   "无忧资讯": 1,
   "期货日报": 1,
   "正信期货": 1,
+  "每日经济新闻": 1,
   "汇通网 Fx678": 2,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
@@ -60,15 +62,34 @@
  },
  "items": [
   {
-   "id": "news_60232cac56eef4a3d732",
+   "id": "news_86c8a611b46944e73d43",
    "date": "2026-09-15",
-   "published_at": "2026-09-15T00:22+08:00",
-   "fetched_at": "2026-09-15T05:08+08:00",
-   "title": "猪价继续上涨!2026年9月15日-今日最新猪价行情分享",
+   "published_at": "2026-09-15T05:49+08:00",
+   "fetched_at": "2026-09-15T06:20+08:00",
+   "title": "CBOT农产品期货主力合约收盘多数上涨,玉米期货涨0.71%",
+   "summary": "当地时间9月14日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数上涨,大豆期货涨0.66%报1305.00美分/蒲式耳,玉米期货涨0.71%报534.00美分/蒲式耳,小麦期货跌0.45%报722.00美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609153873823328.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_795c52bee95215e2150a",
+   "date": "2026-09-15",
+   "published_at": "2026-09-15T05:00+08:00",
+   "fetched_at": "2026-09-15T06:20+08:00",
+   "title": "火力全开,猪价旺季“上涨”兑现?附:9月15日猪价",
    "summary": "",
    "source": "Sohu",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1076030503_122014422",
+   "url": "https://m.sohu.com/a/1075977361_120238851",
    "company": "",
    "material_ids": [
     "LH"
@@ -209,6 +230,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1f30614f85c60b961bc0",
+   "date": "2026-09-14",
+   "published_at": "2026-09-14T16:06+08:00",
+   "fetched_at": "2026-09-15T06:20+08:00",
+   "title": "豆油跨期2807/2912 (ZL2807-ZL2912) 期货",
+   "summary": "",
+   "source": "Moomoo",
+   "type": "价格行情",
+   "url": "https://www.moomoo.com/hans/futures/ZL2807-ZL2912-US",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
    ],
    "relevance_score": 8
   },
