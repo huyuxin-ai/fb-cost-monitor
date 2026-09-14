@@ -1,15 +1,15 @@
 {
- "updated_at": "2026-09-14T21:12+08:00",
+ "updated_at": "2026-09-15T05:08+08:00",
  "refresh_minutes": 30,
- "item_count": 121,
+ "item_count": 124,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
   "Dairy News Today": 1,
   "IDNFinancials": 1,
-  "IndexBox": 1,
+  "IndexBox": 2,
   "Shangbao Indonesia": 1,
-  "Sohu": 8,
+  "Sohu": 9,
   "Vietnam.vn": 2,
   "cbgc.scol.com.cn": 1,
   "finance.sina.com.cn": 11,
@@ -51,6 +51,7 @@
   "界面新闻": 4,
   "第一财经": 2,
   "联合早报": 1,
+  "腾讯新闻": 1,
   "观点网": 1,
   "证券日报": 1,
   "财联社": 4,
@@ -58,6 +59,63 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_60232cac56eef4a3d732",
+   "date": "2026-09-15",
+   "published_at": "2026-09-15T00:22+08:00",
+   "fetched_at": "2026-09-15T05:08+08:00",
+   "title": "猪价继续上涨!2026年9月15日-今日最新猪价行情分享",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1076030503_122014422",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_98bbef79f46e79d8e233",
+   "date": "2026-09-14",
+   "published_at": "2026-09-14T23:32+08:00",
+   "fetched_at": "2026-09-15T05:08+08:00",
+   "title": "美国农业部生猪市场报告:2026年9月11日至12日价格与屠宰量 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-national-daily-direct-hog-prior-day-report-september-11-12-2026/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_107aaecd869fde723586",
+   "date": "2026-09-14",
+   "published_at": "2026-09-14T21:38+08:00",
+   "fetched_at": "2026-09-15T05:08+08:00",
+   "title": "猪价回暖,猪企离扭亏还有多远",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1076003543_481016",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_2c6b1dfcd2b3d3735e95",
    "date": "2026-09-14",
@@ -388,15 +446,15 @@
    "relevance_score": 12
   },
   {
-   "id": "news_7e6d195ee1b136fceedf",
+   "id": "news_cfa0405ef1603a14420b",
    "date": "2026-09-14",
-   "published_at": "2026-09-14T07:01+08:00",
-   "fetched_at": "2026-09-14T08:57+08:00",
-   "title": "好消息!猪价下跌“近乎熄火”,接下来“报复性”上涨?附:9月14日猪价",
+   "published_at": "2026-09-14T04:30+08:00",
+   "fetched_at": "2026-09-15T05:08+08:00",
+   "title": "9月14日猪价:6涨4跌!猪价“倔强”下跌,中秋将至,季节性“拐点”蓄势待发?",
    "summary": "",
-   "source": "Sohu",
+   "source": "腾讯新闻",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1075572735_120238851",
+   "url": "https://news.qq.com/rain/a/20260913A08SPI00",
    "company": "",
    "material_ids": [
     "LH"
