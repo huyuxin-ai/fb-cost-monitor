@@ -1,5 +1,141 @@
 [
  {
+  "id": "news_2c6b1dfcd2b3d3735e95",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T19:54+08:00",
+  "fetched_at": "2026-09-14T21:12+08:00",
+  "title": "原油飙升带动棕榈油收涨,出口疲软压制反弹空间",
+  "summary": "",
+  "source": "汇通网 Fx678",
+  "type": "价格行情",
+  "url": "https://news.fx678.com/202609141954132288.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e8a1e6131b22989ce730",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T18:35+08:00",
+  "fetched_at": "2026-09-14T21:12+08:00",
+  "title": "天灾预警!超强厄尔尼诺来袭,白糖也要涨价了?干旱暴雨双重暴击",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1075960561_122219919",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_5bdd1263f1775cb3c5e5",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T18:07+08:00",
+  "fetched_at": "2026-09-14T21:12+08:00",
+  "title": "新五丰拟5374.30万元收购广联公司18.88%股权,公司上半年大亏超7亿元,生猪销价持续低迷",
+  "summary": "资料显示,湖南新五丰股份有限公司2004年上市,主营业务是生猪养殖、肉品销售、饲料加工。公司的主要产品是生猪出口、生猪内销、饲料销售、贸易、鲜肉、冻肉、屠宰冷藏业务。 2020年,公司业绩触及历史高点,恰逢上一轮猪价峰值;此后猪周期进入下行通道,公司经营急转直下。",
+  "source": "深圳商报·读创",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609143873534537.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_917e640676ae248524ef",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T18:07+08:00",
+  "fetched_at": "2026-09-14T21:12+08:00",
+  "title": "牧原股份:8月生猪养殖完全成本11.5元/kg左右",
+  "summary": "",
+  "source": "观点网",
+  "type": "供需动态",
+  "url": "https://www.guandian.cn/article/20260914/601320.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_481f73abf82099bc8b33",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T17:56+08:00",
+  "fetched_at": "2026-09-14T21:12+08:00",
+  "title": "猪价震荡调整,机构称年内猪价低点基本已明确",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/5426766895/14375e42f00102y70c",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f8afea76f8f55edf2abe",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T16:00+08:00",
+  "fetched_at": "2026-09-14T21:12+08:00",
+  "title": "9月第2周生猪和猪肉价格总体稳定",
+  "summary": "据农业农村部对500个县集贸市场和采集点监测,上周(9月第2周,9月7—13日,下同),全国活猪价格为11.54元/公斤,环比略跌0.4%;猪肉集贸市场价格为21.22元/公斤,环比持平。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609143873408568.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪肉价格",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_0aec8e1b36c14352dbd4",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T14:00+08:00",
+  "fetched_at": "2026-09-14T21:12+08:00",
+  "title": "原油上涨提振生物燃料吸引力,棕榈油价格走高",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1075828581_121157270",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_d25900af96e7ab35e341",
   "date": "2026-09-14",
   "published_at": "2026-09-14T11:46+08:00",
@@ -112,6 +248,26 @@
    "生猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_5af11e28d2557f99d79e",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T09:35+08:00",
+  "fetched_at": "2026-09-14T21:12+08:00",
+  "title": "养殖持续亏损去化提速 生猪价格震荡偏弱为主",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-14/detail-iniruark4822245.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_8550efd07b14d7727952",
@@ -1099,6 +1255,26 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e37e147d27aab4036caa",
+  "date": "2026-09-09",
+  "published_at": "2026-09-09T20:35+08:00",
+  "fetched_at": "2026-09-14T21:12+08:00",
+  "title": "印度对乳清蛋白的需求为乳制品公司创造了机遇",
+  "summary": "",
+  "source": "Dairy News Today",
+  "type": "供需动态",
+  "url": "https://dairynews.today/cn/news/india_s_whey_protein_demand_creates_opportunities_for_dairy_companies_2045581.html",
+  "company": "",
+  "material_ids": [
+   "WPC34",
+   "WPC80"
+  ],
+  "matched_keywords": [
+   "乳清蛋白"
   ],
   "relevance_score": 8
  },
