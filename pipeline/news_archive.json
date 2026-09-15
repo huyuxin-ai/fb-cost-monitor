@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_95b6203914dc9cefc8d6",
+  "date": "2026-09-15",
+  "published_at": "2026-09-15T20:12+08:00",
+  "fetched_at": "2026-09-15T21:45+08:00",
+  "title": "巴西国家商品供应公司(CONAB)预计,巴西2025/26年度玉米总产量为1.44亿吨,此前预测值为1.4296亿吨",
+  "summary": "巴西国家商品供应公司(CONAB)预计,巴西2025/26年度玉米总产量为1.44亿吨,此前预测值为1.4296亿吨。",
+  "source": "财联社",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609153874916379.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_eafe5d918addbb724590",
   "date": "2026-09-15",
   "published_at": "2026-09-15T18:02+08:00",
@@ -58,7 +77,7 @@
   "relevance_score": 12
  },
  {
-  "id": "news_ba865804a15d1090c986",
+  "id": "news_cd3d715b66eca1acdf06",
   "date": "2026-09-15",
   "published_at": "2026-09-15T17:01+08:00",
   "fetched_at": "2026-09-15T19:34+08:00",
@@ -66,7 +85,7 @@
   "summary": "",
   "source": "壹览商业",
   "type": "供需动态",
-  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zWjhRbVlkcFE0NlFydm1qYXFmdHFuRWZyWV8xa29CdTJEcGhITGt2U2hCcWY4cjlPZnZiM3FBakcwTjg1Q1pvOEp4VnE?oc=5",
+  "url": "https://www.yilantop.com/news/106202",
   "company": "",
   "material_ids": [
    "P"
@@ -285,46 +304,6 @@
    "玉米"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_2a5ee45e2fb3a5672fa8",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T04:55+08:00",
-  "fetched_at": "2026-09-15T19:34+08:00",
-  "title": "厄尔尼诺气候热度提升影响 豆粕棕榈油震荡偏强运行",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOejk3dkFucm5IMmItTjhSVzl1WmNZdk1aaTcxSWpPT3VFZkVsTjk4VHN1eDd4eUlnM3p1YmY5TGo5OElUdVlXMGhTLWdjZnNJQWZaZGd2Q3c4ZnNmazNTMW9aTFcyZS1WWGNPeU13UDhpYUhqRVoyMEJESDRGN1YxUjVOREFtNWMtT2hkOElaTHltVWhlSjF6RVU4b3IwTTdCYUphQlo1c3F3aTRLdjdRSzZ6MGlOQ0V3cDVMMTRwYWk2U1JEdWVqMGljR2NGd29PRmRYWUVvLXNBd2kyeXFISXFHS2FyTzF2RWhYNkR4MG5obk5rUmxhQkhsTml6U213Z0hHSmhzdUtEbXg2cUdHUVVodWowUlp3Y1FhNWVzYkVMaHJuQVlvRVVvVi1PdDJBMmFxZURHZmZlakxKazN6RHNldy1pSHZ3WU9oWVR4LVpsV1NqUmdpTncwRVRrek1aaWlqV0lRcXBMdGVIZVI3dWNTSTdZdmZqanc4ZWl1aW5pY0NKT1ZCc3pPQUkxeDM5NnIzbEI4SzdQZGhTSWpxY2pIejEyeXgyUTExRDM1UU9RWm5peU1QUnhaazBkQjMt?oc=5",
-  "company": "",
-  "material_ids": [
-   "P",
-   "M"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "豆粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0fb4366246855cb587a3",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T00:22+08:00",
-  "fetched_at": "2026-09-15T19:34+08:00",
-  "title": "猪价继续上涨!2026年9月15日-今日最新猪价行情分享",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOXBHYWNCM3Z6Mkw3MzA5U0tuTk14Y195QjdOQjQ5R2w5TlloMG1VcUgyOW1NWFFIcTM2X3g1aE9jN3JYLTI3Q3E3VXM2UEtpeG9zN1JmWEItSExxMXBOVkZSVXRXb2swYWEwMEhoc2h3WGRZbnAwZ3pDUUM2Ti1wMlJSbHR1S3hYUzV5Zg?oc=5",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_98bbef79f46e79d8e233",

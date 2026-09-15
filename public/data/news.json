@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-15T19:34+08:00",
+ "updated_at": "2026-09-15T21:45+08:00",
  "refresh_minutes": 30,
- "item_count": 138,
+ "item_count": 140,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -36,6 +36,7 @@
   "发现报告": 2,
   "同花顺": 3,
   "同花顺财经": 12,
+  "壹览商业": 1,
   "富途牛牛": 1,
   "数据宝": 1,
   "新华财经": 1,
@@ -58,11 +59,30 @@
   "腾讯新闻": 1,
   "观点网": 1,
   "证券日报": 1,
-  "财联社": 4,
+  "财联社": 5,
   "铜冠金源期货": 1,
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_95b6203914dc9cefc8d6",
+   "date": "2026-09-15",
+   "published_at": "2026-09-15T20:12+08:00",
+   "fetched_at": "2026-09-15T21:45+08:00",
+   "title": "巴西国家商品供应公司(CONAB)预计,巴西2025/26年度玉米总产量为1.44亿吨,此前预测值为1.4296亿吨",
+   "summary": "巴西国家商品供应公司(CONAB)预计,巴西2025/26年度玉米总产量为1.44亿吨,此前预测值为1.4296亿吨。",
+   "source": "财联社",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202609153874916379.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_eafe5d918addbb724590",
    "date": "2026-09-15",
@@ -120,6 +140,25 @@
     "生猪"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_cd3d715b66eca1acdf06",
+   "date": "2026-09-15",
+   "published_at": "2026-09-15T17:01+08:00",
+   "fetched_at": "2026-09-15T19:34+08:00",
+   "title": "马来西亚10月毛棕榈油参考价定为4452.66林吉特,出口税率10%",
+   "summary": "",
+   "source": "壹览商业",
+   "type": "供需动态",
+   "url": "https://www.yilantop.com/news/106202",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_22c9cb66a7f4ef4b1207",
