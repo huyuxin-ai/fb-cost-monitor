@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-09-15T06:20+08:00",
+ "updated_at": "2026-09-15T08:49+08:00",
  "refresh_minutes": 30,
- "item_count": 126,
+ "item_count": 127,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
   "Dairy News Today": 1,
   "IDNFinancials": 1,
-  "IndexBox": 2,
+  "IndexBox": 3,
   "Moomoo": 1,
   "Shangbao Indonesia": 1,
   "Sohu": 9,
@@ -62,6 +62,44 @@
  },
  "items": [
   {
+   "id": "news_74bcdac6d9c3c977e95f",
+   "date": "2026-09-15",
+   "published_at": "2026-09-15T07:00+08:00",
+   "fetched_at": "2026-09-15T06:20+08:00",
+   "title": "猪价大降3.25%,二师兄“旺季不旺”!中秋将至,季节性“爆发”上涨来了?附:9月15日猪价",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1075979423_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_c3a88cace7b9a31762d0",
+   "date": "2026-09-15",
+   "published_at": "2026-09-15T06:16+08:00",
+   "fetched_at": "2026-09-15T08:49+08:00",
+   "title": "纸浆筛选助剂市场2035年预测:电子级纸浆需求驱动增长 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "供需动态",
+   "url": "https://www.indexbox.io/zh-hans/blog/pulp-screening-aids-market-to-accelerate-on-electronics-grade-pulp-demand-forecast-points-higher-toward-2035/",
+   "company": "",
+   "material_ids": [
+    "SP"
+   ],
+   "matched_keywords": [
+    "纸浆"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_86c8a611b46944e73d43",
    "date": "2026-09-15",
    "published_at": "2026-09-15T05:49+08:00",
@@ -79,25 +117,6 @@
     "玉米"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_795c52bee95215e2150a",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T05:00+08:00",
-   "fetched_at": "2026-09-15T06:20+08:00",
-   "title": "火力全开,猪价旺季“上涨”兑现?附:9月15日猪价",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1075977361_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_98bbef79f46e79d8e233",
