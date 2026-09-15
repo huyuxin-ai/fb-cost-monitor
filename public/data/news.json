@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-16T00:33+08:00",
+ "updated_at": "2026-09-16T07:05+08:00",
  "refresh_minutes": 30,
- "item_count": 141,
+ "item_count": 144,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -10,7 +10,7 @@
   "IndexBox": 3,
   "Moomoo": 1,
   "Shangbao Indonesia": 1,
-  "Sohu": 9,
+  "Sohu": 10,
   "Vietnam.vn": 2,
   "cbgc.scol.com.cn": 1,
   "finance.sina.com.cn": 12,
@@ -43,11 +43,11 @@
   "新华财经": 1,
   "新华财经·期货日报": 1,
   "新浪网": 3,
-  "新浪财经": 24,
+  "新浪财经": 25,
   "无忧资讯": 1,
   "期货日报": 2,
   "正信期货": 1,
-  "每日经济新闻": 1,
+  "每日经济新闻": 2,
   "汇通网 Fx678": 2,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
@@ -65,6 +65,44 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_07a12b3f43c2d1738ed8",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T05:27+08:00",
+   "fetched_at": "2026-09-16T07:05+08:00",
+   "title": "9月16日猪价:2连涨!猪价“倔强”上涨,接下来“涨红”到月底?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1076450361_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e53bc95c41eee2023bc1",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T05:23+08:00",
+   "fetched_at": "2026-09-16T07:05+08:00",
+   "title": "CBOT农产品期货主力合约收盘全线上涨,大豆期货涨1.15%",
+   "summary": "当地时间9月15日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线上涨,大豆期货涨1.15%报1319.25美分/蒲式耳,玉米期货涨0.47%报535.75美分/蒲式耳,小麦期货涨0.80%报727.75美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609163875159078.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_95b6203914dc9cefc8d6",
    "date": "2026-09-15",
@@ -158,6 +196,25 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e0c61be4c69fa184a04c",
+   "date": "2026-09-15",
+   "published_at": "2026-09-15T16:51+08:00",
+   "fetched_at": "2026-09-16T07:05+08:00",
+   "title": "报告中性偏空,豆油价格维持高位",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/roll/2026-09-15/doc-inirxatu6926938.shtml",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
    ],
    "relevance_score": 8
   },
