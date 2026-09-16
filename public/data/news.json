@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-16T15:24+08:00",
+ "updated_at": "2026-09-16T20:45+08:00",
  "refresh_minutes": 30,
- "item_count": 158,
+ "item_count": 164,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -10,7 +10,7 @@
   "IndexBox": 3,
   "Moomoo": 1,
   "Shangbao Indonesia": 1,
-  "Sohu": 10,
+  "Sohu": 11,
   "Vietnam.vn": 2,
   "cbgc.scol.com.cn": 1,
   "finance.sina.com.cn": 12,
@@ -20,8 +20,9 @@
   "qq.com": 1,
   "sohu.com": 1,
   "video.sina.com.cn": 3,
+  "vietnam.vn": 1,
   "一德期货": 1,
-  "上海证券报·中国证券网": 1,
+  "上海证券报·中国证券网": 2,
   "东吴期货": 1,
   "东方财富": 1,
   "东方财富Choice数据": 1,
@@ -35,10 +36,10 @@
   "亚洲电视新闻": 1,
   "农业农村部": 1,
   "华联期货": 1,
-  "南方财经网": 8,
+  "南方财经网": 10,
   "南方都市报": 1,
   "发现报告": 2,
-  "同花顺": 4,
+  "同花顺": 5,
   "同花顺财经": 12,
   "国投期货": 1,
   "国泰君安期货": 1,
@@ -71,6 +72,123 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_081e1b15d92eb96b75b5",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T18:14+08:00",
+   "fetched_at": "2026-09-16T20:45+08:00",
+   "title": "油脂有“料”:报告中性偏空,豆油价格维持高位",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1076910387_639898",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_4edc20784f64131edbe4",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T16:14+08:00",
+   "fetched_at": "2026-09-16T20:45+08:00",
+   "title": "【现货】9月15日全国生猪现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260915/c679901189.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e4ffba40755965b046e2",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T15:57+08:00",
+   "fetched_at": "2026-09-16T20:45+08:00",
+   "title": "大豆价格飙升,美国大豆油库存下降。",
+   "summary": "",
+   "source": "vietnam.vn",
+   "type": "价格行情",
+   "url": "https://www.vietnam.vn/zh-cn/gia-dau-tuong-bat-tang-ton-kho-dau-dau-tuong-my-xuong-thap",
+   "company": "",
+   "material_ids": [
+    "A",
+    "Y"
+   ],
+   "matched_keywords": [
+    "大豆",
+    "豆油",
+    "大豆油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_ef579ea3a612bd30d732",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T15:48+08:00",
+   "fetched_at": "2026-09-16T20:45+08:00",
+   "title": "国内商品期市日间盘多数上涨 菜粕涨超4%",
+   "summary": "上证报中国证券网讯据Choice数据,9月16日,国内商品期市日间盘主力合约多数上涨,截至15:00收盘,菜粕、瓶片涨超4%,甲醇、豆粕等涨超3%,沥青、短纤、沪银等涨超2%,沪金、PTA、纸浆、铂、钯等涨超1%。",
+   "source": "上海证券报·中国证券网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609163876046840.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_108b61efc34505e99e97",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T15:43+08:00",
+   "fetched_at": "2026-09-16T20:45+08:00",
+   "title": "生猪主力合约收跌1.72%",
+   "summary": "南财智讯9月16日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.72%,收盘报11130.0元/吨,日内资金流出7768.88万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609163876028986.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_7a2af69f91a19039e385",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T15:40+08:00",
+   "fetched_at": "2026-09-16T20:45+08:00",
+   "title": "玉米主力合约收涨0.18%",
+   "summary": "南财智讯9月16日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.18%,收盘报2216.0元/吨,日内资金流出1488.22万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609163876032782.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_9f9c8c4d9e88b52612e4",
    "date": "2026-09-16",
