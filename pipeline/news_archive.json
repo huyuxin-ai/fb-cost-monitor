@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_915da0f64b8e3d65688f",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T07:05+08:00",
+  "fetched_at": "2026-09-17T07:45+08:00",
+  "title": "180°大变,猪价“雷霆”下跌,南北又是“绿油油”!附:9月17日猪价",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1076952997_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_13019afd2cec7dfeeaed",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T06:04+08:00",
+  "fetched_at": "2026-09-17T07:45+08:00",
+  "title": "全国政协委员严建兵—— 钻研玉米新品种 筑牢“中国粮仓”根基(履职故事)",
+  "summary": "从最初探索玉米产量相关性状,到后来聚焦玉米营养品质的遗传改良,再到如今深耕高产高蛋白宜机收玉米研究,严建兵从事玉米研究已有20余年。",
+  "source": "人民日报",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609173876483153.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_bf6e3b3bb3b2405d8931",
   "date": "2026-09-16",
   "published_at": "2026-09-16T21:11+08:00",
