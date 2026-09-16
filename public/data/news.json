@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-16T09:33+08:00",
+ "updated_at": "2026-09-16T15:24+08:00",
  "refresh_minutes": 30,
- "item_count": 152,
+ "item_count": 158,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -21,8 +21,10 @@
   "sohu.com": 1,
   "video.sina.com.cn": 3,
   "一德期货": 1,
+  "上海证券报·中国证券网": 1,
   "东吴期货": 1,
   "东方财富": 1,
+  "东方财富Choice数据": 1,
   "东方财富网": 1,
   "中华网": 2,
   "中华网财经": 1,
@@ -36,7 +38,7 @@
   "南方财经网": 8,
   "南方都市报": 1,
   "发现报告": 2,
-  "同花顺": 3,
+  "同花顺": 4,
   "同花顺财经": 12,
   "国投期货": 1,
   "国泰君安期货": 1,
@@ -62,13 +64,128 @@
   "第一财经": 2,
   "联合早报": 1,
   "腾讯新闻": 1,
-  "观点网": 1,
+  "观点网": 2,
   "证券日报": 1,
-  "财联社": 5,
+  "财联社": 7,
   "铜冠金源期货": 1,
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_9f9c8c4d9e88b52612e4",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T15:01+08:00",
+   "fetched_at": "2026-09-16T15:24+08:00",
+   "title": "国内商品期货多数收涨 菜粕、瓶片涨超4%",
+   "summary": "国内商品期货多数收涨,菜粕、瓶片涨超4%,甲醇、乙二醇、豆粕涨超3%,沥青、短纤、BR橡胶、豆二、沪银涨超2%,纸浆、钯、铂、丙烯、液化气涨超1%。跌幅方面,碳酸锂跌近3%,生猪、沪镍、苹果、玻璃、原油跌超1%。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609163876008986.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_ab863094042709c67c18",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T14:49+08:00",
+   "fetched_at": "2026-09-16T15:24+08:00",
+   "title": "里昂:原奶价格进入上行周期 维持蒙牛现代牧业及伊利跑赢大市评级",
+   "summary": "",
+   "source": "观点网",
+   "type": "价格行情",
+   "url": "https://www.guandian.cn/article/20260916/602464.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_bf2cade10468e62037e2",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T11:44+08:00",
+   "fetched_at": "2026-09-16T15:24+08:00",
+   "title": "【现货】9月16日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260916/c679958030.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_0975c30429276be88df4",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T11:43+08:00",
+   "fetched_at": "2026-09-16T15:24+08:00",
+   "title": "丹东港完成首单玉米期货仓单注册",
+   "summary": "上证报中国证券网讯(记者韩远飞)9月16日,记者从辽港集团获悉,丹东港散粮码头分公司日前依托大连商品交易所玉米期货指定交割库资质,顺利完成首笔玉米期货标准仓单注册。这是该公司获得指定交割库资质后落地的首单期货业务,标志着丹东港“北粮南运”枢纽功能向期现联动方向迈出关键一步。",
+   "source": "上海证券报·中国证券网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609163875942241.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_eaca32b3a5dcb65c61cc",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T11:31+08:00",
+   "fetched_at": "2026-09-16T15:24+08:00",
+   "title": "国内期货主力合约多数上涨 瓶片、菜粕涨超3%",
+   "summary": "国内期货主力合约多数上涨,瓶片、菜粕涨超3%,豆粕、沪银、豆二、短纤、乙二醇(EG)涨超2%,纸浆涨近2%。跌幅方面,碳酸锂、菜籽跌超2%,沪镍、SC原油、集运欧线、玻璃跌超1%,聚氯乙烯(PVC)、棉纱跌近1%。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609163875938553.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_95185ce8b26a39ff0482",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T09:46+08:00",
+   "fetched_at": "2026-09-16T15:24+08:00",
+   "title": "豆粕主力合约日内涨幅达2.00%",
+   "summary": "豆粕主力合约日内涨幅达2.00%,现报3442元/吨。菜粕主力合约盘中拉升,涨幅扩大至2.23%,最新报2337元/吨。",
+   "source": "东方财富Choice数据",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202609163875729454.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_e4858eca08c862070bf6",
    "date": "2026-09-16",
