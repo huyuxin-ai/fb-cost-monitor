@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_4d278810536e847a001d",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T21:00+08:00",
+  "fetched_at": "2026-09-16T21:38+08:00",
+  "title": "国内商品期货夜盘开盘涨跌不一,菜粕涨2.23%,合成橡胶涨2.04%",
+  "summary": "国内商品期货夜盘开盘涨跌不一,菜粕涨2.23%,合成橡胶涨2.04%,甲醇涨1.77%,沪银涨1.34%,豆粕涨1.3%,塑料跌1.02%,原油跌1.01%。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609163876291140.html",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_f611f76ff73678855247",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T20:29+08:00",
+  "fetched_at": "2026-09-16T21:38+08:00",
+  "title": "豆粕再创新高,诱多还是新趋势?",
+  "summary": "【摘要】盘面再创新高的核心驱动因素是什么?是诱多行为还是新一轮上涨趋势的开启?【温馨提醒】市场风云变幻,期市波动起伏。光靠看盘可不够!",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-16/doc-inirzsia9877798.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 7
+ },
+ {
   "id": "news_081e1b15d92eb96b75b5",
   "date": "2026-09-16",
   "published_at": "2026-09-16T18:14+08:00",
@@ -17,6 +55,25 @@
    "豆油"
   ],
   "relevance_score": 8
+ },
+ {
+  "id": "news_88a3e1621ee7fb0269b8",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T17:42+08:00",
+  "fetched_at": "2026-09-16T21:38+08:00",
+  "title": "商品日报(9月16日):蛋白粕携手大涨菜粕涨超4% 碳酸锂跌近3%",
+  "summary": "新华财经北京9月16日电(张瑶、郭洲洋)国内商品期货市场9月16日收盘涨多跌少,其中菜粕、瓶片主力合约涨超4%,甲醇、乙二醇、豆粕主力合约涨超3%,短纤、沥青、BR橡胶、豆二、沪银主力合约涨超2%。",
+  "source": "新华财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609163876301628.html",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜粕"
+  ],
+  "relevance_score": 11
  },
  {
   "id": "news_4edc20784f64131edbe4",
@@ -636,6 +693,44 @@
    "辅酶q10"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_9b02fffeb022af68b1d3",
+  "date": "2026-09-15",
+  "published_at": "2026-09-15T14:12+08:00",
+  "fetched_at": "2026-09-16T21:38+08:00",
+  "title": "一夜升温,猪价上涨“如火如荼”!附:9月16日猪价",
+  "summary": "",
+  "source": "手机网易网",
+  "type": "价格行情",
+  "url": "https://www.163.com/dy/article/L6SFEH7S0512JUR9.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_85958d99f6c8a9121fb1",
+  "date": "2026-09-15",
+  "published_at": "2026-09-15T14:01+08:00",
+  "fetched_at": "2026-09-16T21:38+08:00",
+  "title": "供需格局分化推升豆、菜粕价差",
+  "summary": "",
+  "source": "东方财富",
+  "type": "供需动态",
+  "url": "https://wap.eastmoney.com/a/202609163875455475.html",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜粕"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_02fb97dd4a751e71090c",
