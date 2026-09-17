@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-18T02:51+08:00",
+ "updated_at": "2026-09-18T05:57+08:00",
  "refresh_minutes": 30,
- "item_count": 194,
+ "item_count": 195,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -57,6 +57,7 @@
   "新华财经·期货日报": 1,
   "新浪网": 2,
   "新浪财经": 32,
+  "新浪财经_金融信息服务商": 1,
   "无忧资讯": 1,
   "期货日报": 4,
   "正信期货": 3,
@@ -268,6 +269,25 @@
     "玉米"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_74ff88f075c1a60be8a5",
+   "date": "2026-09-17",
+   "published_at": "2026-09-17T11:06+08:00",
+   "fetched_at": "2026-09-18T05:57+08:00",
+   "title": "生意社2026年9月17日PTA趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经_金融信息服务商",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-17/doc-iniscekf3503102.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_af786509c6a767de3d9f",

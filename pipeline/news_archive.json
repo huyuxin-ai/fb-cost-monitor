@@ -190,6 +190,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_74ff88f075c1a60be8a5",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T11:06+08:00",
+  "fetched_at": "2026-09-18T05:57+08:00",
+  "title": "生意社2026年9月17日PTA趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经_金融信息服务商",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-17/doc-iniscekf3503102.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_af786509c6a767de3d9f",
   "date": "2026-09-17",
   "published_at": "2026-09-17T10:32+08:00",
