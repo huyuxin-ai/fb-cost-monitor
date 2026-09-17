@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-17T12:04+08:00",
+ "updated_at": "2026-09-17T17:35+08:00",
  "refresh_minutes": 30,
- "item_count": 184,
+ "item_count": 189,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -14,13 +14,13 @@
   "Vietnam.vn": 3,
   "Vinetur": 1,
   "cbgc.scol.com.cn": 1,
-  "finance.sina.com.cn": 12,
+  "finance.sina.com.cn": 13,
   "guandian.cn": 1,
   "k.sina.com.cn": 1,
   "news.mysteel.com": 1,
   "qq.com": 1,
   "sohu.com": 1,
-  "video.sina.com.cn": 3,
+  "video.sina.com.cn": 4,
   "vietnam.vn": 1,
   "一德期货": 1,
   "上海证券报·中国证券网": 2,
@@ -40,11 +40,11 @@
   "光大期货": 1,
   "农业农村部": 2,
   "华联期货": 1,
-  "南方财经网": 11,
+  "南方财经网": 12,
   "南方都市报": 1,
   "发现报告": 2,
   "同花顺": 5,
-  "同花顺财经": 13,
+  "同花顺财经": 14,
   "国投期货": 1,
   "国泰君安期货": 2,
   "壹览商业": 1,
@@ -55,7 +55,7 @@
   "新华财经": 2,
   "新华财经·期货日报": 1,
   "新浪网": 2,
-  "新浪财经": 31,
+  "新浪财经": 32,
   "无忧资讯": 1,
   "期货日报": 4,
   "正信期货": 3,
@@ -77,6 +77,44 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_456444f103d6181a6bc8",
+   "date": "2026-09-17",
+   "published_at": "2026-09-17T16:57+08:00",
+   "fetched_at": "2026-09-17T17:35+08:00",
+   "title": "【生猪四季报】泥泞中挣扎,未来希望在哪?",
+   "summary": "紫金天风期货 行情回顾 观点小结 核心观点:现货价格重心或上移,中长期需关注低估值下的供需边际变化 三季度官方督促企业去产能强度有所下降...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/2026-09-17/doc-iniscqye9182569.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 7
+  },
+  {
+   "id": "news_86e430fecce9145c77d9",
+   "date": "2026-09-17",
+   "published_at": "2026-09-17T15:41+08:00",
+   "fetched_at": "2026-09-17T17:35+08:00",
+   "title": "生猪主力合约收涨0.27%",
+   "summary": "南财智讯9月17日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨0.27%,收盘报11230.0元/吨,日内资金流出2.44亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609173877298130.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_d49c3390cfbc770d5f36",
    "date": "2026-09-17",
@@ -209,6 +247,25 @@
     "豆粕"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_70c791667674cd9bc341",
+   "date": "2026-09-17",
+   "published_at": "2026-09-17T09:24+08:00",
+   "fetched_at": "2026-09-17T17:35+08:00",
+   "title": "出栏扎堆、供应宽松!中秋猪价或难大涨?",
+   "summary": "",
+   "source": "video.sina.com.cn",
+   "type": "供需动态",
+   "url": "https://video.sina.com.cn/p/finance/2026-09-17/detail-inisayai3457813.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_5e50c812b8ac5f5ab564",
@@ -1040,6 +1097,25 @@
    "relevance_score": 11
   },
   {
+   "id": "news_af9ff8e12107cb33f6b6",
+   "date": "2026-09-15",
+   "published_at": "2026-09-15T15:00+08:00",
+   "fetched_at": "2026-09-17T17:35+08:00",
+   "title": "【仓单】9月15日大商所生猪期货仓单较上一日下降10手",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260915/c679921995.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_9b02fffeb022af68b1d3",
    "date": "2026-09-15",
    "published_at": "2026-09-15T14:12+08:00",
@@ -1131,6 +1207,26 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_0a3d41e42e6b1a64f2f0",
+   "date": "2026-09-15",
+   "published_at": "2026-09-15T09:36+08:00",
+   "fetched_at": "2026-09-17T17:35+08:00",
+   "title": "仔猪出生量连降五月 生猪去产能仍任重道远",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-15/doc-inirwmwh3905451.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "仔猪"
    ],
    "relevance_score": 8
   },
