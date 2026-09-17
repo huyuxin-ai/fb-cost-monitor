@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_ad4a6f31669354581cf2",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T20:32+08:00",
+  "fetched_at": "2026-09-17T21:40+08:00",
+  "title": "100美元油价托底,300万吨库存压顶,棕榈油站上十字路口_期市动态",
+  "summary": "",
+  "source": "中金在线",
+  "type": "供需动态",
+  "url": "http://futures.cnfol.com/qishidongtai/20260917/32373567.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b43a4008d3770b2f13f2",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T19:46+08:00",
+  "fetched_at": "2026-09-17T21:40+08:00",
+  "title": "“18天9板”种业牛股喊话:别炒“超强厄尔尼诺”的热点了 国内根本不缺玉米种子",
+  "summary": "近期,市场对“超强厄尔尼诺”等气候热点讨论较多,相关话题主要涉及商品玉米等农产品价格波动,但公司主营业务为玉米种子的研发、生产与销售,属于农业产业链上游,与商品玉米市场属于不同环节。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609173877468591.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_456444f103d6181a6bc8",
   "date": "2026-09-17",
   "published_at": "2026-09-17T16:57+08:00",
@@ -1671,6 +1709,25 @@
    "pta"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_bdd58fafe26a0f2ecc88",
+  "date": "2026-09-14",
+  "published_at": "2026-09-14T08:14+08:00",
+  "fetched_at": "2026-09-17T21:40+08:00",
+  "title": "2026辅酶Q10品牌怎么选?金奥维小红丸等热门产品盘点,从形态、原料、第三方检测深度横评- 进展专区",
+  "summary": "",
+  "source": "生物谷",
+  "type": "供需动态",
+  "url": "https://news.bioon.com/article/90579512e553.html",
+  "company": "",
+  "material_ids": [
+   "COQ10"
+  ],
+  "matched_keywords": [
+   "辅酶q10"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_41977348bb05329850a8",
