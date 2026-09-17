@@ -1,20 +1,231 @@
 [
  {
-  "id": "news_915da0f64b8e3d65688f",
+  "id": "news_d49c3390cfbc770d5f36",
   "date": "2026-09-17",
-  "published_at": "2026-09-17T07:05+08:00",
-  "fetched_at": "2026-09-17T07:45+08:00",
-  "title": "180°大变,猪价“雷霆”下跌,南北又是“绿油油”!附:9月17日猪价",
+  "published_at": "2026-09-17T11:38+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "【现货】9月17日马来西亚棕榈油现货价格汇总",
   "summary": "",
-  "source": "Sohu",
+  "source": "同花顺财经",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1076952997_120238851",
+  "url": "https://news.10jqka.com.cn/20260917/c680003806.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_cd6c2d5aa150fd4df084",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T11:26+08:00",
+  "fetched_at": "2026-09-17T07:45+08:00",
+  "title": "9月17日猪价:一片绿,市场承压下跌",
+  "summary": "",
+  "source": "中华网",
+  "type": "价格行情",
+  "url": "https://3g.china.com/act/redian/13004758/20260917/49747964.html",
   "company": "",
   "material_ids": [
    "LH"
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_eede1f59139ca989bc33",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T11:25+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "“一语道粕”:豆粕市场研究的重要锚点之华东地区",
+  "summary": "卓创资讯豆粕市场高级分析师王汝文 华东是国内豆粕压榨、货源流转、基差定价的核心枢纽,区域内生产企业原料到港、压榨节奏、库存变化...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/2026-09-17/doc-inisayaf4246743.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_d5eb3ab4e6b046f888a7",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T11:24+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "华北玉米新作上市 拉开价格下跌序幕",
+  "summary": "卓创资讯玉米市场分析师邹骏 2026年9月上旬,华北黄淮新季玉米集中上市,供应快速释放,价格下行节奏超预期。低价优势沿华中、西南向东南沿海扩散,直接压制东北...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/2026-09-17/doc-inisayai3608625.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_af786509c6a767de3d9f",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T10:32+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "9月第2周生猪定点屠宰企业生猪收购和白条肉出厂价格情况",
+  "summary": "据农业农村部监测,2026年9月7—13日,生猪定点屠宰企业生猪平均收购价格为12.14元/公斤,环比与上期持平,同比下降17.2%。白条肉平均出厂价格为15.89元/公斤,环比增长0.1%,同比下降16.1%。",
+  "source": "农业农村部",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609173877116535.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_73fff5e7ab7be1d4a505",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T10:18+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "华泰期货:压榨数据影响,豆粕偏强震荡",
+  "summary": "来源:华泰期货 作者: 薛钧元 粕类观点 市场要闻与重要数据 期货方面,昨日收盘豆粕2701合约3479元/吨,较前日变动+94元/吨,幅度+2.78%;菜粕2611合约2381元/吨...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-17/doc-inisayaf4211804.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_3158307bbc8b007d4d67",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T09:59+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "豆粕:国内情绪偏强 期价再创新高",
+  "summary": "其次,市场外溢利多,如:美伊冲突、原油持续上涨带来市场普涨,俄乌冲突引发黑海港口运输忧虑、美麦/美玉米上涨带动美豆上涨。再次,豆类自身基本面也有利多,如:美豆优良率偏低、产区高温天气、巴拿马运河限运,国内豆粕m2701合约供应存在不确定性。",
+  "source": "国泰君安期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609173877073918.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_5e50c812b8ac5f5ab564",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T09:19+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "“双节”备货对食糖消费的拉动效果不及往年 糖价上行存在压力",
+  "summary": "“北方以玉米为原料的淀粉糖,包括果葡糖浆、麦芽糖浆等,凭借明显的成本优势和液态原料可以直接进入生产线的便利性,在饮料、食品加工等领域对白糖形成了较强的替代效应,持续挤压白糖的消费空间。”张静说。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609173876929716.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "食糖",
+   "白糖"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_1c3eedc6fdf2f3622ea5",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T09:09+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "尽管腰果出口量下降了0.9%,但出口额仍达到33.7亿美元。",
+  "summary": "",
+  "source": "Vietnam.vn",
+  "type": "供需动态",
+  "url": "https://www.vietnam.vn/zh-cn/xuat-khau-hat-dieu-dat-3-37-ti-usd-du-luong-giam-0-9",
+  "company": "",
+  "material_ids": [
+   "CASHEW"
+  ],
+  "matched_keywords": [
+   "腰果"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_10045f869708d1c39b18",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T09:05+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "农产品 | 新粮逐步上市 供应预期宽松 玉米整体承压运行",
+  "summary": "观点:全球糖市供应预期有所转变,叠加天气升水,原糖震荡偏强。国内整体购销进度滞后,库存高位,压制糖价,上行动能较外糖偏弱。 ▼玉米 新粮逐步上市,供应预期宽松,玉米整体承压运行 外盘方面,多空博弈加剧,利多因素逐步兑现,美玉米震荡运行。",
+  "source": "正信期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609173876880188.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a6daf1f0ecbf3358b00a",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T09:00+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "农产品 | 白糖:市场总体供应仍较为充裕 预计短期价格延续震荡格局",
+  "summary": "现货报价方面,南宁中间商站台基准价5210元/吨;南宁集团厂内车板陈糖报价5150~5220元/吨;昆明中间商报价5060~5120元/吨。原糖缺乏新驱动引领,表现趋弱,有调整迹象,静待后期巴西压榨进度和北半球估产数据。",
+  "source": "光大期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609173876833928.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖",
+   "原糖"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_3e3b7e4a7a17cbb42a3b",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T08:36+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "农产品 | 外盘走弱叠加国内高库存 郑糖重回震荡区间下沿",
+  "summary": "建议多单离场观望,等待CBOT企稳与国内去库信号,豆粕关注3320-3330元支撑。",
+  "source": "中财期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609173876725942.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "郑糖"
   ],
   "relevance_score": 8
  },
@@ -36,6 +247,25 @@
    "玉米"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_af76df411d67c54ebea4",
+  "date": "2026-09-17",
+  "published_at": "2026-09-17T05:55+08:00",
+  "fetched_at": "2026-09-17T12:04+08:00",
+  "title": "美国贸易紧张局势令 Stray Dog Brewing 的铝罐成本升至23美分",
+  "summary": "",
+  "source": "Vinetur",
+  "type": "供需动态",
+  "url": "https://www.vinetur.com/cn/20260916107223/us-trade-tensions-lift-stray-dog-brewings-can-costs-to-23-cents.html",
+  "company": "",
+  "material_ids": [
+   "AL"
+  ],
+  "matched_keywords": [
+   "铝罐"
+  ],
+  "relevance_score": 9
  },
  {
   "id": "news_bf6e3b3bb3b2405d8931",
@@ -346,6 +576,26 @@
    "玉米"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_a5a4d3ce3c01d3e26c2e",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T11:35+08:00",
+  "fetched_at": "2026-09-15T13:56+08:00",
+  "title": "仔猪出生量连降五月 生猪去产能仍任重道远",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-15/detail-inirwmwh3905451.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "仔猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_eaca32b3a5dcb65c61cc",
@@ -843,26 +1093,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a5a4d3ce3c01d3e26c2e",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T10:00+08:00",
-  "fetched_at": "2026-09-15T13:56+08:00",
-  "title": "仔猪出生量连降五月 生猪去产能仍任重道远",
-  "summary": "",
-  "source": "新浪网",
-  "type": "供需动态",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-15/detail-inirwmwh3905451.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "仔猪"
   ],
   "relevance_score": 8
  },
