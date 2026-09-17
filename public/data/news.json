@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-17T22:45+08:00",
+ "updated_at": "2026-09-18T02:51+08:00",
  "refresh_minutes": 30,
- "item_count": 192,
+ "item_count": 194,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -10,7 +10,7 @@
   "IndexBox": 3,
   "Moomoo": 1,
   "Shangbao Indonesia": 1,
-  "Sohu": 11,
+  "Sohu": 12,
   "Vietnam.vn": 3,
   "Vinetur": 1,
   "cbgc.scol.com.cn": 1,
@@ -61,7 +61,7 @@
   "期货日报": 4,
   "正信期货": 3,
   "每日经济新闻": 3,
-  "汇通网 Fx678": 2,
+  "汇通网 Fx678": 3,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
   "澎湃新闻": 1,
@@ -80,6 +80,25 @@
  },
  "items": [
   {
+   "id": "news_d56a55d3976ca9dfc75b",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T00:44+08:00",
+   "fetched_at": "2026-09-18T02:51+08:00",
+   "title": "美股讯号 | 阿根廷豆油价格上调,成交量激增665.91% |#美股资讯# #豆油市场# #行业动态#",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1077509076_122132398",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_0f0508696adccbec7e99",
    "date": "2026-09-17",
    "published_at": "2026-09-17T21:35+08:00",
@@ -97,6 +116,25 @@
     "玉米"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_f8daf7f1f7f404b9b96b",
+   "date": "2026-09-17",
+   "published_at": "2026-09-17T19:49+08:00",
+   "fetched_at": "2026-09-17T21:40+08:00",
+   "title": "100美元油价托底,300万吨库存压顶,棕榈油站上十字路口",
+   "summary": "",
+   "source": "汇通网 Fx678",
+   "type": "供需动态",
+   "url": "https://news.fx678.com/202609171949492286.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_b43a4008d3770b2f13f2",
