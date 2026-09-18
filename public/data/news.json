@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-09-18T08:03+08:00",
+ "updated_at": "2026-09-18T13:02+08:00",
  "refresh_minutes": 30,
- "item_count": 197,
+ "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "21财经": 1,
@@ -14,7 +14,7 @@
   "Vietnam.vn": 3,
   "Vinetur": 1,
   "cbgc.scol.com.cn": 1,
-  "finance.sina.com.cn": 13,
+  "finance.sina.com.cn": 12,
   "guandian.cn": 1,
   "k.sina.com.cn": 1,
   "news.mysteel.com": 1,
@@ -44,7 +44,7 @@
   "南方都市报": 1,
   "发现报告": 2,
   "同花顺": 5,
-  "同花顺财经": 14,
+  "同花顺财经": 15,
   "国投期货": 1,
   "国泰君安期货": 2,
   "壹览商业": 1,
@@ -54,25 +54,24 @@
   "手机网易网": 1,
   "数据宝": 1,
   "新华财经": 3,
-  "新华财经·期货日报": 1,
   "新浪网": 2,
-  "新浪财经": 32,
-  "新浪财经_金融信息服务商": 1,
+  "新浪财经": 33,
+  "新浪财经_金融信息服务商": 2,
   "无忧资讯": 1,
-  "期货日报": 4,
+  "期货日报": 5,
   "正信期货": 3,
   "每日经济新闻": 3,
   "汇通网 Fx678": 3,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
   "澎湃新闻": 1,
-  "瑞达期货": 1,
+  "瑞达期货": 2,
   "生物谷": 1,
   "申银万国期货": 2,
   "界面新闻": 4,
-  "第一财经": 2,
+  "第一财经": 1,
   "联合早报": 1,
-  "腾讯新闻": 1,
+  "腾讯新闻": 2,
   "观点网": 2,
   "证券日报": 1,
   "财联社": 8,
@@ -80,6 +79,103 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_be334dd538ac757b97ca",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T11:42+08:00",
+   "fetched_at": "2026-09-18T13:02+08:00",
+   "title": "【现货】9月18日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260918/c680050218.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_79de97acbb488543d55b",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T11:28+08:00",
+   "fetched_at": "2026-09-18T13:02+08:00",
+   "title": "高瞻远“猪”:供需博弈主导三季度猪价 四季度猪价或涨势受限",
+   "summary": "卓创资讯生猪行业分析师邹莹吉 【导语】2026年三季度生猪价格整体震荡偏强,行情反复波动特征明显。三季度生猪供应收缩,前期产能去化及夏季高温拖累生猪生长节奏...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiic3439523.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_b1ab51e1459e1faca1f9",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T09:15+08:00",
+   "fetched_at": "2026-09-18T13:02+08:00",
+   "title": "下游原纸涨价落地受阻 纸浆低位震荡运行",
+   "summary": "",
+   "source": "新浪财经_金融信息服务商",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-17/detail-inisatuq9469983.d.html",
+   "company": "",
+   "material_ids": [
+    "SP"
+   ],
+   "matched_keywords": [
+    "纸浆"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_df4e2a34e99f6a1c2c45",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T08:55+08:00",
+   "fetched_at": "2026-09-18T13:02+08:00",
+   "title": "黑海葵粕出口扰动 菜粕价格大幅走强",
+   "summary": "从需求端看,据刘金鹭介绍,当前国内水产养殖投料旺季已步入尾声,养殖端刚需持续释放,豆粕与菜粕价差走高,饲料配方中菜粕的添加比例有所提升,支撑现货价格。 辛旋表示,当前豆粕与菜粕价差处于高位,菜粕饲用性价比凸显,在刚需支撑下,菜粕消费仍保持较好表现。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609183877978836.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_f1ddc982c248cef4988e",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T08:43+08:00",
+   "fetched_at": "2026-09-18T13:02+08:00",
+   "title": "农产品 | 供应增量大于需求 施压生猪价格偏弱波动",
+   "summary": "生猪 养殖端存在销售压力,积极出栏,加之前期二育出栏,市场供应充足。需求端,随着高温影响消退,终端采购意愿略有回暖,屠宰企业开工率小幅回升,但当前增量相对有限。总的来说,供应增加,而需求增量有限,供应增量大于需求,施压生猪价格偏弱波动。",
+   "source": "瑞达期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609183877944840.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_09dff7660a41c745545b",
    "date": "2026-09-18",
@@ -768,6 +864,25 @@
    "matched_keywords": [
     "原奶",
     "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_967585cee71369e4d9c2",
+   "date": "2026-09-16",
+   "published_at": "2026-09-16T14:45+08:00",
+   "fetched_at": "2026-09-18T13:02+08:00",
+   "title": "跌猛了,猪价下跌“势如破竹”!附:9月17日猪价",
+   "summary": "",
+   "source": "腾讯新闻",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20260916A085FY00",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -3819,64 +3934,6 @@
    ],
    "matched_keywords": [
     "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c40fa551750aae1c5aeb",
-   "date": "2026-09-03",
-   "published_at": "2026-09-03T09:53+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "生意社2026年9月3日涤纶短纤行情观点:震荡",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-03/doc-iniqpeke7112362.shtml",
-   "company": "",
-   "material_ids": [
-    "PF"
-   ],
-   "matched_keywords": [
-    "涤纶短纤"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_39f294cf86a4e71b40dd",
-   "date": "2026-07-27",
-   "published_at": "2026-07-27T00:00+08:00",
-   "fetched_at": "2026-07-27T00:00+08:00",
-   "title": "期货“托底”让内蒙古甜菜糖产业企业恢复信心",
-   "summary": "",
-   "source": "新华财经·期货日报",
-   "type": "价格行情",
-   "url": "https://www.cnfin.com/dz-lb/detail/20260727/4446276_1.html",
-   "company": "安琪酵母",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "甜菜糖"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8cc26ec7f8dc1ed8314e",
-   "date": "2026-07-08",
-   "published_at": "2026-07-08T00:00+08:00",
-   "fetched_at": "2026-07-08T00:00+08:00",
-   "title": "超长下行周期后奶价初现回暖趋势,原奶终于要触底了",
-   "summary": "",
-   "source": "第一财经",
-   "type": "价格行情",
-   "url": "https://www.163.com/money/article/L1AOQ0BH002580S6.html",
-   "company": "伊利股份",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶",
-    "奶价"
    ],
    "relevance_score": 8
   }

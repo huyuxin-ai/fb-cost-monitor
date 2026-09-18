@@ -1,5 +1,102 @@
 [
  {
+  "id": "news_be334dd538ac757b97ca",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T11:42+08:00",
+  "fetched_at": "2026-09-18T13:02+08:00",
+  "title": "【现货】9月18日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260918/c680050218.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_79de97acbb488543d55b",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T11:28+08:00",
+  "fetched_at": "2026-09-18T13:02+08:00",
+  "title": "高瞻远“猪”:供需博弈主导三季度猪价 四季度猪价或涨势受限",
+  "summary": "卓创资讯生猪行业分析师邹莹吉 【导语】2026年三季度生猪价格整体震荡偏强,行情反复波动特征明显。三季度生猪供应收缩,前期产能去化及夏季高温拖累生猪生长节奏...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiic3439523.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_b1ab51e1459e1faca1f9",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T09:15+08:00",
+  "fetched_at": "2026-09-18T13:02+08:00",
+  "title": "下游原纸涨价落地受阻 纸浆低位震荡运行",
+  "summary": "",
+  "source": "新浪财经_金融信息服务商",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-17/detail-inisatuq9469983.d.html",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_df4e2a34e99f6a1c2c45",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T08:55+08:00",
+  "fetched_at": "2026-09-18T13:02+08:00",
+  "title": "黑海葵粕出口扰动 菜粕价格大幅走强",
+  "summary": "从需求端看,据刘金鹭介绍,当前国内水产养殖投料旺季已步入尾声,养殖端刚需持续释放,豆粕与菜粕价差走高,饲料配方中菜粕的添加比例有所提升,支撑现货价格。 辛旋表示,当前豆粕与菜粕价差处于高位,菜粕饲用性价比凸显,在刚需支撑下,菜粕消费仍保持较好表现。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609183877978836.html",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_f1ddc982c248cef4988e",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T08:43+08:00",
+  "fetched_at": "2026-09-18T13:02+08:00",
+  "title": "农产品 | 供应增量大于需求 施压生猪价格偏弱波动",
+  "summary": "生猪 养殖端存在销售压力,积极出栏,加之前期二育出栏,市场供应充足。需求端,随着高温影响消退,终端采购意愿略有回暖,屠宰企业开工率小幅回升,但当前增量相对有限。总的来说,供应增加,而需求增量有限,供应增量大于需求,施压生猪价格偏弱波动。",
+  "source": "瑞达期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609183877944840.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_09dff7660a41c745545b",
   "date": "2026-09-18",
   "published_at": "2026-09-18T07:40+08:00",
@@ -687,6 +784,25 @@
   "matched_keywords": [
    "原奶",
    "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_967585cee71369e4d9c2",
+  "date": "2026-09-16",
+  "published_at": "2026-09-16T14:45+08:00",
+  "fetched_at": "2026-09-18T13:02+08:00",
+  "title": "跌猛了,猪价下跌“势如破竹”!附:9月17日猪价",
+  "summary": "",
+  "source": "腾讯新闻",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20260916A085FY00",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
