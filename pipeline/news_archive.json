@@ -1,5 +1,83 @@
 [
  {
+  "id": "news_62372d7f9b1c2d7da645",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T17:33+08:00",
+  "fetched_at": "2026-09-18T17:58+08:00",
+  "title": "玉米:期现双弱,破位寻底",
+  "summary": "紫金天风期货研究所 观点小结 核心观点:偏弱震荡进入9月中旬玉米从南到北逐步进入收获期,从近期玉米收获节奏以及天气来看,华北以及华东玉米今年增产概率较大...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/nmetal/2026-09-18/doc-inisfyez0233705.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_c42697753445b6bfb341",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T17:22+08:00",
+  "fetched_at": "2026-09-18T17:58+08:00",
+  "title": "巴西乙醇价格创开榨以来新高,糖醇价差收窄压制食糖产出",
+  "summary": "沐甜科技 自 7 月末以来巴西圣保罗含水乙醇出厂价累计涨幅超过 20%。最新巴西含水乙醇折算原糖价上涨至16.26 美分 / 磅的今年4月上旬以来最高水平...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/nmetal/2026-09-18/doc-inisfyez0234006.shtml",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "食糖",
+   "原糖"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_0af237976a0e0ae86973",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T15:40+08:00",
+  "fetched_at": "2026-09-18T17:58+08:00",
+  "title": "【收评】豆一日内下跌2.48% 机构称黄大豆一号高仓单压制价格,建议逢高做空",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20260918/c680056057.shtml",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆",
+   "豆一"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_802c7b2d825b2d66fa17",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T15:37+08:00",
+  "fetched_at": "2026-09-18T17:58+08:00",
+  "title": "【收评】棕榈油日内下跌2.14% 机构称国内油脂小幅走高,油粕比走弱",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20260918/c680055848.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_be334dd538ac757b97ca",
   "date": "2026-09-18",
   "published_at": "2026-09-18T11:42+08:00",
@@ -37,6 +115,63 @@
    "生猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_3d6f99c6bbbf9ed0f63f",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T09:42+08:00",
+  "fetched_at": "2026-09-18T17:58+08:00",
+  "title": "生意社2026年9月18日涤纶短纤趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-18/doc-inisfazf3516120.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_9b57891b5cc01cc4055a",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T09:40+08:00",
+  "fetched_at": "2026-09-18T17:58+08:00",
+  "title": "猪价还在磨底!中秋快要到了,二师兄能迎来一波上涨吗?",
+  "summary": "",
+  "source": "video.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://video.sina.com.cn/p/finance/2026-09-18/detail-inisfazi3426016.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_752bb62cc6c4c89e57cd",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T09:16+08:00",
+  "fetched_at": "2026-09-18T17:58+08:00",
+  "title": "生意社2026年9月18日PTA趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-18/doc-inisfazm0200051.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_b1ab51e1459e1faca1f9",

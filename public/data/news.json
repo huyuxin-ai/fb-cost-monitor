@@ -1,10 +1,9 @@
 {
- "updated_at": "2026-09-18T13:02+08:00",
+ "updated_at": "2026-09-18T17:58+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
-  "21财经": 1,
   "Dairy News Today": 1,
   "IDNFinancials": 1,
   "IndexBox": 3,
@@ -14,13 +13,11 @@
   "Vietnam.vn": 3,
   "Vinetur": 1,
   "cbgc.scol.com.cn": 1,
-  "finance.sina.com.cn": 12,
-  "guandian.cn": 1,
+  "finance.sina.com.cn": 11,
   "k.sina.com.cn": 1,
   "news.mysteel.com": 1,
-  "qq.com": 1,
   "sohu.com": 1,
-  "video.sina.com.cn": 4,
+  "video.sina.com.cn": 5,
   "vietnam.vn": 1,
   "一德期货": 1,
   "上海证券报·中国证券网": 2,
@@ -44,7 +41,7 @@
   "南方都市报": 1,
   "发现报告": 2,
   "同花顺": 5,
-  "同花顺财经": 15,
+  "同花顺财经": 16,
   "国投期货": 1,
   "国泰君安期货": 2,
   "壹览商业": 1,
@@ -55,7 +52,7 @@
   "数据宝": 1,
   "新华财经": 3,
   "新浪网": 2,
-  "新浪财经": 33,
+  "新浪财经": 35,
   "新浪财经_金融信息服务商": 2,
   "无忧资讯": 1,
   "期货日报": 5,
@@ -79,6 +76,84 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_62372d7f9b1c2d7da645",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T17:33+08:00",
+   "fetched_at": "2026-09-18T17:58+08:00",
+   "title": "玉米:期现双弱,破位寻底",
+   "summary": "紫金天风期货研究所 观点小结 核心观点:偏弱震荡进入9月中旬玉米从南到北逐步进入收获期,从近期玉米收获节奏以及天气来看,华北以及华东玉米今年增产概率较大...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/nmetal/2026-09-18/doc-inisfyez0233705.shtml",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_c42697753445b6bfb341",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T17:22+08:00",
+   "fetched_at": "2026-09-18T17:58+08:00",
+   "title": "巴西乙醇价格创开榨以来新高,糖醇价差收窄压制食糖产出",
+   "summary": "沐甜科技 自 7 月末以来巴西圣保罗含水乙醇出厂价累计涨幅超过 20%。最新巴西含水乙醇折算原糖价上涨至16.26 美分 / 磅的今年4月上旬以来最高水平...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/nmetal/2026-09-18/doc-inisfyez0234006.shtml",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "食糖",
+    "原糖"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_0af237976a0e0ae86973",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T15:40+08:00",
+   "fetched_at": "2026-09-18T17:58+08:00",
+   "title": "【收评】豆一日内下跌2.48% 机构称黄大豆一号高仓单压制价格,建议逢高做空",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20260918/c680056057.shtml",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆",
+    "豆一"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_802c7b2d825b2d66fa17",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T15:37+08:00",
+   "fetched_at": "2026-09-18T17:58+08:00",
+   "title": "【收评】棕榈油日内下跌2.14% 机构称国内油脂小幅走高,油粕比走弱",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20260918/c680055848.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_be334dd538ac757b97ca",
    "date": "2026-09-18",
@@ -117,6 +192,63 @@
     "生猪"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_3d6f99c6bbbf9ed0f63f",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T09:42+08:00",
+   "fetched_at": "2026-09-18T17:58+08:00",
+   "title": "生意社2026年9月18日涤纶短纤趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-18/doc-inisfazf3516120.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9b57891b5cc01cc4055a",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T09:40+08:00",
+   "fetched_at": "2026-09-18T17:58+08:00",
+   "title": "猪价还在磨底!中秋快要到了,二师兄能迎来一波上涨吗?",
+   "summary": "",
+   "source": "video.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://video.sina.com.cn/p/finance/2026-09-18/detail-inisfazi3426016.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_752bb62cc6c4c89e57cd",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T09:16+08:00",
+   "fetched_at": "2026-09-18T17:58+08:00",
+   "title": "生意社2026年9月18日PTA趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-18/doc-inisfazm0200051.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_b1ab51e1459e1faca1f9",
@@ -3797,143 +3929,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9a112e6504cce4898d9b",
-   "date": "2026-09-06",
-   "published_at": "2026-09-06T04:35+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "9月6日猪价:突然下跌!猪价“旺季不旺”,接下来又是“一地猪毛”?",
-   "summary": "",
-   "source": "qq.com",
-   "type": "价格行情",
-   "url": "https://news.qq.com/rain/a/20260905A0AUUD00",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fb021019035958b327ae",
-   "date": "2026-09-05",
-   "published_at": "2026-09-05T15:00+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "【生猪周报】近端矛盾继续后移,产能去化提振远月",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "供需动态",
-   "url": "https://m.10jqka.com.cn/20260905/c679628442.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6f3ee6d299b8083ff3f2",
-   "date": "2026-09-05",
-   "published_at": "2026-09-05T05:48+08:00",
-   "fetched_at": "2026-09-09T19:41+08:00",
-   "title": "油脂有“料”:豆油利多气氛浓厚,9月或继续走高",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-04/detail-iniqrpqw4132615.d.html",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_3b6786da4267cee38843",
-   "date": "2026-09-04",
-   "published_at": "2026-09-04T20:06+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "猪价反弹,猪周期的逻辑已经不同",
-   "summary": "",
-   "source": "21财经",
-   "type": "价格行情",
-   "url": "https://m.21jingji.com/article/20260904/herald/221de66c89f619dcedbcb9c9f372b8a1.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6ce38812148009d87ad0",
-   "date": "2026-09-04",
-   "published_at": "2026-09-04T15:06+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "生猪产能调减提前至三季度末 二季度末能繁母猪存栏3780万头",
-   "summary": "",
-   "source": "guandian.cn",
-   "type": "供需动态",
-   "url": "https://www.guandian.cn/m/show/597311",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "能繁母猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_58bddfcd0ab830030832",
-   "date": "2026-09-04",
-   "published_at": "2026-09-04T13:31+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "秘鲁鳀鱼减产叠加北方渔业收缩 全球高品质鱼油或进入紧缺周期",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://cj.sina.cn/articles/view/6673384970/18dc3c60a001029aag",
-   "company": "",
-   "material_ids": [
-    "ANCHOVY",
-    "FISHOIL"
-   ],
-   "matched_keywords": [
-    "鳀鱼",
-    "秘鲁鳀鱼",
-    "鱼油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f32874792d6d0ebc8931",
-   "date": "2026-09-04",
-   "published_at": "2026-09-04T11:29+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "油脂有“料”:豆油利多气氛浓厚,9月或继续走高",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/2026-09-04/doc-iniqrpqw4132615.shtml",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
    ],
    "relevance_score": 8
   }
