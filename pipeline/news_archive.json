@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_3f3a8ce3e6c821a9f67e",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T01:11+08:00",
+  "fetched_at": "2026-09-19T01:47+08:00",
+  "title": "乳清蛋白浓缩物价格因供不应求而接近翻六倍",
+  "summary": "",
+  "source": "Dairy News Today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/__3390713.html",
+  "company": "",
+  "material_ids": [
+   "WPC34",
+   "WPC80"
+  ],
+  "matched_keywords": [
+   "乳清蛋白"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_affd97f4cdb3ab47c3ec",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T23:01+08:00",
+  "fetched_at": "2026-09-19T01:47+08:00",
+  "title": "纸浆夜盘涨近3%",
+  "summary": "跌幅方面,菜粕跌超2%,豆粕、豆一、豆二跌超1%,焦炭、焦煤跌近1%。",
+  "source": "财联社",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609183878900692.html",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
+  ],
+  "relevance_score": 7
+ },
+ {
   "id": "news_62372d7f9b1c2d7da645",
   "date": "2026-09-18",
   "published_at": "2026-09-18T17:33+08:00",

@@ -1,14 +1,13 @@
 {
- "updated_at": "2026-09-18T21:04+08:00",
+ "updated_at": "2026-09-19T01:47+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
-  "Dairy News Today": 1,
+  "Dairy News Today": 2,
   "IDNFinancials": 1,
   "IndexBox": 3,
   "Moomoo": 2,
-  "Shangbao Indonesia": 1,
   "Sohu": 13,
   "Vietnam.vn": 3,
   "Vinetur": 1,
@@ -39,7 +38,7 @@
   "华联期货": 1,
   "南方财经网": 12,
   "南方都市报": 1,
-  "发现报告": 2,
+  "发现报告": 1,
   "同花顺": 5,
   "同花顺财经": 15,
   "国投期货": 1,
@@ -71,11 +70,50 @@
   "腾讯新闻": 2,
   "观点网": 2,
   "证券日报": 1,
-  "财联社": 8,
+  "财联社": 9,
   "铜冠金源期货": 1,
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_3f3a8ce3e6c821a9f67e",
+   "date": "2026-09-19",
+   "published_at": "2026-09-19T01:11+08:00",
+   "fetched_at": "2026-09-19T01:47+08:00",
+   "title": "乳清蛋白浓缩物价格因供不应求而接近翻六倍",
+   "summary": "",
+   "source": "Dairy News Today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/__3390713.html",
+   "company": "",
+   "material_ids": [
+    "WPC34",
+    "WPC80"
+   ],
+   "matched_keywords": [
+    "乳清蛋白"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_affd97f4cdb3ab47c3ec",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T23:01+08:00",
+   "fetched_at": "2026-09-19T01:47+08:00",
+   "title": "纸浆夜盘涨近3%",
+   "summary": "跌幅方面,菜粕跌超2%,豆粕、豆一、豆二跌超1%,焦炭、焦煤跌近1%。",
+   "source": "财联社",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202609183878900692.html",
+   "company": "",
+   "material_ids": [
+    "SP"
+   ],
+   "matched_keywords": [
+    "纸浆"
+   ],
+   "relevance_score": 7
+  },
   {
    "id": "news_62372d7f9b1c2d7da645",
    "date": "2026-09-18",
@@ -3892,44 +3930,6 @@
    ],
    "matched_keywords": [
     "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_4af9a6a96af669d06918",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T09:18+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "建信期货:《纸浆旺季难有强驱动 外盘减产带动情绪修复》",
-   "summary": "",
-   "source": "发现报告",
-   "type": "价格行情",
-   "url": "https://www.fxbaogao.com/detail/5676210",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e6fa300996251dc38a50",
-   "date": "2026-09-06",
-   "published_at": "2026-09-06T17:48+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "印尼B50政策压缩棕榈油出口供应 年底价格或升至每吨5200林吉特",
-   "summary": "",
-   "source": "Shangbao Indonesia",
-   "type": "价格行情",
-   "url": "https://www.shangbaoindonesia.com/read/2026/09/06/economy-1788691681",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   }
