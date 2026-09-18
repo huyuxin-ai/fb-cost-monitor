@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_09dff7660a41c745545b",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T07:40+08:00",
+  "fetched_at": "2026-09-18T08:03+08:00",
+  "title": "【读财报】猪价企稳:8月上市猪企销量同比增长1.73% 神农集团、傲农生物销量增速居前",
+  "summary": "8月生猪成交均价在11元/公斤上下浮动 根据国家生猪市场披露的数据,全国生猪成交均价自2026年4月下探至10元/公斤以下后在低位震荡,6月下旬以来出现反弹。8月份,生猪成交价格在11元/公斤上下波动。",
+  "source": "新华财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609183877818275.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_663e41b347fdb6f391a3",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T07:36+08:00",
+  "fetched_at": "2026-09-18T08:03+08:00",
+  "title": "9月18日猪价:跌猛了!猪价下跌3.8%,下跌逻辑已找到!蓄势上涨?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1077439093_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_d56a55d3976ca9dfc75b",
   "date": "2026-09-18",
   "published_at": "2026-09-18T00:44+08:00",
