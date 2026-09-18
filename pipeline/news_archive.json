@@ -271,6 +271,26 @@
   "relevance_score": 8
  },
  {
+  "id": "news_e32c445cc09527e49fa4",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T04:23+08:00",
+  "fetched_at": "2026-09-18T21:04+08:00",
+  "title": "中国生猪行业:8月产能去化加速,看好2027年猪价上行周期",
+  "summary": "",
+  "source": "Moomoo",
+  "type": "价格行情",
+  "url": "https://www.moomoo.com/hans/news/post/76425177",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_d56a55d3976ca9dfc75b",
   "date": "2026-09-18",
   "published_at": "2026-09-18T00:44+08:00",

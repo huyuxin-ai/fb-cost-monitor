@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T17:58+08:00",
+ "updated_at": "2026-09-18T21:04+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,7 +7,7 @@
   "Dairy News Today": 1,
   "IDNFinancials": 1,
   "IndexBox": 3,
-  "Moomoo": 1,
+  "Moomoo": 2,
   "Shangbao Indonesia": 1,
   "Sohu": 13,
   "Vietnam.vn": 3,
@@ -41,7 +41,7 @@
   "南方都市报": 1,
   "发现报告": 2,
   "同花顺": 5,
-  "同花顺财经": 16,
+  "同花顺财经": 15,
   "国投期货": 1,
   "国泰君安期货": 2,
   "壹览商业": 1,
@@ -343,6 +343,26 @@
     "LH"
    ],
    "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e32c445cc09527e49fa4",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T04:23+08:00",
+   "fetched_at": "2026-09-18T21:04+08:00",
+   "title": "中国生猪行业:8月产能去化加速,看好2027年猪价上行周期",
+   "summary": "",
+   "source": "Moomoo",
+   "type": "价格行情",
+   "url": "https://www.moomoo.com/hans/news/post/76425177",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
     "猪价"
    ],
    "relevance_score": 8
@@ -3910,25 +3930,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1d0857085a89aaf0476b",
-   "date": "2026-09-06",
-   "published_at": "2026-09-06T09:24+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "【现货】9月6日全国生猪现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260906/c679629011.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 8
   }
