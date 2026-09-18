@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_e75a2646787e3d0e4694",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T07:00+08:00",
+  "fetched_at": "2026-09-19T07:06+08:00",
+  "title": "猪价下跌“如火如荼”,下周“枯木逢春”?附:9月19日猪价",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1077924499_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_3f3a8ce3e6c821a9f67e",
   "date": "2026-09-19",
   "published_at": "2026-09-19T01:11+08:00",
