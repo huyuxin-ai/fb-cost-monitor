@@ -97,6 +97,27 @@
   "relevance_score": 8
  },
  {
+  "id": "news_ae3132acad90abe9108d",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T02:00+08:00",
+  "fetched_at": "2026-09-20T04:14+08:00",
+  "title": "芝加哥坚果价格2026年9月18日:杏仁、腰果、碧根果、开心果、核桃 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/chicago-terminal-market-nut-prices-september-18-2026-usda-report/",
+  "company": "",
+  "material_ids": [
+   "CASHEW",
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "腰果",
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_3f3a8ce3e6c821a9f67e",
   "date": "2026-09-19",
   "published_at": "2026-09-19T01:11+08:00",
