@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T22:42+08:00",
+ "updated_at": "2026-09-20T01:50+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -40,11 +40,12 @@
   "南方财经网": 12,
   "南方都市报": 1,
   "同花顺": 5,
-  "同花顺财经": 14,
+  "同花顺财经": 13,
   "国投期货": 1,
   "国泰君安期货": 2,
   "壹览商业": 1,
   "央广财经": 1,
+  "央视财经": 1,
   "富途牛牛": 1,
   "手机新浪网": 1,
   "手机网易网": 1,
@@ -75,6 +76,45 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_62be549cd521201d4984",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T00:51+08:00",
+   "fetched_at": "2026-09-20T01:50+08:00",
+   "title": "双节将至,生猪集中备货幅度大!猪价仍有上涨空间!",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-20/doc-iniskyim2013629.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_30fe495ff3ba2b085c63",
+   "date": "2026-09-19",
+   "published_at": "2026-09-19T22:54+08:00",
+   "fetched_at": "2026-09-20T01:50+08:00",
+   "title": "AI能像土豆一样便宜吗?这场对话 信息量很大→",
+   "summary": "AI的价格,藏在电费里 我们常把AI能力的突破归功于芯片和模型。但模型每训练一次、被调用一次,背后都有持续运转的机房,也有持续产生的电费。 远景科技集团创始人张雷在接受《对话》采访中,打了个比方:蒸汽机输入煤炭,输出动力;芯片输入电力,输出智能。",
+   "source": "央视财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609193879263227.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "豆一"
+   ],
+   "relevance_score": 7
+  },
   {
    "id": "news_4dae3b708d8362c8d9c4",
    "date": "2026-09-19",
@@ -3893,44 +3933,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5d66a622e47e2a96d81c",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T11:49+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "行业追踪|农业生猪养殖市场(8月31日-9月6日):猪料比价格环比小幅上涨",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20260906/c679630332.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_cd3c3138e71b45d5ba30",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T11:46+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "09月07日猪评:“猛跌”!利好消退,猪价承压偏弱运行!",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101tvvy",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }

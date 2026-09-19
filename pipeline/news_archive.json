@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_62be549cd521201d4984",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T00:51+08:00",
+  "fetched_at": "2026-09-20T01:50+08:00",
+  "title": "双节将至,生猪集中备货幅度大!猪价仍有上涨空间!",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-20/doc-iniskyim2013629.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_30fe495ff3ba2b085c63",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T22:54+08:00",
+  "fetched_at": "2026-09-20T01:50+08:00",
+  "title": "AI能像土豆一样便宜吗?这场对话 信息量很大→",
+  "summary": "AI的价格,藏在电费里 我们常把AI能力的突破归功于芯片和模型。但模型每训练一次、被调用一次,背后都有持续运转的机房,也有持续产生的电费。 远景科技集团创始人张雷在接受《对话》采访中,打了个比方:蒸汽机输入煤炭,输出动力;芯片输入电力,输出智能。",
+  "source": "央视财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609193879263227.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "豆一"
+  ],
+  "relevance_score": 7
+ },
+ {
   "id": "news_4dae3b708d8362c8d9c4",
   "date": "2026-09-19",
   "published_at": "2026-09-19T21:55+08:00",
