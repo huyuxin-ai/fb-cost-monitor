@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T04:14+08:00",
+ "updated_at": "2026-09-20T06:25+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,7 +7,7 @@
   "Dairy News Today": 2,
   "IndexBox": 5,
   "Moomoo": 2,
-  "Sohu": 14,
+  "Sohu": 15,
   "Vietnam.vn": 3,
   "Vinetur": 1,
   "cbgc.scol.com.cn": 1,
@@ -31,7 +31,6 @@
   "中国证券报·中证网": 1,
   "中泰期货": 1,
   "中财期货": 1,
-  "亚洲电视新闻": 1,
   "人民日报": 1,
   "光大期货": 1,
   "农业农村部": 2,
@@ -75,6 +74,25 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_1d76d5bc797a3b3d6b10",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T05:35+08:00",
+   "fetched_at": "2026-09-20T06:25+08:00",
+   "title": "9月20日猪价:不温不火!猪价涨跌“踩刹车”,中秋在即,新一轮“爆发”上涨来了?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1078296830_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_62be549cd521201d4984",
    "date": "2026-09-20",
@@ -3909,25 +3927,6 @@
    "source": "同花顺财经",
    "type": "价格行情",
    "url": "https://m.10jqka.com.cn/20260907/c679652289.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2e0cf0bbb689109519e4",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T14:54+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "印尼林火威胁供应 棕榈油期货价格上涨",
-   "summary": "",
-   "source": "亚洲电视新闻",
-   "type": "价格行情",
-   "url": "https://atvnewsonline.com/business/%E5%8D%B0%E5%B0%BC%E6%9E%97%E7%81%AB%E5%A8%81%E8%83%81%E4%BE%9B%E5%BA%94-%E6%A3%95%E6%A6%88%E6%B2%B9%E6%9C%9F%E8%B4%A7%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8/",
    "company": "",
    "material_ids": [
     "P"

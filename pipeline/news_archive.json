@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_1d76d5bc797a3b3d6b10",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T05:35+08:00",
+  "fetched_at": "2026-09-20T06:25+08:00",
+  "title": "9月20日猪价:不温不火!猪价涨跌“踩刹车”,中秋在即,新一轮“爆发”上涨来了?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1078296830_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_62be549cd521201d4984",
   "date": "2026-09-20",
   "published_at": "2026-09-20T00:51+08:00",
