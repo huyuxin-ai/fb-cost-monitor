@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T14:29+08:00",
+ "updated_at": "2026-09-19T19:26+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -39,7 +39,6 @@
   "华联期货": 1,
   "南方财经网": 12,
   "南方都市报": 1,
-  "发现报告": 1,
   "同花顺": 5,
   "同花顺财经": 14,
   "国投期货": 1,
@@ -61,7 +60,7 @@
   "汇通网 Fx678": 3,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
-  "澎湃新闻": 1,
+  "澎湃新闻": 2,
   "瑞达期货": 2,
   "生物谷": 1,
   "申银万国期货": 2,
@@ -76,6 +75,26 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_406de670bc5a807ddeea",
+   "date": "2026-09-19",
+   "published_at": "2026-09-19T14:32+08:00",
+   "fetched_at": "2026-09-19T19:26+08:00",
+   "title": "价格周报|本周猪价震荡下滑 机构称产能去化兑现在后延",
+   "summary": "未来第二周前半段生猪市场或继续加速出猪,价格或跌;随着国庆备货及局部出栏量短时减少的影响,周后期猪价或小幅反弹。",
+   "source": "澎湃新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609193879214349.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_da0bb3eda57fcb18e547",
    "date": "2026-09-19",
@@ -3912,25 +3931,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5977e69c8694d62329eb",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T11:26+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "铜冠金源期货:《棕榈油周报:关注累库兑现情况 棕榈油高位调整》",
-   "summary": "",
-   "source": "发现报告",
-   "type": "价格行情",
-   "url": "https://www.fxbaogao.com/detail/5676128",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   }
