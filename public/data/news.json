@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T19:26+08:00",
+ "updated_at": "2026-09-19T22:42+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,7 +8,7 @@
   "IDNFinancials": 1,
   "IndexBox": 4,
   "Moomoo": 2,
-  "Sohu": 13,
+  "Sohu": 14,
   "Vietnam.vn": 3,
   "Vinetur": 1,
   "cbgc.scol.com.cn": 1,
@@ -16,7 +16,7 @@
   "finance.sina.com.cn": 8,
   "k.sina.com.cn": 1,
   "news.mysteel.com": 1,
-  "sohu.com": 2,
+  "sohu.com": 1,
   "video.sina.com.cn": 5,
   "vietnam.vn": 1,
   "一德期货": 1,
@@ -76,6 +76,25 @@
  },
  "items": [
   {
+   "id": "news_4dae3b708d8362c8d9c4",
+   "date": "2026-09-19",
+   "published_at": "2026-09-19T21:55+08:00",
+   "fetched_at": "2026-09-19T22:42+08:00",
+   "title": "依靠科技创新,打好生猪产能调控攻坚战——国务院参事于康震在第八届中国猪业科技大会上的讲话",
+   "summary": "",
+   "source": "Sohu",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1078304156_122014422",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_406de670bc5a807ddeea",
    "date": "2026-09-19",
    "published_at": "2026-09-19T14:32+08:00",
@@ -111,25 +130,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_accfcbef09c743386f51",
-   "date": "2026-09-19",
-   "published_at": "2026-09-19T07:41+08:00",
-   "fetched_at": "2026-09-19T09:27+08:00",
-   "title": "有人预测:9月起,猪肉价格可能将重演2015年的历史",
-   "summary": "",
-   "source": "sohu.com",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1078085278_122543305",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪肉价格"
    ],
    "relevance_score": 8
   },
