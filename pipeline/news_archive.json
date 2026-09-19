@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_da0bb3eda57fcb18e547",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T10:45+08:00",
+  "fetched_at": "2026-09-19T14:29+08:00",
+  "title": "9月19日猪价再跌!短期供应仍承压,月末或有上涨空间",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101apt8",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_accfcbef09c743386f51",
   "date": "2026-09-19",
   "published_at": "2026-09-19T07:41+08:00",

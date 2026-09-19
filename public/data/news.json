@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-19T09:27+08:00",
+ "updated_at": "2026-09-19T14:29+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -25,7 +25,7 @@
   "东方财富": 2,
   "东方财富Choice数据": 1,
   "东方财富网": 1,
-  "中华网": 3,
+  "中华网": 2,
   "中华网财经": 1,
   "中国商报": 1,
   "中国新闻网": 1,
@@ -52,7 +52,7 @@
   "数据宝": 1,
   "新华财经": 3,
   "新浪网": 2,
-  "新浪财经": 35,
+  "新浪财经": 36,
   "新浪财经_金融信息服务商": 2,
   "无忧资讯": 1,
   "期货日报": 5,
@@ -76,6 +76,25 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_da0bb3eda57fcb18e547",
+   "date": "2026-09-19",
+   "published_at": "2026-09-19T10:45+08:00",
+   "fetched_at": "2026-09-19T14:29+08:00",
+   "title": "9月19日猪价再跌!短期供应仍承压,月末或有上涨空间",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101apt8",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_accfcbef09c743386f51",
    "date": "2026-09-19",
@@ -3912,25 +3931,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fa71c47903d61c52bde5",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T10:19+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "9月7日猪价:一片绿,市场供需承压下跌",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://news.china.com/socialgd/10000169/20260907/49723385.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }
