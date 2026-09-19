@@ -1,22 +1,22 @@
 {
- "updated_at": "2026-09-19T07:06+08:00",
+ "updated_at": "2026-09-19T09:27+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "Dairy News Today": 2,
   "IDNFinancials": 1,
-  "IndexBox": 3,
+  "IndexBox": 4,
   "Moomoo": 2,
-  "Sohu": 14,
+  "Sohu": 13,
   "Vietnam.vn": 3,
   "Vinetur": 1,
   "cbgc.scol.com.cn": 1,
   "cj.sina.cn": 2,
-  "finance.sina.com.cn": 9,
+  "finance.sina.com.cn": 8,
   "k.sina.com.cn": 1,
   "news.mysteel.com": 1,
-  "sohu.com": 1,
+  "sohu.com": 2,
   "video.sina.com.cn": 5,
   "vietnam.vn": 1,
   "一德期货": 1,
@@ -77,21 +77,21 @@
  },
  "items": [
   {
-   "id": "news_e75a2646787e3d0e4694",
+   "id": "news_accfcbef09c743386f51",
    "date": "2026-09-19",
-   "published_at": "2026-09-19T07:00+08:00",
-   "fetched_at": "2026-09-19T07:06+08:00",
-   "title": "猪价下跌“如火如荼”,下周“枯木逢春”?附:9月19日猪价",
+   "published_at": "2026-09-19T07:41+08:00",
+   "fetched_at": "2026-09-19T09:27+08:00",
+   "title": "有人预测:9月起,猪肉价格可能将重演2015年的历史",
    "summary": "",
-   "source": "Sohu",
+   "source": "sohu.com",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1077924499_120238851",
+   "url": "https://m.sohu.com/a/1078085278_122543305",
    "company": "",
    "material_ids": [
     "LH"
    ],
    "matched_keywords": [
-    "猪价"
+    "猪肉价格"
    ],
    "relevance_score": 8
   },
@@ -133,6 +133,25 @@
     "纸浆"
    ],
    "relevance_score": 7
+  },
+  {
+   "id": "news_ce03bb379e9c14a20b96",
+   "date": "2026-09-18",
+   "published_at": "2026-09-18T22:10+08:00",
+   "fetched_at": "2026-09-19T09:27+08:00",
+   "title": "美国农业部2026年9月18日生猪报告:采购量、价格及地区数据 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-hog-report-mixed-purchase-volumes-and-regional-prices-for-september-18-2026/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_62372d7f9b1c2d7da645",
@@ -3912,25 +3931,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_58d4d3f796b7c8a9107e",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T09:54+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "聚酯负荷持续回落 PTA成本驱动震荡为主",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-07/doc-iniqyeui0608260.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
    ],
    "relevance_score": 8
   }

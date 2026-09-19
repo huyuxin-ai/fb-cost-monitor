@@ -1,20 +1,20 @@
 [
  {
-  "id": "news_e75a2646787e3d0e4694",
+  "id": "news_accfcbef09c743386f51",
   "date": "2026-09-19",
-  "published_at": "2026-09-19T07:00+08:00",
-  "fetched_at": "2026-09-19T07:06+08:00",
-  "title": "猪价下跌“如火如荼”,下周“枯木逢春”?附:9月19日猪价",
+  "published_at": "2026-09-19T07:41+08:00",
+  "fetched_at": "2026-09-19T09:27+08:00",
+  "title": "有人预测:9月起,猪肉价格可能将重演2015年的历史",
   "summary": "",
-  "source": "Sohu",
+  "source": "sohu.com",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1077924499_120238851",
+  "url": "https://m.sohu.com/a/1078085278_122543305",
   "company": "",
   "material_ids": [
    "LH"
   ],
   "matched_keywords": [
-   "猪价"
+   "猪肉价格"
   ],
   "relevance_score": 8
  },
@@ -56,6 +56,25 @@
    "纸浆"
   ],
   "relevance_score": 7
+ },
+ {
+  "id": "news_ce03bb379e9c14a20b96",
+  "date": "2026-09-18",
+  "published_at": "2026-09-18T22:10+08:00",
+  "fetched_at": "2026-09-19T09:27+08:00",
+  "title": "美国农业部2026年9月18日生猪报告:采购量、价格及地区数据 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-hog-report-mixed-purchase-volumes-and-regional-prices-for-september-18-2026/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_62372d7f9b1c2d7da645",
