@@ -77,6 +77,45 @@
   "relevance_score": 8
  },
  {
+  "id": "news_a76bbfb60935b6439114",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T16:24+08:00",
+  "fetched_at": "2026-09-20T08:17+08:00",
+  "title": "PTA:成本高波动,需求负反馈加剧2026.9.19",
+  "summary": "来源:华安期货投研 投资策略建议:TA701高位承压运行为主 本周国内PTA期货市场偏强运行,截至本周五,华东地区PTA现货价为6995元/吨,相较上周五上涨195元/吨...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskcea7552862.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a21dca91c8a67de8e6c1",
+  "date": "2026-09-19",
+  "published_at": "2026-09-19T16:24+08:00",
+  "fetched_at": "2026-09-20T08:17+08:00",
+  "title": "纸浆:纸浆区间震荡运行2026.9.19",
+  "summary": "来源:华安期货投研 主要因素: 1、本周针叶浆现货价格先稳后跌,下游需求淡季偏弱,纸厂多以刚需采购为主,港口库存高企,供给端压力压制浆价,周均价小幅下降。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-19/doc-iniskccv2389584.shtml",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆",
+   "浆价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_406de670bc5a807ddeea",
   "date": "2026-09-19",
   "published_at": "2026-09-19T14:32+08:00",
