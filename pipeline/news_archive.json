@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_2897922cc9717d592cee",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T00:22+08:00",
+  "fetched_at": "2026-09-21T01:35+08:00",
+  "title": "出栏均重下滑,下旬消费带动猪价有上涨机会",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1078732319_122014422",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_81add021ea4582054a84",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T22:57+08:00",
+  "fetched_at": "2026-09-21T01:35+08:00",
+  "title": "温氏股份:初步预计春节前后猪价有望迎盘整拐点 公司肉猪养殖综合成本已降至6元/斤以下",
+  "summary": "公司表示,目前生猪养殖行业逐步进入以成本为核心的竞争阶段。在生物安全防控体系高效运行的前提下,进一步降本主要依托育种、营养配方、健康养殖、模式升级、工程装备及管理效率的综合提升,预计养殖成本仍有下降空间。 对于市场最为关注的猪价走势,温氏股份直言,猪价已持续低迷较长时间。",
+  "source": "每日经济新闻",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609203879466973.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_e9e2561f17c0a3adf311",
   "date": "2026-09-20",
   "published_at": "2026-09-20T21:33+08:00",
