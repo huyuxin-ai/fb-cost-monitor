@@ -38,6 +38,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_f3265aabc0d733695a0b",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T11:40+08:00",
+  "fetched_at": "2026-09-20T17:59+08:00",
+  "title": "养猪亏损周期长达到一年之久!生猪产能去化周期或接近尾声!",
+  "summary": "",
+  "source": "video.sina.com.cn",
+  "type": "供需动态",
+  "url": "https://video.sina.com.cn/p/finance/2026-09-20/detail-inismvnz1678668.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_e7c150bee9ad670925f2",
   "date": "2026-09-20",
   "published_at": "2026-09-20T11:12+08:00",

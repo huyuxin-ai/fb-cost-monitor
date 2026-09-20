@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-20T13:14+08:00",
+ "updated_at": "2026-09-20T17:59+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -12,11 +12,11 @@
   "Vietnam.vn": 3,
   "Vinetur": 1,
   "cj.sina.cn": 2,
-  "finance.sina.com.cn": 7,
+  "finance.sina.com.cn": 6,
   "k.sina.com.cn": 1,
   "news.mysteel.com": 1,
   "sohu.com": 1,
-  "video.sina.com.cn": 6,
+  "video.sina.com.cn": 7,
   "vietnam.vn": 1,
   "一德期货": 1,
   "上海证券报·中国证券网": 2,
@@ -108,6 +108,25 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_f3265aabc0d733695a0b",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T11:40+08:00",
+   "fetched_at": "2026-09-20T17:59+08:00",
+   "title": "养猪亏损周期长达到一年之久!生猪产能去化周期或接近尾声!",
+   "summary": "",
+   "source": "video.sina.com.cn",
+   "type": "供需动态",
+   "url": "https://video.sina.com.cn/p/finance/2026-09-20/detail-inismvnz1678668.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
    ],
    "relevance_score": 8
   },
@@ -3912,25 +3931,6 @@
    ],
    "matched_keywords": [
     "涤纶短纤"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_503eec2ae921a7fdd4b1",
-   "date": "2026-09-08",
-   "published_at": "2026-09-08T09:09+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "生意社2026年9月8日PTA行情观点:震荡",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-08/doc-inirapza5991210.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
    ],
    "relevance_score": 8
   }
