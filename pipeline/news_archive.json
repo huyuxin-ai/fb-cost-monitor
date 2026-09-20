@@ -1,5 +1,101 @@
 [
  {
+  "id": "news_0a1d1fee30255654ddff",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T11:53+08:00",
+  "fetched_at": "2026-09-20T13:14+08:00",
+  "title": "猪价新一轮“爆发”上涨来了?中秋备货影响有限",
+  "summary": "",
+  "source": "3g.china.com",
+  "type": "价格行情",
+  "url": "https://3g.china.com/act/redian/13004758/20260920/49754263.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_8c2fc5080f44cc09090f",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T11:49+08:00",
+  "fetched_at": "2026-09-20T13:14+08:00",
+  "title": "【现货】9月20日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260920/c680088745.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e7c150bee9ad670925f2",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T11:12+08:00",
+  "fetched_at": "2026-09-20T13:14+08:00",
+  "title": "“玉”见未来:华北新季玉米价格持续下跌,东北产区如何应对?",
+  "summary": "卓创资讯玉米市场分析师李霞 【导语】8月下旬以来华北和东北地区的玉米价格走势出现明显分化:华北玉米价格因供应增加而下行,东北玉米价格则因减产预期和惜售情绪而反弹。...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpc2578633.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2c7fd7406b662582cbd5",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T11:11+08:00",
+  "fetched_at": "2026-09-20T13:14+08:00",
+  "title": "三季度生猪产能去化加速,四季度或接近尾声",
+  "summary": "卓创资讯生猪市场分析师朱泽坤 【导语】2026年生猪价格低迷,生猪养殖长期处于亏损状态,长期亏损压力下,养殖端于三季度开始加速淘汰母猪出栏...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpe9350585.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_b06f39e35b06152acd48",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T09:27+08:00",
+  "fetched_at": "2026-09-20T13:14+08:00",
+  "title": "中秋备货力度偏弱,节前猪价或涨幅有限?",
+  "summary": "",
+  "source": "video.sina.com.cn",
+  "type": "供需动态",
+  "url": "https://video.sina.com.cn/p/finance/2026-09-20/detail-inismrfh9387503.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_1d76d5bc797a3b3d6b10",
   "date": "2026-09-20",
   "published_at": "2026-09-20T05:35+08:00",
@@ -35,6 +131,25 @@
   "matched_keywords": [
    "生猪",
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b62ae59d583e2922f72e",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T00:23+08:00",
+  "fetched_at": "2026-09-20T13:14+08:00",
+  "title": "国产鱼油要不要有偏见?元素力鱼油从秘鲁原料和IFOS资料说明- 进展专区",
+  "summary": "",
+  "source": "生物谷",
+  "type": "供需动态",
+  "url": "https://news.bioon.com/article/7fab952262b6.html",
+  "company": "",
+  "material_ids": [
+   "FISHOIL"
+  ],
+  "matched_keywords": [
+   "鱼油"
   ],
   "relevance_score": 8
  },

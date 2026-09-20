@@ -1,29 +1,28 @@
 {
- "updated_at": "2026-09-20T08:17+08:00",
+ "updated_at": "2026-09-20T13:14+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
+  "3g.china.com": 1,
   "Dairy News Today": 2,
   "IndexBox": 5,
   "Moomoo": 2,
-  "Sohu": 15,
+  "Sohu": 14,
   "Vietnam.vn": 3,
   "Vinetur": 1,
-  "cbgc.scol.com.cn": 1,
   "cj.sina.cn": 2,
-  "finance.sina.com.cn": 8,
+  "finance.sina.com.cn": 7,
   "k.sina.com.cn": 1,
   "news.mysteel.com": 1,
   "sohu.com": 1,
-  "video.sina.com.cn": 5,
+  "video.sina.com.cn": 6,
   "vietnam.vn": 1,
   "一德期货": 1,
   "上海证券报·中国证券网": 2,
   "东吴期货": 1,
-  "东方财富": 2,
+  "东方财富": 1,
   "东方财富Choice数据": 1,
-  "东方财富网": 1,
   "中华网": 2,
   "中华网财经": 1,
   "中国商报": 1,
@@ -38,7 +37,7 @@
   "南方财经网": 12,
   "南方都市报": 1,
   "同花顺": 5,
-  "同花顺财经": 11,
+  "同花顺财经": 12,
   "国投期货": 1,
   "国泰君安期货": 2,
   "壹览商业": 1,
@@ -50,7 +49,7 @@
   "数据宝": 1,
   "新华财经": 3,
   "新浪网": 2,
-  "新浪财经": 38,
+  "新浪财经": 39,
   "新浪财经_金融信息服务商": 2,
   "无忧资讯": 1,
   "期货日报": 5,
@@ -61,7 +60,7 @@
   "混沌天成期货": 1,
   "澎湃新闻": 2,
   "瑞达期货": 2,
-  "生物谷": 1,
+  "生物谷": 2,
   "申银万国期货": 2,
   "界面新闻": 4,
   "第一财经": 1,
@@ -74,6 +73,102 @@
   "长安期货": 1
  },
  "items": [
+  {
+   "id": "news_0a1d1fee30255654ddff",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T11:53+08:00",
+   "fetched_at": "2026-09-20T13:14+08:00",
+   "title": "猪价新一轮“爆发”上涨来了?中秋备货影响有限",
+   "summary": "",
+   "source": "3g.china.com",
+   "type": "价格行情",
+   "url": "https://3g.china.com/act/redian/13004758/20260920/49754263.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_8c2fc5080f44cc09090f",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T11:49+08:00",
+   "fetched_at": "2026-09-20T13:14+08:00",
+   "title": "【现货】9月20日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260920/c680088745.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e7c150bee9ad670925f2",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T11:12+08:00",
+   "fetched_at": "2026-09-20T13:14+08:00",
+   "title": "“玉”见未来:华北新季玉米价格持续下跌,东北产区如何应对?",
+   "summary": "卓创资讯玉米市场分析师李霞 【导语】8月下旬以来华北和东北地区的玉米价格走势出现明显分化:华北玉米价格因供应增加而下行,东北玉米价格则因减产预期和惜售情绪而反弹。...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpc2578633.shtml",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_2c7fd7406b662582cbd5",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T11:11+08:00",
+   "fetched_at": "2026-09-20T13:14+08:00",
+   "title": "三季度生猪产能去化加速,四季度或接近尾声",
+   "summary": "卓创资讯生猪市场分析师朱泽坤 【导语】2026年生猪价格低迷,生猪养殖长期处于亏损状态,长期亏损压力下,养殖端于三季度开始加速淘汰母猪出栏...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpe9350585.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_b06f39e35b06152acd48",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T09:27+08:00",
+   "fetched_at": "2026-09-20T13:14+08:00",
+   "title": "中秋备货力度偏弱,节前猪价或涨幅有限?",
+   "summary": "",
+   "source": "video.sina.com.cn",
+   "type": "供需动态",
+   "url": "https://video.sina.com.cn/p/finance/2026-09-20/detail-inismrfh9387503.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_1d76d5bc797a3b3d6b10",
    "date": "2026-09-20",
@@ -110,6 +205,25 @@
    "matched_keywords": [
     "生猪",
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b62ae59d583e2922f72e",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T00:23+08:00",
+   "fetched_at": "2026-09-20T13:14+08:00",
+   "title": "国产鱼油要不要有偏见?元素力鱼油从秘鲁原料和IFOS资料说明- 进展专区",
+   "summary": "",
+   "source": "生物谷",
+   "type": "供需动态",
+   "url": "https://news.bioon.com/article/7fab952262b6.html",
+   "company": "",
+   "material_ids": [
+    "FISHOIL"
+   ],
+   "matched_keywords": [
+    "鱼油"
    ],
    "relevance_score": 8
   },
@@ -3817,123 +3931,6 @@
    ],
    "matched_keywords": [
     "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c13fd84e5e03093c1080",
-   "date": "2026-09-08",
-   "published_at": "2026-09-08T06:49+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "果然!猪价下跌“拦不住”!接下来“跌落”到月底?附:9月8日猪价",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1072973442_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f6825ed78e7246d5e1b0",
-   "date": "2026-09-08",
-   "published_at": "2026-09-08T01:25+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "生猪价格8月延续弱势 养殖企业营收承压",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-09-08/detail-iniqzsvr0026729.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_0caea50dadf681b0cfe1",
-   "date": "2026-09-08",
-   "published_at": "2026-09-08T01:16+08:00",
-   "fetched_at": "2026-09-11T13:03+08:00",
-   "title": "仙乐健康:鱼油原料价格阶段性波动,毛利率影响整体可控",
-   "summary": "",
-   "source": "东方财富",
-   "type": "价格行情",
-   "url": "https://wap.eastmoney.com/a/202609073866863069.html",
-   "company": "",
-   "material_ids": [
-    "FISHOIL"
-   ],
-   "matched_keywords": [
-    "鱼油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c50ba88b1c5ebbe4397a",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T22:22+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "9月第1周生猪和猪肉价格继续温和回升|生猪市场动态",
-   "summary": "",
-   "source": "cbgc.scol.com.cn",
-   "type": "价格行情",
-   "url": "https://cbgc.scol.com.cn/news/7930523",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪肉价格"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8fc7d3595071d4a3a43d",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T19:07+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "2026.9.8-全国生猪价格参考",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqyzxw5475588.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_ed91072cc97e18bde818",
-   "date": "2026-09-07",
-   "published_at": "2026-09-07T18:04+08:00",
-   "fetched_at": "2026-09-09T18:42+08:00",
-   "title": "【答疑室】仙乐健康:鱼油原料涨价影响可控",
-   "summary": "",
-   "source": "东方财富网",
-   "type": "价格行情",
-   "url": "https://wap.eastmoney.com/a/202609073866668532.html",
-   "company": "",
-   "material_ids": [
-    "FISHOIL"
-   ],
-   "matched_keywords": [
-    "鱼油"
    ],
    "relevance_score": 8
   }
