@@ -19,6 +19,44 @@
   "relevance_score": 8
  },
  {
+  "id": "news_f2c5c1934685db60aed2",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T22:45+08:00",
+  "fetched_at": "2026-09-22T03:07+08:00",
+  "title": "农业农村部:持续推进生猪产能综合调控",
+  "summary": "会议要求,要统筹做好秋冬农业生产各项工作,着力保障“菜篮子”产品均衡供应,大力加强农产品质量安全监管,持续推进生猪产能综合调控,加快推进草食畜牧业高质量发展,强化动物疫病防控,抓好农产品产销衔接,切实保障粮食等重要农产品稳定安全供给。",
+  "source": "期货日报网",
+  "type": "政策与供应",
+  "url": "https://finance.eastmoney.com/a/202609213880378842.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2ba19e7e2a9a48db1b98",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T22:19+08:00",
+  "fetched_at": "2026-09-22T03:07+08:00",
+  "title": "生意社:成本及供需双减弱 PTA价格小幅回落",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-21/doc-inisqzyc2780625.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_42c8c58fc9f0870e3e5c",
   "date": "2026-09-21",
   "published_at": "2026-09-21T20:23+08:00",
@@ -55,6 +93,25 @@
    "纸浆"
   ],
   "relevance_score": 8
+ },
+ {
+  "id": "news_22282848929aca2ba6f5",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T18:52+08:00",
+  "fetched_at": "2026-09-22T03:07+08:00",
+  "title": "农业农村部:扎实推进高标准农田建设,持续推进生猪产能综合调控",
+  "summary": "会议要求,要统筹做好秋冬农业生产各项工作,着力保障“菜篮子”产品均衡供应,大力加强农产品质量安全监管,持续推进生猪产能综合调控,加快推进草食畜牧业高质量发展,强化动物疫病防控,抓好农产品产销衔接,切实保障粮食等重要农产品稳定安全供给。",
+  "source": "大河财立方",
+  "type": "政策与供应",
+  "url": "https://finance.eastmoney.com/a/202609213880360136.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
  },
  {
   "id": "news_3f339d4a3bec58830a4d",
