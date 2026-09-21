@@ -1,5 +1,254 @@
 [
  {
+  "id": "news_42c8c58fc9f0870e3e5c",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T20:23+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "全球谷物供应趋紧,玉米供需缺口创33年来最大",
+  "summary": "雷蒙德·詹姆斯表示,2026年全球谷物市场明显收紧,主要受到作物产量下降、需求保持强劲以及黑海出口能力受限等因素推动。其中,玉米供需矛盾最为突出...",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxx9171564.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_f499a6787cdb38251492",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T19:36+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "放量增仓突破!纸浆上涨趋势正式开启?",
+  "summary": "【摘要】盘面放量增仓突破“头肩底”颈线压力的核心驱动因素是什么?是否意味着上涨趋势正式开启?【温馨提醒】市场风云变幻,期市波动起伏。光靠看盘可不够!",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-21/doc-inisqvsc6045029.shtml",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_8db8edeecd961136e0c4",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T17:20+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "山西证券:《农业行业周报 本周猪价震荡走弱,白羽肉鸡/鸡苗均价显著下滑》",
+  "summary": "",
+  "source": "发现报告",
+  "type": "价格行情",
+  "url": "https://www.fxbaogao.com/detail/5715387",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_3625ddd0550ff5512443",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T17:13+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "供给持续扰动 纸浆期货大涨",
+  "summary": "当前港口库存存在结构性矛盾,产成品高库存限制了原料补库的力度,现货供需改善的可持续性存疑。 在石忆宁看来,纸浆期价大概率维持震荡走势,建议后续重点跟踪基差变化、现货成交情况以及阔叶浆价格变动等。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609213880072815.html",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆",
+   "浆价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_5c36d22acfd18bf90bfc",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T16:21+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "科普为白砂糖申冤提及白砂糖价格五千余元/吨",
+  "summary": "",
+  "source": "微博",
+  "type": "价格行情",
+  "url": "https://weibo.com/2/detail/5345615741717881",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白砂糖"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_5c9e52ed022f83a6d803",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T16:04+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "【收评】棕榈油日内下跌0.92% 机构称油脂近期震荡整理,远月价格重心抬升",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20260921/c680120962.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_18939999448ecd64257d",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T16:04+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "【收评】白糖日内上涨0.04% 机构称白糖库存高位,糖价上行动能偏弱",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20260921/c680120841.shtml",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7619f8b1441b27767e75",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T15:45+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "生猪主力合约收跌1.49%",
+  "summary": "南财智讯9月21日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.49%,收盘报10940.0元/吨,日内资金流出5748.33万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609213880002186.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_3b8421f3a03546053141",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T15:45+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "玉米主力合约收跌0.82%",
+  "summary": "南财智讯9月21日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.82%,收盘报2170.0元/吨,日内资金流入28.48万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609213880003463.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_28ac3c71b4c797c86b56",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T15:25+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "猪价拐点或在春节前后?8月肉猪成本跌破6元/斤!温氏股份半年亏损43.7亿元、借款激增91亿元",
+  "summary": "针对投资者关于“如何看待当前生猪行业所处周期阶段及后续猪价走势”的问题,公司方面表示,猪价已持续低迷较长时间。对于周期反转的具体时点与幅度,产业端和市场端存在一定分歧,初步预计春节前后猪价有望迎来盘整拐点。",
+  "source": "深圳商报·读创",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609213879988768.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_0df4453883a0e0e5f131",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T15:20+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "期市收评 | 商品期货涨多跌少 纸浆领涨期市",
+  "summary": "(证券时报) 农产品期货 生猪:据农业农村部监测,截至9月21日14:00时,全国农产品批发市场猪肉平均价格为16.27元/公斤,较前一日下降0.4%;鸡蛋平均价格为11.17元/公斤,较前一日下降0.4%。",
+  "source": "东方财富研究中心",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609213879984131.html",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_bb805f726fec9e24d900",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T15:19+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "【收评】淀粉日内下跌0.41% 机构称供需宽松格局强化,玉米及淀粉短期价格承压",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20260921/c680120677.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f9b6a99381e91aa4e915",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T15:13+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "期货收评:原油暴跌超4%!纸浆、碳酸锂强势上扬 商品多空分化",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/tapp/news/share/680120325/",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_0337323c1431b6d7e1c6",
   "date": "2026-09-21",
   "published_at": "2026-09-21T13:13+08:00",
@@ -115,6 +364,25 @@
    "能繁母猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_063b9e689b93eede8690",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T09:57+08:00",
+  "fetched_at": "2026-09-21T21:44+08:00",
+  "title": "生意社2026年9月21日PTA趋势分析:明确下跌",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-21/doc-inispyne8932133.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_b5e2f2ce008efa64c4e4",
