@@ -1,5 +1,141 @@
 [
  {
+  "id": "news_0337323c1431b6d7e1c6",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T13:13+08:00",
+  "fetched_at": "2026-09-21T14:53+08:00",
+  "title": "农业农村部:9月第3周生猪和猪肉价格窄幅波动",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-09-21/detail-inispync2195758.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪肉价格"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_fc59c1686e18b3595581",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T11:53+08:00",
+  "fetched_at": "2026-09-21T14:53+08:00",
+  "title": "【现货】9月21日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260921/c680114777.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_69d5e0ab5fda08086ed7",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T11:30+08:00",
+  "fetched_at": "2026-09-21T14:53+08:00",
+  "title": "猪价深跌与白鸡磨底并存,产能去化加速期哪条主线率先兑现盈利弹性?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1078927228_121157270",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d5cf39b6aab12292073b",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T11:18+08:00",
+  "fetched_at": "2026-09-21T14:53+08:00",
+  "title": "温氏股份:初步预计春节前后猪价有望迎来盘整拐点",
+  "summary": "温氏股份(300498)近日在路演活动中表示,猪价已持续低迷较长时间。对于周期反转的具体时点与幅度,产业端和市场端存在一定分歧,初步预计春节前后猪价有望迎来盘整拐点。行业普遍预期2027年行业实现盈利的确定性较高,盈利水平取决于今年三四季度猪价走势和行业产能去化情况。",
+  "source": "人民财讯",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609213879838144.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_e894dff5a8bff71cb6f1",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T10:50+08:00",
+  "fetched_at": "2026-09-21T14:53+08:00",
+  "title": "玉米市场行情分析 | 紧盯三大变量:新粮上市节奏、养殖利润修复、北港库存去化速度",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1078905497_121118712",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_a36744b517d6f40e4140",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T10:49+08:00",
+  "fetched_at": "2026-09-21T14:53+08:00",
+  "title": "节前猪价“旺季不旺”,后期能否迎来上涨行情",
+  "summary": "卓创资讯生猪行业分析师邹莹吉在研究报告中表示,从产能和需求看,四季度猪价或存在上涨空间。 卓创资讯监测196家样本企业能繁母猪存栏量在此阶段减少,对应三四季度生猪理论出栏量或减少,或利多猪价。需求端看,四季度气温下降,同时腌腊、灌香肠旺季到来,需求或有明显增加,利多猪价。",
+  "source": "界面新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609213879811855.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪",
+   "能繁母猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_b5e2f2ce008efa64c4e4",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T09:29+08:00",
+  "fetched_at": "2026-09-21T14:53+08:00",
+  "title": "南华期货:《南华生猪产业周报:现货续跌,期货下修,升水向零收敛20260921》",
+  "summary": "",
+  "source": "发现报告",
+  "type": "价格行情",
+  "url": "https://www.fxbaogao.com/detail/5712946",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_2ba0da30739001981c39",
   "date": "2026-09-21",
   "published_at": "2026-09-21T09:15+08:00",
@@ -34,25 +170,6 @@
   ],
   "matched_keywords": [
    "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1e7cd75ea6ce924c9e0e",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T05:39+08:00",
-  "fetched_at": "2026-09-21T07:04+08:00",
-  "title": "9月21日猪价:跌翻了!猪价下跌“拦不住”,中秋上涨或“泡汤”!",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1078721936_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  },
