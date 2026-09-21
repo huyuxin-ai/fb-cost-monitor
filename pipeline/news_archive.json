@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_2ba0da30739001981c39",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T09:15+08:00",
+  "fetched_at": "2026-09-21T09:24+08:00",
+  "title": "农产品 | 新粮上市压制 玉米市场承压",
+  "summary": "元/吨;东北玉米价格承压,黑、吉主流收购价格2140-2250元/吨;华北玉米价格大部走低,深加工企业主流收购价格2160-2260元/吨,山东饲料企业猪料进厂2400-2450元/吨,禽料玉米2320元/吨。",
+  "source": "国信期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609213879548264.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_5f708667faa20f430d79",
+  "date": "2026-09-21",
+  "published_at": "2026-09-21T09:00+08:00",
+  "fetched_at": "2026-09-21T09:24+08:00",
+  "title": "开盘|国内期货主力合约涨跌不一 纸浆涨近3%",
+  "summary": "2026年9月21日,早盘开盘,国内期货主力合约涨跌不一,SC原油跌近4%,菜粕跌超2%,碳酸锂跌近2%,燃料油、焦煤、集运欧线、液化石油气(LPG)、焦炭跌超1%。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-21/doc-inispync2084244.shtml",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_1e7cd75ea6ce924c9e0e",
   "date": "2026-09-21",
   "published_at": "2026-09-21T05:39+08:00",
