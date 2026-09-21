@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T03:07+08:00",
+ "updated_at": "2026-09-22T06:44+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,15 +8,17 @@
   "IndexBox": 5,
   "Moomoo": 2,
   "Sohu": 12,
+  "VanPeople": 1,
   "Vietnam.vn": 1,
   "Vinetur": 1,
+  "bihainews.com": 1,
   "cj.sina.cn": 2,
   "finance.sina.com.cn": 3,
-  "k.sina.com.cn": 1,
   "news.mysteel.com": 1,
   "sohu.com": 1,
   "video.sina.com.cn": 6,
   "vietnam.vn": 1,
+  "vinetur.com": 1,
   "一德期货": 1,
   "上海证券报·中国证券网": 2,
   "东吴期货": 1,
@@ -59,21 +61,78 @@
   "期货日报": 6,
   "期货日报网": 1,
   "正信期货": 2,
-  "每日经济新闻": 4,
-  "汇通网 Fx678": 3,
+  "每日经济新闻": 5,
+  "汇通网 Fx678": 2,
   "深圳商报·读创": 2,
   "澎湃新闻": 3,
   "瑞达期货": 2,
   "生物谷": 2,
   "申银万国期货": 1,
-  "界面新闻": 4,
+  "界面新闻": 3,
   "第一财经": 1,
   "腾讯新闻": 2,
   "观点网": 2,
   "证券日报": 1,
-  "财联社": 9
+  "财联社": 8
  },
  "items": [
+  {
+   "id": "news_3427eb9916a1c926d24a",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T05:45+08:00",
+   "fetched_at": "2026-09-22T06:44+08:00",
+   "title": "CBOT农产品期货主力合约收盘全线上涨,玉米期货涨2.94%",
+   "summary": "当地时间9月21日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线上涨,大豆期货涨1.80%报1327.00美分/蒲式耳,玉米期货涨2.94%报543.00美分/蒲式耳,小麦期货涨1.65%报726.00美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609223880403380.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_03e4225a1da15a208eb0",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T04:51+08:00",
+   "fetched_at": "2026-09-22T06:44+08:00",
+   "title": "美国关税推高成本,加拿大饮料商转向中国订购易拉罐",
+   "summary": "",
+   "source": "vinetur.com",
+   "type": "政策与供应",
+   "url": "https://www.vinetur.com/cn/20260921107470/canadian-drink-makers-shift-can-orders-to-china-after-us-tariffs-raise-costs.html",
+   "company": "",
+   "material_ids": [
+    "AL"
+   ],
+   "matched_keywords": [
+    "易拉罐"
+   ],
+   "relevance_score": 9
+  },
+  {
+   "id": "news_03de39cc27f7d56f63db",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T03:19+08:00",
+   "fetched_at": "2026-09-22T06:44+08:00",
+   "title": "美国铝关税推高成本 加拿大啤酒商转向中国制铝罐 价差最高每罐8仙",
+   "summary": "",
+   "source": "VanPeople",
+   "type": "政策与供应",
+   "url": "https://info.vanpeople.com/1904397.html",
+   "company": "",
+   "material_ids": [
+    "AL"
+   ],
+   "matched_keywords": [
+    "铝罐"
+   ],
+   "relevance_score": 9
+  },
   {
    "id": "news_c8f1a442ea46ad039a10",
    "date": "2026-09-21",
@@ -665,6 +724,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9c651f6e61d39c203ef1",
+   "date": "2026-09-21",
+   "published_at": "2026-09-21T03:19+08:00",
+   "fetched_at": "2026-09-22T06:44+08:00",
+   "title": "【业内人士:印度豆油进口量或因价格优势创历史新高】_期货_24H快讯",
+   "summary": "",
+   "source": "bihainews.com",
+   "type": "价格行情",
+   "url": "https://www.bihainews.com/bhn-bulletin/bhqh/735227.html",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
    ],
    "relevance_score": 8
   },
@@ -3851,82 +3929,6 @@
     "ice原糖"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_6797dc5956845cc20923",
-   "date": "2026-09-10",
-   "published_at": "2026-09-10T18:51+08:00",
-   "fetched_at": "2026-09-10T21:01+08:00",
-   "title": "棕榈油承压下行,库存与出口数据主导短期逻辑_外汇动态报道",
-   "summary": "",
-   "source": "汇通网 Fx678",
-   "type": "价格行情",
-   "url": "https://www.fx678.com/202609101851202285.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_0305af237805c23ac2a6",
-   "date": "2026-09-10",
-   "published_at": "2026-09-10T18:08+08:00",
-   "fetched_at": "2026-09-10T21:01+08:00",
-   "title": "玉米供需内忧外患,国内外冰火两重天",
-   "summary": "",
-   "source": "k.sina.com.cn",
-   "type": "供需动态",
-   "url": "https://k.sina.com.cn/article_5952915705_162d248f906703h6lq.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_ef2ea96945bf7bc7a5bd",
-   "date": "2026-09-10",
-   "published_at": "2026-09-10T15:10+08:00",
-   "fetched_at": "2026-09-10T16:46+08:00",
-   "title": "农业农村部:探索实施生猪养殖头部企业产能集中度目标调控",
-   "summary": "农业农村部印发《全国畜牧兽医行业发展“十五五”规划》,其中提到,探索实施生猪养殖头部企业产能集中度目标调控,开展年度生产备案管理,实施产能和产量综合调控。规范发展楼房养猪,制定并推行楼房养猪建设和运行规范。探索建立奶牛养殖规模与粪污消纳用地配套制度。",
-   "source": "界面新闻",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609103870515681.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_089bab5007017f2291e6",
-   "date": "2026-09-10",
-   "published_at": "2026-09-10T15:10+08:00",
-   "fetched_at": "2026-09-10T16:46+08:00",
-   "title": "农业农村部:全面推行养殖业节粮 深入推进饲用豆粕减量替代",
-   "summary": "鼓励增加小品种氨基酸和酶制剂等生产供应,支持高效菌株创新研发,优化生物技术构建菌株审批程序。推进地源性特色饲料资源调查评估,完善饲料原料营养和加工参数基础数据库。推进新蛋白资源饲料化利用,加快发酵饲料推广应用,促进秸秆、糟渣类饲料资源提效加工利用。",
-   "source": "财联社",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609103870515885.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 8
   }
  ]
 }
