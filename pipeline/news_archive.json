@@ -1,5 +1,237 @@
 [
  {
+  "id": "news_bcfdefcd16d81c0fb2f6",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T11:48+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "【现货】9月22日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260922/c680159405.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_9021ae1563bc608ae373",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T11:27+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "农业农村部:9月第3周生猪和猪肉价格窄幅波动",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-09-21/detail-inisqeue5908866.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪肉价格"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d2f4d61b0cd224c63095",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T10:45+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "美国铝关税推高成本 加国啤酒商转向中国制铝罐",
+  "summary": "",
+  "source": "温哥华港湾",
+  "type": "政策与供应",
+  "url": "https://www.bcbay.com/news/2026/09/21/1036419.html",
+  "company": "",
+  "material_ids": [
+   "AL"
+  ],
+  "matched_keywords": [
+   "铝罐"
+  ],
+  "relevance_score": 9
+ },
+ {
+  "id": "news_adba83aaa02192434e00",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T10:21+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "国内生猪期货主力合约盘中再创阶段新低",
+  "summary": "南方财经9月22日电,9月22日,国内生猪期货主力合约进一步走低,盘中再创阶段新低,该合约日前已跌破1.1万元/吨。",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609223881153885.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_27571df51e13672734ed",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T10:04+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "上周国内大豆豆粕商业库存均上升",
+  "summary": "9月18日,全国主要油厂进口大豆库存869万吨,周环比上升22万吨,月环比上升22万吨,同比上升117万吨,较过去三年均值上升234万吨;豆粕库存113万吨,周环比上升5万吨,月环比上升6万吨,同比下降10万吨,较过去三年同期均值上升2万吨。",
+  "source": "国家粮食和物资储备局",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609223880993230.html",
+  "company": "",
+  "material_ids": [
+   "M",
+   "A"
+  ],
+  "matched_keywords": [
+   "豆粕",
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_4a1b29019ff0356be5e5",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T09:59+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "预计9月底油厂豆粕库存在110万吨左右",
+  "summary": "9月国内油厂开机率仍然较高,上周豆粕累库速度加快,截至18日库存升至110万吨以上。但本周即将迎来中秋假期,月底库存可能小幅降至110万吨左右,环比、同比均基本持平。",
+  "source": "国家粮食和物资储备局",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609223880982849.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_77f22e9f191b35c451e5",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T09:28+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "中秋双节遇冷!9月猪价跌跌不休,下跌原因是啥?",
+  "summary": "",
+  "source": "video.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://video.sina.com.cn/p/finance/2026-09-22/detail-inisscmp5700187.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c3d825427650e8dc55f4",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T09:27+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "生意社2026年9月22日涤纶短纤趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-22/doc-inisscmm8939994.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2132a977280dd9d0919e",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T09:24+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "农产品 | 生猪市场延续供强需弱底部磨底格局",
+  "summary": "生猪 生猪市场延续供强需弱的底部磨底格局,全国外三元均价约10.59-10.66元/公斤,环比微降,节前上涨预期落空。",
+  "source": "迈科期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609223880911976.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_6c24f2d474aece2ce6b3",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T08:41+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "“金九”旺季不旺 生猪价格偏弱震荡",
+  "summary": "进入9月,国内生猪市场本应步入传统的“金九”消费旺季,但行情呈现出“旺季不旺”的特征。截至9月21日,全国外三元生猪出栏均价为10.66~10.69元/公斤,在8月末短暂反弹后再度回落。当前市场多空因素交织,供需博弈激烈,生猪价格在养殖成本线附近窄幅波动。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609223880682911.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_3232b9f9e348455e09ca",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T07:28+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "中秋临近,需求逐步改善,短暂猪价仍有偏强的机会",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.cn/2026-09-22/detail-inisrhft7516981.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b2f5e01e27b55c7031f0",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T07:00+08:00",
+  "fetched_at": "2026-09-22T14:44+08:00",
+  "title": "9月22日猪价:1涨9跌!猪价承压下跌,集团增量需求回暖,节前猪价上涨“落空”?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1079147563_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_3427eb9916a1c926d24a",
   "date": "2026-09-22",
   "published_at": "2026-09-22T05:45+08:00",

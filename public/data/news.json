@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-22T06:44+08:00",
+ "updated_at": "2026-09-22T14:44+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -13,10 +13,9 @@
   "Vinetur": 1,
   "bihainews.com": 1,
   "cj.sina.cn": 2,
-  "finance.sina.com.cn": 3,
+  "finance.sina.com.cn": 2,
   "news.mysteel.com": 1,
-  "sohu.com": 1,
-  "video.sina.com.cn": 6,
+  "video.sina.com.cn": 7,
   "vietnam.vn": 1,
   "vinetur.com": 1,
   "一德期货": 1,
@@ -25,23 +24,22 @@
   "东方财富": 1,
   "东方财富Choice数据": 1,
   "东方财富研究中心": 1,
-  "中华网": 2,
+  "中华网": 1,
   "中华网财经": 1,
   "中国商报": 1,
   "中国新闻网": 1,
-  "中国证券报·中证网": 1,
-  "中泰期货": 1,
   "中财期货": 1,
   "人民日报": 1,
   "人民财讯": 1,
   "光大期货": 1,
   "农业农村部": 2,
-  "南方财经网": 13,
+  "南方财经网": 14,
   "南方都市报": 1,
   "发现报告": 2,
   "同花顺": 6,
-  "同花顺财经": 12,
+  "同花顺财经": 11,
   "国信期货": 1,
+  "国家粮食和物资储备局": 2,
   "国投期货": 1,
   "国泰君安期货": 2,
   "壹览商业": 1,
@@ -52,10 +50,10 @@
   "微博": 1,
   "手机新浪网": 1,
   "手机网易网": 1,
-  "搜狐网": 2,
+  "搜狐网": 3,
   "新华财经": 3,
   "新浪网": 1,
-  "新浪财经": 42,
+  "新浪财经": 43,
   "新浪财经_金融信息服务商": 2,
   "无忧资讯": 1,
   "期货日报": 6,
@@ -64,18 +62,251 @@
   "每日经济新闻": 5,
   "汇通网 Fx678": 2,
   "深圳商报·读创": 2,
+  "温哥华港湾": 1,
   "澎湃新闻": 3,
-  "瑞达期货": 2,
+  "瑞达期货": 1,
   "生物谷": 2,
   "申银万国期货": 1,
   "界面新闻": 3,
-  "第一财经": 1,
   "腾讯新闻": 2,
   "观点网": 2,
   "证券日报": 1,
-  "财联社": 8
+  "财联社": 8,
+  "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_bcfdefcd16d81c0fb2f6",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T11:48+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "【现货】9月22日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260922/c680159405.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9021ae1563bc608ae373",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T11:27+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "农业农村部:9月第3周生猪和猪肉价格窄幅波动",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-09-21/detail-inisqeue5908866.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d2f4d61b0cd224c63095",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T10:45+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "美国铝关税推高成本 加国啤酒商转向中国制铝罐",
+   "summary": "",
+   "source": "温哥华港湾",
+   "type": "政策与供应",
+   "url": "https://www.bcbay.com/news/2026/09/21/1036419.html",
+   "company": "",
+   "material_ids": [
+    "AL"
+   ],
+   "matched_keywords": [
+    "铝罐"
+   ],
+   "relevance_score": 9
+  },
+  {
+   "id": "news_adba83aaa02192434e00",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T10:21+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "国内生猪期货主力合约盘中再创阶段新低",
+   "summary": "南方财经9月22日电,9月22日,国内生猪期货主力合约进一步走低,盘中再创阶段新低,该合约日前已跌破1.1万元/吨。",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609223881153885.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_27571df51e13672734ed",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T10:04+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "上周国内大豆豆粕商业库存均上升",
+   "summary": "9月18日,全国主要油厂进口大豆库存869万吨,周环比上升22万吨,月环比上升22万吨,同比上升117万吨,较过去三年均值上升234万吨;豆粕库存113万吨,周环比上升5万吨,月环比上升6万吨,同比下降10万吨,较过去三年同期均值上升2万吨。",
+   "source": "国家粮食和物资储备局",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202609223880993230.html",
+   "company": "",
+   "material_ids": [
+    "M",
+    "A"
+   ],
+   "matched_keywords": [
+    "豆粕",
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_4a1b29019ff0356be5e5",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T09:59+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "预计9月底油厂豆粕库存在110万吨左右",
+   "summary": "9月国内油厂开机率仍然较高,上周豆粕累库速度加快,截至18日库存升至110万吨以上。但本周即将迎来中秋假期,月底库存可能小幅降至110万吨左右,环比、同比均基本持平。",
+   "source": "国家粮食和物资储备局",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202609223880982849.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_77f22e9f191b35c451e5",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T09:28+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "中秋双节遇冷!9月猪价跌跌不休,下跌原因是啥?",
+   "summary": "",
+   "source": "video.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://video.sina.com.cn/p/finance/2026-09-22/detail-inisscmp5700187.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_c3d825427650e8dc55f4",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T09:27+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "生意社2026年9月22日涤纶短纤趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-22/doc-inisscmm8939994.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2132a977280dd9d0919e",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T09:24+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "农产品 | 生猪市场延续供强需弱底部磨底格局",
+   "summary": "生猪 生猪市场延续供强需弱的底部磨底格局,全国外三元均价约10.59-10.66元/公斤,环比微降,节前上涨预期落空。",
+   "source": "迈科期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609223880911976.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_6c24f2d474aece2ce6b3",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T08:41+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "“金九”旺季不旺 生猪价格偏弱震荡",
+   "summary": "进入9月,国内生猪市场本应步入传统的“金九”消费旺季,但行情呈现出“旺季不旺”的特征。截至9月21日,全国外三元生猪出栏均价为10.66~10.69元/公斤,在8月末短暂反弹后再度回落。当前市场多空因素交织,供需博弈激烈,生猪价格在养殖成本线附近窄幅波动。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609223880682911.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_3232b9f9e348455e09ca",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T07:28+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "中秋临近,需求逐步改善,短暂猪价仍有偏强的机会",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.cn/2026-09-22/detail-inisrhft7516981.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b2f5e01e27b55c7031f0",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T07:00+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "9月22日猪价:1涨9跌!猪价承压下跌,集团增量需求回暖,节前猪价上涨“落空”?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1079147563_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_3427eb9916a1c926d24a",
    "date": "2026-09-22",
@@ -3689,246 +3920,6 @@
     "生猪"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_0536e781b9db72489e15",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T15:29+08:00",
-   "fetched_at": "2026-09-11T17:55+08:00",
-   "title": "跌了,猪价“坐滑梯”,无休止下跌?附:9月12日猪价",
-   "summary": "",
-   "source": "sohu.com",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1074753803_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_dc9b303c8ce9abb13609",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T15:00+08:00",
-   "fetched_at": "2026-09-13T23:17+08:00",
-   "title": "【现货】9月11日各地区一级豆油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260911/c679819785.shtml",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8170e0bfe54212b5e6d8",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T13:08+08:00",
-   "fetched_at": "2026-09-12T01:50+08:00",
-   "title": "豆粕供需拉扯高位震荡 棕榈油维持高位区间震荡",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmruc2165337.shtml",
-   "company": "",
-   "material_ids": [
-    "P",
-    "M"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "豆粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fbae145de3395e2506f8",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T12:54+08:00",
-   "fetched_at": "2026-09-11T13:03+08:00",
-   "title": "【现货】9月11日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260911/c679820666.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_ecf4182e7a0ad4c28574",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T11:11+08:00",
-   "fetched_at": "2026-09-11T13:03+08:00",
-   "title": "厄尔尼诺冲击下:国际糖价大涨25% 国内白糖会涨价吗?",
-   "summary": "厄尔尼诺正在对全球农业造成全面扰动,在小麦、玉米等大宗农产品国际价格大幅上涨的同时,食糖也不甘示弱,ICE原糖价格最近一个多月涨幅达25%。 全球主要生产地区欧盟、印度此前发布了减产预期,而在近日,泰国糖业组织预计2026/27榨季当地将减产20%。",
-   "source": "第一财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609113871882554.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白糖",
-    "食糖",
-    "原糖",
-    "ice原糖"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_ab8d5705d39efc5ae124",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T08:47+08:00",
-   "fetched_at": "2026-09-11T13:03+08:00",
-   "title": "农产品 | 生猪:短期供需博弈加剧 生猪价格震荡反复 关注出栏节奏",
-   "summary": "需求端,高温影响逐渐消退,终端采购意愿或缓慢回暖,预计生猪需求持续小幅增量,只是当前备货尚未启动,增量有限,支撑也相对有限。总的来说,短期供需博弈加剧,生猪价格震荡反复,关注出栏节奏。",
-   "source": "瑞达期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609113871249389.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_ad5bc8d094a5e79cd532",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T08:45+08:00",
-   "fetched_at": "2026-09-11T13:03+08:00",
-   "title": "9月10日玉米“闪崩”,新作低开? 供需博弈加剧",
-   "summary": "",
-   "source": "中华网",
-   "type": "供需动态",
-   "url": "https://3g.china.com/act/redian/13004758/20260911/49734196.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_288e958a4c1b2837e9bb",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T08:16+08:00",
-   "fetched_at": "2026-09-11T08:26+08:00",
-   "title": "中泰期货:直到高库存消化完毕 白糖价格中枢才会抬升",
-   "summary": "预计短期内价格区间震荡,直到高库存消化完毕,价格中枢才会抬升。 (本内容及观点仅供参考,不构成任何投资建议)",
-   "source": "中泰期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609113871240319.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白糖"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_893195e11cf9881bc4f6",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T07:31+08:00",
-   "fetched_at": "2026-09-11T08:26+08:00",
-   "title": "“弱现实”与“强预期”交织,白糖后市怎么走?",
-   "summary": "来源:期货日报 8月初以来,ICE原糖价格快速拉升,已经从15美分/磅下方攀升至18美分/磅以上,累计涨幅超过20%。国内市场上,郑糖主力2701合约自7月末的5178元/吨开启反弹...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfea7054600.shtml",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白糖",
-    "原糖",
-    "郑糖",
-    "ice原糖"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_980f33866037c85ee7ca",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T07:19+08:00",
-   "fetched_at": "2026-09-11T08:26+08:00",
-   "title": "“弱现实”与“强预期”交织 郑糖短期或区间震荡",
-   "summary": "主产区广西现货市场报价多在5250元/吨以下,低于成本。 图为国内食糖工业库存变化 从下游表现来看,食品饮料等行业消费增长缓慢,终端采购以刚需为主,食品饮料企业在传统旺季也缺乏大规模备货的动力。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609113871024074.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "郑糖",
-    "食糖"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_19a07ad9b097a247f3ec",
-   "date": "2026-09-10",
-   "published_at": "2026-09-10T19:28+08:00",
-   "fetched_at": "2026-09-11T03:57+08:00",
-   "title": "罗牛山:8月生猪销量同比增长33.72% 销售收入环比增长4.83%",
-   "summary": "生猪市场价格的大幅波动可能对公司的经营业绩产生重大影响,生猪市场价格变动的风险是整个生猪生产行业的系统风险,对任何一家生猪生产者来说都是客观存在的、不可控制的外部风险。",
-   "source": "中国证券报·中证网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609103870980630.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_949cdfd3b2d80481ced2",
-   "date": "2026-09-10",
-   "published_at": "2026-09-10T19:09+08:00",
-   "fetched_at": "2026-09-10T21:01+08:00",
-   "title": "厄尔尼诺搅动全球糖市!外盘原糖单月大涨22%,多国主产区或遭遇减产冲击|大宗风云",
-   "summary": "本报(chinatimes.net.cn)记者叶青 北京报道自8月初以来,郑糖SR2701主力合约整体震荡上行,厄尔尼诺引发全球主产国减产预期,受ICE原糖大涨带动,期货价格重心持续抬升...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/roll/2026-09-10/doc-inirixks7631990.shtml",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "原糖",
-    "郑糖",
-    "ice原糖"
-   ],
-   "relevance_score": 12
   }
  ]
 }
