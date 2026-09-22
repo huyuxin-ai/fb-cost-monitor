@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_9fd5a638948bac271d2f",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T05:27+08:00",
+  "fetched_at": "2026-09-23T07:10+08:00",
+  "title": "9月23日猪价:一塌糊涂!猪价下跌“跌猛了”!中秋将至,上涨彻底“落空”?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1079611814_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_247bf912dc7861f5626d",
   "date": "2026-09-23",
   "published_at": "2026-09-23T02:07+08:00",
