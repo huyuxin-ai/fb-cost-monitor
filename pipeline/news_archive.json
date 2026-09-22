@@ -1,5 +1,119 @@
 [
  {
+  "id": "news_a60ff998864a5c1d890b",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T20:20+08:00",
+  "fetched_at": "2026-09-22T20:27+08:00",
+  "title": "棕榈油价格预计到2026年底将突破1,154美元",
+  "summary": "",
+  "source": "IDNFinancials",
+  "type": "价格行情",
+  "url": "https://www.idnfinancials.com/cn/news/69231/%E6%A3%95%E6%A6%88%E6%B2%B9%E4%BB%B7%E6%A0%BC%E9%A2%84%E8%AE%A1%E5%88%B02026%E5%B9%B4%E5%BA%95%E5%B0%86%E7%AA%81%E7%A0%B41-154%E7%BE%8E%E5%85%83",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_af880690a779def69813",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T17:06+08:00",
+  "fetched_at": "2026-09-22T20:27+08:00",
+  "title": "木棉花牌提前清库!25/26 榨季广西南华第三个白砂糖品牌清库",
+  "summary": "沐甜科技 沐甜22日讯 据了解,东门糖厂产“木棉花”牌9月22日宣布清库,成为25/26榨季广西南华第三个清库的品牌。 该品牌报价相对高且产量较大,往年清库时间一般在11月份...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/2026-09-22/doc-inissyqz8846939.shtml",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白砂糖"
+  ],
+  "relevance_score": 7
+ },
+ {
+  "id": "news_ea02a98a971f20553f63",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T16:58+08:00",
+  "fetched_at": "2026-09-22T20:27+08:00",
+  "title": "标肥价差收窄 大猪价格优势能否持续?",
+  "summary": "",
+  "source": "finance.sina.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-22/detail-inissyqz8832120.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6e46303db6c1414cb362",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T16:35+08:00",
+  "fetched_at": "2026-09-22T20:27+08:00",
+  "title": "猪价阴跌不止 9月23日报价 供强需弱持续打压",
+  "summary": "",
+  "source": "中华网",
+  "type": "价格行情",
+  "url": "https://news.china.com/socialgd/10000169/20260922/49760281.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c142602b2ad575b64a7a",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T15:42+08:00",
+  "fetched_at": "2026-09-22T20:27+08:00",
+  "title": "生猪主力合约收跌0.36%",
+  "summary": "南财智讯9月22日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.36%,收盘报10935.0元/吨,日内资金流入574.74万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609223881275297.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_81954f0492bc37966e4d",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T15:40+08:00",
+  "fetched_at": "2026-09-22T20:27+08:00",
+  "title": "玉米主力合约收涨0.18%",
+  "summary": "南财智讯9月22日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.18%,收盘报2180.0元/吨,日内资金流入5065.09万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609223881277261.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_bcfdefcd16d81c0fb2f6",
   "date": "2026-09-22",
   "published_at": "2026-09-22T11:48+08:00",
