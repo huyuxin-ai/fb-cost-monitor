@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-09-22T20:27+08:00",
+ "updated_at": "2026-09-22T21:33+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "3g.china.com": 1,
   "Dairy News Today": 1,
   "IDNFinancials": 1,
-  "IndexBox": 5,
+  "IndexBox": 4,
   "Moomoo": 2,
   "Sohu": 12,
   "VanPeople": 1,
@@ -29,7 +29,6 @@
   "中华网": 2,
   "中华网财经": 1,
   "中国商报": 1,
-  "中国新闻网": 1,
   "中财期货": 1,
   "人民日报": 1,
   "人民财讯": 1,
@@ -55,7 +54,7 @@
   "搜狐网": 3,
   "新华财经": 3,
   "新浪财经": 44,
-  "新浪财经_金融信息服务商": 2,
+  "新浪财经_金融信息服务商": 4,
   "无忧资讯": 1,
   "期货日报": 6,
   "期货日报网": 1,
@@ -96,6 +95,25 @@
    "relevance_score": 8
   },
   {
+   "id": "news_d6f8dc388fc4e9b2088a",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T17:28+08:00",
+   "fetched_at": "2026-09-22T21:33+08:00",
+   "title": "09月22日猪评:节前上涨落空!猪价跌多涨少,行情承压偏弱!",
+   "summary": "",
+   "source": "新浪财经_金融信息服务商",
+   "type": "价格行情",
+   "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101ulio",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_af880690a779def69813",
    "date": "2026-09-22",
    "published_at": "2026-09-22T17:06+08:00",
@@ -113,6 +131,25 @@
     "白砂糖"
    ],
    "relevance_score": 7
+  },
+  {
+   "id": "news_626abbc9dfee6e3700e2",
+   "date": "2026-09-22",
+   "published_at": "2026-09-22T16:59+08:00",
+   "fetched_at": "2026-09-22T21:33+08:00",
+   "title": "豆菜粕:中美会谈向好、成本与供需博弈",
+   "summary": "",
+   "source": "新浪财经_金融信息服务商",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/2026-09-22/doc-inissyqz8839747.shtml",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_ea02a98a971f20553f63",
@@ -3882,44 +3919,6 @@
     "大豆"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_be1aea0801a402187004",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T23:30+08:00",
-   "fetched_at": "2026-09-12T01:50+08:00",
-   "title": "美国农业部生猪屠宰报告2026年9月10日:价格、重量与交货计划 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-slaughtered-swine-report-september-10-2026-hog-slaughter-and-pricing/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_637a0d4549fa9d131d6a",
-   "date": "2026-09-11",
-   "published_at": "2026-09-11T21:12+08:00",
-   "fetched_at": "2026-09-12T01:50+08:00",
-   "title": "2026年中国玉米预计新产种子14.3亿公斤",
-   "summary": "当日发布的2026-2027年度全国重要农作物种子产供需形势显示,2026年中国玉米制种面积通过理性调减,优势区集中度提升,能够满足明年春夏播玉米用种需求;杂交稻制种面积继续增加,品种结构加快向优质、抗逆方向调整,市场供应充足。",
-   "source": "中国新闻网",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609113872409254.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
   }
  ]
 }

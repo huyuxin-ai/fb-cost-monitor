@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_19a1a6ed38dec663b1d5",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T21:07+08:00",
+  "fetched_at": "2026-09-22T21:33+08:00",
+  "title": "白砂糖从配料表“消失”引关注 关于果葡糖浆和控糖的真问题",
+  "summary": "首先是成本账,果葡糖浆的原料是玉米,国内玉米供应充足,淀粉糖工业又长期受到农业产业化政策鼓励;而甘蔗收购实行政府指导价和“蔗糖价格挂钩联动”机制,这在保护蔗农的同时也抬高了白砂糖价格。一降一升,价差自然显现。其次是使用方便。",
+  "source": "上观新闻",
+  "type": "价格行情",
+  "url": "http://biz.eastmoney.com/a/202609223881457528.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白砂糖"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_a60ff998864a5c1d890b",
   "date": "2026-09-22",
   "published_at": "2026-09-22T20:20+08:00",
@@ -15,6 +34,25 @@
   ],
   "matched_keywords": [
    "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d6f8dc388fc4e9b2088a",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T17:28+08:00",
+  "fetched_at": "2026-09-22T21:33+08:00",
+  "title": "09月22日猪评:节前上涨落空!猪价跌多涨少,行情承压偏弱!",
+  "summary": "",
+  "source": "新浪财经_金融信息服务商",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101ulio",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
@@ -36,6 +74,25 @@
    "白砂糖"
   ],
   "relevance_score": 7
+ },
+ {
+  "id": "news_626abbc9dfee6e3700e2",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T16:59+08:00",
+  "fetched_at": "2026-09-22T21:33+08:00",
+  "title": "豆菜粕:中美会谈向好、成本与供需博弈",
+  "summary": "",
+  "source": "新浪财经_金融信息服务商",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/money/future/2026-09-22/doc-inissyqz8839747.shtml",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜粕"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_ea02a98a971f20553f63",
