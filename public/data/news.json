@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T01:12+08:00",
+ "updated_at": "2026-09-23T04:25+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,7 +8,7 @@
   "IDNFinancials": 1,
   "IndexBox": 4,
   "Moomoo": 2,
-  "Sohu": 12,
+  "Sohu": 11,
   "VanPeople": 1,
   "Vietnam.vn": 1,
   "Vinetur": 1,
@@ -71,10 +71,31 @@
   "腾讯新闻": 2,
   "观点网": 2,
   "证券日报": 1,
+  "证券时报": 1,
   "财联社": 8,
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_247bf912dc7861f5626d",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T02:07+08:00",
+   "fetched_at": "2026-09-23T04:25+08:00",
+   "title": "供应端提前释放存栏产能 生猪期货价格持续探底",
+   "summary": "与此同时,国内冻猪肉库容维持高位,冻品储备充足,一旦现货猪价小幅反弹,低价冻品便集中出库冲击鲜肉市场,直接封堵猪价反弹空间。”范晴晴表示。 产能去化加速 2026年以来,国内生猪价格持续低迷,生猪养殖长期处于亏损状态。",
+   "source": "证券时报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609233881626043.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_a60ff998864a5c1d890b",
    "date": "2026-09-22",
@@ -3898,25 +3919,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_94cc9f7eb3d38923b81b",
-   "date": "2026-09-12",
-   "published_at": "2026-09-12T07:00+08:00",
-   "fetched_at": "2026-09-13T23:17+08:00",
-   "title": "9月12日猪价:跌跌不休!二师兄“产销失衡”,猪价“超预期”下跌!何时上涨?",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1074952072_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }
