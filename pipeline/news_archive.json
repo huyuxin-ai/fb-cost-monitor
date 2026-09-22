@@ -133,6 +133,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_683a9e471125b165cc5a",
+  "date": "2026-09-22",
+  "published_at": "2026-09-22T16:35+08:00",
+  "fetched_at": "2026-09-23T01:12+08:00",
+  "title": "乌克兰原奶产量下降13% 私营 хозяйства减产27%仍未被工业乳企抵消",
+  "summary": "",
+  "source": "Межа. Новини України.",
+  "type": "供需动态",
+  "url": "https://mezha.net/ch/news/ab3c92d8_ukraine-s_milk_output/",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_c142602b2ad575b64a7a",
   "date": "2026-09-22",
   "published_at": "2026-09-22T15:42+08:00",
