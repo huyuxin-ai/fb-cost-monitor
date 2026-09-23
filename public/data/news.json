@@ -383,6 +383,25 @@
    "relevance_score": 12
   },
   {
+   "id": "news_3232b9f9e348455e09ca",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T06:38+08:00",
+   "fetched_at": "2026-09-22T14:44+08:00",
+   "title": "中秋临近,需求逐步改善,短暂猪价仍有偏强的机会",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.cn/2026-09-22/detail-inisrhft7516981.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_247bf912dc7861f5626d",
    "date": "2026-09-23",
    "published_at": "2026-09-23T02:07+08:00",
@@ -766,25 +785,6 @@
     "猪价"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_3232b9f9e348455e09ca",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T07:28+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "中秋临近,需求逐步改善,短暂猪价仍有偏强的机会",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.cn/2026-09-22/detail-inisrhft7516981.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_b2f5e01e27b55c7031f0",
