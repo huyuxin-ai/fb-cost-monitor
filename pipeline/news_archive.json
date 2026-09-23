@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_6180dddc53be700c983b",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T11:43+08:00",
+  "fetched_at": "2026-09-23T15:31+08:00",
+  "title": "【现货】9月23日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260923/c680203427.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c13798c6e5159277ed15",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T10:27+08:00",
+  "fetched_at": "2026-09-23T15:31+08:00",
+  "title": "本周国内豆粕现货报价上涨",
+  "summary": "昨日国内豆粕期价收盘小幅上涨。市场关注中美领导人会晤及经贸磋商结果,交易情绪偏谨慎,豆粕期价延续窄幅震荡走势,受进口成本等支撑,昨日收盘小幅上涨。",
+  "source": "国家粮食和物资储备局",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609233882253444.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_9b77c6cfcf46794154ce",
   "date": "2026-09-23",
   "published_at": "2026-09-23T09:05+08:00",
@@ -9,6 +47,25 @@
   "source": "正信期货",
   "type": "价格行情",
   "url": "https://finance.eastmoney.com/a/202609233881989370.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c89babd28a75e302f4b3",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T08:58+08:00",
+  "fetched_at": "2026-09-23T15:31+08:00",
+  "title": "生意社2026年9月23日PTA趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-23/doc-inisunsp1416845.shtml",
   "company": "",
   "material_ids": [
    "TA"
