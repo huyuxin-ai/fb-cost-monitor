@@ -1,14 +1,52 @@
 [
  {
-  "id": "news_9fd5a638948bac271d2f",
+  "id": "news_9b77c6cfcf46794154ce",
   "date": "2026-09-23",
-  "published_at": "2026-09-23T05:27+08:00",
+  "published_at": "2026-09-23T09:05+08:00",
+  "fetched_at": "2026-09-23T09:41+08:00",
+  "title": "能化 | PTA供需转向累库 但流通性现货偏紧 预计短期PTA宽幅震荡为主",
+  "summary": "总结:PVC基本面驱动有限,主要跟随商品情绪波动,目前原料电石及乙烯仍在高位,成本支撑仍存在,库存有小幅下降预期,价格进一步下行空间或相对有限,短期PVC区间震荡为主,后续仍需关注原油及煤炭波动对市场心态影响。",
+  "source": "正信期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609233881989370.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_3cd1daac2e2369b45139",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T08:20+08:00",
+  "fetched_at": "2026-09-23T09:41+08:00",
+  "title": "EAEU 原奶产量达到 3450 万吨",
+  "summary": "",
+  "source": "Dairy News Today",
+  "type": "供需动态",
+  "url": "https://dairynews.today/cn/news/eaeu_3450__6597478.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6bddef3d337d5c4ea43b",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T07:27+08:00",
   "fetched_at": "2026-09-23T07:10+08:00",
-  "title": "9月23日猪价:一塌糊涂!猪价下跌“跌猛了”!中秋将至,上涨彻底“落空”?",
+  "title": "9月23日猪价:下跌!猪价大降4.96%,南北又是“绿油油”,二师兄中秋前“不涨反降”原因,找到了!",
   "summary": "",
   "source": "搜狐网",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1079611814_120238851",
+  "url": "https://m.sohu.com/a/1079612924_120238851",
   "company": "",
   "material_ids": [
    "LH"
@@ -17,6 +55,26 @@
    "猪价"
   ],
   "relevance_score": 8
+ },
+ {
+  "id": "news_17e95dd06130d6582cd3",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T07:25+08:00",
+  "fetched_at": "2026-09-23T09:41+08:00",
+  "title": "供应端增量超过需求增量 猪价节前承压下行",
+  "summary": "中秋国庆双节临近,生猪市场价格走势却未因需求提振有所好转。8月下旬以来,国内生猪期货价格不断探底。9月22日盘中,生猪期货主力合约2611最低报10865元/吨,较月初下跌超9%,年内最大跌幅超过22%。虽然近期生猪市场需求有所回升,但供应端增量超过需求增量,猪价承压下行。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609233881668928.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
  },
  {
   "id": "news_247bf912dc7861f5626d",
