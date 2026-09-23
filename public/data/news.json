@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T15:31+08:00",
+ "updated_at": "2026-09-23T21:27+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -21,7 +21,6 @@
   "vietnam.vn": 1,
   "vinetur.com": 1,
   "Межа. Новини України.": 1,
-  "一德期货": 1,
   "上海证券报·中国证券网": 2,
   "东吴期货": 1,
   "东方财富": 1,
@@ -34,8 +33,8 @@
   "人民日报": 1,
   "人民财讯": 1,
   "光大期货": 1,
-  "农业农村部": 1,
-  "南方财经网": 14,
+  "农业农村部": 2,
+  "南方财经网": 16,
   "南方都市报": 1,
   "发现报告": 2,
   "同花顺": 6,
@@ -53,28 +52,180 @@
   "手机网易网": 1,
   "搜狐网": 4,
   "新华财经": 3,
-  "新浪财经": 42,
+  "新浪财经": 44,
   "新浪财经_金融信息服务商": 4,
   "期货日报": 6,
   "期货日报网": 1,
   "正信期货": 3,
   "每日经济新闻": 6,
-  "汇通网 Fx678": 2,
+  "汇通网 Fx678": 3,
   "深圳商报·读创": 2,
   "温哥华港湾": 1,
   "澎湃新闻": 2,
   "瑞达期货": 1,
-  "生物谷": 2,
-  "申银万国期货": 1,
-  "界面新闻": 2,
-  "腾讯新闻": 2,
+  "生物谷": 1,
+  "界面新闻": 1,
+  "腾讯新闻": 1,
   "观点网": 2,
-  "证券日报": 1,
   "证券时报": 1,
   "财联社": 8,
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_1606b374c30f00bed5bd",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T18:52+08:00",
+   "fetched_at": "2026-09-23T21:27+08:00",
+   "title": "棕榈油期价连续四日回落库存高企与需求疲软双重压制_外汇动态报道",
+   "summary": "",
+   "source": "汇通网 Fx678",
+   "type": "供需动态",
+   "url": "https://www.fx678.com/202609231852392286.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_8d841441a3dfe986805d",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T17:11+08:00",
+   "fetched_at": "2026-09-23T21:27+08:00",
+   "title": "豆菜粕:中美会谈向好、成本与供需博弈",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-22/detail-inissyqz8839747.d.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d53c7ef227047631e6cd",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T16:37+08:00",
+   "fetched_at": "2026-09-23T21:27+08:00",
+   "title": "9月第3周生猪定点屠宰企业生猪收购和白条肉出厂价格情况",
+   "summary": "据农业农村部监测,2026年9月14—20日,生猪定点屠宰企业生猪平均收购价格为12.08元/公斤,环比下降0.5%,同比下降16.0%。白条肉平均出厂价格为15.84元/公斤,环比下降0.3%,同比下降15.0%。",
+   "source": "农业农村部",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609233882467049.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_6d0c07030d70868a1150",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T16:14+08:00",
+   "fetched_at": "2026-09-23T21:27+08:00",
+   "title": "跌了,猪价下跌“势不可挡”!附:9月24日猪价",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1079968826_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b5bd7f3eaf93f583cc4f",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T15:41+08:00",
+   "fetched_at": "2026-09-23T21:27+08:00",
+   "title": "生猪主力合约收跌0.92%",
+   "summary": "南财智讯9月23日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.92%,收盘报10820.0元/吨,日内资金流出8156.65万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609233882449543.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_4016e28e5599ee0fb345",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T15:41+08:00",
+   "fetched_at": "2026-09-23T21:27+08:00",
+   "title": "玉米主力合约收涨0.41%",
+   "summary": "南财智讯9月23日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.41%,收盘报2184.0元/吨,日内资金流入211.75万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609233882451524.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_97f8bb77b2d9adbd437f",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T15:23+08:00",
+   "fetched_at": "2026-09-23T21:27+08:00",
+   "title": "乙二醇需求不足承压回落 PTA成本溢价或将消退",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-23/doc-inisvcpz8482332.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_119b6ed6a0223fc2bab1",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T15:16+08:00",
+   "fetched_at": "2026-09-23T21:27+08:00",
+   "title": "豆粕价格短期区间震荡 菜籽粕到港增多步入旺季",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-23/doc-inisvcpz8482265.shtml",
+   "company": "",
+   "material_ids": [
+    "M",
+    "RM"
+   ],
+   "matched_keywords": [
+    "豆粕",
+    "菜籽粕"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_6180dddc53be700c983b",
    "date": "2026-09-23",
@@ -167,25 +318,6 @@
    ],
    "matched_keywords": [
     "原奶"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6bddef3d337d5c4ea43b",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T07:27+08:00",
-   "fetched_at": "2026-09-23T07:10+08:00",
-   "title": "9月23日猪价:下跌!猪价大降4.96%,南北又是“绿油油”,二师兄中秋前“不涨反降”原因,找到了!",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1079612924_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   },
@@ -3782,142 +3914,6 @@
    ],
    "matched_keywords": [
     "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_adf18b4c679867f534f4",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T08:53+08:00",
-   "fetched_at": "2026-09-14T08:57+08:00",
-   "title": "农产品 | 需求增量不及供应 供大于求下猪价重心持续下移",
-   "summary": "红枣: 现货淡季弱势运行,期货持续破位下行,01折合新季收购价4.5左右水平,这种下跌深度兑现了收购价预期,谨慎对待。 生猪: 供应增量明显,虽气温下降带动终端消费边际回暖、屠宰量小幅提升,但需求增量不及供应,供大于求下猪价重心持续下移。",
-   "source": "一德期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609143872963374.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_33d36bca3646bf3bb21d",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T08:49+08:00",
-   "fetched_at": "2026-09-14T08:57+08:00",
-   "title": "能化 | 库存偏低对价格亦形成支撑 预计PTA价格跟随成本维持区间偏强震荡",
-   "summary": "综上,PTA供应震荡回升,而下游负荷持续下降,对价格形成压制,但是库存偏低对价格亦形成支撑。预计PTA价格跟随成本维持区间偏强震荡。关注中东局势演变、装置动态和需求变化。 【乙二醇】 乙二醇:夜盘主力合约跌0.57%。",
-   "source": "申银万国期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609143872961918.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_bdd58fafe26a0f2ecc88",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T08:14+08:00",
-   "fetched_at": "2026-09-17T21:40+08:00",
-   "title": "2026辅酶Q10品牌怎么选?金奥维小红丸等热门产品盘点,从形态、原料、第三方检测深度横评- 进展专区",
-   "summary": "",
-   "source": "生物谷",
-   "type": "供需动态",
-   "url": "https://news.bioon.com/article/90579512e553.html",
-   "company": "",
-   "material_ids": [
-    "COQ10"
-   ],
-   "matched_keywords": [
-    "辅酶q10"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_41977348bb05329850a8",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T07:33+08:00",
-   "fetched_at": "2026-09-14T08:57+08:00",
-   "title": "中信建投:聚焦红利增强逻辑 关注散奶价格上涨和新兴原料机会",
-   "summary": "【乳制品】:奶价回升,下半年进口牛肉或趋紧,关注乳业周期拐点配置机会 9月西北华北多地散奶价格上涨明显,肉奶共振推动原奶周期向好,厄尔尼诺推动饲料价格上行,亦利好行业继续出清,利好龙头液奶竞争格局改善,牛价持续上行带动上游牧场盈利修复,奶价企稳下牧场利润弹性更大。",
-   "source": "界面新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609143872942836.html",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "奶价",
-    "原奶"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_cfa0405ef1603a14420b",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T04:30+08:00",
-   "fetched_at": "2026-09-15T05:08+08:00",
-   "title": "9月14日猪价:6涨4跌!猪价“倔强”下跌,中秋将至,季节性“拐点”蓄势待发?",
-   "summary": "",
-   "source": "腾讯新闻",
-   "type": "价格行情",
-   "url": "https://news.qq.com/rain/a/20260913A08SPI00",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5184ea6a96ca51adc01d",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T00:13+08:00",
-   "fetched_at": "2026-09-14T01:59+08:00",
-   "title": "8月猪价温和回暖 养殖企业下半年利润有望修复",
-   "summary": "对于当前的价格走势,上海钢联生猪行业分析师王红炎告诉《证券日报》记者,本轮价格回升是产能去化见效后的修复性行情,而非传统强周期开启。从监测数据透露的情况可知,行业正进入低波动、长磨底周期,未来供给稳定性增强,但是很难再出现价格大涨大跌的现象。",
-   "source": "证券日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609143872895720.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_e4dcf0239beeac97c45d",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T00:00+08:00",
-   "fetched_at": "2026-09-14T01:59+08:00",
-   "title": "【止跌上涨】2026.9.14生猪市场信息交流",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-14/doc-inirtfmq7543996.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 8
   }

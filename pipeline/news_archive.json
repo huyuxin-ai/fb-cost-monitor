@@ -1,5 +1,159 @@
 [
  {
+  "id": "news_1606b374c30f00bed5bd",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T18:52+08:00",
+  "fetched_at": "2026-09-23T21:27+08:00",
+  "title": "棕榈油期价连续四日回落库存高企与需求疲软双重压制_外汇动态报道",
+  "summary": "",
+  "source": "汇通网 Fx678",
+  "type": "供需动态",
+  "url": "https://www.fx678.com/202609231852392286.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_8d841441a3dfe986805d",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T17:11+08:00",
+  "fetched_at": "2026-09-23T21:27+08:00",
+  "title": "豆菜粕:中美会谈向好、成本与供需博弈",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-22/detail-inissyqz8839747.d.html",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜粕"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d53c7ef227047631e6cd",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T16:37+08:00",
+  "fetched_at": "2026-09-23T21:27+08:00",
+  "title": "9月第3周生猪定点屠宰企业生猪收购和白条肉出厂价格情况",
+  "summary": "据农业农村部监测,2026年9月14—20日,生猪定点屠宰企业生猪平均收购价格为12.08元/公斤,环比下降0.5%,同比下降16.0%。白条肉平均出厂价格为15.84元/公斤,环比下降0.3%,同比下降15.0%。",
+  "source": "农业农村部",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609233882467049.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_6d0c07030d70868a1150",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T16:14+08:00",
+  "fetched_at": "2026-09-23T21:27+08:00",
+  "title": "跌了,猪价下跌“势不可挡”!附:9月24日猪价",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1079968826_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b5bd7f3eaf93f583cc4f",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T15:41+08:00",
+  "fetched_at": "2026-09-23T21:27+08:00",
+  "title": "生猪主力合约收跌0.92%",
+  "summary": "南财智讯9月23日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.92%,收盘报10820.0元/吨,日内资金流出8156.65万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609233882449543.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_4016e28e5599ee0fb345",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T15:41+08:00",
+  "fetched_at": "2026-09-23T21:27+08:00",
+  "title": "玉米主力合约收涨0.41%",
+  "summary": "南财智讯9月23日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.41%,收盘报2184.0元/吨,日内资金流入211.75万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609233882451524.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_97f8bb77b2d9adbd437f",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T15:23+08:00",
+  "fetched_at": "2026-09-23T21:27+08:00",
+  "title": "乙二醇需求不足承压回落 PTA成本溢价或将消退",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-23/doc-inisvcpz8482332.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_119b6ed6a0223fc2bab1",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T15:16+08:00",
+  "fetched_at": "2026-09-23T21:27+08:00",
+  "title": "豆粕价格短期区间震荡 菜籽粕到港增多步入旺季",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-23/doc-inisvcpz8482265.shtml",
+  "company": "",
+  "material_ids": [
+   "M",
+   "RM"
+  ],
+  "matched_keywords": [
+   "豆粕",
+   "菜籽粕"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_6180dddc53be700c983b",
   "date": "2026-09-23",
   "published_at": "2026-09-23T11:43+08:00",
@@ -91,25 +245,6 @@
   ],
   "matched_keywords": [
    "原奶"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6bddef3d337d5c4ea43b",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T07:27+08:00",
-  "fetched_at": "2026-09-23T07:10+08:00",
-  "title": "9月23日猪价:下跌!猪价大降4.96%,南北又是“绿油油”,二师兄中秋前“不涨反降”原因,找到了!",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1079612924_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  },
