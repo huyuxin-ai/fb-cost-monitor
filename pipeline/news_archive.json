@@ -1,5 +1,81 @@
 [
  {
+  "id": "news_7225bf4e24746dce70fc",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T07:06+08:00",
+  "fetched_at": "2026-09-24T07:53+08:00",
+  "title": "9月24日猪价:大降5.5%,猪价跌回“原价”!中秋猪价上涨“落空”,国庆还能涨吗?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1080103820_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d628b59ca3680756dd58",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T06:13+08:00",
+  "fetched_at": "2026-09-24T07:53+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌1.49%",
+  "summary": "当地时间9月23日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.60%报1317.50美分/蒲式耳,玉米期货跌1.49%报528.75美分/蒲式耳,小麦期货跌1.39%报707.25美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609243882856741.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_9a8f2a8ac1d61f4a4d85",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T06:10+08:00",
+  "fetched_at": "2026-09-24T07:53+08:00",
+  "title": "爆单!全球三分之一夏威夷果,产自中国这个小城!",
+  "summary": "夏威夷果的采收窗口期短,摘早了没熟,晚摘几天又会落果,不论早摘还是晚摘,最终都会影响价格。为了精准把控成熟度,合作社的年轻骨干们,提前检测不同地块夏威夷果样品,精准锁定坚果的采摘时间。",
+  "source": "央视财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609243882857224.html",
+  "company": "",
+  "material_ids": [
+   "MACADAMIA"
+  ],
+  "matched_keywords": [
+   "夏威夷果"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_32193ab2962707175260",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T00:39+08:00",
+  "fetched_at": "2026-09-24T07:53+08:00",
+  "title": "供应端增量超过需求增量 猪价节前承压下行",
+  "summary": "",
+  "source": "东方财富",
+  "type": "价格行情",
+  "url": "https://wap.eastmoney.com/a/202609233881668928.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_6eb70002b564bee7f288",
   "date": "2026-09-24",
   "published_at": "2026-09-24T00:35+08:00",
@@ -37,6 +113,25 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_267ea944b86bd7797a97",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T22:55+08:00",
+  "fetched_at": "2026-09-24T07:53+08:00",
+  "title": "棕榈油期价连续四日回落库存高企与需求疲软双重压制_汇市观察",
+  "summary": "",
+  "source": "中金在线外汇",
+  "type": "供需动态",
+  "url": "http://forex.cnfol.com/jingjiyaowen/20260923/32379574.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
   ],
   "relevance_score": 8
  },
