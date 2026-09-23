@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T21:27+08:00",
+ "updated_at": "2026-09-24T01:56+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -52,7 +52,7 @@
   "手机网易网": 1,
   "搜狐网": 4,
   "新华财经": 3,
-  "新浪财经": 44,
+  "新浪财经": 43,
   "新浪财经_金融信息服务商": 4,
   "期货日报": 6,
   "期货日报网": 1,
@@ -68,10 +68,51 @@
   "腾讯新闻": 1,
   "观点网": 2,
   "证券时报": 1,
-  "财联社": 8,
+  "财联社": 9,
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_6eb70002b564bee7f288",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T00:35+08:00",
+   "fetched_at": "2026-09-24T01:56+08:00",
+   "title": "印度政府下令将粗棕榈油和原油大豆油的进口关税从10%下调至5%",
+   "summary": "印度政府下令将粗棕榈油和原油大豆油的进口关税从10%下调至5%,将精炼棕榈油和精炼大豆油的进口关税下调至27.5%,将粗向日葵油的基本进口关税从10%下调至0%。",
+   "source": "财联社",
+   "type": "政策与供应",
+   "url": "https://finance.eastmoney.com/a/202609243882824497.html",
+   "company": "",
+   "material_ids": [
+    "P",
+    "Y"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "豆油",
+    "大豆油"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_5795a8d46291d9075d63",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T00:16+08:00",
+   "fetched_at": "2026-09-24T01:56+08:00",
+   "title": "光大期货0923热点追踪:生猪节前旺季不旺,节后能修复吗?",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-23/detail-inisvcqf1232115.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_1606b374c30f00bed5bd",
    "date": "2026-09-23",
@@ -3877,45 +3918,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_5af11e28d2557f99d79e",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T09:35+08:00",
-   "fetched_at": "2026-09-14T21:12+08:00",
-   "title": "养殖持续亏损去化提速 生猪价格震荡偏弱为主",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-14/detail-iniruark4822245.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8550efd07b14d7727952",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T09:08+08:00",
-   "fetched_at": "2026-09-14T14:03+08:00",
-   "title": "生意社2026年9月14日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-14/doc-iniruarh4043969.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
   }
  ]
 }
