@@ -1,14 +1,15 @@
 {
- "updated_at": "2026-09-24T11:49+08:00",
+ "updated_at": "2026-09-24T17:06+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
+  "21世纪经济报道": 1,
   "3g.china.com": 1,
   "Dairy News Today": 2,
   "IDNFinancials": 1,
   "IndexBox": 4,
   "Moomoo": 1,
-  "Sohu": 9,
+  "Sohu": 7,
   "VanPeople": 1,
   "Vietnam.vn": 1,
   "Vinetur": 1,
@@ -51,27 +52,125 @@
   "手机新浪网": 1,
   "手机网易网": 1,
   "搜狐网": 5,
+  "新京报": 2,
   "新华财经": 3,
   "新浪财经": 43,
-  "新浪财经_金融信息服务商": 4,
+  "新浪财经_金融信息服务商": 5,
   "期货日报": 7,
   "期货日报网": 1,
   "正信期货": 3,
   "每日经济新闻": 7,
-  "汇通网 Fx678": 3,
-  "深圳商报·读创": 2,
+  "汇通网 Fx678": 2,
+  "深圳商报·读创": 1,
   "温哥华港湾": 1,
   "澎湃新闻": 2,
   "瑞达期货": 1,
   "生物谷": 1,
   "界面新闻": 1,
   "腾讯新闻": 1,
-  "观点网": 2,
+  "虎嗅网": 1,
+  "观点网": 1,
   "证券时报": 1,
   "财联社": 7,
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_581bdc8775f91856139c",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T15:42+08:00",
+   "fetched_at": "2026-09-24T17:06+08:00",
+   "title": "乙二醇需求不足承压回落 PTA成本溢价或将消退",
+   "summary": "",
+   "source": "新浪财经_金融信息服务商",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-23/detail-inisvcpz8482332.d.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e6978585ee735773acb4",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T15:16+08:00",
+   "fetched_at": "2026-09-24T17:06+08:00",
+   "title": "一片绿,猪价下跌“拦不住”!附:9月25日猪价",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1080377186_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d3b5ab161c10f1d8a45e",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T15:12+08:00",
+   "fetched_at": "2026-09-24T17:06+08:00",
+   "title": "白砂糖被果葡糖浆替代?网友吵起来,我们翻了15款饮料的配料表",
+   "summary": "林先平介绍,白砂糖受农产品收成、进口配额影响,价格波动大,果葡糖浆以玉米淀粉为原料供给相对平稳,二者搭配可对冲原料涨价风险,稳定物料成本。风味上,果葡糖浆果糖甜味来得快、清凉感强;白砂糖甜味醇厚回甘足。复配可以形成更均衡的甜味曲线,改善单用某一种糖带来的甜腻或后味单薄问题。",
+   "source": "新京报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609243883667265.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "白砂糖"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_b13a71d4f29a74ffd284",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T12:03+08:00",
+   "fetched_at": "2026-09-24T17:06+08:00",
+   "title": "货架经济学丨果葡糖浆替代白砂糖成本减一半,也得消费者买账",
+   "summary": "上述饮料企业表示,果葡糖浆以玉米等淀粉原料酶法转化,工业化程度高、单价低于蔗糖;从工艺看,它是液态糖浆、溶解好、甜度易调配,适合大规模生产。果葡糖浆在国标中属于淀粉糖,和白砂糖一样仍是含热量的添加糖。",
+   "source": "新京报",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202609243883538662.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "白砂糖"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_9b33de7bb14b4f3bf5bf",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T11:54+08:00",
+   "fetched_at": "2026-09-24T17:06+08:00",
+   "title": "高管出走,实控人陷离婚诉讼!西南生猪龙头盘中闪崩,公司回应",
+   "summary": "公司后续经营主线仍将聚焦高质量发展与降本增效,落实现有产能调控相关安排,8月份公司生猪养殖平均成本为11.8元/公斤。 业绩层面,生猪价格下行压力已经体现在神农集团财报之中。",
+   "source": "21世纪经济报道",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609243883536066.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_a26f55920bf2a38220da",
    "date": "2026-09-24",
@@ -167,25 +266,6 @@
     "玉米"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_7225bf4e24746dce70fc",
-   "date": "2026-09-24",
-   "published_at": "2026-09-24T07:06+08:00",
-   "fetched_at": "2026-09-24T07:53+08:00",
-   "title": "9月24日猪价:大降5.5%,猪价跌回“原价”!中秋猪价上涨“落空”,国庆还能涨吗?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1080103820_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_d628b59ca3680756dd58",
@@ -1492,6 +1572,27 @@
     "猪价"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_9b33e72cffaeaae6f2c5",
+   "date": "2026-09-21",
+   "published_at": "2026-09-21T11:08+08:00",
+   "fetched_at": "2026-09-24T17:06+08:00",
+   "title": "厄尔尼诺持续增强,农产品减产定价分化:棕榈油预期差最大,大豆最小",
+   "summary": "",
+   "source": "虎嗅网",
+   "type": "供需动态",
+   "url": "https://m.huxiu.com/article/4892652.html?type=text",
+   "company": "",
+   "material_ids": [
+    "P",
+    "A"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "大豆"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_e894dff5a8bff71cb6f1",
@@ -3813,102 +3914,6 @@
    "source": "IndexBox",
    "type": "价格行情",
    "url": "https://www.indexbox.io/zh-hans/blog/usda-national-daily-direct-hog-prior-day-report-september-11-12-2026/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_107aaecd869fde723586",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T21:38+08:00",
-   "fetched_at": "2026-09-15T05:08+08:00",
-   "title": "猪价回暖,猪企离扭亏还有多远",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1076003543_481016",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2c6b1dfcd2b3d3735e95",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T19:54+08:00",
-   "fetched_at": "2026-09-14T21:12+08:00",
-   "title": "原油飙升带动棕榈油收涨,出口疲软压制反弹空间",
-   "summary": "",
-   "source": "汇通网 Fx678",
-   "type": "价格行情",
-   "url": "https://news.fx678.com/202609141954132288.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e8a1e6131b22989ce730",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T18:35+08:00",
-   "fetched_at": "2026-09-14T21:12+08:00",
-   "title": "天灾预警!超强厄尔尼诺来袭,白糖也要涨价了?干旱暴雨双重暴击",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1075960561_122219919",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白糖"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5bdd1263f1775cb3c5e5",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T18:07+08:00",
-   "fetched_at": "2026-09-14T21:12+08:00",
-   "title": "新五丰拟5374.30万元收购广联公司18.88%股权,公司上半年大亏超7亿元,生猪销价持续低迷",
-   "summary": "资料显示,湖南新五丰股份有限公司2004年上市,主营业务是生猪养殖、肉品销售、饲料加工。公司的主要产品是生猪出口、生猪内销、饲料销售、贸易、鲜肉、冻肉、屠宰冷藏业务。 2020年,公司业绩触及历史高点,恰逢上一轮猪价峰值;此后猪周期进入下行通道,公司经营急转直下。",
-   "source": "深圳商报·读创",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609143873534537.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_917e640676ae248524ef",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T18:07+08:00",
-   "fetched_at": "2026-09-14T21:12+08:00",
-   "title": "牧原股份:8月生猪养殖完全成本11.5元/kg左右",
-   "summary": "",
-   "source": "观点网",
-   "type": "供需动态",
-   "url": "https://www.guandian.cn/article/20260914/601320.html",
    "company": "",
    "material_ids": [
     "LH"
