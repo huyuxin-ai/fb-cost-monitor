@@ -1,5 +1,26 @@
 [
  {
+  "id": "news_23f4c4255f45ca86682a",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T03:23+08:00",
+  "fetched_at": "2026-09-25T06:06+08:00",
+  "title": "豆粕价格短期上行承压 棕榈油价格短期承压回调",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-24/detail-inisxaff5028416.d.html",
+  "company": "",
+  "material_ids": [
+   "P",
+   "M"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "豆粕"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_444d921a2c18c0495bfa",
   "date": "2026-09-24",
   "published_at": "2026-09-24T21:29+08:00",
