@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_444d921a2c18c0495bfa",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T21:29+08:00",
+  "fetched_at": "2026-09-25T02:35+08:00",
+  "title": "生意社:跟随成本波动 9月PTA价格先扬后抑",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-24/doc-inisxxkv4913827.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_9916e1819d24075e4025",
   "date": "2026-09-24",
   "published_at": "2026-09-24T20:20+08:00",
@@ -39,6 +58,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_23342ae5fe0bcb3268ee",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T15:42+08:00",
+  "fetched_at": "2026-09-25T02:35+08:00",
+  "title": "生猪主力合约收跌2.11%",
+  "summary": "南财智讯9月24日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌2.11%,收盘报10655.0元/吨,日内资金流出5.33亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609243884005427.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_581bdc8775f91856139c",
   "date": "2026-09-24",
   "published_at": "2026-09-24T15:42+08:00",
@@ -56,6 +94,25 @@
    "pta"
   ],
   "relevance_score": 8
+ },
+ {
+  "id": "news_ab89b33a07b453f0396c",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T15:40+08:00",
+  "fetched_at": "2026-09-25T02:35+08:00",
+  "title": "玉米主力合约收跌0.14%",
+  "summary": "南财智讯9月24日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.14%,收盘报2181.0元/吨,日内资金流出1.01亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609243884006428.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
  },
  {
   "id": "news_e6978585ee735773acb4",
