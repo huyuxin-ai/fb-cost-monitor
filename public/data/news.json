@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T17:06+08:00",
+ "updated_at": "2026-09-24T21:40+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,9 +7,9 @@
   "3g.china.com": 1,
   "Dairy News Today": 2,
   "IDNFinancials": 1,
-  "IndexBox": 4,
+  "IndexBox": 3,
   "Moomoo": 1,
-  "Sohu": 7,
+  "Sohu": 6,
   "VanPeople": 1,
   "Vietnam.vn": 1,
   "Vinetur": 1,
@@ -51,15 +51,15 @@
   "微博": 1,
   "手机新浪网": 1,
   "手机网易网": 1,
-  "搜狐网": 5,
+  "搜狐网": 6,
   "新京报": 2,
   "新华财经": 3,
-  "新浪财经": 43,
+  "新浪财经": 45,
   "新浪财经_金融信息服务商": 5,
   "期货日报": 7,
   "期货日报网": 1,
   "正信期货": 3,
-  "每日经济新闻": 7,
+  "每日经济新闻": 6,
   "汇通网 Fx678": 2,
   "深圳商报·读创": 1,
   "温哥华港湾": 1,
@@ -75,6 +75,45 @@
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_9916e1819d24075e4025",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T20:20+08:00",
+   "fetched_at": "2026-09-24T21:40+08:00",
+   "title": "2026年第38周欧盟猪价下跌:胴体与仔猪价格走低 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/eu-pig-carcass-and-piglet-prices-decline-in-week-38-of-2026/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "仔猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_ff23fdccfc9f72e20bce",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T17:38+08:00",
+   "fetched_at": "2026-09-24T21:40+08:00",
+   "title": "跌跌不休!局部反弹难改颓势,猪价节前继续承压!",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101unqo",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_581bdc8775f91856139c",
    "date": "2026-09-24",
@@ -187,6 +226,29 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_4e4813753e6f674416bc",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T11:39+08:00",
+   "fetched_at": "2026-09-24T21:40+08:00",
+   "title": "食用油行情 | 菜油领涨豆油稳 棕榈油走弱",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1080327542_121118712",
+   "company": "",
+   "material_ids": [
+    "P",
+    "Y",
+    "OI"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "豆油",
+    "菜油"
    ],
    "relevance_score": 8
   },
@@ -304,6 +366,27 @@
     "夏威夷果"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_232abf2b7536977546d4",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T01:52+08:00",
+   "fetched_at": "2026-09-24T21:40+08:00",
+   "title": "豆粕价格短期区间震荡 菜籽粕到港增多步入旺季",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-23/detail-inisvcpz8482265.d.html",
+   "company": "",
+   "material_ids": [
+    "M",
+    "RM"
+   ],
+   "matched_keywords": [
+    "豆粕",
+    "菜籽粕"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_32193ab2962707175260",
@@ -3844,82 +3927,6 @@
    ],
    "matched_keywords": [
     "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_74bcdac6d9c3c977e95f",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T07:00+08:00",
-   "fetched_at": "2026-09-15T06:20+08:00",
-   "title": "猪价大降3.25%,二师兄“旺季不旺”!中秋将至,季节性“爆发”上涨来了?附:9月15日猪价",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1075979423_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c3a88cace7b9a31762d0",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T06:16+08:00",
-   "fetched_at": "2026-09-15T08:49+08:00",
-   "title": "纸浆筛选助剂市场2035年预测:电子级纸浆需求驱动增长 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "供需动态",
-   "url": "https://www.indexbox.io/zh-hans/blog/pulp-screening-aids-market-to-accelerate-on-electronics-grade-pulp-demand-forecast-points-higher-toward-2035/",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_86c8a611b46944e73d43",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T05:49+08:00",
-   "fetched_at": "2026-09-15T06:20+08:00",
-   "title": "CBOT农产品期货主力合约收盘多数上涨,玉米期货涨0.71%",
-   "summary": "当地时间9月14日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数上涨,大豆期货涨0.66%报1305.00美分/蒲式耳,玉米期货涨0.71%报534.00美分/蒲式耳,小麦期货跌0.45%报722.00美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609153873823328.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_98bbef79f46e79d8e233",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T23:32+08:00",
-   "fetched_at": "2026-09-15T05:08+08:00",
-   "title": "美国农业部生猪市场报告:2026年9月11日至12日价格与屠宰量 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-national-daily-direct-hog-prior-day-report-september-11-12-2026/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 8
   }
