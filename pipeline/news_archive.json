@@ -1,5 +1,101 @@
 [
  {
+  "id": "news_a26f55920bf2a38220da",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T11:41+08:00",
+  "fetched_at": "2026-09-24T11:49+08:00",
+  "title": "【现货】9月24日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "news.10jqka.com.cn",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260924/c680248727.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7990780eada6929bb30e",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T09:59+08:00",
+  "fetched_at": "2026-09-24T11:49+08:00",
+  "title": "华泰期货:豆一多空拉锯,花生交投平淡",
+  "summary": "来源:华泰期货 作者: 白旭宇 大豆观点 市场分析 期货方面,昨日收盘豆一2611合约5007.00元/吨,较前日变化+21.00元/吨,幅度+0.42%。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-24/doc-iniswvxm0548408.shtml",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "豆一",
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_dd637b22926016525d83",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T09:37+08:00",
+  "fetched_at": "2026-09-24T11:49+08:00",
+  "title": "【深度报告】白糖研究框架更新与展望",
+  "summary": "作者 | 中信建投期货研究发展部 研究员:田亚雄 期货交易咨询业务资格:证监许可〔2011〕1461号 本报告完成时间 | 2026年9月22日 近十几年做白糖研究...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/2026-09-24/doc-iniswvxc5380442.shtml",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_442238ad0baefe0d4a45",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T09:33+08:00",
+  "fetched_at": "2026-09-24T11:49+08:00",
+  "title": "国家统计局:9月中旬生猪(外三元)价格环比下降2.7%",
+  "summary": "其中生猪(外三元)价格为10.7元/千克,环比下降2.7%。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609243883342092.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_eae39391675255609139",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T08:34+08:00",
+  "fetched_at": "2026-09-24T11:49+08:00",
+  "title": "供应压力凸显 玉米继续承压运行",
+  "summary": "生猪养殖企业持续亏损,饲料需求疲软。饲料工业协会数据显示,8月全国饲料产量继续增长,但饲料配方中的玉米用量占比为28.8%,已连续6个月回落。由此来看,现阶段市场供应相对宽松,企业不急于大量建库,普遍压价采购,需求端难以提振玉米价格。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609243883094759.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_7225bf4e24746dce70fc",
   "date": "2026-09-24",
   "published_at": "2026-09-24T07:06+08:00",

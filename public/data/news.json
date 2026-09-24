@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T07:53+08:00",
+ "updated_at": "2026-09-24T11:49+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,8 +7,8 @@
   "Dairy News Today": 2,
   "IDNFinancials": 1,
   "IndexBox": 4,
-  "Moomoo": 2,
-  "Sohu": 10,
+  "Moomoo": 1,
+  "Sohu": 9,
   "VanPeople": 1,
   "Vietnam.vn": 1,
   "Vinetur": 1,
@@ -16,6 +16,7 @@
   "cj.sina.cn": 2,
   "finance.sina.cn": 1,
   "finance.sina.com.cn": 2,
+  "news.10jqka.com.cn": 1,
   "video.sina.com.cn": 5,
   "vietnam.vn": 1,
   "vinetur.com": 1,
@@ -36,7 +37,7 @@
   "南方财经网": 16,
   "南方都市报": 1,
   "发现报告": 2,
-  "同花顺": 6,
+  "同花顺": 5,
   "同花顺财经": 12,
   "国信期货": 1,
   "国家粮食和物资储备局": 3,
@@ -51,9 +52,9 @@
   "手机网易网": 1,
   "搜狐网": 5,
   "新华财经": 3,
-  "新浪财经": 42,
+  "新浪财经": 43,
   "新浪财经_金融信息服务商": 4,
-  "期货日报": 6,
+  "期货日报": 7,
   "期货日报网": 1,
   "正信期货": 3,
   "每日经济新闻": 7,
@@ -71,6 +72,102 @@
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_a26f55920bf2a38220da",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T11:41+08:00",
+   "fetched_at": "2026-09-24T11:49+08:00",
+   "title": "【现货】9月24日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "news.10jqka.com.cn",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260924/c680248727.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7990780eada6929bb30e",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T09:59+08:00",
+   "fetched_at": "2026-09-24T11:49+08:00",
+   "title": "华泰期货:豆一多空拉锯,花生交投平淡",
+   "summary": "来源:华泰期货 作者: 白旭宇 大豆观点 市场分析 期货方面,昨日收盘豆一2611合约5007.00元/吨,较前日变化+21.00元/吨,幅度+0.42%。",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-24/doc-iniswvxm0548408.shtml",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "豆一",
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_dd637b22926016525d83",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T09:37+08:00",
+   "fetched_at": "2026-09-24T11:49+08:00",
+   "title": "【深度报告】白糖研究框架更新与展望",
+   "summary": "作者 | 中信建投期货研究发展部 研究员:田亚雄 期货交易咨询业务资格:证监许可〔2011〕1461号 本报告完成时间 | 2026年9月22日 近十几年做白糖研究...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/2026-09-24/doc-iniswvxc5380442.shtml",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "白糖"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_442238ad0baefe0d4a45",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T09:33+08:00",
+   "fetched_at": "2026-09-24T11:49+08:00",
+   "title": "国家统计局:9月中旬生猪(外三元)价格环比下降2.7%",
+   "summary": "其中生猪(外三元)价格为10.7元/千克,环比下降2.7%。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609243883342092.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_eae39391675255609139",
+   "date": "2026-09-24",
+   "published_at": "2026-09-24T08:34+08:00",
+   "fetched_at": "2026-09-24T11:49+08:00",
+   "title": "供应压力凸显 玉米继续承压运行",
+   "summary": "生猪养殖企业持续亏损,饲料需求疲软。饲料工业协会数据显示,8月全国饲料产量继续增长,但饲料配方中的玉米用量占比为28.8%,已连续6个月回落。由此来看,现阶段市场供应相对宽松,企业不急于大量建库,普遍压价采购,需求端难以提振玉米价格。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609243883094759.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_7225bf4e24746dce70fc",
    "date": "2026-09-24",
@@ -3818,103 +3915,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_481f73abf82099bc8b33",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T17:56+08:00",
-   "fetched_at": "2026-09-14T21:12+08:00",
-   "title": "猪价震荡调整,机构称年内猪价低点基本已明确",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/5426766895/14375e42f00102y70c",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1f30614f85c60b961bc0",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T16:06+08:00",
-   "fetched_at": "2026-09-15T06:20+08:00",
-   "title": "豆油跨期2807/2912 (ZL2807-ZL2912) 期货",
-   "summary": "",
-   "source": "Moomoo",
-   "type": "价格行情",
-   "url": "https://www.moomoo.com/hans/futures/ZL2807-ZL2912-US",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f8afea76f8f55edf2abe",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T16:00+08:00",
-   "fetched_at": "2026-09-14T21:12+08:00",
-   "title": "9月第2周生猪和猪肉价格总体稳定",
-   "summary": "据农业农村部对500个县集贸市场和采集点监测,上周(9月第2周,9月7—13日,下同),全国活猪价格为11.54元/公斤,环比略跌0.4%;猪肉集贸市场价格为21.22元/公斤,环比持平。",
-   "source": "财联社",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609143873408568.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪肉价格",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_0aec8e1b36c14352dbd4",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T14:00+08:00",
-   "fetched_at": "2026-09-14T21:12+08:00",
-   "title": "原油上涨提振生物燃料吸引力,棕榈油价格走高",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1075828581_121157270",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_d25900af96e7ab35e341",
-   "date": "2026-09-14",
-   "published_at": "2026-09-14T11:46+08:00",
-   "fetched_at": "2026-09-14T14:03+08:00",
-   "title": "【现货】9月14日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260914/c679871326.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   }
