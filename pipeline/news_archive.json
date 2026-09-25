@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_d49d8deca6e1f40463e2",
+  "date": "2026-09-26",
+  "published_at": "2026-09-26T06:21+08:00",
+  "fetched_at": "2026-09-26T07:26+08:00",
+  "title": "I型模制玻璃瓶市场展望至2035年:生物制剂需求驱动增长 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "供需动态",
+  "url": "https://www.indexbox.io/zh-hans/blog/type-i-molded-glass-vials-market-forecast-to-2035-injectable-biologics-demand-drives-expansion/",
+  "company": "",
+  "material_ids": [
+   "FG"
+  ],
+  "matched_keywords": [
+   "玻璃瓶"
+  ],
+  "relevance_score": 9
+ },
+ {
+  "id": "news_e8b3ef79611d8fc745b2",
+  "date": "2026-09-26",
+  "published_at": "2026-09-26T05:09+08:00",
+  "fetched_at": "2026-09-26T07:26+08:00",
+  "title": "猪价大降超18%,9月下跌“无休止”,中秋落幕国庆将至,猪价“枯木逢春”?附:9月26日猪价",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1080894158_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_7a00e421567638765d85",
   "date": "2026-09-26",
   "published_at": "2026-09-26T00:00+08:00",

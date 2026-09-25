@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T00:50+08:00",
+ "updated_at": "2026-09-26T07:26+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,7 +7,7 @@
   "3g.china.com": 1,
   "Dairy News Today": 3,
   "IDNFinancials": 1,
-  "IndexBox": 3,
+  "IndexBox": 4,
   "KLSE Screener": 1,
   "Moomoo": 1,
   "Sohu": 6,
@@ -41,16 +41,15 @@
   "国家粮食和物资储备局": 3,
   "国投期货": 1,
   "国泰君安期货": 2,
-  "壹览商业": 1,
   "大河财立方": 1,
   "央广财经": 1,
   "央视财经": 2,
   "微博": 1,
   "手机新浪网": 1,
-  "搜狐网": 6,
+  "搜狐网": 7,
   "新京报": 2,
   "新华财经": 3,
-  "新浪财经": 50,
+  "新浪财经": 49,
   "新浪财经_金融信息服务商": 5,
   "期货日报": 6,
   "期货日报网": 1,
@@ -71,6 +70,44 @@
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_d49d8deca6e1f40463e2",
+   "date": "2026-09-26",
+   "published_at": "2026-09-26T06:21+08:00",
+   "fetched_at": "2026-09-26T07:26+08:00",
+   "title": "I型模制玻璃瓶市场展望至2035年:生物制剂需求驱动增长 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "供需动态",
+   "url": "https://www.indexbox.io/zh-hans/blog/type-i-molded-glass-vials-market-forecast-to-2035-injectable-biologics-demand-drives-expansion/",
+   "company": "",
+   "material_ids": [
+    "FG"
+   ],
+   "matched_keywords": [
+    "玻璃瓶"
+   ],
+   "relevance_score": 9
+  },
+  {
+   "id": "news_e8b3ef79611d8fc745b2",
+   "date": "2026-09-26",
+   "published_at": "2026-09-26T05:09+08:00",
+   "fetched_at": "2026-09-26T07:26+08:00",
+   "title": "猪价大降超18%,9月下跌“无休止”,中秋落幕国庆将至,猪价“枯木逢春”?附:9月26日猪价",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1080894158_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_7a00e421567638765d85",
    "date": "2026-09-26",
@@ -3888,45 +3925,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_f9a950bc3706c14af569",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T17:13+08:00",
-   "fetched_at": "2026-09-15T19:34+08:00",
-   "title": "江西疫病产能深度去化 猪价震荡后上行趋势明确",
-   "summary": "Mysteel农产品网 今年7月中下旬,江西周边区域非瘟疫情率先爆发且程度较重。整个8月,赣北疫情始终没有出现好转,区域生猪出栏调运压力居高不下,物流数据显示...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/2026-09-15/doc-inirxatw3710870.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_cd3d715b66eca1acdf06",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T17:01+08:00",
-   "fetched_at": "2026-09-15T19:34+08:00",
-   "title": "马来西亚10月毛棕榈油参考价定为4452.66林吉特,出口税率10%",
-   "summary": "",
-   "source": "壹览商业",
-   "type": "供需动态",
-   "url": "https://www.yilantop.com/news/106202",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
   }
  ]
 }
