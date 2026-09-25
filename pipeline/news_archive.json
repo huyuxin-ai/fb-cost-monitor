@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_f745231e1663736dbb66",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T07:38+08:00",
+  "fetched_at": "2026-09-25T08:42+08:00",
+  "title": "大降6.8%!猪价下跌“如火如荼”,节前备货“带不动”,猪价下跌逻辑找到!附:9月25日猪价",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1080566295_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_bab7432dc2cbe51c4ddb",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T06:54+08:00",
+  "fetched_at": "2026-09-25T08:42+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌0.47%",
+  "summary": "当地时间9月24日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.11%报1316.50美分/蒲式耳,玉米期货跌0.47%报526.50美分/蒲式耳,小麦期货跌0.39%报705.75美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609253884043666.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_23f4c4255f45ca86682a",
   "date": "2026-09-25",
   "published_at": "2026-09-25T03:23+08:00",
