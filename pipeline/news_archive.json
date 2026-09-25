@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_4f8a6bc2eff5c51fcbc6",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T11:42+08:00",
+  "fetched_at": "2026-09-25T13:57+08:00",
+  "title": "棕油期货早盘跌2% 本周料转跌",
+  "summary": "",
+  "source": "KLSE Screener",
+  "type": "价格行情",
+  "url": "https://www.klsescreener.com/v2/news/view/1797737/%E6%A3%95%E6%B2%B9%E6%9C%9F%E8%B4%A7%E6%97%A9%E7%9B%98%E8%B7%8C2-%E6%9C%AC%E5%91%A8%E6%96%99%E8%BD%AC%E8%B7%8C",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_69bc267c746c9fa3609b",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T08:03+08:00",
+  "fetched_at": "2026-09-25T13:57+08:00",
+  "title": "卡纳塔克邦立法者推动提高原奶价格",
+  "summary": "",
+  "source": "Dairy News Today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/__5447061.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶",
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_f745231e1663736dbb66",
   "date": "2026-09-25",
   "published_at": "2026-09-25T07:38+08:00",
@@ -36,6 +75,25 @@
    "玉米"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_d546fb43da719b72e41a",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T06:31+08:00",
+  "fetched_at": "2026-09-25T13:57+08:00",
+  "title": "国家统计局:9月中旬生猪(外三元)价格环比下降2.7%",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-09-24/detail-iniswrrm5057962.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_23f4c4255f45ca86682a",

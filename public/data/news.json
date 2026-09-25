@@ -1,13 +1,14 @@
 {
- "updated_at": "2026-09-25T08:42+08:00",
+ "updated_at": "2026-09-25T13:57+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "3g.china.com": 1,
-  "Dairy News Today": 2,
+  "Dairy News Today": 3,
   "IDNFinancials": 1,
   "IndexBox": 3,
+  "KLSE Screener": 1,
   "Moomoo": 1,
   "Sohu": 6,
   "VanPeople": 1,
@@ -23,7 +24,7 @@
   "Межа. Новини України.": 1,
   "上海证券报·中国证券网": 2,
   "东吴期货": 1,
-  "东方财富": 2,
+  "东方财富": 1,
   "东方财富Choice数据": 1,
   "东方财富研究中心": 1,
   "中华网": 2,
@@ -37,7 +38,7 @@
   "南方都市报": 1,
   "发现报告": 2,
   "同花顺": 4,
-  "同花顺财经": 12,
+  "同花顺财经": 11,
   "国信期货": 1,
   "国家粮食和物资储备局": 3,
   "国投期货": 1,
@@ -48,11 +49,10 @@
   "央视财经": 2,
   "微博": 1,
   "手机新浪网": 1,
-  "手机网易网": 1,
   "搜狐网": 7,
   "新京报": 2,
   "新华财经": 3,
-  "新浪财经": 46,
+  "新浪财经": 47,
   "新浪财经_金融信息服务商": 5,
   "期货日报": 6,
   "期货日报网": 1,
@@ -73,6 +73,45 @@
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_4f8a6bc2eff5c51fcbc6",
+   "date": "2026-09-25",
+   "published_at": "2026-09-25T11:42+08:00",
+   "fetched_at": "2026-09-25T13:57+08:00",
+   "title": "棕油期货早盘跌2% 本周料转跌",
+   "summary": "",
+   "source": "KLSE Screener",
+   "type": "价格行情",
+   "url": "https://www.klsescreener.com/v2/news/view/1797737/%E6%A3%95%E6%B2%B9%E6%9C%9F%E8%B4%A7%E6%97%A9%E7%9B%98%E8%B7%8C2-%E6%9C%AC%E5%91%A8%E6%96%99%E8%BD%AC%E8%B7%8C",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_69bc267c746c9fa3609b",
+   "date": "2026-09-25",
+   "published_at": "2026-09-25T08:03+08:00",
+   "fetched_at": "2026-09-25T13:57+08:00",
+   "title": "卡纳塔克邦立法者推动提高原奶价格",
+   "summary": "",
+   "source": "Dairy News Today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/__5447061.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_f745231e1663736dbb66",
    "date": "2026-09-25",
@@ -110,6 +149,25 @@
     "玉米"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_d546fb43da719b72e41a",
+   "date": "2026-09-25",
+   "published_at": "2026-09-25T06:31+08:00",
+   "fetched_at": "2026-09-25T13:57+08:00",
+   "title": "国家统计局:9月中旬生猪(外三元)价格环比下降2.7%",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-09-24/detail-iniswrrm5057962.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_23f4c4255f45ca86682a",
@@ -3871,63 +3929,6 @@
     "辅酶q10"
    ],
    "relevance_score": 11
-  },
-  {
-   "id": "news_af9ff8e12107cb33f6b6",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T15:00+08:00",
-   "fetched_at": "2026-09-17T17:35+08:00",
-   "title": "【仓单】9月15日大商所生猪期货仓单较上一日下降10手",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260915/c679921995.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9b02fffeb022af68b1d3",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T14:12+08:00",
-   "fetched_at": "2026-09-16T21:38+08:00",
-   "title": "一夜升温,猪价上涨“如火如荼”!附:9月16日猪价",
-   "summary": "",
-   "source": "手机网易网",
-   "type": "价格行情",
-   "url": "https://www.163.com/dy/article/L6SFEH7S0512JUR9.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_85958d99f6c8a9121fb1",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T14:01+08:00",
-   "fetched_at": "2026-09-16T21:38+08:00",
-   "title": "供需格局分化推升豆、菜粕价差",
-   "summary": "",
-   "source": "东方财富",
-   "type": "供需动态",
-   "url": "https://wap.eastmoney.com/a/202609163875455475.html",
-   "company": "",
-   "material_ids": [
-    "RM"
-   ],
-   "matched_keywords": [
-    "菜粕"
-   ],
-   "relevance_score": 8
   }
  ]
 }
