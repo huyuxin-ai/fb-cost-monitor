@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_fbac17892c85ec3a0509",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T14:35+08:00",
+  "fetched_at": "2026-09-25T19:41+08:00",
+  "title": "下跌“势如破竹”!附:9月26日猪价",
+  "summary": "",
+  "source": "sohu.com",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1080817514_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_4f8a6bc2eff5c51fcbc6",
   "date": "2026-09-25",
   "published_at": "2026-09-25T11:42+08:00",
@@ -35,25 +54,6 @@
   "matched_keywords": [
    "原奶",
    "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f745231e1663736dbb66",
-  "date": "2026-09-25",
-  "published_at": "2026-09-25T07:38+08:00",
-  "fetched_at": "2026-09-25T08:42+08:00",
-  "title": "大降6.8%!猪价下跌“如火如荼”,节前备货“带不动”,猪价下跌逻辑找到!附:9月25日猪价",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1080566295_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  },
@@ -307,6 +307,25 @@
    "猪价"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_ed0e9307b1f9aae64817",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T11:47+08:00",
+  "fetched_at": "2026-09-25T19:41+08:00",
+  "title": "09月24日猪评:旺季遇冷!猪价承压走低,“逢节下跌”魔咒再度上演!",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://cj.sina.com.cn/articles/view/3049150892/b5be59ac00101unci",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_a26f55920bf2a38220da",
@@ -566,6 +585,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_ea02a98a971f20553f63",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T18:52+08:00",
+  "fetched_at": "2026-09-22T20:27+08:00",
+  "title": "标肥价差收窄 大猪价格优势能否持续?",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-22/detail-inissyqz8832120.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_1606b374c30f00bed5bd",
   "date": "2026-09-23",
   "published_at": "2026-09-23T18:52+08:00",
@@ -600,6 +638,25 @@
   ],
   "matched_keywords": [
    "菜粕"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_94d1f178929259f3d2cf",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T16:42+08:00",
+  "fetched_at": "2026-09-25T19:41+08:00",
+  "title": "光大期货0923热点追踪:生猪节前旺季不旺,节后能修复吗?",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/2026-09-23/doc-inisvcqf1232115.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
   ],
   "relevance_score": 8
  },
@@ -965,25 +1022,6 @@
   ],
   "matched_keywords": [
    "菜粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ea02a98a971f20553f63",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T16:58+08:00",
-  "fetched_at": "2026-09-22T20:27+08:00",
-  "title": "标肥价差收窄 大猪价格优势能否持续?",
-  "summary": "",
-  "source": "finance.sina.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-22/detail-inissyqz8832120.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  },
