@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-25T19:41+08:00",
+ "updated_at": "2026-09-25T22:01+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -18,7 +18,7 @@
   "cj.sina.cn": 2,
   "news.10jqka.com.cn": 1,
   "sohu.com": 1,
-  "video.sina.com.cn": 5,
+  "video.sina.com.cn": 6,
   "vietnam.vn": 1,
   "vinetur.com": 1,
   "Межа. Новини України.": 1,
@@ -28,7 +28,6 @@
   "东方财富Choice数据": 1,
   "东方财富研究中心": 1,
   "中华网": 2,
-  "中国商报": 1,
   "中财期货": 1,
   "人民日报": 1,
   "人民财讯": 1,
@@ -72,6 +71,25 @@
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_570102e57234827a4fd4",
+   "date": "2026-09-25",
+   "published_at": "2026-09-25T21:25+08:00",
+   "fetched_at": "2026-09-25T22:01+08:00",
+   "title": "生猪基本面偏空未好转,企业能否撑住待见底",
+   "summary": "",
+   "source": "video.sina.com.cn",
+   "type": "供需动态",
+   "url": "https://video.sina.com.cn/p/finance/2026-09-25/detail-iniszvzx4449955.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_fbac17892c85ec3a0509",
    "date": "2026-09-25",
@@ -3908,26 +3926,6 @@
     "豆油"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_06101da0cd4ad062b6fb",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T15:44+08:00",
-   "fetched_at": "2026-09-16T00:33+08:00",
-   "title": "猪价涨了 为何猪企还在亏?",
-   "summary": "大宗商品分析机构上海钢联生猪行业分析师王红炎表示,本轮生猪价格回升是产能去化见效后的修复性行情,而非传统强周期开启。行业正进入低波动、长磨底周期,很难再出现价格大涨大跌的情况。 猪卖得多了 但收入没涨 在生猪价格微涨的同时,猪企出栏量保持稳定。",
-   "source": "中国商报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609153875052797.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 11
   }
  ]
 }

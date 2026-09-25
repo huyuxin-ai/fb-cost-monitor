@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_570102e57234827a4fd4",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T21:25+08:00",
+  "fetched_at": "2026-09-25T22:01+08:00",
+  "title": "生猪基本面偏空未好转,企业能否撑住待见底",
+  "summary": "",
+  "source": "video.sina.com.cn",
+  "type": "供需动态",
+  "url": "https://video.sina.com.cn/p/finance/2026-09-25/detail-iniszvzx4449955.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_fbac17892c85ec3a0509",
   "date": "2026-09-25",
   "published_at": "2026-09-25T14:35+08:00",
