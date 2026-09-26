@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_4db1840bb65fcd906d36",
+  "date": "2026-09-26",
+  "published_at": "2026-09-26T14:04+08:00",
+  "fetched_at": "2026-09-26T15:14+08:00",
+  "title": "下跌“如火如荼”!附:9月27日猪价",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1081102982_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_dc1105e7761391beec8b",
   "date": "2026-09-26",
   "published_at": "2026-09-26T09:35+08:00",
@@ -15,25 +34,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_be778f42abdc51635d80",
-  "date": "2026-09-26",
-  "published_at": "2026-09-26T07:22+08:00",
-  "fetched_at": "2026-09-26T07:26+08:00",
-  "title": "9月26日猪价:4涨12跌!猪价“磨底”重心“单边”下跌,9月“跌绿”到月末?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1080895118_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  },
