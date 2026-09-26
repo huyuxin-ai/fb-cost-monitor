@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_dc1105e7761391beec8b",
+  "date": "2026-09-26",
+  "published_at": "2026-09-26T09:35+08:00",
+  "fetched_at": "2026-09-26T09:51+08:00",
+  "title": "厄尔尼诺搅动棕榈油:印尼马来2027年产量料降3%,价格或升向1226美元_期市动态",
+  "summary": "",
+  "source": "中金在线",
+  "type": "价格行情",
+  "url": "http://futures.cnfol.com/qishidongtai/20260926/32381623.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_be778f42abdc51635d80",
+  "date": "2026-09-26",
+  "published_at": "2026-09-26T07:22+08:00",
+  "fetched_at": "2026-09-26T07:26+08:00",
+  "title": "9月26日猪价:4涨12跌!猪价“磨底”重心“单边”下跌,9月“跌绿”到月末?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1080895118_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_d49d8deca6e1f40463e2",
   "date": "2026-09-26",
   "published_at": "2026-09-26T06:21+08:00",
@@ -17,25 +55,6 @@
    "玻璃瓶"
   ],
   "relevance_score": 9
- },
- {
-  "id": "news_e8b3ef79611d8fc745b2",
-  "date": "2026-09-26",
-  "published_at": "2026-09-26T05:09+08:00",
-  "fetched_at": "2026-09-26T07:26+08:00",
-  "title": "猪价大降超18%,9月下跌“无休止”,中秋落幕国庆将至,猪价“枯木逢春”?附:9月26日猪价",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1080894158_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_7a00e421567638765d85",
