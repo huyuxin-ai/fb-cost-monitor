@@ -96,6 +96,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_7b3ee9e9ae9a8fc12fe8",
+  "date": "2026-09-25",
+  "published_at": "2026-09-25T16:34+08:00",
+  "fetched_at": "2026-09-26T20:21+08:00",
+  "title": "USDA 8月月报:美国玉米、小麦供需预期数据-市场参考",
+  "summary": "",
+  "source": "金十数据",
+  "type": "供需动态",
+  "url": "https://xnews.jin10.com/details/227273",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_fbac17892c85ec3a0509",
   "date": "2026-09-25",
   "published_at": "2026-09-25T14:35+08:00",
@@ -2178,6 +2197,25 @@
    "猪价"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_532764b0a24c03b77dee",
+  "date": "2026-09-20",
+  "published_at": "2026-09-20T12:36+08:00",
+  "fetched_at": "2026-09-26T20:21+08:00",
+  "title": "价格周报|本周猪价震荡下滑,机构称产能去化兑现在后延",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-09-19/detail-inisiwvx2477018.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_0a1d1fee30255654ddff",

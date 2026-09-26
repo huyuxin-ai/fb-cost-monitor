@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T15:14+08:00",
+ "updated_at": "2026-09-26T20:21+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -16,6 +16,7 @@
   "Vinetur": 1,
   "bihainews.com": 1,
   "cj.sina.cn": 2,
+  "finance.sina.com.cn": 1,
   "news.10jqka.com.cn": 1,
   "sohu.com": 1,
   "video.sina.com.cn": 6,
@@ -33,7 +34,7 @@
   "人民财讯": 1,
   "光大期货": 1,
   "农业农村部": 2,
-  "南方财经网": 17,
+  "南方财经网": 15,
   "发现报告": 2,
   "同花顺": 4,
   "同花顺财经": 11,
@@ -67,7 +68,8 @@
   "观点网": 1,
   "证券时报": 1,
   "财联社": 7,
-  "迈科期货": 1
+  "迈科期货": 1,
+  "金十数据": 1
  },
  "items": [
   {
@@ -144,6 +146,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7b3ee9e9ae9a8fc12fe8",
+   "date": "2026-09-25",
+   "published_at": "2026-09-25T16:34+08:00",
+   "fetched_at": "2026-09-26T20:21+08:00",
+   "title": "USDA 8月月报:美国玉米、小麦供需预期数据-市场参考",
+   "summary": "",
+   "source": "金十数据",
+   "type": "供需动态",
+   "url": "https://xnews.jin10.com/details/227273",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
    ],
    "relevance_score": 8
   },
@@ -2194,6 +2215,25 @@
    "relevance_score": 11
   },
   {
+   "id": "news_532764b0a24c03b77dee",
+   "date": "2026-09-20",
+   "published_at": "2026-09-20T12:36+08:00",
+   "fetched_at": "2026-09-26T20:21+08:00",
+   "title": "价格周报|本周猪价震荡下滑,机构称产能去化兑现在后延",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-09-19/detail-inisiwvx2477018.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_0a1d1fee30255654ddff",
    "date": "2026-09-20",
    "published_at": "2026-09-20T11:53+08:00",
@@ -3885,44 +3925,6 @@
    ],
    "matched_keywords": [
     "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_eafe5d918addbb724590",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T18:02+08:00",
-   "fetched_at": "2026-09-15T19:34+08:00",
-   "title": "东瑞股份:预计明年生猪完全成本目标可降至12.5元/公斤以下",
-   "summary": "南财智讯9月15日电,东瑞股份在投资者关系活动中表示,公司持续推进“311工程”,从生产管理、种群优化、损耗管控等多维度落实降本增效举措,基于当前推进节奏,预计明年公司生猪完全成本目标可降至12.5元/公斤以下。",
-   "source": "南方财经网",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609153874818144.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_d7e4662a4a91ecc766e1",
-   "date": "2026-09-15",
-   "published_at": "2026-09-15T17:42+08:00",
-   "fetched_at": "2026-09-15T19:34+08:00",
-   "title": "广弘控股:数字化建设覆盖食品配送、生猪养殖和家禽孵化,支撑精益运营",
-   "summary": "南财智讯9月15日电,广弘控股在投资者关系活动中表示,公司数字化建设已覆盖食品配送、生猪养殖和家禽孵化等多个核心环节;粤桥公司上线疏东坡系统实时库存模块,广弘农牧上线欣农互联系统实现养殖全链条数字化覆盖,南海种禽新增孵化设备接入大数据系统;数字化使库存、订单、存栏、成本和孵化等关键经营要素更加透明和可控",
-   "source": "南方财经网",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609153874790017.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 12
   }
