@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_a05a204ed52da4352c0d",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T00:19+08:00",
+  "fetched_at": "2026-09-28T01:35+08:00",
+  "title": "猪价节日效应失效,供应增量>消费增量,2027年能否迎来拐点?",
+  "summary": "",
+  "source": "sohu.com",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1081515140_122014422",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_9d3f529a3ee47cdc6854",
   "date": "2026-09-27",
   "published_at": "2026-09-27T17:25+08:00",
@@ -1117,6 +1136,25 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2c9ccabf9028a6cd0d2f",
+  "date": "2026-09-23",
+  "published_at": "2026-09-23T03:03+08:00",
+  "fetched_at": "2026-09-28T01:35+08:00",
+  "title": "基因编辑番茄可产维生素D3原料 距上市或还要等数年",
+  "summary": "",
+  "source": "茉莉花新闻网",
+  "type": "供需动态",
+  "url": "https://molihua.org/mh-2194681/",
+  "company": "",
+  "material_ids": [
+   "VD3"
+  ],
+  "matched_keywords": [
+   "维生素d3"
   ],
   "relevance_score": 8
  },

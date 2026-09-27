@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-27T20:53+08:00",
+ "updated_at": "2026-09-28T01:35+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -18,7 +18,7 @@
   "cj.sina.cn": 2,
   "finance.sina.com.cn": 2,
   "news.10jqka.com.cn": 1,
-  "sohu.com": 2,
+  "sohu.com": 3,
   "video.sina.com.cn": 7,
   "vietnam.vn": 1,
   "vinetur.com": 1,
@@ -41,12 +41,11 @@
   "国信期货": 1,
   "国家粮食和物资储备局": 3,
   "国投期货": 1,
-  "国泰君安期货": 2,
+  "国泰君安期货": 1,
   "大河财立方": 1,
   "央广财经": 1,
   "央视财经": 2,
   "微博": 1,
-  "手机新浪网": 1,
   "搜狐网": 7,
   "新京报": 2,
   "新华财经": 3,
@@ -64,6 +63,7 @@
   "生物谷": 1,
   "界面新闻": 1,
   "腾讯新闻": 1,
+  "茉莉花新闻网": 1,
   "虎嗅网": 1,
   "观点网": 1,
   "证券之星": 1,
@@ -73,6 +73,25 @@
   "金十数据": 1
  },
  "items": [
+  {
+   "id": "news_a05a204ed52da4352c0d",
+   "date": "2026-09-28",
+   "published_at": "2026-09-28T00:19+08:00",
+   "fetched_at": "2026-09-28T01:35+08:00",
+   "title": "猪价节日效应失效,供应增量>消费增量,2027年能否迎来拐点?",
+   "summary": "",
+   "source": "sohu.com",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1081515140_122014422",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_9d3f529a3ee47cdc6854",
    "date": "2026-09-27",
@@ -1153,6 +1172,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2c9ccabf9028a6cd0d2f",
+   "date": "2026-09-23",
+   "published_at": "2026-09-23T03:03+08:00",
+   "fetched_at": "2026-09-28T01:35+08:00",
+   "title": "基因编辑番茄可产维生素D3原料 距上市或还要等数年",
+   "summary": "",
+   "source": "茉莉花新闻网",
+   "type": "供需动态",
+   "url": "https://molihua.org/mh-2194681/",
+   "company": "",
+   "material_ids": [
+    "VD3"
+   ],
+   "matched_keywords": [
+    "维生素d3"
    ],
    "relevance_score": 8
   },
@@ -3889,44 +3927,6 @@
     "菜粕"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_3de1824c27550da4a1ba",
-   "date": "2026-09-16",
-   "published_at": "2026-09-16T08:43+08:00",
-   "fetched_at": "2026-09-16T09:33+08:00",
-   "title": "聚酯瓶片:成本高企与需求疲弱的双重挤压 加工费持续承压",
-   "summary": "",
-   "source": "手机新浪网",
-   "type": "价格行情",
-   "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bcgge.html",
-   "company": "",
-   "material_ids": [
-    "PR"
-   ],
-   "matched_keywords": [
-    "聚酯瓶片"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1dc79a93122ededaca13",
-   "date": "2026-09-16",
-   "published_at": "2026-09-16T08:36+08:00",
-   "fetched_at": "2026-09-16T09:33+08:00",
-   "title": "生猪:恐慌逐步兑现 结构机会逐步显现",
-   "summary": "临近中秋,虽然存在需求增量预期,但是,上旬集团出栏进度偏慢,且社会面存在节前抛售旺季兑现的惯例,供应集中释放概率较高,现货价格整体承压,近端盘面持续收升水。远端定价基于市场对于产能去化的认定,由于现货价格持续低于成本,市场恐慌定价情绪抬升,部分群体认为官方及企业公示的产能数据并不准确",
-   "source": "国泰君安期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609163875408676.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 7
   }
  ]
 }
