@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_9d3f529a3ee47cdc6854",
+  "date": "2026-09-27",
+  "published_at": "2026-09-27T17:25+08:00",
+  "fetched_at": "2026-09-27T20:53+08:00",
+  "title": "生猪现货低迷,硬任务要交卷了",
+  "summary": "",
+  "source": "video.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://video.sina.com.cn/p/finance/2026-09-27/detail-inithcyh0202874.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_0e6caaf295b8e738405d",
   "date": "2026-09-27",
   "published_at": "2026-09-27T14:13+08:00",
@@ -440,6 +459,25 @@
    "白砂糖"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_93fe803745a1d4ed0a6c",
+  "date": "2026-09-24",
+  "published_at": "2026-09-24T15:00+08:00",
+  "fetched_at": "2026-09-27T20:53+08:00",
+  "title": "PTA期货报价",
+  "summary": "",
+  "source": "东方财富",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/pta.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_b13a71d4f29a74ffd284",
