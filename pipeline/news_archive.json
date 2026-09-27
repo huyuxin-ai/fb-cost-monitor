@@ -1,14 +1,14 @@
 [
  {
-  "id": "news_a05a204ed52da4352c0d",
+  "id": "news_57c7f9447c20e4b779dd",
   "date": "2026-09-28",
-  "published_at": "2026-09-28T00:19+08:00",
-  "fetched_at": "2026-09-28T01:35+08:00",
-  "title": "猪价节日效应失效,供应增量>消费增量,2027年能否迎来拐点?",
+  "published_at": "2026-09-28T07:02+08:00",
+  "fetched_at": "2026-09-28T07:52+08:00",
+  "title": "9月28日猪价:4涨18跌!猪价大降7.9%,下跌逻辑已找到,接下来“破5入4”?",
   "summary": "",
-  "source": "sohu.com",
-  "type": "供需动态",
-  "url": "https://m.sohu.com/a/1081515140_122014422",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1081473817_120238851",
   "company": "",
   "material_ids": [
    "LH"
@@ -17,6 +17,45 @@
    "猪价"
   ],
   "relevance_score": 8
+ },
+ {
+  "id": "news_46440f0998f569dec29c",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T06:08+08:00",
+  "fetched_at": "2026-09-28T07:52+08:00",
+  "title": "“美中加强农业合作是双赢之举” ——访美国大豆出口协会首席执行官苏健",
+  "summary": "他表示,美中两国在全球农业生产、消费和贸易中均占据重要地位,双方加强协调与合作能降低全球粮食供应链的波动,减少粮食价格上涨对脆弱经济体的冲击。 在农业科研领域,苏健认为美中同样拥有广阔的合作空间。",
+  "source": "人民日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609283884558877.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_324e806edd8c7cb18312",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T00:00+08:00",
+  "fetched_at": "2026-09-28T01:35+08:00",
+  "title": "猪价节日效应失效,供应增量>消费增量,2027年能否迎来拐点?",
+  "summary": "来源:今日猪价行情价格表 在“供应增量>消费增量”的格局下,节日效应对猪价提振明显失效。短期猪价或震荡偏弱,中长期能繁母猪去化加速,为2027年猪价回暖埋下伏笔。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-28/doc-inithzcu3141977.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "能繁母猪"
+  ],
+  "relevance_score": 12
  },
  {
   "id": "news_9d3f529a3ee47cdc6854",
