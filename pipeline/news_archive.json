@@ -1,20 +1,39 @@
 [
  {
-  "id": "news_e374a9896fbaba1c1fa4",
+  "id": "news_0e6caaf295b8e738405d",
   "date": "2026-09-27",
-  "published_at": "2026-09-27T07:00+08:00",
-  "fetched_at": "2026-09-27T09:10+08:00",
-  "title": "9月27日猪价:跌猛了!猪价大降7.4%!9月“滑坡”下跌,蓄势上涨?",
+  "published_at": "2026-09-27T14:13+08:00",
+  "fetched_at": "2026-09-27T14:56+08:00",
+  "title": "一夜降温,猪价下跌“势不可挡”!附:9月28日猪价",
   "summary": "",
-  "source": "搜狐网",
+  "source": "sohu.com",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1081188856_120238851",
+  "url": "https://m.sohu.com/a/1081399285_120238851",
   "company": "",
   "material_ids": [
    "LH"
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7808daa81abb16ff0cb3",
+  "date": "2026-09-27",
+  "published_at": "2026-09-27T12:55+08:00",
+  "fetched_at": "2026-09-27T14:56+08:00",
+  "title": "2026年9月27日全国主要批发市场腰果价格行情_综合资讯",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://futures.stockstar.com/IG2026092700000411.shtml",
+  "company": "",
+  "material_ids": [
+   "CASHEW"
+  ],
+  "matched_keywords": [
+   "腰果"
   ],
   "relevance_score": 8
  },
@@ -28,6 +47,25 @@
   "source": "搜狐网",
   "type": "价格行情",
   "url": "https://m.sohu.com/a/1081102982_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_75acce7226e40fa2a5a6",
+  "date": "2026-09-26",
+  "published_at": "2026-09-26T10:24+08:00",
+  "fetched_at": "2026-09-27T14:56+08:00",
+  "title": "9月26日猪价再跌!节假日提振不利,月内猪价已下跌2.31%",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101away",
   "company": "",
   "material_ids": [
    "LH"
