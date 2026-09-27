@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_e374a9896fbaba1c1fa4",
+  "date": "2026-09-27",
+  "published_at": "2026-09-27T07:00+08:00",
+  "fetched_at": "2026-09-27T09:10+08:00",
+  "title": "9月27日猪价:跌猛了!猪价大降7.4%!9月“滑坡”下跌,蓄势上涨?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1081188856_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_4db1840bb65fcd906d36",
   "date": "2026-09-26",
   "published_at": "2026-09-26T14:04+08:00",
