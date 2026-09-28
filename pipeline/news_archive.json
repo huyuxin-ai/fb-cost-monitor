@@ -1,5 +1,62 @@
 [
  {
+  "id": "news_ecac199bd8e1074d5f13",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T00:50+08:00",
+  "fetched_at": "2026-09-29T00:53+08:00",
+  "title": "生猪期货跌3.4%,猪肉股却在涨:两个市场两段时间",
+  "summary": "",
+  "source": "video.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://video.sina.com.cn/p/finance/2026-09-28/detail-initktnz9738670.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_1eb6ced4105fcf1a508f",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T22:44+08:00",
+  "fetched_at": "2026-09-29T00:53+08:00",
+  "title": "生意社:成本推涨 9月涤纶短纤价格站上年内高位",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-28/doc-initkxux9701755.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f69df224e096eade3d67",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T19:25+08:00",
+  "fetched_at": "2026-09-29T00:53+08:00",
+  "title": "7.39亿头猪!2026年生猪出栏量预测增长,32%散户将继续减产!",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101aycq",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_3aa0cff50eb4608bff2c",
   "date": "2026-09-28",
   "published_at": "2026-09-28T18:22+08:00",
@@ -17,6 +74,25 @@
    "生猪"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_812bdd7307ddc2f791ac",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T18:15+08:00",
+  "fetched_at": "2026-09-29T00:53+08:00",
+  "title": "【今日盘面线索·9月28日复盘】生猪受节后养殖端集中出栏与需求惯性回落双重打压,主力合约跳空低开放量大跌超4%",
+  "summary": "",
+  "source": "金十数据",
+  "type": "供需动态",
+  "url": "https://xnews.jin10.com/details/231192",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_90d13277eff8faa5452e",
@@ -77,6 +153,28 @@
   "relevance_score": 12
  },
  {
+  "id": "news_a0ecef9bce3850b0f0d5",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T16:30+08:00",
+  "fetched_at": "2026-09-29T00:53+08:00",
+  "title": "央视曝光“一口福”39元核桃油实为大豆油,半年卖了310万",
+  "summary": "北京市食品检验研究院副院长尹华涛在节目中表示,检测结果一旦超出该区间,即可判定产品存在一定风险;除原料和工艺异常外,若棕榈酸高于10%,大概率是掺入了棕榈油、大豆油、玉米油等棕榈酸含量较高的低价油。 随着调查深入,一条完整的造假链条逐渐浮出水面。",
+  "source": "界面新闻",
+  "type": "供需动态",
+  "url": "http://biz.eastmoney.com/a/202609283885546269.html",
+  "company": "",
+  "material_ids": [
+   "Y",
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "豆油",
+   "大豆油",
+   "核桃"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_65c93446a8d96eb11a6f",
   "date": "2026-09-28",
   "published_at": "2026-09-28T15:45+08:00",
@@ -132,6 +230,25 @@
    "玉米"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_7242330d58e26f9d2e58",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T15:40+08:00",
+  "fetched_at": "2026-09-29T00:53+08:00",
+  "title": "供需面持续转弱 预计PTA期货价格跟随成本波动",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initkpfa2879693.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_b017406315cd70f1ea90",

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-28T19:09+08:00",
+ "updated_at": "2026-09-29T00:53+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -12,22 +12,20 @@
   "Moomoo": 1,
   "Sohu": 4,
   "VanPeople": 1,
-  "Vietnam.vn": 1,
   "bihainews.com": 1,
   "cj.sina.cn": 2,
   "finance.sina.com.cn": 5,
   "news.10jqka.com.cn": 1,
   "sohu.com": 2,
-  "video.sina.com.cn": 7,
+  "video.sina.com.cn": 8,
   "vinetur.com": 1,
   "Межа. Новини України.": 1,
   "东方财富": 2,
   "东方财富研究中心": 2,
   "中华网": 2,
-  "中财期货": 2,
+  "中财期货": 1,
   "人民日报": 1,
   "人民财讯": 1,
-  "光大期货": 1,
   "农业农村部": 2,
   "南方财经网": 14,
   "发现报告": 2,
@@ -47,11 +45,11 @@
   "新京报": 2,
   "新华财经": 3,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 52,
+  "新浪财经": 55,
   "新浪财经_金融信息服务商": 5,
-  "期货日报": 5,
+  "期货日报": 4,
   "期货日报网": 1,
-  "正信期货": 2,
+  "正信期货": 1,
   "每日经济新闻": 6,
   "汇通网 Fx678": 2,
   "深圳商报·读创": 1,
@@ -66,10 +64,67 @@
   "证券时报": 1,
   "财联社": 3,
   "迈科期货": 1,
-  "金十数据": 1,
+  "金十数据": 2,
   "雪球": 1
  },
  "items": [
+  {
+   "id": "news_ecac199bd8e1074d5f13",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T00:50+08:00",
+   "fetched_at": "2026-09-29T00:53+08:00",
+   "title": "生猪期货跌3.4%,猪肉股却在涨:两个市场两段时间",
+   "summary": "",
+   "source": "video.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://video.sina.com.cn/p/finance/2026-09-28/detail-initktnz9738670.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1eb6ced4105fcf1a508f",
+   "date": "2026-09-28",
+   "published_at": "2026-09-28T22:44+08:00",
+   "fetched_at": "2026-09-29T00:53+08:00",
+   "title": "生意社:成本推涨 9月涤纶短纤价格站上年内高位",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-28/doc-initkxux9701755.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_f69df224e096eade3d67",
+   "date": "2026-09-28",
+   "published_at": "2026-09-28T19:25+08:00",
+   "fetched_at": "2026-09-29T00:53+08:00",
+   "title": "7.39亿头猪!2026年生猪出栏量预测增长,32%散户将继续减产!",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101aycq",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_3aa0cff50eb4608bff2c",
    "date": "2026-09-28",
@@ -88,6 +143,25 @@
     "生猪"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_812bdd7307ddc2f791ac",
+   "date": "2026-09-28",
+   "published_at": "2026-09-28T18:15+08:00",
+   "fetched_at": "2026-09-29T00:53+08:00",
+   "title": "【今日盘面线索·9月28日复盘】生猪受节后养殖端集中出栏与需求惯性回落双重打压,主力合约跳空低开放量大跌超4%",
+   "summary": "",
+   "source": "金十数据",
+   "type": "供需动态",
+   "url": "https://xnews.jin10.com/details/231192",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_90d13277eff8faa5452e",
@@ -203,6 +277,25 @@
     "玉米"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_7242330d58e26f9d2e58",
+   "date": "2026-09-28",
+   "published_at": "2026-09-28T15:40+08:00",
+   "fetched_at": "2026-09-29T00:53+08:00",
+   "title": "供需面持续转弱 预计PTA期货价格跟随成本波动",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initkpfa2879693.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_b017406315cd70f1ea90",
@@ -3835,103 +3928,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5e50c812b8ac5f5ab564",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T09:19+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "“双节”备货对食糖消费的拉动效果不及往年 糖价上行存在压力",
-   "summary": "“北方以玉米为原料的淀粉糖,包括果葡糖浆、麦芽糖浆等,凭借明显的成本优势和液态原料可以直接进入生产线的便利性,在饮料、食品加工等领域对白糖形成了较强的替代效应,持续挤压白糖的消费空间。”张静说。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609173876929716.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "食糖",
-    "白糖"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_1c3eedc6fdf2f3622ea5",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T09:09+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "尽管腰果出口量下降了0.9%,但出口额仍达到33.7亿美元。",
-   "summary": "",
-   "source": "Vietnam.vn",
-   "type": "供需动态",
-   "url": "https://www.vietnam.vn/zh-cn/xuat-khau-hat-dieu-dat-3-37-ti-usd-du-luong-giam-0-9",
-   "company": "",
-   "material_ids": [
-    "CASHEW"
-   ],
-   "matched_keywords": [
-    "腰果"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_10045f869708d1c39b18",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T09:05+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "农产品 | 新粮逐步上市 供应预期宽松 玉米整体承压运行",
-   "summary": "观点:全球糖市供应预期有所转变,叠加天气升水,原糖震荡偏强。国内整体购销进度滞后,库存高位,压制糖价,上行动能较外糖偏弱。 ▼玉米 新粮逐步上市,供应预期宽松,玉米整体承压运行 外盘方面,多空博弈加剧,利多因素逐步兑现,美玉米震荡运行。",
-   "source": "正信期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609173876880188.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_a6daf1f0ecbf3358b00a",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T09:00+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "农产品 | 白糖:市场总体供应仍较为充裕 预计短期价格延续震荡格局",
-   "summary": "现货报价方面,南宁中间商站台基准价5210元/吨;南宁集团厂内车板陈糖报价5150~5220元/吨;昆明中间商报价5060~5120元/吨。原糖缺乏新驱动引领,表现趋弱,有调整迹象,静待后期巴西压榨进度和北半球估产数据。",
-   "source": "光大期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609173876833928.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白糖",
-    "原糖"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_3e3b7e4a7a17cbb42a3b",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T08:36+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "农产品 | 外盘走弱叠加国内高库存 郑糖重回震荡区间下沿",
-   "summary": "建议多单离场观望,等待CBOT企稳与国内去库信号,豆粕关注3320-3330元支撑。",
-   "source": "中财期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609173876725942.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "郑糖"
    ],
    "relevance_score": 8
   }
