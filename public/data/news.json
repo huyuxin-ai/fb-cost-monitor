@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29T00:53+08:00",
+ "updated_at": "2026-09-29T07:45+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -14,10 +14,10 @@
   "VanPeople": 1,
   "bihainews.com": 1,
   "cj.sina.cn": 2,
-  "finance.sina.com.cn": 5,
+  "finance.sina.com.cn": 6,
   "news.10jqka.com.cn": 1,
   "sohu.com": 2,
-  "video.sina.com.cn": 8,
+  "video.sina.com.cn": 7,
   "vinetur.com": 1,
   "Межа. Новини України.": 1,
   "东方财富": 2,
@@ -26,7 +26,7 @@
   "中财期货": 1,
   "人民日报": 1,
   "人民财讯": 1,
-  "农业农村部": 2,
+  "农业农村部": 1,
   "南方财经网": 14,
   "发现报告": 2,
   "同花顺": 3,
@@ -34,23 +34,22 @@
   "国信期货": 1,
   "国元期货": 1,
   "国家粮食和物资储备局": 3,
-  "国泰君安期货": 1,
   "大地期货": 1,
   "大河财立方": 2,
   "央广财经": 1,
   "央视财经": 2,
   "微博": 1,
   "手机网易网": 1,
-  "搜狐网": 8,
+  "搜狐网": 9,
   "新京报": 2,
   "新华财经": 3,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 55,
+  "新浪财经": 54,
   "新浪财经_金融信息服务商": 5,
   "期货日报": 4,
   "期货日报网": 1,
   "正信期货": 1,
-  "每日经济新闻": 6,
+  "每日经济新闻": 7,
   "汇通网 Fx678": 2,
   "深圳商报·读创": 1,
   "温哥华港湾": 1,
@@ -58,6 +57,7 @@
   "瑞达期货": 2,
   "生物谷": 1,
   "界面新闻": 1,
+  "经济日报": 1,
   "茉莉花新闻网": 1,
   "虎嗅网": 1,
   "证券之星": 1,
@@ -68,6 +68,63 @@
   "雪球": 1
  },
  "items": [
+  {
+   "id": "news_4023454d6911d2c440ae",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T07:08+08:00",
+   "fetched_at": "2026-09-29T07:45+08:00",
+   "title": "9月29日猪价:坐滑梯!猪价“降温”超预期下跌,接下来“越跌越猛”?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1081921645_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7a9ce7537622407872ba",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T06:01+08:00",
+   "fetched_at": "2026-09-29T07:45+08:00",
+   "title": "一粒玉米的价值跃迁路",
+   "summary": "正是基于对标准的恪守,玉锋的维生素B12原料进入全球顶尖制药企业的采购清单。 王玉锋介绍,企业创立初期,质量部仅寥寥数人,如今已壮大为一支80人左右的专业队伍,对原料采购、生产加工、成品检验、售后服务实施全环节标准化管控,构建起全生命周期质量管理体系。",
+   "source": "经济日报",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202609293885617347.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 7
+  },
+  {
+   "id": "news_b01e6fd20d0863831d84",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T05:48+08:00",
+   "fetched_at": "2026-09-29T07:45+08:00",
+   "title": "CBOT农产品期货主力合约收盘全线下跌,大豆期货跌2.37%",
+   "summary": "当地时间9月28日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌2.37%报1287.75美分/蒲式耳,玉米期货跌1.14%报522.25美分/蒲式耳,小麦期货跌2.24%报687.50美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609293885615568.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_ecac199bd8e1074d5f13",
    "date": "2026-09-29",
@@ -84,6 +141,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_0ba605f00be00c7e4063",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T00:00+08:00",
+   "fetched_at": "2026-09-29T07:45+08:00",
+   "title": "节后猪价能否迎来反转反弹?紧盯国庆备货",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-29/doc-initmear8313548.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -3852,82 +3928,6 @@
    ],
    "matched_keywords": [
     "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_af786509c6a767de3d9f",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T10:32+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "9月第2周生猪定点屠宰企业生猪收购和白条肉出厂价格情况",
-   "summary": "据农业农村部监测,2026年9月7—13日,生猪定点屠宰企业生猪平均收购价格为12.14元/公斤,环比与上期持平,同比下降17.2%。白条肉平均出厂价格为15.89元/公斤,环比增长0.1%,同比下降16.1%。",
-   "source": "农业农村部",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609173877116535.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_73fff5e7ab7be1d4a505",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T10:18+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "华泰期货:压榨数据影响,豆粕偏强震荡",
-   "summary": "来源:华泰期货 作者: 薛钧元 粕类观点 市场要闻与重要数据 期货方面,昨日收盘豆粕2701合约3479元/吨,较前日变动+94元/吨,幅度+2.78%;菜粕2611合约2381元/吨...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-17/doc-inisayaf4211804.shtml",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_3158307bbc8b007d4d67",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T09:59+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "豆粕:国内情绪偏强 期价再创新高",
-   "summary": "其次,市场外溢利多,如:美伊冲突、原油持续上涨带来市场普涨,俄乌冲突引发黑海港口运输忧虑、美麦/美玉米上涨带动美豆上涨。再次,豆类自身基本面也有利多,如:美豆优良率偏低、产区高温天气、巴拿马运河限运,国内豆粕m2701合约供应存在不确定性。",
-   "source": "国泰君安期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609173877073918.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_70c791667674cd9bc341",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T09:24+08:00",
-   "fetched_at": "2026-09-17T17:35+08:00",
-   "title": "出栏扎堆、供应宽松!中秋猪价或难大涨?",
-   "summary": "",
-   "source": "video.sina.com.cn",
-   "type": "供需动态",
-   "url": "https://video.sina.com.cn/p/finance/2026-09-17/detail-inisayai3457813.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }

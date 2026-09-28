@@ -1,5 +1,62 @@
 [
  {
+  "id": "news_4023454d6911d2c440ae",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T07:08+08:00",
+  "fetched_at": "2026-09-29T07:45+08:00",
+  "title": "9月29日猪价:坐滑梯!猪价“降温”超预期下跌,接下来“越跌越猛”?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1081921645_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7a9ce7537622407872ba",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T06:01+08:00",
+  "fetched_at": "2026-09-29T07:45+08:00",
+  "title": "一粒玉米的价值跃迁路",
+  "summary": "正是基于对标准的恪守,玉锋的维生素B12原料进入全球顶尖制药企业的采购清单。 王玉锋介绍,企业创立初期,质量部仅寥寥数人,如今已壮大为一支80人左右的专业队伍,对原料采购、生产加工、成品检验、售后服务实施全环节标准化管控,构建起全生命周期质量管理体系。",
+  "source": "经济日报",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609293885617347.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 7
+ },
+ {
+  "id": "news_b01e6fd20d0863831d84",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T05:48+08:00",
+  "fetched_at": "2026-09-29T07:45+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线下跌,大豆期货跌2.37%",
+  "summary": "当地时间9月28日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌2.37%报1287.75美分/蒲式耳,玉米期货跌1.14%报522.25美分/蒲式耳,小麦期货跌2.24%报687.50美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609293885615568.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_ecac199bd8e1074d5f13",
   "date": "2026-09-29",
   "published_at": "2026-09-29T00:50+08:00",
@@ -15,6 +72,25 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0ba605f00be00c7e4063",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T00:00+08:00",
+  "fetched_at": "2026-09-29T07:45+08:00",
+  "title": "节后猪价能否迎来反转反弹?紧盯国庆备货",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-29/doc-initmear8313548.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
