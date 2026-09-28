@@ -1,5 +1,177 @@
 [
  {
+  "id": "news_3aa0cff50eb4608bff2c",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T18:22+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "商品日报(9月28日):碳酸锂、白银跌超5% 生猪创近半年新低",
+  "summary": "9月28日,国内商品多数下跌,碳酸锂、白银跌超5%,生猪跌超4%,黄金、红枣、钯、玻璃、焦煤、烧碱、二号大豆跌超2%,苹果、菜粕、铂、棕榈油、纸浆、菜粕、豆粕、菜油、沪铝、沪镍跌超1%;集运欧线涨近7%,甲醇涨超4%,高硫燃料油涨超3%,丙烯涨超2%,纯苯、液化石油气、一号大豆、PP",
+  "source": "新华财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609283885315846.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_90d13277eff8faa5452e",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T17:40+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "注意!猪肉股逆势翻红!猪价跌至低位,亏损加剧!预计国庆猪价将会这样走!",
+  "summary": "中秋假期已收官,节日带来的利好无力扭转猪价下行态势,本月生猪行情一路走低,标准体重生猪均价下探至阶段低位,养殖亏损程度进一步加剧。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-28/doc-initkpfa2983478.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_7bbb5f64e4487c524404",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T17:31+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "巴西降雨推升供应担忧 原糖现货升贴水迎来修复",
+  "summary": "沐甜科技 近期巴西、泰国原糖现货升贴水同步走强,主要因巴西中南部持续降雨带来的供应收紧忧虑提振需求。 巴西 VHP 原糖现货对10月原糖期货合约贴水缩小至 25 基点...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/2026-09-28/doc-initkpex8552367.shtml",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "原糖"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_e9f5b1216645f7eec33c",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T17:24+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "长安期货刘琳:短期中美磋商预期落空 豆粕仍或高位运行",
+  "summary": "一、摘要 近来,国外美豆与国内豆粕止步上涨,维持高位运行态势。中美领导人之间的会晤与经贸磋商吸引市场瞩目,目前,9月20日至23日中美经贸团队在美国纽约和华盛顿举行经...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/2026-09-28/doc-initkpfc9718806.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_65c93446a8d96eb11a6f",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T15:45+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "跌不停,猪价下跌“势如破竹”!附:9月29日猪价",
+  "summary": "",
+  "source": "手机网易网",
+  "type": "价格行情",
+  "url": "https://www.163.com/dy/article/L7TSKL6P0512JUR9.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_fb6ce845d8fb040573a7",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T15:41+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "生猪主力合约收跌4.01%",
+  "summary": "南财智讯9月28日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌4.01%,收盘报10295.0元/吨,日内资金流出5.61亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609283885195333.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_a848a6df93b3306f6ebe",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T15:41+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "玉米主力合约收涨0.14%",
+  "summary": "南财智讯9月28日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.14%,收盘报2180.0元/吨,日内资金流出7298.72万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609283885192273.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_b017406315cd70f1ea90",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T15:15+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "光大期货0928热点追踪:双节备货落空叠加出栏踩踏,生猪跌超3%",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initkhxe2949860.shtml?cre=tianyi&loc=28&mod=pchp&r=0&rfunc=95&tj=cxvertical_pc_hp&tr=12",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_fef377d1d46eaa2df537",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T14:40+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "9月中旬美联储加息落地 短期棕榈油价格出现调整",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initkhwz8618999.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_dd6f0eeb23079d0bf1d4",
   "date": "2026-09-28",
   "published_at": "2026-09-28T12:09+08:00",
@@ -138,6 +310,25 @@
    "能繁母猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_52edcc5833118a125ff4",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T09:46+08:00",
+  "fetched_at": "2026-09-28T19:09+08:00",
+  "title": "PTA供需呈现多空拉扯 价格高位宽幅震荡运行",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwif8747929.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_b8f913385ecc4ac9aa8f",
