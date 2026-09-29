@@ -58,6 +58,26 @@
   "relevance_score": 12
  },
  {
+  "id": "news_5ee91953a2a61b25dc3b",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T18:31+08:00",
+  "fetched_at": "2026-09-30T00:57+08:00",
+  "title": "机构:“双节”需求不及预期,生猪价格震荡偏弱",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1082354334_121157270",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_8346272e95601231edcb",
   "date": "2026-09-29",
   "published_at": "2026-09-29T17:43+08:00",
@@ -528,25 +548,6 @@
    "猪肉价格"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_4023454d6911d2c440ae",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T07:08+08:00",
-  "fetched_at": "2026-09-29T07:45+08:00",
-  "title": "9月29日猪价:坐滑梯!猪价“降温”超预期下跌,接下来“越跌越猛”?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1081921645_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_7a9ce7537622407872ba",
