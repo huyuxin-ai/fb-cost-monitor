@@ -1,5 +1,63 @@
 [
  {
+  "id": "news_0d1eb54e77c7292990fa",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T21:39+08:00",
+  "fetched_at": "2026-09-29T22:57+08:00",
+  "title": "南非将其2026年玉米产量预估上调0.7%",
+  "summary": "南非将其2026年玉米产量预估上调0.7%。",
+  "source": "财联社",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609293886726982.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_faa1578e8048dea50257",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T21:00+08:00",
+  "fetched_at": "2026-09-29T22:57+08:00",
+  "title": "国内商品期货夜盘开盘涨跌不一,豆一涨1.36%",
+  "summary": "9月29日,国内商品期货夜盘开盘涨跌不一,豆一涨1.36%,pvc涨1.06%,菜粕涨0.66%,豆粕涨0.57%,原油跌3.77%,燃油跌3.12%,乙二醇跌2.34%。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609293886766614.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "豆一"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_84a24cbfc508a2244e7c",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T20:37+08:00",
+  "fetched_at": "2026-09-29T22:57+08:00",
+  "title": "“金九”旺季不旺 9月份生猪价格持续探底",
+  "summary": "对于四季度生猪行情走势,曲国娜表示,四季度生猪价格预计呈“前弱后强、重心温和抬升”走势,但供应高位压制下,反弹空间有限,全季度行业仍难恢复盈利。",
+  "source": "证券日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609293886659312.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_8346272e95601231edcb",
   "date": "2026-09-29",
   "published_at": "2026-09-29T17:43+08:00",
@@ -192,6 +250,25 @@
   ],
   "matched_keywords": [
    "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d1a0d96d3576950fbe79",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T11:31+08:00",
+  "fetched_at": "2026-09-29T22:57+08:00",
+  "title": "宝城期货毕慧:供需弱势难逆转 生猪期价弱反弹 | 大宗商品",
+  "summary": "",
+  "source": "第一财经",
+  "type": "价格行情",
+  "url": "https://www.yicai.com/video/103380983.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
   ],
   "relevance_score": 8
  },
@@ -508,6 +585,26 @@
    "大豆"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_f6086065e8bc33672b79",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T04:11+08:00",
+  "fetched_at": "2026-09-29T22:57+08:00",
+  "title": "假期集团散户同步出栏 生猪价格承压偏弱运行",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-28/detail-initiwim9706532.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_2f7e3a3ff9a2195249c8",
