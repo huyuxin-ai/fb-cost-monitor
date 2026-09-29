@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T00:57+08:00",
+ "updated_at": "2026-09-30T05:20+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,14 +7,14 @@
   "3g.china.com": 1,
   "Dairy News Today": 3,
   "IDNFinancials": 1,
-  "IndexBox": 4,
+  "IndexBox": 3,
   "KLSE Screener": 1,
   "Sohu": 2,
   "VanPeople": 1,
   "bihainews.com": 1,
   "finance.sina.com.cn": 6,
   "news.10jqka.com.cn": 1,
-  "sohu.com": 2,
+  "sohu.com": 3,
   "video.sina.com.cn": 7,
   "vinetur.com": 1,
   "Межа. Новини України.": 1,
@@ -31,7 +31,7 @@
   "南方财经网": 14,
   "发现报告": 2,
   "同花顺": 5,
-  "同花顺财经": 6,
+  "同花顺财经": 7,
   "国信期货": 2,
   "国元期货": 1,
   "国家粮食和物资储备局": 4,
@@ -44,10 +44,10 @@
   "新京报": 3,
   "新华财经": 3,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 53,
+  "新浪财经": 52,
   "新浪财经_金融信息服务商": 3,
   "期货日报": 3,
-  "期货日报网": 1,
+  "期货日报网": 2,
   "正信期货": 1,
   "每日经济新闻": 7,
   "汇通网 Fx678": 1,
@@ -65,12 +65,51 @@
   "证券日报": 1,
   "证券时报": 1,
   "证券时报网": 1,
-  "财联社": 4,
+  "财联社": 3,
   "迈科期货": 1,
   "金十数据": 2,
   "雪球": 1
  },
  "items": [
+  {
+   "id": "news_400007776846b9689a3d",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T05:08+08:00",
+   "fetched_at": "2026-09-30T05:20+08:00",
+   "title": "9月30日猪价:断崖下跌!猪价“破5入4”,接下来“超跌大涨”?",
+   "summary": "",
+   "source": "sohu.com",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1082384264_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2cfd09d89d4b63491cb7",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T22:04+08:00",
+   "fetched_at": "2026-09-30T05:20+08:00",
+   "title": "降本空间有限 生猪养殖企业如何穿越周期?",
+   "summary": "9月28日,新希望发布公告称,拟在2026至2027年度开展大宗商品套期保值业务,套期保值保证金最高占用额度不超过33亿元,通过期货、期权工具对冲原料与生猪价格波动风险。 从多家生猪养殖企业披露的数据来看,行业竞争的底层逻辑已经改变,现金流承压成为企业普遍面临的难题。",
+   "source": "期货日报网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609293886837124.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_0d1eb54e77c7292990fa",
    "date": "2026-09-29",
@@ -403,6 +442,25 @@
     "生猪"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_6e6f73d633361a85d970",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T11:05+08:00",
+   "fetched_at": "2026-09-30T05:20+08:00",
+   "title": "生意社:成本推涨 9月涤纶短纤价格站上年内高位",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260928/c680335698.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_78db3342bfd7a228f38f",
@@ -3889,63 +3947,6 @@
     "乳清蛋白"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_affd97f4cdb3ab47c3ec",
-   "date": "2026-09-18",
-   "published_at": "2026-09-18T23:01+08:00",
-   "fetched_at": "2026-09-19T01:47+08:00",
-   "title": "纸浆夜盘涨近3%",
-   "summary": "跌幅方面,菜粕跌超2%,豆粕、豆一、豆二跌超1%,焦炭、焦煤跌近1%。",
-   "source": "财联社",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609183878900692.html",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
-   ],
-   "relevance_score": 7
-  },
-  {
-   "id": "news_ce03bb379e9c14a20b96",
-   "date": "2026-09-18",
-   "published_at": "2026-09-18T22:10+08:00",
-   "fetched_at": "2026-09-19T09:27+08:00",
-   "title": "美国农业部2026年9月18日生猪报告:采购量、价格及地区数据 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-hog-report-mixed-purchase-volumes-and-regional-prices-for-september-18-2026/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_62372d7f9b1c2d7da645",
-   "date": "2026-09-18",
-   "published_at": "2026-09-18T17:33+08:00",
-   "fetched_at": "2026-09-18T17:58+08:00",
-   "title": "玉米:期现双弱,破位寻底",
-   "summary": "紫金天风期货研究所 观点小结 核心观点:偏弱震荡进入9月中旬玉米从南到北逐步进入收获期,从近期玉米收获节奏以及天气来看,华北以及华东玉米今年增产概率较大...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/nmetal/2026-09-18/doc-inisfyez0233705.shtml",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
   }
  ]
 }

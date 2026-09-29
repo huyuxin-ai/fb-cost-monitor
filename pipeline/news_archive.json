@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_400007776846b9689a3d",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T05:08+08:00",
+  "fetched_at": "2026-09-30T05:20+08:00",
+  "title": "9月30日猪价:断崖下跌!猪价“破5入4”,接下来“超跌大涨”?",
+  "summary": "",
+  "source": "sohu.com",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1082384264_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2cfd09d89d4b63491cb7",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T22:04+08:00",
+  "fetched_at": "2026-09-30T05:20+08:00",
+  "title": "降本空间有限 生猪养殖企业如何穿越周期?",
+  "summary": "9月28日,新希望发布公告称,拟在2026至2027年度开展大宗商品套期保值业务,套期保值保证金最高占用额度不超过33亿元,通过期货、期权工具对冲原料与生猪价格波动风险。 从多家生猪养殖企业披露的数据来看,行业竞争的底层逻辑已经改变,现金流承压成为企业普遍面临的难题。",
+  "source": "期货日报网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609293886837124.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_0d1eb54e77c7292990fa",
   "date": "2026-09-29",
   "published_at": "2026-09-29T21:39+08:00",
@@ -331,6 +370,25 @@
    "生猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_6e6f73d633361a85d970",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T11:05+08:00",
+  "fetched_at": "2026-09-30T05:20+08:00",
+  "title": "生意社:成本推涨 9月涤纶短纤价格站上年内高位",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260928/c680335698.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_78db3342bfd7a228f38f",
