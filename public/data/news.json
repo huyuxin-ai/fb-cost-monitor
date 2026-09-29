@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29T07:45+08:00",
+ "updated_at": "2026-09-29T12:55+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -9,34 +9,34 @@
   "IDNFinancials": 1,
   "IndexBox": 4,
   "KLSE Screener": 1,
-  "Moomoo": 1,
-  "Sohu": 4,
+  "Sohu": 3,
   "VanPeople": 1,
   "bihainews.com": 1,
   "cj.sina.cn": 2,
   "finance.sina.com.cn": 6,
   "news.10jqka.com.cn": 1,
   "sohu.com": 2,
-  "video.sina.com.cn": 7,
+  "video.sina.com.cn": 8,
   "vinetur.com": 1,
   "Межа. Новини України.": 1,
-  "东方财富": 2,
+  "上海证券报·中国证券网": 1,
+  "东方财富": 3,
   "东方财富研究中心": 2,
-  "中华网": 2,
+  "中华网": 1,
   "中财期货": 1,
   "人民日报": 1,
   "人民财讯": 1,
+  "光大期货": 1,
   "农业农村部": 1,
-  "南方财经网": 14,
+  "南方财经网": 13,
   "发现报告": 2,
-  "同花顺": 3,
-  "同花顺财经": 11,
-  "国信期货": 1,
+  "同花顺": 4,
+  "同花顺财经": 9,
+  "国信期货": 2,
   "国元期货": 1,
-  "国家粮食和物资储备局": 3,
+  "国家粮食和物资储备局": 4,
   "大地期货": 1,
   "大河财立方": 2,
-  "央广财经": 1,
   "央视财经": 2,
   "微博": 1,
   "手机网易网": 1,
@@ -45,22 +45,23 @@
   "新华财经": 3,
   "新浪新闻_手机新浪网": 1,
   "新浪财经": 54,
-  "新浪财经_金融信息服务商": 5,
+  "新浪财经_金融信息服务商": 4,
   "期货日报": 4,
   "期货日报网": 1,
   "正信期货": 1,
-  "每日经济新闻": 7,
-  "汇通网 Fx678": 2,
+  "每日经济新闻": 6,
+  "汇通网 Fx678": 1,
   "深圳商报·读创": 1,
   "温哥华港湾": 1,
-  "澎湃新闻": 2,
+  "澎湃新闻": 3,
   "瑞达期货": 2,
   "生物谷": 1,
   "界面新闻": 1,
+  "第一财经": 1,
   "经济日报": 1,
   "茉莉花新闻网": 1,
   "虎嗅网": 1,
-  "证券之星": 1,
+  "证券之星": 2,
   "证券时报": 1,
   "财联社": 3,
   "迈科期货": 1,
@@ -68,6 +69,244 @@
   "雪球": 1
  },
  "items": [
+  {
+   "id": "news_05c3e1cb74df0a7f9747",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T11:46+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "【现货】9月29日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20260929/c680352703.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_82b3f59e44788ec6e35b",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T11:28+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "白糖:8月进口65万吨创年内新高,9月或环比微跌",
+   "summary": "卓创资讯白糖行业高级分析师牛哲 【导语】2026年8月我国食糖进口量达到65万吨,创下今年以来单月进口新高,这一数据打破了此前市场对下半年进口节奏偏缓的普遍预期...",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-29/doc-initnfqm6132230.shtml",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "白糖",
+    "食糖"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_ddb216c5ff1d5ef49f9b",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T11:27+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "高瞻远“猪”:产能去化周期或延续,2027年猪价或谨慎偏乐观",
+   "summary": "卓创资讯生猪行业资深分析师李晶 【导语】2026年二三季度母猪减产逐步加速,两轮减产先后经历低效母猪减产向高效母猪减产的推进。政策面及市场端或推动产能去化周期延续。...",
+   "source": "新浪财经",
+   "type": "政策与供应",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-29/doc-initnfqm3015473.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_78db3342bfd7a228f38f",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T10:48+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "农业农村部:常态化实施产能精准调控,指导头部企业带头调减生猪产能",
+   "summary": "农业农村部新闻发言人、发展规划司司长陈邦勋表示,进入到下半年,生猪供需形势持续改善,价格有波动,但总体是回升的,目前猪价已稳定在每公斤11元以上。生猪生产既关系老百姓的一日三餐,也关系养殖场户的收入生计。",
+   "source": "澎湃新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609293886287913.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_133e24c648b2d74f7c78",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T10:47+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "农业农村部:生猪供需形势持续改善",
+   "summary": "9月29日,农业农村部新闻发言人、发展规划司司长陈邦勋在国新办新闻发布会上表示,进入下半年,生猪供需形势持续改善,价格有波动但总体回升,目前生猪价格已稳定在每公斤11元以上。",
+   "source": "第一财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609293886291688.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_8a6878e02ac9e5aa256c",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T10:34+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "华泰期货:生猪期货昨日出现大幅下跌,还要寻底?",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-29/doc-initnfqh2532566.shtml?cre=tianyi&loc=22&mod=pchp&r=0&rfunc=25&tj=cxvertical_pc_hp&tr=12",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_efa4978fc9efc310194e",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T09:46+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "上周国内大豆、豆粕商业库存均上升",
+   "summary": "监测显示,9月25日,全国主要油厂进口大豆库存873万吨,周环比上升4万吨,月环比上升32万吨,同比上升103万吨,较过去三年均值上升247万吨;豆粕库存124万吨,周环比上升11万吨,月环比上升12万吨,同比上升7万吨,较过去三年同期均值上升16万吨。",
+   "source": "国家粮食和物资储备局",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202609293886169551.html",
+   "company": "",
+   "material_ids": [
+    "M",
+    "A"
+   ],
+   "matched_keywords": [
+    "豆粕",
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_3fdb5551df5a61ee505e",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T09:43+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "重回5元时代!旺季不旺,节后猪价持续走弱!",
+   "summary": "",
+   "source": "video.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://video.sina.com.cn/p/finance/2026-09-29/detail-initmzhp3098029.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7f0a18183e36667082b5",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T09:31+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "食品饮料行业周报:原奶价格回升,乳业投资看量价能否同向改善_行业研究_研报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://stock.stockstar.com/JC2026092900010815.shtml",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_3d63efe44e4feeb5b144",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T08:59+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "农产品 | 生猪:出栏增需求弱 猪价延续弱势",
+   "summary": "生猪 出栏增需求弱猪价延续弱势 周一,生猪期货大幅下跌,主力LH2611下跌4.01%,暂报10295元/吨。",
+   "source": "国信期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609293885928518.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_e2ae23185ef8ab7ff5f6",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T08:54+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "农产品 | 国内豆粕供应宽松 同时成本走强预期高 关注资金动态",
+   "summary": "国内方面,蛋白粕震荡为主,市场交投谨慎。中美经贸磋商取得乐观效果,但需要等待双方均完成程序后方可执行,市场利多兑现。国内豆粕供应宽松,同时成本走强预期高,关注资金动态。 油脂: 周一,BMD棕榈油连跌二日,追随周边市场弱势。不过原油价格走强和马币走低限制跌幅。",
+   "source": "光大期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609293885876855.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_57ad31e28f64801603fa",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T07:53+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "9月29日每日研选|产能去化深度推进 猪价盘整拐点可期",
+   "summary": "风险提示:生猪产能去化不及预期;猪肉价格持续低迷;饲料原料价格波动的风险。以上观点来自申万宏源证券、华安证券、国金证券、长江证券近期公开研究报告,不代表本平台立场,敬请投资者注意投资风险。",
+   "source": "上海证券报·中国证券网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609293885789468.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪",
+    "猪肉价格"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_4023454d6911d2c440ae",
    "date": "2026-09-29",
@@ -124,6 +363,25 @@
     "大豆"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_2f7e3a3ff9a2195249c8",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T03:54+08:00",
+   "fetched_at": "2026-09-29T12:55+08:00",
+   "title": "逆势拉升!猪肉概念早间翻红 生猪产能加速去化",
+   "summary": "",
+   "source": "东方财富",
+   "type": "供需动态",
+   "url": "https://wap.eastmoney.com/a/202609283885050742.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_ecac199bd8e1074d5f13",
@@ -3680,254 +3938,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e32c445cc09527e49fa4",
-   "date": "2026-09-18",
-   "published_at": "2026-09-18T04:23+08:00",
-   "fetched_at": "2026-09-18T21:04+08:00",
-   "title": "中国生猪行业:8月产能去化加速,看好2027年猪价上行周期",
-   "summary": "",
-   "source": "Moomoo",
-   "type": "价格行情",
-   "url": "https://www.moomoo.com/hans/news/post/76425177",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_d56a55d3976ca9dfc75b",
-   "date": "2026-09-18",
-   "published_at": "2026-09-18T00:44+08:00",
-   "fetched_at": "2026-09-18T02:51+08:00",
-   "title": "美股讯号 | 阿根廷豆油价格上调,成交量激增665.91% |#美股资讯# #豆油市场# #行业动态#",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1077509076_122132398",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_0f0508696adccbec7e99",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T21:35+08:00",
-   "fetched_at": "2026-09-17T22:45+08:00",
-   "title": "18天9板万向德农发布异动公告:玉米种业市场整体供大于求 行业供需矛盾仍突出",
-   "summary": "9月17日,万向德农(600371.SH)发布股价异动公告,公司主营业务收入高度集中于玉米杂交种,该产品占主营业务收入的比例持续处于较高水平。公司业绩与玉米产业的政策环境及市场行情密切相关,同时也高度依赖自然条件。",
-   "source": "央广财经",
-   "type": "政策与供应",
-   "url": "https://finance.eastmoney.com/a/202609173877582779.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_678bce22ecbd8c8b546c",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T19:49+08:00",
-   "fetched_at": "2026-09-17T21:40+08:00",
-   "title": "100美元油价托底,300万吨库存压顶,棕榈油站上十字路口_外汇动态报道",
-   "summary": "",
-   "source": "汇通网 Fx678",
-   "type": "供需动态",
-   "url": "https://www.fx678.com/202609171949492286.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b43a4008d3770b2f13f2",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T19:46+08:00",
-   "fetched_at": "2026-09-17T21:40+08:00",
-   "title": "“18天9板”种业牛股喊话:别炒“超强厄尔尼诺”的热点了 国内根本不缺玉米种子",
-   "summary": "近期,市场对“超强厄尔尼诺”等气候热点讨论较多,相关话题主要涉及商品玉米等农产品价格波动,但公司主营业务为玉米种子的研发、生产与销售,属于农业产业链上游,与商品玉米市场属于不同环节。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609173877468591.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_456444f103d6181a6bc8",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T16:57+08:00",
-   "fetched_at": "2026-09-17T17:35+08:00",
-   "title": "【生猪四季报】泥泞中挣扎,未来希望在哪?",
-   "summary": "紫金天风期货 行情回顾 观点小结 核心观点:现货价格重心或上移,中长期需关注低估值下的供需边际变化 三季度官方督促企业去产能强度有所下降...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/2026-09-17/doc-iniscqye9182569.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 7
-  },
-  {
-   "id": "news_86e430fecce9145c77d9",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T15:41+08:00",
-   "fetched_at": "2026-09-17T17:35+08:00",
-   "title": "生猪主力合约收涨0.27%",
-   "summary": "南财智讯9月17日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨0.27%,收盘报11230.0元/吨,日内资金流出2.44亿元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609173877298130.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_6ad816e9babe3ffd7904",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T15:00+08:00",
-   "fetched_at": "2026-09-20T22:07+08:00",
-   "title": "行业追踪|农业生猪养殖市场(9月11日-9月17日):猪料比价格环比略有下跌",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://field.10jqka.com.cn/20260917/c680017557.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_d49c3390cfbc770d5f36",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T11:38+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "【现货】9月17日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260917/c680003806.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_cd6c2d5aa150fd4df084",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T11:26+08:00",
-   "fetched_at": "2026-09-17T07:45+08:00",
-   "title": "9月17日猪价:一片绿,市场承压下跌",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://3g.china.com/act/redian/13004758/20260917/49747964.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_eede1f59139ca989bc33",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T11:25+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "“一语道粕”:豆粕市场研究的重要锚点之华东地区",
-   "summary": "卓创资讯豆粕市场高级分析师王汝文 华东是国内豆粕压榨、货源流转、基差定价的核心枢纽,区域内生产企业原料到港、压榨节奏、库存变化...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/2026-09-17/doc-inisayaf4246743.shtml",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_d5eb3ab4e6b046f888a7",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T11:24+08:00",
-   "fetched_at": "2026-09-17T12:04+08:00",
-   "title": "华北玉米新作上市 拉开价格下跌序幕",
-   "summary": "卓创资讯玉米市场分析师邹骏 2026年9月上旬,华北黄淮新季玉米集中上市,供应快速释放,价格下行节奏超预期。低价优势沿华中、西南向东南沿海扩散,直接压制东北...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/2026-09-17/doc-inisayai3608625.shtml",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_74ff88f075c1a60be8a5",
-   "date": "2026-09-17",
-   "published_at": "2026-09-17T11:06+08:00",
-   "fetched_at": "2026-09-18T05:57+08:00",
-   "title": "生意社2026年9月17日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经_金融信息服务商",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-17/doc-iniscekf3503102.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
    ],
    "relevance_score": 8
   }
