@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_a7c3b2e7a4543e6b970c",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T00:00+08:00",
+  "fetched_at": "2026-10-01T02:18+08:00",
+  "title": "9月猪价持续磨底,10月能否掉头上涨?",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-01/doc-initrshv1841981.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_eb7e21332a868cd3f9b2",
   "date": "2026-09-30",
   "published_at": "2026-09-30T20:18+08:00",
@@ -18,6 +37,25 @@
    "生猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_1b0bfb11db4153b4a43d",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T20:02+08:00",
+  "fetched_at": "2026-10-01T02:18+08:00",
+  "title": "内蒙古通辽:这个玉米不一样 产出零反式脂肪玉米油和优质蛋白",
+  "summary": "让农业固废变身优质蛋白为粮食安全与绿色养殖赋能 关于发展新型蛋白,内蒙古海邻科技发展有限公司市场部总监张鹏提到,公司通过与上游玉米加工企业合作,将玉米产业生产中产生的副产物,作为生产的原材料,使玉米副产物变废为宝,生产出可利用、具有高品质的蛋白原料,新型蛋白可作为生猪、家禽以及各类水产品养殖的饲料原料使用",
+  "source": "新华财经",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202609303887976780.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
  },
  {
   "id": "news_4ecf8f98fb4677301c46",
