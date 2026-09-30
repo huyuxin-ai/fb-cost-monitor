@@ -1,5 +1,160 @@
 [
  {
+  "id": "news_260b2f63f15b71a501e6",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T14:01+08:00",
+  "fetched_at": "2026-09-30T14:23+08:00",
+  "title": "里昂:中国乳业原奶价格上行周期启动龙头重夺液态奶市占率_市场分析",
+  "summary": "",
+  "source": "中金在线",
+  "type": "价格行情",
+  "url": "http://hkstock.cnfol.com/shichangfenxi/20260930/32385232.shtml",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶",
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_a120b477b90f6e69bbd0",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T11:46+08:00",
+  "fetched_at": "2026-09-30T14:23+08:00",
+  "title": "【现货】9月30日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20260930/c680397789.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_da849af7c7a68c18477a",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T11:10+08:00",
+  "fetched_at": "2026-09-30T14:23+08:00",
+  "title": "华泰期货:豆一上行空间受限,花生盘面承压下行",
+  "summary": "来源:华泰期货 作者: 白旭宇 大豆观点 市场分析 期货方面,昨日收盘豆一2611合约5204.00元/吨,较前日变化+87.00元/吨,幅度+1.70%。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-30/doc-initqkpc7124707.shtml",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "豆一",
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_b7ddf090af8acf753107",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T11:09+08:00",
+  "fetched_at": "2026-09-30T14:23+08:00",
+  "title": "09月30日猪评:猪价弱势运行,国庆备货未启,短期低位震荡难改",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101utcu",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_efbc6d7ac418147a1455",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T11:06+08:00",
+  "fetched_at": "2026-09-30T14:23+08:00",
+  "title": "华泰期货:巴西播种顺利,豆粕延续震荡",
+  "summary": "来源:华泰期货 作者: 薛钧元 粕类观点 市场要闻与重要数据 期货方面,昨日收盘豆粕2701合约3359元/吨,较前日变动-4元/吨,幅度-0.12%;菜粕2611合约2278元/吨...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-30/doc-initqkpm2282254.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_9725c7cc35b7ec9d2e97",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T09:31+08:00",
+  "fetched_at": "2026-09-30T14:23+08:00",
+  "title": "农产品 | 长假期临近 减仓过节 预计短期棕榈油偏弱震荡运行",
+  "summary": "豆粕菜粕 交投清淡,连粕偏弱震荡 周二,豆粕01合约收跌0.80%,报3359元/吨;广东豆粕现货跌20收于3300元/吨;菜粕01合约收跌1.24%,报2308元/吨;广西菜粕现货跌20收于2480元/吨;CBOT美豆11月合约涨10收于1297.75美分/蒲式耳。",
+  "source": "铜冠金源期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609303887340551.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_000575e18df5329c46cd",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T09:03+08:00",
+  "fetched_at": "2026-09-30T14:23+08:00",
+  "title": "农产品 | 白糖:郑糖延续宽幅震荡 短期走势难以形成趋势",
+  "summary": "供应端,两湖新粮上市,基层农户挺价惜售;东北早熟新粮上市价格较高,贸易商惜售意愿偏强,共同支撑市场看涨预期。黑龙江新豆上市量继续增加,普通豆震荡偏弱、高蛋白坚挺;国储大规模托市未落地,底部靠拍卖溢价与惜售支撑。需求端,下游用户适量开展节前备货,对行情形成一定支撑。",
+  "source": "南华期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609303887212027.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖",
+   "郑糖"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_4d845abad383b0f1a122",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T08:58+08:00",
+  "fetched_at": "2026-09-30T14:23+08:00",
+  "title": "生意社2026年9月30日PTA趋势分析:震荡",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-30/doc-initqeff7190116.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_7f8b5261e401a3fde373",
   "date": "2026-09-30",
   "published_at": "2026-09-30T07:56+08:00",
@@ -15,6 +170,25 @@
   ],
   "matched_keywords": [
    "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_aaca2cbc3db83982cf79",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T07:48+08:00",
+  "fetched_at": "2026-09-30T14:23+08:00",
+  "title": "节后猪价能否迎来反转反弹?紧盯国庆备货",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-09-29/detail-initmear8313548.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
