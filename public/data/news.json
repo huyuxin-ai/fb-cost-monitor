@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-10-01T02:18+08:00",
+ "updated_at": "2026-10-01T06:29+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "Dairy News Today": 2,
   "IDNFinancials": 1,
-  "IndexBox": 2,
+  "IndexBox": 3,
   "KLSE Screener": 1,
   "VanPeople": 1,
   "bihainews.com": 1,
-  "finance.sina.com.cn": 8,
+  "finance.sina.com.cn": 9,
   "news.10jqka.com.cn": 1,
   "sohu.com": 2,
   "video.sina.com.cn": 5,
@@ -29,7 +29,7 @@
   "农业农村部": 1,
   "华夏时报网": 1,
   "南华期货": 1,
-  "南方财经网": 16,
+  "南方财经网": 15,
   "发现报告": 2,
   "同花顺": 5,
   "同花顺财经": 7,
@@ -41,7 +41,7 @@
   "央视财经": 1,
   "微博": 1,
   "手机网易网": 1,
-  "搜狐网": 10,
+  "搜狐网": 11,
   "新京报": 3,
   "新华财经": 5,
   "新浪新闻_手机新浪网": 1,
@@ -50,11 +50,11 @@
   "期货日报": 3,
   "期货日报网": 2,
   "正信期货": 1,
-  "每日经济新闻": 8,
+  "每日经济新闻": 7,
   "汇通网 Fx678": 1,
   "深圳商报·读创": 1,
   "温哥华港湾": 1,
-  "澎湃新闻": 2,
+  "澎湃新闻": 1,
   "瑞达期货": 1,
   "界面新闻": 1,
   "第一财经": 3,
@@ -73,6 +73,25 @@
  },
  "items": [
   {
+   "id": "news_7c422eb7ff662c408356",
+   "date": "2026-10-01",
+   "published_at": "2026-10-01T05:10+08:00",
+   "fetched_at": "2026-10-01T06:29+08:00",
+   "title": "10月1日猪价:开门红!猪价“柳暗花明”,南北携手上涨,季节性上涨“拐点”开始?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1082866780_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_a7c3b2e7a4543e6b970c",
    "date": "2026-10-01",
    "published_at": "2026-10-01T00:00+08:00",
@@ -87,6 +106,26 @@
     "LH"
    ],
    "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_28f2e5273d6915168c31",
+   "date": "2026-10-01",
+   "published_at": "2026-10-01T00:00+08:00",
+   "fetched_at": "2026-10-01T06:29+08:00",
+   "title": "开门红!猪价上涨!2026.10.1生猪市场信息交流",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-01/doc-initrshx2462474.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
     "猪价"
    ],
    "relevance_score": 8
@@ -284,6 +323,25 @@
    "relevance_score": 12
   },
   {
+   "id": "news_eee9146e213000a15edc",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T10:48+08:00",
+   "fetched_at": "2026-10-01T06:29+08:00",
+   "title": "农业农村部:生猪供需形势持续改善",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "供需动态",
+   "url": "https://finance.sina.cn/2026-09-29/detail-initnfqm2998894.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_9725c7cc35b7ec9d2e97",
    "date": "2026-09-30",
    "published_at": "2026-09-30T09:31+08:00",
@@ -436,6 +494,26 @@
     "大豆"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_6150a925231b44b5b6bf",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T01:26+08:00",
+   "fetched_at": "2026-10-01T06:29+08:00",
+   "title": "鱼油市场2035年预测:水产饲料与omega-3需求驱动增长 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "供需动态",
+   "url": "https://www.indexbox.io/zh-hans/blog/fish-oil-market-to-accelerate-toward-2035-driven-by-aquafeed-and-omega-3-supplement-demand/",
+   "company": "",
+   "material_ids": [
+    "FISHOIL"
+   ],
+   "matched_keywords": [
+    "鱼油",
+    "omega-3"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_2cfd09d89d4b63491cb7",
@@ -3867,84 +3945,6 @@
     "豆油"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_81add021ea4582054a84",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T02:57+08:00",
-   "fetched_at": "2026-09-21T01:35+08:00",
-   "title": "温氏股份:初步预计春节前后猪价有望迎盘整拐点 公司肉猪养殖综合成本已降至6元/斤以下",
-   "summary": "公司表示,目前生猪养殖行业逐步进入以成本为核心的竞争阶段。在生物安全防控体系高效运行的前提下,进一步降本主要依托育种、营养配方、健康养殖、模式升级、工程装备及管理效率的综合提升,预计养殖成本仍有下降空间。 对于市场最为关注的猪价走势,温氏股份直言,猪价已持续低迷较长时间。",
-   "source": "每日经济新闻",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609203879466973.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_dc6784ef5bdeb25233bc",
-   "date": "2026-09-20",
-   "published_at": "2026-09-20T22:56+08:00",
-   "fetched_at": "2026-09-21T07:04+08:00",
-   "title": "温氏股份:初步预计春节前后猪价有望迎盘整拐点,公司肉猪养殖综合成本已降至6元/斤以下",
-   "summary": "每经记者|文多 每经编辑|黄博文 近日,温氏股份(SZ300498,股价14.79元,市值984.12亿元)在香港进行了为期两天的路演,与EIP、Nomura Asset Management...",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnwyu6458360.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e9e2561f17c0a3adf311",
-   "date": "2026-09-20",
-   "published_at": "2026-09-20T21:33+08:00",
-   "fetched_at": "2026-09-20T22:07+08:00",
-   "title": "温氏股份:初步预计春节前后猪价有望迎来盘整拐点 看好接下来消费旺季的鸡价",
-   "summary": "后非瘟时代,生猪养殖行业逐步进入以成本为核心的竞争阶段。在生物安全防控体系高效运行的前提下,进一步降本主要依托育种、营养配方、健康养殖、模式升级、工程装备及管理效率的综合提升,预计养殖成本仍有下降空间。 关于猪价走势,温氏股份称,猪价已持续低迷较长时间。",
-   "source": "澎湃新闻",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609203879447531.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_4561faf434f5315810b8",
-   "date": "2026-09-20",
-   "published_at": "2026-09-20T21:30+08:00",
-   "fetched_at": "2026-09-20T22:07+08:00",
-   "title": "温氏股份:预计春节前后猪价有望迎来盘整拐点",
-   "summary": "南财智讯9月20日电,温氏股份在投资者关系活动中表示,猪价已持续低迷较长时间,初步预计春节前后猪价有望迎来盘整拐点;行业普遍预期2027年实现盈利的确定性较高,盈利水平取决于今年三四季度猪价走势和行业产能去化情况;若明年行业仍普遍未能实现盈利,将出现大面积产能出清,后续猪价可能进入快速上涨阶段",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609203879447365.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 11
   }
  ]
 }

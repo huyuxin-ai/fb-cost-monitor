@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_7c422eb7ff662c408356",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T05:10+08:00",
+  "fetched_at": "2026-10-01T06:29+08:00",
+  "title": "10月1日猪价:开门红!猪价“柳暗花明”,南北携手上涨,季节性上涨“拐点”开始?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1082866780_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a7c3b2e7a4543e6b970c",
   "date": "2026-10-01",
   "published_at": "2026-10-01T00:00+08:00",
@@ -14,6 +33,26 @@
    "LH"
   ],
   "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_28f2e5273d6915168c31",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T00:00+08:00",
+  "fetched_at": "2026-10-01T06:29+08:00",
+  "title": "开门红!猪价上涨!2026.10.1生猪市场信息交流",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-01/doc-initrshx2462474.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
    "猪价"
   ],
   "relevance_score": 8
@@ -231,6 +270,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_eee9146e213000a15edc",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T10:48+08:00",
+  "fetched_at": "2026-10-01T06:29+08:00",
+  "title": "农业农村部:生猪供需形势持续改善",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "供需动态",
+  "url": "https://finance.sina.cn/2026-09-29/detail-initnfqm2998894.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_9725c7cc35b7ec9d2e97",
   "date": "2026-09-30",
   "published_at": "2026-09-30T09:31+08:00",
@@ -383,6 +441,26 @@
    "大豆"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_6150a925231b44b5b6bf",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T01:26+08:00",
+  "fetched_at": "2026-10-01T06:29+08:00",
+  "title": "鱼油市场2035年预测:水产饲料与omega-3需求驱动增长 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "供需动态",
+  "url": "https://www.indexbox.io/zh-hans/blog/fish-oil-market-to-accelerate-toward-2035-driven-by-aquafeed-and-omega-3-supplement-demand/",
+  "company": "",
+  "material_ids": [
+   "FISHOIL"
+  ],
+  "matched_keywords": [
+   "鱼油",
+   "omega-3"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_2cfd09d89d4b63491cb7",
