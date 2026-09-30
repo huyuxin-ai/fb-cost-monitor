@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30T14:23+08:00",
+ "updated_at": "2026-09-30T20:54+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -13,12 +13,12 @@
   "bihainews.com": 1,
   "finance.sina.com.cn": 9,
   "news.10jqka.com.cn": 1,
-  "sohu.com": 3,
-  "video.sina.com.cn": 6,
+  "sohu.com": 2,
+  "video.sina.com.cn": 5,
   "vinetur.com": 1,
   "Межа. Новини України.": 1,
   "上海证券报·中国证券网": 1,
-  "东方财富": 3,
+  "东方财富": 4,
   "东方财富研究中心": 2,
   "中华网": 2,
   "中国新闻网": 1,
@@ -28,11 +28,12 @@
   "人民财讯": 1,
   "光大期货": 1,
   "农业农村部": 1,
+  "华夏时报网": 1,
   "南华期货": 1,
-  "南方财经网": 14,
+  "南方财经网": 16,
   "发现报告": 2,
   "同花顺": 5,
-  "同花顺财经": 8,
+  "同花顺财经": 7,
   "国信期货": 2,
   "国元期货": 1,
   "国家粮食和物资储备局": 4,
@@ -41,11 +42,11 @@
   "央视财经": 1,
   "微博": 1,
   "手机网易网": 1,
-  "搜狐网": 9,
+  "搜狐网": 10,
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 50,
+  "新浪财经": 48,
   "新浪财经_金融信息服务商": 3,
   "期货日报": 3,
   "期货日报网": 2,
@@ -72,6 +73,83 @@
   "雪球": 1
  },
  "items": [
+  {
+   "id": "news_eb7e21332a868cd3f9b2",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T20:18+08:00",
+   "fetched_at": "2026-09-30T20:54+08:00",
+   "title": "猪价“金九”落空 产能调控进入“硬约束”时刻,猪周期拐点还有多远?",
+   "summary": "对于四季度生猪行情走势,曲国娜表示,四季度生猪价格预计呈“前弱后强、重心温和抬升”走势,但供应高位压制下,反弹空间有限,全季度行业仍难恢复盈利。",
+   "source": "华夏时报网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609303887864361.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_4ecf8f98fb4677301c46",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T15:49+08:00",
+   "fetched_at": "2026-09-30T20:54+08:00",
+   "title": "2026.10.1-最新猪价(火力全开,猪价“开挂”上涨!)",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1082743381_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_f45c2374d061596f5141",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T15:42+08:00",
+   "fetched_at": "2026-09-30T20:54+08:00",
+   "title": "生猪主力合约收涨1.76%",
+   "summary": "南财智讯9月30日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨1.76%,收盘报10680.0元/吨,日内资金流入2.93亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609303887707588.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_9c491e3c3ef1d3856ea4",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T15:42+08:00",
+   "fetched_at": "2026-09-30T20:54+08:00",
+   "title": "玉米主力合约收涨0.09%",
+   "summary": "南财智讯9月30日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.09%,收盘报2187.0元/吨,日内资金流出2.29亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609303887688894.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_a120b477b90f6e69bbd0",
    "date": "2026-09-30",
@@ -127,6 +205,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_832a9ff684e8109999f1",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T11:08+08:00",
+   "fetched_at": "2026-09-30T20:54+08:00",
+   "title": "本周国内豆油现货报价下跌",
+   "summary": "",
+   "source": "东方财富",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609303887518034.html",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
    ],
    "relevance_score": 8
   },
@@ -302,25 +399,6 @@
     "大豆"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_400007776846b9689a3d",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T05:08+08:00",
-   "fetched_at": "2026-09-30T05:20+08:00",
-   "title": "9月30日猪价:断崖下跌!猪价“破5入4”,接下来“超跌大涨”?",
-   "summary": "",
-   "source": "sohu.com",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1082384264_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_2cfd09d89d4b63491cb7",
@@ -3868,83 +3946,6 @@
     "猪价"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_8c2fc5080f44cc09090f",
-   "date": "2026-09-20",
-   "published_at": "2026-09-20T11:49+08:00",
-   "fetched_at": "2026-09-20T13:14+08:00",
-   "title": "【现货】9月20日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260920/c680088745.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f3265aabc0d733695a0b",
-   "date": "2026-09-20",
-   "published_at": "2026-09-20T11:40+08:00",
-   "fetched_at": "2026-09-20T17:59+08:00",
-   "title": "养猪亏损周期长达到一年之久!生猪产能去化周期或接近尾声!",
-   "summary": "",
-   "source": "video.sina.com.cn",
-   "type": "供需动态",
-   "url": "https://video.sina.com.cn/p/finance/2026-09-20/detail-inismvnz1678668.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e7c150bee9ad670925f2",
-   "date": "2026-09-20",
-   "published_at": "2026-09-20T11:12+08:00",
-   "fetched_at": "2026-09-20T13:14+08:00",
-   "title": "“玉”见未来:华北新季玉米价格持续下跌,东北产区如何应对?",
-   "summary": "卓创资讯玉米市场分析师李霞 【导语】8月下旬以来华北和东北地区的玉米价格走势出现明显分化:华北玉米价格因供应增加而下行,东北玉米价格则因减产预期和惜售情绪而反弹。...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpc2578633.shtml",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2c7fd7406b662582cbd5",
-   "date": "2026-09-20",
-   "published_at": "2026-09-20T11:11+08:00",
-   "fetched_at": "2026-09-20T13:14+08:00",
-   "title": "三季度生猪产能去化加速,四季度或接近尾声",
-   "summary": "卓创资讯生猪市场分析师朱泽坤 【导语】2026年生猪价格低迷,生猪养殖长期处于亏损状态,长期亏损压力下,养殖端于三季度开始加速淘汰母猪出栏...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpe9350585.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
   }
  ]
 }
