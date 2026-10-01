@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T06:29+08:00",
+ "updated_at": "2026-10-01T09:28+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -9,7 +9,6 @@
   "IndexBox": 3,
   "KLSE Screener": 1,
   "VanPeople": 1,
-  "bihainews.com": 1,
   "finance.sina.com.cn": 9,
   "news.10jqka.com.cn": 1,
   "sohu.com": 2,
@@ -17,7 +16,7 @@
   "vinetur.com": 1,
   "Межа. Новини України.": 1,
   "上海证券报·中国证券网": 1,
-  "东方财富": 4,
+  "东方财富": 5,
   "东方财富研究中心": 2,
   "中华网": 2,
   "中国新闻网": 1,
@@ -45,12 +44,12 @@
   "新京报": 3,
   "新华财经": 5,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 49,
+  "新浪财经": 48,
   "新浪财经_金融信息服务商": 3,
   "期货日报": 3,
   "期货日报网": 2,
   "正信期货": 1,
-  "每日经济新闻": 7,
+  "每日经济新闻": 8,
   "汇通网 Fx678": 1,
   "深圳商报·读创": 1,
   "温哥华港湾": 1,
@@ -73,21 +72,59 @@
  },
  "items": [
   {
-   "id": "news_7c422eb7ff662c408356",
+   "id": "news_ee415fefd8ec540c3162",
    "date": "2026-10-01",
-   "published_at": "2026-10-01T05:10+08:00",
+   "published_at": "2026-10-01T07:24+08:00",
+   "fetched_at": "2026-10-01T09:28+08:00",
+   "title": "CBOT农产品期货主力合约收盘全线下跌 玉米期货跌3.98%",
+   "summary": "当地时间9月30日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.29%报1294.00美分/蒲式耳,玉米期货跌3.98%报501.25美分/蒲式耳,小麦期货跌2.53%报675.25美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610013888015518.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_bde76ed7efa66642776c",
+   "date": "2026-10-01",
+   "published_at": "2026-10-01T07:10+08:00",
    "fetched_at": "2026-10-01T06:29+08:00",
-   "title": "10月1日猪价:开门红!猪价“柳暗花明”,南北携手上涨,季节性上涨“拐点”开始?",
+   "title": "10月1日猪价:涨涨涨!猪价“180°大变”,接下来“开挂”上涨?",
    "summary": "",
    "source": "搜狐网",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1082866780_120238851",
+   "url": "https://m.sohu.com/a/1082867000_120238851",
    "company": "",
    "material_ids": [
     "LH"
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_6cc10cd1474fb36dd71c",
+   "date": "2026-10-01",
+   "published_at": "2026-10-01T03:55+08:00",
+   "fetched_at": "2026-10-01T09:28+08:00",
+   "title": "印度尼西亚贸易部宣布 将10月毛棕榈油(CPO)参考价格定为每公吨1042.15美元",
+   "summary": "",
+   "source": "东方财富",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609303887844844.html",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
    ],
    "relevance_score": 8
   },
@@ -3905,44 +3942,6 @@
    ],
    "matched_keywords": [
     "纸浆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_48733125908c75cb04bb",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T06:41+08:00",
-   "fetched_at": "2026-09-21T23:15+08:00",
-   "title": "三季度生猪产能去化加速,四季度或接近尾声",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-20/detail-inismvpe9350585.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9c651f6e61d39c203ef1",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T03:19+08:00",
-   "fetched_at": "2026-09-22T06:44+08:00",
-   "title": "【业内人士:印度豆油进口量或因价格优势创历史新高】_期货_24H快讯",
-   "summary": "",
-   "source": "bihainews.com",
-   "type": "价格行情",
-   "url": "https://www.bihainews.com/bhn-bulletin/bhqh/735227.html",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
    ],
    "relevance_score": 8
   }

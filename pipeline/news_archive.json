@@ -1,20 +1,58 @@
 [
  {
-  "id": "news_7c422eb7ff662c408356",
+  "id": "news_ee415fefd8ec540c3162",
   "date": "2026-10-01",
-  "published_at": "2026-10-01T05:10+08:00",
+  "published_at": "2026-10-01T07:24+08:00",
+  "fetched_at": "2026-10-01T09:28+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线下跌 玉米期货跌3.98%",
+  "summary": "当地时间9月30日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.29%报1294.00美分/蒲式耳,玉米期货跌3.98%报501.25美分/蒲式耳,小麦期货跌2.53%报675.25美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610013888015518.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_bde76ed7efa66642776c",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T07:10+08:00",
   "fetched_at": "2026-10-01T06:29+08:00",
-  "title": "10月1日猪价:开门红!猪价“柳暗花明”,南北携手上涨,季节性上涨“拐点”开始?",
+  "title": "10月1日猪价:涨涨涨!猪价“180°大变”,接下来“开挂”上涨?",
   "summary": "",
   "source": "搜狐网",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1082866780_120238851",
+  "url": "https://m.sohu.com/a/1082867000_120238851",
   "company": "",
   "material_ids": [
    "LH"
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6cc10cd1474fb36dd71c",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T03:55+08:00",
+  "fetched_at": "2026-10-01T09:28+08:00",
+  "title": "印度尼西亚贸易部宣布 将10月毛棕榈油(CPO)参考价格定为每公吨1042.15美元",
+  "summary": "",
+  "source": "东方财富",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609303887844844.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
   ],
   "relevance_score": 8
  },
