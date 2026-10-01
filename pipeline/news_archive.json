@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_cd1c9037b324a876d985",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T09:06+08:00",
+  "fetched_at": "2026-10-01T15:42+08:00",
+  "title": "纯牛奶过剩,饮用奶用原奶减量2.6万吨...“原奶配额”谈判达成协议- 阿视亚经济",
+  "summary": "",
+  "source": "아시아경제",
+  "type": "政策与供应",
+  "url": "https://www.asiae.co.kr/cn/article/2026100110025844649",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_ee415fefd8ec540c3162",
   "date": "2026-10-01",
   "published_at": "2026-10-01T07:24+08:00",
@@ -928,6 +947,27 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7c7d4fb4b6c7a87528f4",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T10:30+08:00",
+  "fetched_at": "2026-10-01T15:42+08:00",
+  "title": "2026年9月29日大豆豆油价格:新粮上市,购销分化",
+  "summary": "",
+  "source": "QQ News",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20260929A04IEX00?ptag=ima",
+  "company": "",
+  "material_ids": [
+   "A",
+   "Y"
+  ],
+  "matched_keywords": [
+   "大豆",
+   "豆油"
   ],
   "relevance_score": 8
  },
