@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_a589510a77a6cc8db148",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T21:30+08:00",
+  "fetched_at": "2026-10-01T23:13+08:00",
+  "title": "美国农业部生猪报告2026年10月1日:采购量涨跌互现,胴体价格 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-october-1-2026-purchase-volumes-and-pricing/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_5ab05dca9e3533e404f2",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T19:46+08:00",
+  "fetched_at": "2026-10-01T23:13+08:00",
+  "title": "马棕油跌至11周低点:出口疲软与产量攀升主导短期情绪_外汇动态报道",
+  "summary": "",
+  "source": "汇通网 Fx678",
+  "type": "供需动态",
+  "url": "https://www.fx678.com/202610011946562288.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕油",
+   "马棕油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_cd1c9037b324a876d985",
   "date": "2026-10-01",
   "published_at": "2026-10-01T09:06+08:00",
@@ -15,6 +54,25 @@
   ],
   "matched_keywords": [
    "原奶"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_832a9ff684e8109999f1",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T07:39+08:00",
+  "fetched_at": "2026-09-30T20:54+08:00",
+  "title": "本周国内豆油现货报价下跌",
+  "summary": "",
+  "source": "东方财富",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202609303887518034.html",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
   ],
   "relevance_score": 8
  },
@@ -285,25 +343,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_832a9ff684e8109999f1",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T11:08+08:00",
-  "fetched_at": "2026-09-30T20:54+08:00",
-  "title": "本周国内豆油现货报价下跌",
-  "summary": "",
-  "source": "东方财富",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609303887518034.html",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
   ],
   "relevance_score": 8
  },
@@ -1279,6 +1318,26 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6393bf01a21be7dd4bdf",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T18:27+08:00",
+  "fetched_at": "2026-10-01T23:13+08:00",
+  "title": "农业农村部:专家分析认为,预计本周生猪和猪肉价格以稳为主",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://wap.cj.sina.cn/7x24/5116408",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪肉价格"
   ],
   "relevance_score": 8
  },

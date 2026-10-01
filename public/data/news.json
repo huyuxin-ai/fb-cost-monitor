@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-01T15:42+08:00",
+ "updated_at": "2026-10-01T23:13+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "Dairy News Today": 2,
   "IDNFinancials": 1,
-  "IndexBox": 3,
+  "IndexBox": 4,
   "KLSE Screener": 1,
   "QQ News": 1,
   "VanPeople": 1,
@@ -30,7 +30,7 @@
   "华夏时报网": 1,
   "南华期货": 1,
   "南方财经网": 15,
-  "发现报告": 2,
+  "发现报告": 1,
   "同花顺": 5,
   "同花顺财经": 7,
   "国信期货": 1,
@@ -51,12 +51,11 @@
   "期货日报网": 2,
   "正信期货": 1,
   "每日经济新闻": 8,
-  "汇通网 Fx678": 1,
+  "汇通网 Fx678": 2,
   "深圳商报·读创": 1,
   "温哥华港湾": 1,
   "澎湃新闻": 1,
   "瑞达期货": 1,
-  "界面新闻": 1,
   "第一财经": 3,
   "经济日报": 1,
   "茉莉花新闻网": 1,
@@ -74,6 +73,45 @@
  },
  "items": [
   {
+   "id": "news_a589510a77a6cc8db148",
+   "date": "2026-10-01",
+   "published_at": "2026-10-01T21:30+08:00",
+   "fetched_at": "2026-10-01T23:13+08:00",
+   "title": "美国农业部生猪报告2026年10月1日:采购量涨跌互现,胴体价格 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-october-1-2026-purchase-volumes-and-pricing/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_5ab05dca9e3533e404f2",
+   "date": "2026-10-01",
+   "published_at": "2026-10-01T19:46+08:00",
+   "fetched_at": "2026-10-01T23:13+08:00",
+   "title": "马棕油跌至11周低点:出口疲软与产量攀升主导短期情绪_外汇动态报道",
+   "summary": "",
+   "source": "汇通网 Fx678",
+   "type": "供需动态",
+   "url": "https://www.fx678.com/202610011946562288.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕油",
+    "马棕油"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_cd1c9037b324a876d985",
    "date": "2026-10-01",
    "published_at": "2026-10-01T09:06+08:00",
@@ -89,6 +127,25 @@
    ],
    "matched_keywords": [
     "原奶"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_832a9ff684e8109999f1",
+   "date": "2026-10-01",
+   "published_at": "2026-10-01T07:39+08:00",
+   "fetched_at": "2026-09-30T20:54+08:00",
+   "title": "本周国内豆油现货报价下跌",
+   "summary": "",
+   "source": "东方财富",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202609303887518034.html",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
    ],
    "relevance_score": 8
   },
@@ -339,25 +396,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_832a9ff684e8109999f1",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T11:08+08:00",
-   "fetched_at": "2026-09-30T20:54+08:00",
-   "title": "本周国内豆油现货报价下跌",
-   "summary": "",
-   "source": "东方财富",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609303887518034.html",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
    ],
    "relevance_score": 8
   },
@@ -1314,6 +1352,26 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_6393bf01a21be7dd4bdf",
+   "date": "2026-09-28",
+   "published_at": "2026-09-28T18:27+08:00",
+   "fetched_at": "2026-10-01T23:13+08:00",
+   "title": "农业农村部:专家分析认为,预计本周生猪和猪肉价格以稳为主",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://wap.cj.sina.cn/7x24/5116408",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪肉价格"
    ],
    "relevance_score": 8
   },
@@ -3887,65 +3945,6 @@
    ],
    "matched_keywords": [
     "玉米"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_a36744b517d6f40e4140",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T10:49+08:00",
-   "fetched_at": "2026-09-21T14:53+08:00",
-   "title": "节前猪价“旺季不旺”,后期能否迎来上涨行情",
-   "summary": "卓创资讯生猪行业分析师邹莹吉在研究报告中表示,从产能和需求看,四季度猪价或存在上涨空间。 卓创资讯监测196家样本企业能繁母猪存栏量在此阶段减少,对应三四季度生猪理论出栏量或减少,或利多猪价。需求端看,四季度气温下降,同时腌腊、灌香肠旺季到来,需求或有明显增加,利多猪价。",
-   "source": "界面新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609213879811855.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪",
-    "能繁母猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_063b9e689b93eede8690",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T09:57+08:00",
-   "fetched_at": "2026-09-21T21:44+08:00",
-   "title": "生意社2026年9月21日PTA趋势分析:明确下跌",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-21/doc-inispyne8932133.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b5e2f2ce008efa64c4e4",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T09:29+08:00",
-   "fetched_at": "2026-09-21T14:53+08:00",
-   "title": "南华期货:《南华生猪产业周报:现货续跌,期货下修,升水向零收敛20260921》",
-   "summary": "",
-   "source": "发现报告",
-   "type": "价格行情",
-   "url": "https://www.fxbaogao.com/detail/5712946",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 8
   }
