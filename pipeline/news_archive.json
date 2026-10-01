@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_0f927c8c286d0acbded5",
+  "date": "2026-10-02",
+  "published_at": "2026-10-02T00:19+08:00",
+  "fetched_at": "2026-10-02T04:26+08:00",
+  "title": "上涨!2026.10.2生猪市场信息交流",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1083205057_122014422",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a589510a77a6cc8db148",
   "date": "2026-10-01",
   "published_at": "2026-10-01T21:30+08:00",
