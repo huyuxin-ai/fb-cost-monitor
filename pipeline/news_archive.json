@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_dd79e9c4f465e88c4bd6",
+  "date": "2026-10-02",
+  "published_at": "2026-10-02T16:51+08:00",
+  "fetched_at": "2026-10-03T02:36+08:00",
+  "title": "今日核桃价格一览|10月2日",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1083426108_122014422",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_96ea51f6c51d5d094309",
   "date": "2026-10-02",
   "published_at": "2026-10-02T16:33+08:00",
@@ -1845,6 +1864,27 @@
    "生猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_a835e4ba94f73deef32f",
+  "date": "2026-09-28",
+  "published_at": "2026-09-28T10:32+08:00",
+  "fetched_at": "2026-10-03T02:36+08:00",
+  "title": "2026年9月28日大豆豆油价格:新粮陆续上市,农户惜售挺价",
+  "summary": "",
+  "source": "腾讯新闻",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20260928A047XX00",
+  "company": "",
+  "material_ids": [
+   "A",
+   "Y"
+  ],
+  "matched_keywords": [
+   "大豆",
+   "豆油"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_0a390a89aecbfe95f767",
