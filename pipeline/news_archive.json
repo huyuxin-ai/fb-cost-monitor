@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_3d5429ba020d274fc42c",
+  "date": "2026-10-03",
+  "published_at": "2026-10-03T05:07+08:00",
+  "fetched_at": "2026-10-03T06:50+08:00",
+  "title": "10月3日猪价:3连涨!猪价上涨“突然降温”,接下来跌回“原价”?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1083468253_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_dd79e9c4f465e88c4bd6",
   "date": "2026-10-02",
   "published_at": "2026-10-02T16:51+08:00",
