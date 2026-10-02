@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T08:04+08:00",
+ "updated_at": "2026-10-02T14:00+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,6 +10,7 @@
   "KLSE Screener": 1,
   "QQ News": 1,
   "VanPeople": 1,
+  "dairynews.today": 1,
   "finance.sina.com.cn": 9,
   "news.10jqka.com.cn": 1,
   "sohu.com": 2,
@@ -24,7 +25,6 @@
   "中国证券报": 1,
   "中财期货": 1,
   "人民日报": 2,
-  "人民财讯": 1,
   "光大期货": 1,
   "农业农村部": 1,
   "华夏时报网": 1,
@@ -32,20 +32,21 @@
   "南方财经网": 15,
   "发现报告": 1,
   "同花顺": 5,
-  "同花顺财经": 7,
+  "同花顺财经": 6,
   "国信期货": 1,
   "国元期货": 1,
   "国家粮食和物资储备局": 4,
   "大地期货": 1,
   "大河财立方": 2,
+  "央视新闻": 1,
   "央视财经": 1,
   "微博": 1,
   "手机网易网": 1,
-  "搜狐网": 11,
+  "搜狐网": 10,
   "新京报": 3,
   "新华财经": 5,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 47,
+  "新浪财经": 49,
   "新浪财经_金融信息服务商": 3,
   "期货日报": 3,
   "期货日报网": 2,
@@ -59,7 +60,6 @@
   "第一财经": 3,
   "经济日报": 1,
   "茉莉花新闻网": 1,
-  "虎嗅网": 1,
   "证券之星": 2,
   "证券日报": 1,
   "证券时报": 1,
@@ -73,21 +73,97 @@
  },
  "items": [
   {
-   "id": "news_d31b86c98911afd045b7",
+   "id": "news_40ed91b9367fb270906b",
    "date": "2026-10-02",
-   "published_at": "2026-10-02T07:00+08:00",
-   "fetched_at": "2026-10-02T08:04+08:00",
-   "title": "10月2日猪价:涨猛了!猪价上涨“摧枯拉朽”,季节性上涨“拐点”兑现?",
+   "published_at": "2026-10-02T11:00+08:00",
+   "fetched_at": "2026-10-02T14:00+08:00",
+   "title": "棕榈油:产量超预期兑现,单边回调之后机会在哪里?",
+   "summary": "来源:牛钱网 嘉宾介绍:徐超,大地期货油脂首席分析师,国内资深“生柴”研究专家,农产品SQL数据库核心开发者。曾供职于油脂龙头企业...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-02/doc-initviic4599323.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_12942ec2f70c09cf8a46",
+   "date": "2026-10-02",
+   "published_at": "2026-10-02T10:17+08:00",
+   "fetched_at": "2026-10-02T14:00+08:00",
+   "title": "猪肉价格又到关键路口?9月起,猪肉价格或将重演2015年的历史",
    "summary": "",
    "source": "搜狐网",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1083179727_120238851",
+   "url": "https://m.sohu.com/a/1083308911_122572428",
    "company": "",
    "material_ids": [
     "LH"
    ],
    "matched_keywords": [
-    "猪价"
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_93accf687767be0b3745",
+   "date": "2026-10-02",
+   "published_at": "2026-10-02T08:02+08:00",
+   "fetched_at": "2026-10-02T14:00+08:00",
+   "title": "奶价上涨,但供应恢复可能抑制涨幅",
+   "summary": "",
+   "source": "dairynews.today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/__9932344.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_6f929b3eba50f78adcff",
+   "date": "2026-10-02",
+   "published_at": "2026-10-02T00:00+08:00",
+   "fetched_at": "2026-10-02T14:00+08:00",
+   "title": "上涨!2026.10.2生猪市场信息交流",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-02/doc-inittzpz7942250.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_0b92d089849c612e09ec",
+   "date": "2026-10-02",
+   "published_at": "2026-10-02T00:00+08:00",
+   "fetched_at": "2026-10-02T14:00+08:00",
+   "title": "今年,全国秋粮面积预计稳中有增,特别是高产作物玉米增加较多。目前,已开始大面积收获,进度过三成,快于去年同期。如果后期气象条件总体正常,有望再获丰收。",
+   "summary": "",
+   "source": "央视新闻",
+   "type": "供需动态",
+   "url": "https://news.cctv.com/2026/10/02/ARTIIsxXmuBJCBBUWV2HxVlO261002.shtml",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
    ],
    "relevance_score": 8
   },
@@ -3867,84 +3943,6 @@
    "matched_keywords": [
     "生猪",
     "猪肉价格"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fc59c1686e18b3595581",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T11:53+08:00",
-   "fetched_at": "2026-09-21T14:53+08:00",
-   "title": "【现货】9月21日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260921/c680114777.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_69d5e0ab5fda08086ed7",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T11:30+08:00",
-   "fetched_at": "2026-09-21T14:53+08:00",
-   "title": "猪价深跌与白鸡磨底并存,产能去化加速期哪条主线率先兑现盈利弹性?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "供需动态",
-   "url": "https://m.sohu.com/a/1078927228_121157270",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_d5cf39b6aab12292073b",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T11:18+08:00",
-   "fetched_at": "2026-09-21T14:53+08:00",
-   "title": "温氏股份:初步预计春节前后猪价有望迎来盘整拐点",
-   "summary": "温氏股份(300498)近日在路演活动中表示,猪价已持续低迷较长时间。对于周期反转的具体时点与幅度,产业端和市场端存在一定分歧,初步预计春节前后猪价有望迎来盘整拐点。行业普遍预期2027年行业实现盈利的确定性较高,盈利水平取决于今年三四季度猪价走势和行业产能去化情况。",
-   "source": "人民财讯",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609213879838144.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_9b33e72cffaeaae6f2c5",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T11:08+08:00",
-   "fetched_at": "2026-09-24T17:06+08:00",
-   "title": "厄尔尼诺持续增强,农产品减产定价分化:棕榈油预期差最大,大豆最小",
-   "summary": "",
-   "source": "虎嗅网",
-   "type": "供需动态",
-   "url": "https://m.huxiu.com/article/4892652.html?type=text",
-   "company": "",
-   "material_ids": [
-    "P",
-    "A"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "大豆"
    ],
    "relevance_score": 8
   }
