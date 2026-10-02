@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_2811f26b9b8376eba6d0",
+  "date": "2026-10-02",
+  "published_at": "2026-10-02T15:31+08:00",
+  "fetched_at": "2026-10-02T21:00+08:00",
+  "title": "印尼上调10月毛棕榈油及可可豆出口计税价格",
+  "summary": "",
+  "source": "Shangbao Indonesia",
+  "type": "价格行情",
+  "url": "https://www.shangbaoindonesia.com/read/2026/10/02/economy-1790929875",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_40ed91b9367fb270906b",
   "date": "2026-10-02",
   "published_at": "2026-10-02T11:00+08:00",
@@ -264,6 +283,46 @@
   "matched_keywords": [
    "生猪",
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d6fc0c9351ad45d79a20",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T22:39+08:00",
+  "fetched_at": "2026-10-02T21:00+08:00",
+  "title": "USDA 8月月报:南美大豆和玉米产量及全球农作物库存数据-市场参考",
+  "summary": "",
+  "source": "金十数据",
+  "type": "供需动态",
+  "url": "https://xnews.jin10.com/details/227272",
+  "company": "",
+  "material_ids": [
+   "C",
+   "A"
+  ],
+  "matched_keywords": [
+   "玉米",
+   "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6d575bd0e8663172ca54",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T21:03+08:00",
+  "fetched_at": "2026-10-02T21:00+08:00",
+  "title": "本周国内豆油现货报价下跌",
+  "summary": "",
+  "source": "东方财富",
+  "type": "价格行情",
+  "url": "https://wap.eastmoney.com/a/202609303887518034.html",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
   ],
   "relevance_score": 8
  },
@@ -1102,6 +1161,25 @@
   "matched_keywords": [
    "大豆",
    "豆油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_bc337f8621e3d605e14b",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T09:51+08:00",
+  "fetched_at": "2026-10-02T21:00+08:00",
+  "title": "豆粕供需改善预期发酵 内外盘价格维持高位运行",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-28/detail-initiwim9657549.d.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
   ],
   "relevance_score": 8
  },
