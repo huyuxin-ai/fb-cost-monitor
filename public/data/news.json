@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T06:50+08:00",
+ "updated_at": "2026-10-03T15:46+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -33,7 +33,7 @@
   "南方财经网": 13,
   "发现报告": 1,
   "同花顺": 4,
-  "同花顺财经": 5,
+  "同花顺财经": 4,
   "国信期货": 1,
   "国元期货": 1,
   "国家粮食和物资储备局": 4,
@@ -47,7 +47,7 @@
   "新京报": 3,
   "新华财经": 5,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 48,
+  "新浪财经": 49,
   "新浪财经_金融信息服务商": 3,
   "期货日报": 4,
   "期货日报网": 2,
@@ -1370,6 +1370,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_37c6c011c8ec7f52ac39",
+   "date": "2026-09-29",
+   "published_at": "2026-09-29T09:32+08:00",
+   "fetched_at": "2026-10-03T15:46+08:00",
+   "title": "生意社2026年9月29日PTA趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-29/doc-initmzhf7937054.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
    ],
    "relevance_score": 8
   },
@@ -3928,25 +3947,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_18939999448ecd64257d",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T16:04+08:00",
-   "fetched_at": "2026-09-21T21:44+08:00",
-   "title": "【收评】白糖日内上涨0.04% 机构称白糖库存高位,糖价上行动能偏弱",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20260921/c680120841.shtml",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白糖"
    ],
    "relevance_score": 8
   }
