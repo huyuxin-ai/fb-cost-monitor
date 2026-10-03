@@ -1,14 +1,14 @@
 [
  {
-  "id": "news_3d5429ba020d274fc42c",
+  "id": "news_cf0e9d91fca2faf7c4fd",
   "date": "2026-10-03",
-  "published_at": "2026-10-03T05:07+08:00",
+  "published_at": "2026-10-03T07:07+08:00",
   "fetched_at": "2026-10-03T06:50+08:00",
-  "title": "10月3日猪价:3连涨!猪价上涨“突然降温”,接下来跌回“原价”?",
+  "title": "10月3日猪价:7跌16涨!猪价上涨“承压”,节后跌回“解放前”?",
   "summary": "",
   "source": "搜狐网",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1083468253_120238851",
+  "url": "https://m.sohu.com/a/1083469403_120238851",
   "company": "",
   "material_ids": [
    "LH"
@@ -479,6 +479,25 @@
    "玉米"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_93fe803745a1d4ed0a6c",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T15:00+08:00",
+  "fetched_at": "2026-09-27T20:53+08:00",
+  "title": "PTA期货报价",
+  "summary": "",
+  "source": "东方财富",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/pta.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_260b2f63f15b71a501e6",
@@ -2625,25 +2644,6 @@
    "白砂糖"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_93fe803745a1d4ed0a6c",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T15:00+08:00",
-  "fetched_at": "2026-09-27T20:53+08:00",
-  "title": "PTA期货报价",
-  "summary": "",
-  "source": "东方财富",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/pta.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_b13a71d4f29a74ffd284",
