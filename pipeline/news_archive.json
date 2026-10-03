@@ -1,14 +1,14 @@
 [
  {
-  "id": "news_cf0e9d91fca2faf7c4fd",
+  "id": "news_6be2070947ba61106152",
   "date": "2026-10-03",
-  "published_at": "2026-10-03T07:07+08:00",
-  "fetched_at": "2026-10-03T06:50+08:00",
-  "title": "10月3日猪价:7跌16涨!猪价上涨“承压”,节后跌回“解放前”?",
+  "published_at": "2026-10-03T16:35+08:00",
+  "fetched_at": "2026-10-04T01:31+08:00",
+  "title": "一夜降温,猪价下跌“卷土重来”!附:10月4日猪价",
   "summary": "",
   "source": "搜狐网",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1083469403_120238851",
+  "url": "https://m.sohu.com/a/1083689861_120238851",
   "company": "",
   "material_ids": [
    "LH"
@@ -302,6 +302,25 @@
   ],
   "matched_keywords": [
    "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_eef53f02a1e9d2e30cd1",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T01:30+08:00",
+  "fetched_at": "2026-10-04T01:31+08:00",
+  "title": "美国农业部芝加哥坚果价格:杏仁、腰果、碧根果等 - 2026年9月30日 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/chicago-terminal-market-nuts-prices-report-september-30-2026/",
+  "company": "",
+  "material_ids": [
+   "CASHEW"
+  ],
+  "matched_keywords": [
+   "腰果"
   ],
   "relevance_score": 8
  },
@@ -1060,6 +1079,25 @@
   ],
   "matched_keywords": [
    "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7d6830b0456b7e120bb2",
+  "date": "2026-09-29",
+  "published_at": "2026-09-29T13:46+08:00",
+  "fetched_at": "2026-10-04T01:31+08:00",
+  "title": "多方因素支撑猪价震荡走低!9月猪价为啥越卖越便宜?",
+  "summary": "",
+  "source": "腾讯新闻",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20260929A06ZK700",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
    "猪价"
   ],
   "relevance_score": 8
