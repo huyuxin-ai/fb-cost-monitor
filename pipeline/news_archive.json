@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_2d62d19c6464e0051c8e",
+  "date": "2026-10-04",
+  "published_at": "2026-10-04T07:08+08:00",
+  "fetched_at": "2026-10-04T07:35+08:00",
+  "title": "10月4日猪价:突然下跌!猪价止步“3连涨”,越跌越猛?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1083743268_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_6be2070947ba61106152",
   "date": "2026-10-03",
   "published_at": "2026-10-03T16:35+08:00",
