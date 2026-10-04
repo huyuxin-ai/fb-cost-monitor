@@ -538,6 +538,25 @@
   "relevance_score": 11
  },
  {
+  "id": "news_8cf32b71f892b9c52293",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T15:06+08:00",
+  "fetched_at": "2026-10-05T06:27+08:00",
+  "title": "全球库存10年最低 玉米后市不必太悲观",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "供需动态",
+  "url": "https://mt.sohu.com/a/1082727555_121118712",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_93fe803745a1d4ed0a6c",
   "date": "2026-09-30",
   "published_at": "2026-09-30T15:00+08:00",

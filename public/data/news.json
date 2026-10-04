@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T23:55+08:00",
+ "updated_at": "2026-10-05T06:27+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -41,9 +41,9 @@
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 13,
+  "搜狐网": 14,
   "新京报": 3,
-  "新华财经": 5,
+  "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
   "新浪财经": 49,
   "新浪财经_金融信息服务商": 3,
@@ -608,6 +608,25 @@
     "玉米"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_8cf32b71f892b9c52293",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T15:06+08:00",
+   "fetched_at": "2026-10-05T06:27+08:00",
+   "title": "全球库存10年最低 玉米后市不必太悲观",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "供需动态",
+   "url": "https://mt.sohu.com/a/1082727555_121118712",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_93fe803745a1d4ed0a6c",
@@ -3927,25 +3946,6 @@
     "猪价"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_2aee80a83c6209d4e776",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T17:40+08:00",
-   "fetched_at": "2026-09-21T23:15+08:00",
-   "title": "商品日报(9月21日):纸浆大涨创近四个月新高 油价继续回吐风险溢价",
-   "summary": "下跌品种方面,SC原油跌超4%;菜粕跌超2%;液化气、聚丙烯、LU、丙烯、生猪、苹果、塑料、豆粕、燃料油跌超1%。",
-   "source": "新华财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609213880292256.html",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
-   ],
-   "relevance_score": 7
   }
  ]
 }
