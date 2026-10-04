@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T07:35+08:00",
+ "updated_at": "2026-10-04T23:55+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,7 +8,7 @@
   "IDNFinancials": 1,
   "IndexBox": 5,
   "KLSE Screener": 1,
-  "QQ News": 1,
+  "QQ News": 2,
   "Shangbao Indonesia": 1,
   "VanPeople": 1,
   "dairynews.today": 1,
@@ -31,7 +31,6 @@
   "华夏时报网": 1,
   "南华期货": 1,
   "南方财经网": 13,
-  "发现报告": 1,
   "同花顺": 4,
   "同花顺财经": 3,
   "国信期货": 1,
@@ -533,6 +532,25 @@
     "玉米"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_486ee07c935739904270",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T16:34+08:00",
+   "fetched_at": "2026-10-04T23:55+08:00",
+   "title": "原奶跌到2.8元一公斤,超市鲜奶仍卖18元,1升奶里原奶成本不到3.2元",
+   "summary": "",
+   "source": "QQ News",
+   "type": "供需动态",
+   "url": "https://news.qq.com/rain/a/20260930A08IIV00",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_4ecf8f98fb4677301c46",
@@ -3928,25 +3946,6 @@
     "纸浆"
    ],
    "relevance_score": 7
-  },
-  {
-   "id": "news_8db8edeecd961136e0c4",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T17:20+08:00",
-   "fetched_at": "2026-09-21T21:44+08:00",
-   "title": "山西证券:《农业行业周报 本周猪价震荡走弱,白羽肉鸡/鸡苗均价显著下滑》",
-   "summary": "",
-   "source": "发现报告",
-   "type": "价格行情",
-   "url": "https://www.fxbaogao.com/detail/5715387",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }

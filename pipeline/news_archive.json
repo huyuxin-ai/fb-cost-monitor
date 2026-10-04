@@ -462,6 +462,25 @@
   "relevance_score": 11
  },
  {
+  "id": "news_486ee07c935739904270",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T16:34+08:00",
+  "fetched_at": "2026-10-04T23:55+08:00",
+  "title": "原奶跌到2.8元一公斤,超市鲜奶仍卖18元,1升奶里原奶成本不到3.2元",
+  "summary": "",
+  "source": "QQ News",
+  "type": "供需动态",
+  "url": "https://news.qq.com/rain/a/20260930A08IIV00",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_4ecf8f98fb4677301c46",
   "date": "2026-09-30",
   "published_at": "2026-09-30T15:49+08:00",
