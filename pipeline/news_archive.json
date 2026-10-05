@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_2342b8b6a03a3a505ec6",
+  "date": "2026-10-06",
+  "published_at": "2026-10-06T00:39+08:00",
+  "fetched_at": "2026-10-06T00:55+08:00",
+  "title": "猪价再次上涨!2026.10.6生猪市场信息交流",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1084303433_122014422",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d313c7b3d64b62deca4b",
+  "date": "2026-10-06",
+  "published_at": "2026-10-06T00:37+08:00",
+  "fetched_at": "2026-10-06T00:55+08:00",
+  "title": "假期利好加持,全国猪价小幅上行",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-06/detail-iniuezxv4078702.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a3c83b9ea4506b5f63cd",
   "date": "2026-10-05",
   "published_at": "2026-10-05T14:45+08:00",
@@ -54,6 +93,26 @@
    "LH"
   ],
   "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_057ea131869fffbbe2da",
+  "date": "2026-10-04",
+  "published_at": "2026-10-04T13:06+08:00",
+  "fetched_at": "2026-10-06T00:55+08:00",
+  "title": "10月04日猪评:风向突变!节日效应减弱,生猪价格止涨回落!",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101uxoq",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
    "猪价"
   ],
   "relevance_score": 8
