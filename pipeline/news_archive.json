@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_2e863bf6243e1c474979",
+  "date": "2026-10-05",
+  "published_at": "2026-10-05T08:25+08:00",
+  "fetched_at": "2026-10-05T09:09+08:00",
+  "title": "【券商聚焦】中信建投:9月西北华北多地散奶价格上涨明显,肉奶共振推动原奶周期向好_滚动新闻_财经",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://wap.stockstar.com/detail/IG2026100500000049",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶",
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c14a3ec8362372e3b5e1",
+  "date": "2026-10-05",
+  "published_at": "2026-10-05T07:11+08:00",
+  "fetched_at": "2026-10-05T09:09+08:00",
+  "title": "10月5日猪价:4涨13跌!猪价“滑坡”下跌,国庆后猪价跌回“原价”?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1083996085_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_2d62d19c6464e0051c8e",
   "date": "2026-10-04",
   "published_at": "2026-10-04T07:08+08:00",
@@ -226,6 +265,25 @@
   "matched_keywords": [
    "棕油",
    "马棕油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_53aa67942b4a9e76182d",
+  "date": "2026-10-01",
+  "published_at": "2026-10-01T18:16+08:00",
+  "fetched_at": "2026-10-05T09:09+08:00",
+  "title": "高温催逼产区集中售粮,三季度玉米行情或持续走弱-市场参考",
+  "summary": "",
+  "source": "金十数据",
+  "type": "价格行情",
+  "url": "https://xnews.jin10.com/details/225798",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
   ],
   "relevance_score": 8
  },

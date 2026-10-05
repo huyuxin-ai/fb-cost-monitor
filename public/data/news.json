@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T06:27+08:00",
+ "updated_at": "2026-10-05T09:09+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -37,15 +37,15 @@
   "国元期货": 1,
   "国家粮食和物资储备局": 4,
   "大地期货": 1,
-  "大河财立方": 2,
+  "大河财立方": 1,
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 14,
+  "搜狐网": 15,
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 49,
+  "新浪财经": 47,
   "新浪财经_金融信息服务商": 3,
   "期货日报": 3,
   "期货日报网": 2,
@@ -59,18 +59,57 @@
   "经济日报": 1,
   "腾讯新闻": 2,
   "茉莉花新闻网": 1,
-  "证券之星": 2,
+  "证券之星": 3,
   "证券日报": 1,
   "证券时报": 1,
   "证券时报网": 1,
   "财联社": 3,
   "迈科期货": 1,
-  "金十数据": 3,
+  "金十数据": 4,
   "铜冠金源期货": 1,
   "雪球": 1,
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_2e863bf6243e1c474979",
+   "date": "2026-10-05",
+   "published_at": "2026-10-05T08:25+08:00",
+   "fetched_at": "2026-10-05T09:09+08:00",
+   "title": "【券商聚焦】中信建投:9月西北华北多地散奶价格上涨明显,肉奶共振推动原奶周期向好_滚动新闻_财经",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://wap.stockstar.com/detail/IG2026100500000049",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_c14a3ec8362372e3b5e1",
+   "date": "2026-10-05",
+   "published_at": "2026-10-05T07:11+08:00",
+   "fetched_at": "2026-10-05T09:09+08:00",
+   "title": "10月5日猪价:4涨13跌!猪价“滑坡”下跌,国庆后猪价跌回“原价”?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1083996085_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_2d62d19c6464e0051c8e",
    "date": "2026-10-04",
@@ -298,6 +337,25 @@
    "matched_keywords": [
     "棕油",
     "马棕油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_53aa67942b4a9e76182d",
+   "date": "2026-10-01",
+   "published_at": "2026-10-01T18:16+08:00",
+   "fetched_at": "2026-10-05T09:09+08:00",
+   "title": "高温催逼产区集中售粮,三季度玉米行情或持续走弱-市场参考",
+   "summary": "",
+   "source": "金十数据",
+   "type": "价格行情",
+   "url": "https://xnews.jin10.com/details/225798",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
    ],
    "relevance_score": 8
   },
@@ -3889,63 +3947,6 @@
     "玉米"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_f499a6787cdb38251492",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T19:36+08:00",
-   "fetched_at": "2026-09-21T21:44+08:00",
-   "title": "放量增仓突破!纸浆上涨趋势正式开启?",
-   "summary": "【摘要】盘面放量增仓突破“头肩底”颈线压力的核心驱动因素是什么?是否意味着上涨趋势正式开启?【温馨提醒】市场风云变幻,期市波动起伏。光靠看盘可不够!",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-21/doc-inisqvsc6045029.shtml",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_22282848929aca2ba6f5",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T18:52+08:00",
-   "fetched_at": "2026-09-22T03:07+08:00",
-   "title": "农业农村部:扎实推进高标准农田建设,持续推进生猪产能综合调控",
-   "summary": "会议要求,要统筹做好秋冬农业生产各项工作,着力保障“菜篮子”产品均衡供应,大力加强农产品质量安全监管,持续推进生猪产能综合调控,加快推进草食畜牧业高质量发展,强化动物疫病防控,抓好农产品产销衔接,切实保障粮食等重要农产品稳定安全供给。",
-   "source": "大河财立方",
-   "type": "政策与供应",
-   "url": "https://finance.eastmoney.com/a/202609213880360136.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_3f339d4a3bec58830a4d",
-   "date": "2026-09-21",
-   "published_at": "2026-09-21T17:49+08:00",
-   "fetched_at": "2026-09-21T23:15+08:00",
-   "title": "弱势下行!全国猪价偏弱调整,供应充裕消费不足!",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101uka8",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }
