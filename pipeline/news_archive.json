@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_d5a3702f66131a2b3f24",
+  "date": "2026-10-06",
+  "published_at": "2026-10-06T01:15+08:00",
+  "fetched_at": "2026-10-06T01:17+08:00",
+  "title": "3大消息来袭,猪价连夜拉涨,这波反弹能持续多久?",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-06/detail-iniuezxt2477601.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_2342b8b6a03a3a505ec6",
   "date": "2026-10-06",
   "published_at": "2026-10-06T00:39+08:00",

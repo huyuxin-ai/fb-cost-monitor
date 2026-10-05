@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T00:55+08:00",
+ "updated_at": "2026-10-06T01:17+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,7 +10,6 @@
   "KLSE Screener": 1,
   "QQ News": 2,
   "Shangbao Indonesia": 1,
-  "VanPeople": 1,
   "dairynews.today": 1,
   "finance.sina.com.cn": 9,
   "news.10jqka.com.cn": 1,
@@ -45,7 +44,7 @@
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 46,
+  "新浪财经": 47,
   "新浪财经_金融信息服务商": 3,
   "期货日报": 3,
   "期货日报网": 1,
@@ -71,6 +70,25 @@
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_d5a3702f66131a2b3f24",
+   "date": "2026-10-06",
+   "published_at": "2026-10-06T01:15+08:00",
+   "fetched_at": "2026-10-06T01:17+08:00",
+   "title": "3大消息来袭,猪价连夜拉涨,这波反弹能持续多久?",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-10-06/detail-iniuezxt2477601.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_2342b8b6a03a3a505ec6",
    "date": "2026-10-06",
@@ -3929,25 +3947,6 @@
    ],
    "matched_keywords": [
     "易拉罐"
-   ],
-   "relevance_score": 9
-  },
-  {
-   "id": "news_03de39cc27f7d56f63db",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T03:19+08:00",
-   "fetched_at": "2026-09-22T06:44+08:00",
-   "title": "美国铝关税推高成本 加拿大啤酒商转向中国制铝罐 价差最高每罐8仙",
-   "summary": "",
-   "source": "VanPeople",
-   "type": "政策与供应",
-   "url": "https://info.vanpeople.com/1904397.html",
-   "company": "",
-   "material_ids": [
-    "AL"
-   ],
-   "matched_keywords": [
-    "铝罐"
    ],
    "relevance_score": 9
   }
