@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T01:17+08:00",
+ "updated_at": "2026-10-06T18:39+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -13,9 +13,9 @@
   "dairynews.today": 1,
   "finance.sina.com.cn": 9,
   "news.10jqka.com.cn": 1,
+  "qq.com": 1,
   "sohu.com": 2,
   "video.sina.com.cn": 5,
-  "vinetur.com": 1,
   "Межа. Новини України.": 1,
   "上海证券报·中国证券网": 1,
   "东方财富": 6,
@@ -40,7 +40,7 @@
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 16,
+  "搜狐网": 17,
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
@@ -49,7 +49,7 @@
   "期货日报": 3,
   "期货日报网": 1,
   "正信期货": 1,
-  "每日经济新闻": 8,
+  "每日经济新闻": 7,
   "汇通网 Fx678": 2,
   "温哥华港湾": 1,
   "澎湃新闻": 2,
@@ -71,6 +71,44 @@
  },
  "items": [
   {
+   "id": "news_2f1ede8ada911d88152e",
+   "date": "2026-10-06",
+   "published_at": "2026-10-06T16:52+08:00",
+   "fetched_at": "2026-10-06T18:39+08:00",
+   "title": "今日核桃价格一览|10月6日",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1084508655_122014422",
+   "company": "",
+   "material_ids": [
+    "WALNUT"
+   ],
+   "matched_keywords": [
+    "核桃"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_0e593e753e591ce5f71a",
+   "date": "2026-10-06",
+   "published_at": "2026-10-06T14:42+08:00",
+   "fetched_at": "2026-10-06T18:39+08:00",
+   "title": "涨了,猪价上涨“如火如荼”!附:10月7日猪价",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1084474198_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_d5a3702f66131a2b3f24",
    "date": "2026-10-06",
    "published_at": "2026-10-06T01:15+08:00",
@@ -85,26 +123,6 @@
     "LH"
    ],
    "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2342b8b6a03a3a505ec6",
-   "date": "2026-10-06",
-   "published_at": "2026-10-06T00:39+08:00",
-   "fetched_at": "2026-10-06T00:55+08:00",
-   "title": "猪价再次上涨!2026.10.6生猪市场信息交流",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1084303433_122014422",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
     "猪价"
    ],
    "relevance_score": 8
@@ -799,6 +817,27 @@
    ],
    "matched_keywords": [
     "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9e2dda0a59ef17320c4c",
+   "date": "2026-09-30",
+   "published_at": "2026-09-30T14:53+08:00",
+   "fetched_at": "2026-10-06T18:39+08:00",
+   "title": "2026年9月30日大豆豆油价格:新豆零星上市挺价惜售 豆油全线走弱",
+   "summary": "",
+   "source": "qq.com",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20260930A0747G00?ptag=ima",
+   "company": "",
+   "material_ids": [
+    "A",
+    "Y"
+   ],
+   "matched_keywords": [
+    "大豆",
+    "豆油"
    ],
    "relevance_score": 8
   },
@@ -3911,44 +3950,6 @@
     "猪价"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_3427eb9916a1c926d24a",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T05:45+08:00",
-   "fetched_at": "2026-09-22T06:44+08:00",
-   "title": "CBOT农产品期货主力合约收盘全线上涨,玉米期货涨2.94%",
-   "summary": "当地时间9月21日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线上涨,大豆期货涨1.80%报1327.00美分/蒲式耳,玉米期货涨2.94%报543.00美分/蒲式耳,小麦期货涨1.65%报726.00美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609223880403380.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_03e4225a1da15a208eb0",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T04:51+08:00",
-   "fetched_at": "2026-09-22T06:44+08:00",
-   "title": "美国关税推高成本,加拿大饮料商转向中国订购易拉罐",
-   "summary": "",
-   "source": "vinetur.com",
-   "type": "政策与供应",
-   "url": "https://www.vinetur.com/cn/20260921107470/canadian-drink-makers-shift-can-orders-to-china-after-us-tariffs-raise-costs.html",
-   "company": "",
-   "material_ids": [
-    "AL"
-   ],
-   "matched_keywords": [
-    "易拉罐"
-   ],
-   "relevance_score": 9
   }
  ]
 }

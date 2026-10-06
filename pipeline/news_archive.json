@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_2f1ede8ada911d88152e",
+  "date": "2026-10-06",
+  "published_at": "2026-10-06T16:52+08:00",
+  "fetched_at": "2026-10-06T18:39+08:00",
+  "title": "今日核桃价格一览|10月6日",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1084508655_122014422",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0e593e753e591ce5f71a",
+  "date": "2026-10-06",
+  "published_at": "2026-10-06T14:42+08:00",
+  "fetched_at": "2026-10-06T18:39+08:00",
+  "title": "涨了,猪价上涨“如火如荼”!附:10月7日猪价",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1084474198_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_d5a3702f66131a2b3f24",
   "date": "2026-10-06",
   "published_at": "2026-10-06T01:15+08:00",
@@ -14,26 +52,6 @@
    "LH"
   ],
   "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2342b8b6a03a3a505ec6",
-  "date": "2026-10-06",
-  "published_at": "2026-10-06T00:39+08:00",
-  "fetched_at": "2026-10-06T00:55+08:00",
-  "title": "猪价再次上涨!2026.10.6生猪市场信息交流",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1084303433_122014422",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
    "猪价"
   ],
   "relevance_score": 8
@@ -728,6 +746,27 @@
   ],
   "matched_keywords": [
    "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_9e2dda0a59ef17320c4c",
+  "date": "2026-09-30",
+  "published_at": "2026-09-30T14:53+08:00",
+  "fetched_at": "2026-10-06T18:39+08:00",
+  "title": "2026年9月30日大豆豆油价格:新豆零星上市挺价惜售 豆油全线走弱",
+  "summary": "",
+  "source": "qq.com",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20260930A0747G00?ptag=ima",
+  "company": "",
+  "material_ids": [
+   "A",
+   "Y"
+  ],
+  "matched_keywords": [
+   "大豆",
+   "豆油"
   ],
   "relevance_score": 8
  },
