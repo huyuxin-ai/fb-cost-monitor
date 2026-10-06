@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T18:39+08:00",
+ "updated_at": "2026-10-06T23:22+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -14,7 +14,7 @@
   "finance.sina.com.cn": 9,
   "news.10jqka.com.cn": 1,
   "qq.com": 1,
-  "sohu.com": 2,
+  "sohu.com": 3,
   "video.sina.com.cn": 5,
   "Межа. Новини України.": 1,
   "上海证券报·中国证券网": 1,
@@ -40,13 +40,13 @@
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 17,
+  "搜狐网": 15,
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 47,
+  "新浪财经": 48,
   "新浪财经_金融信息服务商": 3,
-  "期货日报": 3,
+  "期货日报": 2,
   "期货日报网": 1,
   "正信期货": 1,
   "每日经济新闻": 7,
@@ -58,7 +58,7 @@
   "经济日报": 1,
   "腾讯新闻": 2,
   "茉莉花新闻网": 1,
-  "证券之星": 3,
+  "证券之星": 4,
   "证券日报": 1,
   "证券时报": 1,
   "证券时报网": 1,
@@ -90,15 +90,15 @@
    "relevance_score": 8
   },
   {
-   "id": "news_0e593e753e591ce5f71a",
+   "id": "news_83b11f57ec421ae5ad31",
    "date": "2026-10-06",
-   "published_at": "2026-10-06T14:42+08:00",
+   "published_at": "2026-10-06T14:44+08:00",
    "fetched_at": "2026-10-06T18:39+08:00",
-   "title": "涨了,猪价上涨“如火如荼”!附:10月7日猪价",
+   "title": "高歌猛进,猪价季节性上涨“拐点”兑现?附:10月7日猪价",
    "summary": "",
-   "source": "搜狐网",
+   "source": "sohu.com",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1084474198_120238851",
+   "url": "https://m.sohu.com/a/1084476815_120238851",
    "company": "",
    "material_ids": [
     "LH"
@@ -142,6 +142,26 @@
     "LH"
    ],
    "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_01d65ca814977b45b899",
+   "date": "2026-10-06",
+   "published_at": "2026-10-06T00:27+08:00",
+   "fetched_at": "2026-10-06T23:22+08:00",
+   "title": "猪价再次上涨!2026.10.6生猪市场信息交流",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-06/doc-iniuezxv9395832.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
     "猪价"
    ],
    "relevance_score": 8
@@ -260,6 +280,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_02bb3d09ecb72691a6b5",
+   "date": "2026-10-03",
+   "published_at": "2026-10-03T12:55+08:00",
+   "fetched_at": "2026-10-06T23:22+08:00",
+   "title": "2026年10月3日全国主要批发市场腰果价格行情_综合资讯",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://futures.stockstar.com/IG2026100300000603.shtml",
+   "company": "",
+   "material_ids": [
+    "CASHEW"
+   ],
+   "matched_keywords": [
+    "腰果"
    ],
    "relevance_score": 8
   },
@@ -3911,45 +3950,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_6c24f2d474aece2ce6b3",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T08:41+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "“金九”旺季不旺 生猪价格偏弱震荡",
-   "summary": "进入9月,国内生猪市场本应步入传统的“金九”消费旺季,但行情呈现出“旺季不旺”的特征。截至9月21日,全国外三元生猪出栏均价为10.66~10.69元/公斤,在8月末短暂反弹后再度回落。当前市场多空因素交织,供需博弈激烈,生猪价格在养殖成本线附近窄幅波动。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609223880682911.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_b2f5e01e27b55c7031f0",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T07:00+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "9月22日猪价:1涨9跌!猪价承压下跌,集团增量需求回暖,节前猪价上涨“落空”?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1079147563_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }
