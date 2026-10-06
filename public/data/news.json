@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T23:22+08:00",
+ "updated_at": "2026-10-07T05:48+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,6 +10,7 @@
   "KLSE Screener": 1,
   "QQ News": 2,
   "Shangbao Indonesia": 1,
+  "Sohu": 1,
   "dairynews.today": 1,
   "finance.sina.com.cn": 9,
   "news.10jqka.com.cn": 1,
@@ -63,13 +64,31 @@
   "证券时报": 1,
   "证券时报网": 1,
   "财联社": 3,
-  "迈科期货": 1,
   "金十数据": 4,
   "铜冠金源期货": 1,
   "雪球": 1,
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_e617acaaa23664d6afe5",
+   "date": "2026-10-07",
+   "published_at": "2026-10-07T05:16+08:00",
+   "fetched_at": "2026-10-07T05:48+08:00",
+   "title": "10月7日猪价:涨不停,猪价上涨“高歌猛进”!10月二师兄“破6”在即?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1084546341_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_2f1ede8ada911d88152e",
    "date": "2026-10-06",
@@ -111,9 +130,9 @@
   {
    "id": "news_d5a3702f66131a2b3f24",
    "date": "2026-10-06",
-   "published_at": "2026-10-06T01:15+08:00",
+   "published_at": "2026-10-06T11:01+08:00",
    "fetched_at": "2026-10-06T01:17+08:00",
-   "title": "3大消息来袭,猪价连夜拉涨,这波反弹能持续多久?",
+   "title": "3大消息来袭,猪价连夜拉涨,这波反弹能持续多久?|国庆节|猪企|猪肉|抛售|生猪",
    "summary": "",
    "source": "新浪财经",
    "type": "价格行情",
@@ -123,6 +142,7 @@
     "LH"
    ],
    "matched_keywords": [
+    "生猪",
     "猪价"
    ],
    "relevance_score": 8
@@ -3931,25 +3951,6 @@
     "涤纶短纤"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_2132a977280dd9d0919e",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T09:24+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "农产品 | 生猪市场延续供强需弱底部磨底格局",
-   "summary": "生猪 生猪市场延续供强需弱的底部磨底格局,全国外三元均价约10.59-10.66元/公斤,环比微降,节前上涨预期落空。",
-   "source": "迈科期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609223880911976.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
   }
  ]
 }
