@@ -1,5 +1,82 @@
 [
  {
+  "id": "news_6440468320d07a0fea7b",
+  "date": "2026-10-07",
+  "published_at": "2026-10-07T22:20+08:00",
+  "fetched_at": "2026-10-07T23:18+08:00",
+  "title": "美国农业部2026年10月7日生猪报告:采购量涨跌互现,胴体价格各异 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-hog-report-mixed-purchase-volumes-on-october-6-2026/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_582c279d0027536c62fd",
+  "date": "2026-10-07",
+  "published_at": "2026-10-07T16:31+08:00",
+  "fetched_at": "2026-10-07T23:18+08:00",
+  "title": "今日核桃价格一览|10月7日",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1084776982_122014422",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_be280ef6a0e1d2904455",
+  "date": "2026-10-07",
+  "published_at": "2026-10-07T16:29+08:00",
+  "fetched_at": "2026-10-07T23:18+08:00",
+  "title": "猪价跌近三成还能承受 槟猪农最怕猪瘟随进口肉再袭 | 北马 | 地方",
+  "summary": "",
+  "source": "马来西亚东方日报",
+  "type": "供需动态",
+  "url": "https://www.orientaldaily.com.my/news/north/2026/10/07/853203",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_db970ef6296b2db74d9b",
+  "date": "2026-10-07",
+  "published_at": "2026-10-07T15:35+08:00",
+  "fetched_at": "2026-10-07T23:18+08:00",
+  "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
+  "summary": "",
+  "source": "金十数据",
+  "type": "供需动态",
+  "url": "https://xnews.jin10.com/details/231803",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "mpob"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_02bb46d6dbaf54a3213d",
   "date": "2026-10-07",
   "published_at": "2026-10-07T08:21+08:00",

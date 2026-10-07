@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-07T09:15+08:00",
+ "updated_at": "2026-10-07T23:18+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "Dairy News Today": 2,
   "IDNFinancials": 1,
-  "IndexBox": 5,
+  "IndexBox": 6,
   "KLSE Screener": 1,
   "QQ News": 2,
   "Shangbao Indonesia": 1,
@@ -16,7 +16,7 @@
   "news.10jqka.com.cn": 1,
   "qq.com": 1,
   "sohu.com": 3,
-  "video.sina.com.cn": 5,
+  "video.sina.com.cn": 4,
   "Межа. Новини України.": 1,
   "上海证券报·中国证券网": 1,
   "东方财富": 6,
@@ -30,18 +30,18 @@
   "农业农村部": 1,
   "华夏时报网": 1,
   "南华期货": 1,
-  "南方财经网": 13,
+  "南方财经网": 12,
   "同花顺": 4,
   "同花顺财经": 3,
   "国信期货": 1,
   "国元期货": 1,
-  "国家粮食和物资储备局": 4,
+  "国家粮食和物资储备局": 2,
   "大地期货": 1,
   "大河财立方": 1,
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 15,
+  "搜狐网": 16,
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
@@ -64,12 +64,90 @@
   "证券时报": 1,
   "证券时报网": 1,
   "财联社": 3,
-  "金十数据": 4,
+  "金十数据": 5,
   "铜冠金源期货": 1,
   "雪球": 1,
+  "马来西亚东方日报": 1,
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_6440468320d07a0fea7b",
+   "date": "2026-10-07",
+   "published_at": "2026-10-07T22:20+08:00",
+   "fetched_at": "2026-10-07T23:18+08:00",
+   "title": "美国农业部2026年10月7日生猪报告:采购量涨跌互现,胴体价格各异 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-hog-report-mixed-purchase-volumes-on-october-6-2026/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_582c279d0027536c62fd",
+   "date": "2026-10-07",
+   "published_at": "2026-10-07T16:31+08:00",
+   "fetched_at": "2026-10-07T23:18+08:00",
+   "title": "今日核桃价格一览|10月7日",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1084776982_122014422",
+   "company": "",
+   "material_ids": [
+    "WALNUT"
+   ],
+   "matched_keywords": [
+    "核桃"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_be280ef6a0e1d2904455",
+   "date": "2026-10-07",
+   "published_at": "2026-10-07T16:29+08:00",
+   "fetched_at": "2026-10-07T23:18+08:00",
+   "title": "猪价跌近三成还能承受 槟猪农最怕猪瘟随进口肉再袭 | 北马 | 地方",
+   "summary": "",
+   "source": "马来西亚东方日报",
+   "type": "供需动态",
+   "url": "https://www.orientaldaily.com.my/news/north/2026/10/07/853203",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_db970ef6296b2db74d9b",
+   "date": "2026-10-07",
+   "published_at": "2026-10-07T15:35+08:00",
+   "fetched_at": "2026-10-07T23:18+08:00",
+   "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
+   "summary": "",
+   "source": "金十数据",
+   "type": "供需动态",
+   "url": "https://xnews.jin10.com/details/231803",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "mpob"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_02bb46d6dbaf54a3213d",
    "date": "2026-10-07",
@@ -3872,84 +3950,6 @@
     "铝罐"
    ],
    "relevance_score": 9
-  },
-  {
-   "id": "news_adba83aaa02192434e00",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T10:21+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "国内生猪期货主力合约盘中再创阶段新低",
-   "summary": "南方财经9月22日电,9月22日,国内生猪期货主力合约进一步走低,盘中再创阶段新低,该合约日前已跌破1.1万元/吨。",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609223881153885.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_27571df51e13672734ed",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T10:04+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "上周国内大豆豆粕商业库存均上升",
-   "summary": "9月18日,全国主要油厂进口大豆库存869万吨,周环比上升22万吨,月环比上升22万吨,同比上升117万吨,较过去三年均值上升234万吨;豆粕库存113万吨,周环比上升5万吨,月环比上升6万吨,同比下降10万吨,较过去三年同期均值上升2万吨。",
-   "source": "国家粮食和物资储备局",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609223880993230.html",
-   "company": "",
-   "material_ids": [
-    "M",
-    "A"
-   ],
-   "matched_keywords": [
-    "豆粕",
-    "大豆"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_4a1b29019ff0356be5e5",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T09:59+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "预计9月底油厂豆粕库存在110万吨左右",
-   "summary": "9月国内油厂开机率仍然较高,上周豆粕累库速度加快,截至18日库存升至110万吨以上。但本周即将迎来中秋假期,月底库存可能小幅降至110万吨左右,环比、同比均基本持平。",
-   "source": "国家粮食和物资储备局",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609223880982849.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_77f22e9f191b35c451e5",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T09:28+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "中秋双节遇冷!9月猪价跌跌不休,下跌原因是啥?",
-   "summary": "",
-   "source": "video.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://video.sina.com.cn/p/finance/2026-09-22/detail-inisscmp5700187.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }
