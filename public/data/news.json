@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-10-08T15:06+08:00",
+ "updated_at": "2026-10-08T22:47+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
-  "Dairy News Today": 2,
+  "Dairy News Today": 1,
   "IndexBox": 7,
   "KLSE Screener": 1,
   "QQ News": 2,
   "Shangbao Indonesia": 1,
   "Sohu": 1,
   "dairynews.today": 1,
-  "finance.sina.com.cn": 13,
+  "finance.sina.com.cn": 12,
   "news.10jqka.com.cn": 1,
   "qq.com": 1,
   "sohu.com": 3,
@@ -30,12 +30,12 @@
   "农业农村部": 1,
   "华夏时报网": 1,
   "南华期货": 1,
-  "南方财经网": 10,
+  "南方财经网": 12,
   "同花顺": 5,
   "同花顺财经": 3,
   "国信期货": 2,
   "国元期货": 1,
-  "国家粮食和物资储备局": 2,
+  "国家粮食和物资储备局": 1,
   "国际果蔬报道": 1,
   "大地期货": 1,
   "大河财立方": 1,
@@ -46,21 +46,21 @@
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 46,
+  "新浪财经": 45,
   "新浪财经_金融信息服务商": 1,
   "期货日报": 2,
-  "期货日报网": 1,
-  "正信期货": 1,
-  "每日经济新闻": 7,
+  "期货日报网": 2,
+  "每日经济新闻": 6,
   "汇通网 Fx678": 2,
   "澎湃新闻": 2,
   "瑞达期货": 2,
-  "第一财经": 3,
+  "第一财经": 4,
   "经济日报": 1,
   "腾讯新闻": 2,
   "证券之星": 4,
-  "证券日报": 1,
+  "证券日报": 2,
   "证券时报网": 1,
+  "财中社": 1,
   "财联社": 3,
   "金十数据": 5,
   "铜冠金源期货": 1,
@@ -69,6 +69,120 @@
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_806c615a3b211da6c17e",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T20:18+08:00",
+   "fetched_at": "2026-10-08T22:47+08:00",
+   "title": "克明食品:2026年9月生猪销售简报",
+   "summary": "2026年1-9月累计销售生猪56.76万头,较去年同期增长36.25%;累计销售收入41703.86万元,较去年同期下降3.32%。销售数量同比上升主要系产能释放所致。",
+   "source": "证券日报",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202610083889854930.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_d7b5fbca833f0191156e",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T16:33+08:00",
+   "fetched_at": "2026-10-08T08:48+08:00",
+   "title": "10月8日猪价:180°大变!猪价下跌“猛抬头”!节后“报复性”下跌?供需博弈持续",
+   "summary": "",
+   "source": "中华网",
+   "type": "价格行情",
+   "url": "https://3g.china.com/act/redian/13004758/20261008/49782904.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e5f5acb0c847a98f6c42",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T16:24+08:00",
+   "fetched_at": "2026-10-08T22:47+08:00",
+   "title": "克明食品:兴疆牧歌9月销售生猪收入4146.59万元",
+   "summary": "2026年1—9月,兴疆牧歌累计销售生猪56.76万头,较去年同期增长36.25%;累计销售收入4.17亿元,较去年同期下降3.32%。2026年9月生猪销售数量及1—9月累计销售数量同比上升主要系产能释放。",
+   "source": "第一财经",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202610083889653473.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_571ccdea4c46dd9ed956",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T16:21+08:00",
+   "fetched_at": "2026-10-08T22:47+08:00",
+   "title": "克明食品:子公司9月生猪销量同比增54.63%",
+   "summary": "2026年1-9月,兴疆牧歌累计销售生猪56.76万头,较去年同期增长36.25%;累计销售收入4.17亿元,较去年同期下降3.32%。 公告中提到,2026年9月生猪销售数量及1-9月累计销售数量同比上升主要系产能释放所致。",
+   "source": "财中社",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202610083889652979.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_a5c28b7479dd33f6470d",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T15:41+08:00",
+   "fetched_at": "2026-10-08T22:47+08:00",
+   "title": "生猪主力合约收跌0.71%",
+   "summary": "南财智讯10月8日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.71%,收盘报10515.0元/吨,日内资金流出3.03亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610083889613065.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_40b4117d9fb771a36c67",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T15:40+08:00",
+   "fetched_at": "2026-10-08T22:47+08:00",
+   "title": "玉米主力合约收跌1.46%",
+   "summary": "南财智讯10月8日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌1.46%,收盘报2154.0元/吨,日内资金流出9964.81万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610083889613972.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_750b467936e884489b5b",
    "date": "2026-10-08",
@@ -105,25 +219,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8454d0fad6ee61efd1e5",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T10:25+08:00",
-   "fetched_at": "2026-10-08T08:48+08:00",
-   "title": "10月8日猪价:180°大变 供需博弈持续",
-   "summary": "",
-   "source": "中华网",
-   "type": "供需动态",
-   "url": "https://3g.china.com/act/redian/13004758/20261008/49781281.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   },
@@ -230,9 +325,9 @@
    "date": "2026-10-08",
    "published_at": "2026-10-08T07:16+08:00",
    "fetched_at": "2026-10-08T15:06+08:00",
-   "title": "大幅反弹条件不足,短期生猪市场以弱势震荡为主|养殖户|猪价|报价|出栏|回落",
+   "title": "大幅反弹条件不足,短期生猪市场以弱势震荡为主",
    "summary": "",
-   "source": "finance.sina.com.cn",
+   "source": "新浪财经",
    "type": "价格行情",
    "url": "https://finance.sina.cn/2026-10-08/detail-iniumqct7932899.d.html",
    "company": "",
@@ -240,8 +335,7 @@
     "LH"
    ],
    "matched_keywords": [
-    "生猪",
-    "猪价"
+    "生猪"
    ],
    "relevance_score": 8
   },
@@ -301,6 +395,25 @@
     "生猪"
    ],
    "relevance_score": 8
+  },
+  {
+   "id": "news_c7f8d8c249288b96b990",
+   "date": "2026-10-07",
+   "published_at": "2026-10-07T21:16+08:00",
+   "fetched_at": "2026-10-08T22:47+08:00",
+   "title": "菜粕价格缘何走势偏弱",
+   "summary": "三是菜粕还存在能量偏低、粗纤维影响消化、硫含量较高等问题,若要用菜粕替代豆粕,还需要额外添加油脂补充能量,搭配非淀粉多糖酶改善消化效果,同时微调微量元素添加量。",
+   "source": "期货日报网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610073889941055.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 12
   },
   {
    "id": "news_582c279d0027536c62fd",
@@ -3834,121 +3947,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c13798c6e5159277ed15",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T10:27+08:00",
-   "fetched_at": "2026-09-23T15:31+08:00",
-   "title": "本周国内豆粕现货报价上涨",
-   "summary": "昨日国内豆粕期价收盘小幅上涨。市场关注中美领导人会晤及经贸磋商结果,交易情绪偏谨慎,豆粕期价延续窄幅震荡走势,受进口成本等支撑,昨日收盘小幅上涨。",
-   "source": "国家粮食和物资储备局",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609233882253444.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_9b77c6cfcf46794154ce",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T09:05+08:00",
-   "fetched_at": "2026-09-23T09:41+08:00",
-   "title": "能化 | PTA供需转向累库 但流通性现货偏紧 预计短期PTA宽幅震荡为主",
-   "summary": "总结:PVC基本面驱动有限,主要跟随商品情绪波动,目前原料电石及乙烯仍在高位,成本支撑仍存在,库存有小幅下降预期,价格进一步下行空间或相对有限,短期PVC区间震荡为主,后续仍需关注原油及煤炭波动对市场心态影响。",
-   "source": "正信期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609233881989370.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c89babd28a75e302f4b3",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T08:58+08:00",
-   "fetched_at": "2026-09-23T15:31+08:00",
-   "title": "生意社2026年9月23日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-23/doc-inisunsp1416845.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_3cd1daac2e2369b45139",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T08:20+08:00",
-   "fetched_at": "2026-09-23T09:41+08:00",
-   "title": "EAEU 原奶产量达到 3450 万吨",
-   "summary": "",
-   "source": "Dairy News Today",
-   "type": "供需动态",
-   "url": "https://dairynews.today/cn/news/eaeu_3450__6597478.html",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_17e95dd06130d6582cd3",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T07:25+08:00",
-   "fetched_at": "2026-09-23T09:41+08:00",
-   "title": "供应端增量超过需求增量 猪价节前承压下行",
-   "summary": "中秋国庆双节临近,生猪市场价格走势却未因需求提振有所好转。8月下旬以来,国内生猪期货价格不断探底。9月22日盘中,生猪期货主力合约2611最低报10865元/吨,较月初下跌超9%,年内最大跌幅超过22%。虽然近期生猪市场需求有所回升,但供应端增量超过需求增量,猪价承压下行。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609233881668928.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_3232b9f9e348455e09ca",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T06:38+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "中秋临近,需求逐步改善,短暂猪价仍有偏强的机会",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.cn/2026-09-22/detail-inisrhft7516981.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }
