@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-07T23:43+08:00",
+ "updated_at": "2026-10-08T08:48+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "Dairy News Today": 2,
   "IDNFinancials": 1,
-  "IndexBox": 6,
+  "IndexBox": 7,
   "KLSE Screener": 1,
   "QQ News": 2,
   "Shangbao Indonesia": 1,
@@ -17,21 +17,21 @@
   "qq.com": 1,
   "sohu.com": 3,
   "video.sina.com.cn": 4,
-  "Межа. Новини України.": 1,
   "上海证券报·中国证券网": 1,
   "东方财富": 6,
   "东方财富研究中心": 1,
   "中华网": 2,
   "中国新闻网": 1,
   "中国证券报": 1,
-  "中财期货": 1,
+  "中财期货": 2,
+  "五矿期货": 1,
   "人民日报": 2,
   "光大期货": 1,
   "农业农村部": 1,
   "华夏时报网": 1,
   "南华期货": 1,
-  "南方财经网": 12,
-  "同花顺": 4,
+  "南方财经网": 10,
+  "同花顺": 3,
   "同花顺财经": 3,
   "国信期货": 1,
   "国元期货": 1,
@@ -42,7 +42,7 @@
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 15,
+  "搜狐网": 16,
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
@@ -72,9 +72,87 @@
  },
  "items": [
   {
+   "id": "news_6e799ba967fe7199b33d",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T08:44+08:00",
+   "fetched_at": "2026-10-08T08:48+08:00",
+   "title": "机构:国庆假期期间全国生猪价格有所回暖",
+   "summary": "中财期货10月8日研报显示,国庆假期期间,全国生猪价格有所回暖。节前育肥猪集中出栏收尾后,标猪短期供给压力骤减,叠加集团猪企假期缩量出栏、散户惜售压栏情绪升温,猪价先涨后跌再回升。",
+   "source": "中财期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610083889068677.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_f75e43a5ade1f054aafa",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T08:26+08:00",
+   "fetched_at": "2026-10-08T08:48+08:00",
+   "title": "机构:预计节后郑糖开盘上涨的概率较大",
+   "summary": "按当前原糖价格预估,我国配额外巴西进口加工糖成本将达到约6600元/吨,远高于节前郑糖价格。预计节后郑糖开盘上涨的概率较大。",
+   "source": "五矿期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610083889063630.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "郑糖",
+    "原糖"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_095af335e6e1b2c6fb4d",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T07:16+08:00",
+   "fetched_at": "2026-10-08T08:48+08:00",
+   "title": "猪价上涨存在压栏,短暂市场或呈现“僵持”局面",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-10-08/detail-iniumqcw5656178.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_fda8c1e0edc6acca86ba",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T05:23+08:00",
+   "fetched_at": "2026-10-08T08:48+08:00",
+   "title": "10月8日猪价:180°大变!猪价下跌“猛抬头”!节后“报复性”下跌?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1084823338_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_6f1df2f1e5b297bec57f",
-   "date": "2026-10-07",
-   "published_at": "2026-10-07T22:58+08:00",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T04:26+08:00",
    "fetched_at": "2026-10-07T23:43+08:00",
    "title": "全球夏威夷果市场价格承压,中国对欧出口增近300%!",
    "summary": "",
@@ -204,6 +282,25 @@
     "猪价"
    ],
    "relevance_score": 8
+  },
+  {
+   "id": "news_7ec5ca67ed03b43cbfb1",
+   "date": "2026-10-07",
+   "published_at": "2026-10-07T04:51+08:00",
+   "fetched_at": "2026-10-08T08:48+08:00",
+   "title": "管制玻璃瓶市场展望2035:生物制剂需求与即用型转型驱动增长 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "供需动态",
+   "url": "https://www.indexbox.io/zh-hans/blog/tubular-glass-vials-market-forecast-to-2035-growth-driven-by-biologics-and-rtu-adoption/",
+   "company": "",
+   "material_ids": [
+    "FG"
+   ],
+   "matched_keywords": [
+    "玻璃瓶"
+   ],
+   "relevance_score": 9
   },
   {
    "id": "news_d5a3702f66131a2b3f24",
@@ -3852,102 +3949,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_683a9e471125b165cc5a",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T16:35+08:00",
-   "fetched_at": "2026-09-23T01:12+08:00",
-   "title": "乌克兰原奶产量下降13% 私营 хозяйства减产27%仍未被工业乳企抵消",
-   "summary": "",
-   "source": "Межа. Новини України.",
-   "type": "供需动态",
-   "url": "https://mezha.net/ch/news/ab3c92d8_ukraine-s_milk_output/",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c142602b2ad575b64a7a",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T15:42+08:00",
-   "fetched_at": "2026-09-22T20:27+08:00",
-   "title": "生猪主力合约收跌0.36%",
-   "summary": "南财智讯9月22日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.36%,收盘报10935.0元/吨,日内资金流入574.74万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609223881275297.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_81954f0492bc37966e4d",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T15:40+08:00",
-   "fetched_at": "2026-09-22T20:27+08:00",
-   "title": "玉米主力合约收涨0.18%",
-   "summary": "南财智讯9月22日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.18%,收盘报2180.0元/吨,日内资金流入5065.09万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609223881277261.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_bcfdefcd16d81c0fb2f6",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T11:48+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "【现货】9月22日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260922/c680159405.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9021ae1563bc608ae373",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T11:27+08:00",
-   "fetched_at": "2026-09-22T14:44+08:00",
-   "title": "农业农村部:9月第3周生猪和猪肉价格窄幅波动",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-09-21/detail-inisqeue5908866.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪肉价格"
    ],
    "relevance_score": 8
   }
