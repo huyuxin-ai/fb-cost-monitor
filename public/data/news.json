@@ -1,23 +1,23 @@
 {
- "updated_at": "2026-10-08T08:48+08:00",
+ "updated_at": "2026-10-08T15:06+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "Dairy News Today": 2,
-  "IDNFinancials": 1,
   "IndexBox": 7,
   "KLSE Screener": 1,
   "QQ News": 2,
   "Shangbao Indonesia": 1,
   "Sohu": 1,
   "dairynews.today": 1,
-  "finance.sina.com.cn": 11,
+  "finance.sina.com.cn": 13,
   "news.10jqka.com.cn": 1,
   "qq.com": 1,
   "sohu.com": 3,
   "video.sina.com.cn": 4,
   "上海证券报·中国证券网": 1,
+  "东吴期货": 1,
   "东方财富": 6,
   "东方财富研究中心": 1,
   "中华网": 2,
@@ -31,9 +31,9 @@
   "华夏时报网": 1,
   "南华期货": 1,
   "南方财经网": 10,
-  "同花顺": 3,
+  "同花顺": 5,
   "同花顺财经": 3,
-  "国信期货": 1,
+  "国信期货": 2,
   "国元期货": 1,
   "国家粮食和物资储备局": 2,
   "国际果蔬报道": 1,
@@ -42,26 +42,24 @@
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 16,
+  "搜狐网": 15,
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 47,
-  "新浪财经_金融信息服务商": 3,
+  "新浪财经": 46,
+  "新浪财经_金融信息服务商": 1,
   "期货日报": 2,
   "期货日报网": 1,
   "正信期货": 1,
   "每日经济新闻": 7,
   "汇通网 Fx678": 2,
   "澎湃新闻": 2,
-  "瑞达期货": 1,
+  "瑞达期货": 2,
   "第一财经": 3,
   "经济日报": 1,
   "腾讯新闻": 2,
-  "茉莉花新闻网": 1,
   "证券之星": 4,
   "证券日报": 1,
-  "证券时报": 1,
   "证券时报网": 1,
   "财联社": 3,
   "金十数据": 5,
@@ -71,6 +69,122 @@
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_750b467936e884489b5b",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T13:06+08:00",
+   "fetched_at": "2026-10-08T15:06+08:00",
+   "title": "棉花多空博弈等待方向生猪疫病增多出栏积极|新疆维吾尔自治区|棉纱期货|海关总署|中国|猪价",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-08/detail-iniunrrp3922207.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_fdf2b819f58bddce4e5d",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T11:47+08:00",
+   "fetched_at": "2026-10-08T15:06+08:00",
+   "title": "【现货】10月8日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261008/c680463751.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_8454d0fad6ee61efd1e5",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T10:25+08:00",
+   "fetched_at": "2026-10-08T08:48+08:00",
+   "title": "10月8日猪价:180°大变 供需博弈持续",
+   "summary": "",
+   "source": "中华网",
+   "type": "供需动态",
+   "url": "https://3g.china.com/act/redian/13004758/20261008/49781281.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_34e834b316d5d7bbf99f",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T09:53+08:00",
+   "fetched_at": "2026-10-08T15:06+08:00",
+   "title": "农产品 | 白糖:关注巴西降雨、压榨量及制糖比恢复情况",
+   "summary": "节后连粕11合约进入次交割月,华东现货仍旧在3300附近,豆粕库存129万吨。节后预计现货提货不及节前备货刚需。现货最核心是进口豆拍卖的节奏,若有拍卖底价下调,现货豆粕压力将有呈现。但国内豆一期货,背离现货大涨,资本押注豆一的后市也是牵动市场情绪的看点。",
+   "source": "东吴期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610083889218540.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "白糖"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e2f3da640b1bd1e42368",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T09:38+08:00",
+   "fetched_at": "2026-10-08T15:06+08:00",
+   "title": "农产品 | 大豆:节后国内连粕市场或维持震荡格局",
+   "summary": "玉米 供需面偏空玉米偏弱运行 长假期间,CBOT玉米下跌幅度较大。国内现货偏弱运行,新玉米上市压力显现,山东深加工企业门前到车数量明显增加,黑龙江深加工企业门前到车数连续维持在千辆以上;下游需求依然偏弱,企业建库谨慎,短期供需承压。但目前价格低于种植成本,或限制下跌空间。",
+   "source": "国信期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610083889166876.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_6adcdcede5a2cb8fb3d0",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T08:50+08:00",
+   "fetched_at": "2026-10-08T15:06+08:00",
+   "title": "农产品 | 生猪:终端消费阶段性降温 走货速度放缓",
+   "summary": "生猪 国庆期间生猪价格先跌后涨,前期生猪价格延续跌势,多省份跌破10元/公斤关口,后期由于规模场集中放量节奏放缓以及价格下跌后挺价惜售情绪抬头,标猪供应缩紧,多地生猪价格上涨。",
+   "source": "瑞达期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610083889075043.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_6e799ba967fe7199b33d",
    "date": "2026-10-08",
@@ -112,6 +226,26 @@
    "relevance_score": 12
   },
   {
+   "id": "news_8825da99a6368ff3eacc",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T07:16+08:00",
+   "fetched_at": "2026-10-08T15:06+08:00",
+   "title": "大幅反弹条件不足,短期生猪市场以弱势震荡为主|养殖户|猪价|报价|出栏|回落",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-10-08/detail-iniumqct7932899.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_095af335e6e1b2c6fb4d",
    "date": "2026-10-08",
    "published_at": "2026-10-08T07:16+08:00",
@@ -121,25 +255,6 @@
    "source": "新浪财经",
    "type": "价格行情",
    "url": "https://finance.sina.cn/2026-10-08/detail-iniumqcw5656178.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fda8c1e0edc6acca86ba",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T05:23+08:00",
-   "fetched_at": "2026-10-08T08:48+08:00",
-   "title": "10月8日猪价:180°大变!猪价下跌“猛抬头”!节后“报复性”下跌?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1084823338_120238851",
    "company": "",
    "material_ids": [
     "LH"
@@ -242,6 +357,25 @@
    "matched_keywords": [
     "棕榈油",
     "mpob"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_25689e7db0af1bc4f31d",
+   "date": "2026-10-07",
+   "published_at": "2026-10-07T10:55+08:00",
+   "fetched_at": "2026-10-08T15:06+08:00",
+   "title": "短期供应压力难缓解 棕榈油冲高回落",
+   "summary": "",
+   "source": "同花顺",
+   "type": "供需动态",
+   "url": "https://m.10jqka.com.cn/20261008/c680460771.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
    ],
    "relevance_score": 8
   },
@@ -3809,140 +3943,6 @@
    "source": "新浪财经",
    "type": "供需动态",
    "url": "https://finance.sina.cn/2026-09-22/detail-inisrhft7516981.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2c9ccabf9028a6cd0d2f",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T03:03+08:00",
-   "fetched_at": "2026-09-28T01:35+08:00",
-   "title": "基因编辑番茄可产维生素D3原料 距上市或还要等数年",
-   "summary": "",
-   "source": "茉莉花新闻网",
-   "type": "供需动态",
-   "url": "https://molihua.org/mh-2194681/",
-   "company": "",
-   "material_ids": [
-    "VD3"
-   ],
-   "matched_keywords": [
-    "维生素d3"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_247bf912dc7861f5626d",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T02:07+08:00",
-   "fetched_at": "2026-09-23T04:25+08:00",
-   "title": "供应端提前释放存栏产能 生猪期货价格持续探底",
-   "summary": "与此同时,国内冻猪肉库容维持高位,冻品储备充足,一旦现货猪价小幅反弹,低价冻品便集中出库冲击鲜肉市场,直接封堵猪价反弹空间。”范晴晴表示。 产能去化加速 2026年以来,国内生猪价格持续低迷,生猪养殖长期处于亏损状态。",
-   "source": "证券时报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609233881626043.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_a60ff998864a5c1d890b",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T20:20+08:00",
-   "fetched_at": "2026-09-22T20:27+08:00",
-   "title": "棕榈油价格预计到2026年底将突破1,154美元",
-   "summary": "",
-   "source": "IDNFinancials",
-   "type": "价格行情",
-   "url": "https://www.idnfinancials.com/cn/news/69231/%E6%A3%95%E6%A6%88%E6%B2%B9%E4%BB%B7%E6%A0%BC%E9%A2%84%E8%AE%A1%E5%88%B02026%E5%B9%B4%E5%BA%95%E5%B0%86%E7%AA%81%E7%A0%B41-154%E7%BE%8E%E5%85%83",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_d6f8dc388fc4e9b2088a",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T17:28+08:00",
-   "fetched_at": "2026-09-22T21:33+08:00",
-   "title": "09月22日猪评:节前上涨落空!猪价跌多涨少,行情承压偏弱!",
-   "summary": "",
-   "source": "新浪财经_金融信息服务商",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101ulio",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_af880690a779def69813",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T17:06+08:00",
-   "fetched_at": "2026-09-22T20:27+08:00",
-   "title": "木棉花牌提前清库!25/26 榨季广西南华第三个白砂糖品牌清库",
-   "summary": "沐甜科技 沐甜22日讯 据了解,东门糖厂产“木棉花”牌9月22日宣布清库,成为25/26榨季广西南华第三个清库的品牌。 该品牌报价相对高且产量较大,往年清库时间一般在11月份...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/2026-09-22/doc-inissyqz8846939.shtml",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白砂糖"
-   ],
-   "relevance_score": 7
-  },
-  {
-   "id": "news_626abbc9dfee6e3700e2",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T16:59+08:00",
-   "fetched_at": "2026-09-22T21:33+08:00",
-   "title": "豆菜粕:中美会谈向好、成本与供需博弈",
-   "summary": "",
-   "source": "新浪财经_金融信息服务商",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/money/future/2026-09-22/doc-inissyqz8839747.shtml",
-   "company": "",
-   "material_ids": [
-    "RM"
-   ],
-   "matched_keywords": [
-    "菜粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6e46303db6c1414cb362",
-   "date": "2026-09-22",
-   "published_at": "2026-09-22T16:35+08:00",
-   "fetched_at": "2026-09-22T20:27+08:00",
-   "title": "猪价阴跌不止 9月23日报价 供强需弱持续打压",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://news.china.com/socialgd/10000169/20260922/49760281.html",
    "company": "",
    "material_ids": [
     "LH"

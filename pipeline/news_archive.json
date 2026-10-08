@@ -1,5 +1,121 @@
 [
  {
+  "id": "news_750b467936e884489b5b",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T13:06+08:00",
+  "fetched_at": "2026-10-08T15:06+08:00",
+  "title": "棉花多空博弈等待方向生猪疫病增多出栏积极|新疆维吾尔自治区|棉纱期货|海关总署|中国|猪价",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-08/detail-iniunrrp3922207.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_fdf2b819f58bddce4e5d",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T11:47+08:00",
+  "fetched_at": "2026-10-08T15:06+08:00",
+  "title": "【现货】10月8日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261008/c680463751.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_8454d0fad6ee61efd1e5",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T10:25+08:00",
+  "fetched_at": "2026-10-08T08:48+08:00",
+  "title": "10月8日猪价:180°大变 供需博弈持续",
+  "summary": "",
+  "source": "中华网",
+  "type": "供需动态",
+  "url": "https://3g.china.com/act/redian/13004758/20261008/49781281.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_34e834b316d5d7bbf99f",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T09:53+08:00",
+  "fetched_at": "2026-10-08T15:06+08:00",
+  "title": "农产品 | 白糖:关注巴西降雨、压榨量及制糖比恢复情况",
+  "summary": "节后连粕11合约进入次交割月,华东现货仍旧在3300附近,豆粕库存129万吨。节后预计现货提货不及节前备货刚需。现货最核心是进口豆拍卖的节奏,若有拍卖底价下调,现货豆粕压力将有呈现。但国内豆一期货,背离现货大涨,资本押注豆一的后市也是牵动市场情绪的看点。",
+  "source": "东吴期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610083889218540.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e2f3da640b1bd1e42368",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T09:38+08:00",
+  "fetched_at": "2026-10-08T15:06+08:00",
+  "title": "农产品 | 大豆:节后国内连粕市场或维持震荡格局",
+  "summary": "玉米 供需面偏空玉米偏弱运行 长假期间,CBOT玉米下跌幅度较大。国内现货偏弱运行,新玉米上市压力显现,山东深加工企业门前到车数量明显增加,黑龙江深加工企业门前到车数连续维持在千辆以上;下游需求依然偏弱,企业建库谨慎,短期供需承压。但目前价格低于种植成本,或限制下跌空间。",
+  "source": "国信期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610083889166876.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6adcdcede5a2cb8fb3d0",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T08:50+08:00",
+  "fetched_at": "2026-10-08T15:06+08:00",
+  "title": "农产品 | 生猪:终端消费阶段性降温 走货速度放缓",
+  "summary": "生猪 国庆期间生猪价格先跌后涨,前期生猪价格延续跌势,多省份跌破10元/公斤关口,后期由于规模场集中放量节奏放缓以及价格下跌后挺价惜售情绪抬头,标猪供应缩紧,多地生猪价格上涨。",
+  "source": "瑞达期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610083889075043.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_6e799ba967fe7199b33d",
   "date": "2026-10-08",
   "published_at": "2026-10-08T08:44+08:00",
@@ -40,6 +156,26 @@
   "relevance_score": 12
  },
  {
+  "id": "news_8825da99a6368ff3eacc",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T07:16+08:00",
+  "fetched_at": "2026-10-08T15:06+08:00",
+  "title": "大幅反弹条件不足,短期生猪市场以弱势震荡为主|养殖户|猪价|报价|出栏|回落",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-08/detail-iniumqct7932899.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_095af335e6e1b2c6fb4d",
   "date": "2026-10-08",
   "published_at": "2026-10-08T07:16+08:00",
@@ -49,25 +185,6 @@
   "source": "新浪财经",
   "type": "价格行情",
   "url": "https://finance.sina.cn/2026-10-08/detail-iniumqcw5656178.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fda8c1e0edc6acca86ba",
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T05:23+08:00",
-  "fetched_at": "2026-10-08T08:48+08:00",
-  "title": "10月8日猪价:180°大变!猪价下跌“猛抬头”!节后“报复性”下跌?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1084823338_120238851",
   "company": "",
   "material_ids": [
    "LH"
@@ -170,6 +287,25 @@
   "matched_keywords": [
    "棕榈油",
    "mpob"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_25689e7db0af1bc4f31d",
+  "date": "2026-10-07",
+  "published_at": "2026-10-07T10:55+08:00",
+  "fetched_at": "2026-10-08T15:06+08:00",
+  "title": "短期供应压力难缓解 棕榈油冲高回落",
+  "summary": "",
+  "source": "同花顺",
+  "type": "供需动态",
+  "url": "https://m.10jqka.com.cn/20261008/c680460771.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
   ],
   "relevance_score": 8
  },
@@ -9528,144 +9664,6 @@
   ],
   "matched_keywords": [
    "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_3b6786da4267cee38843",
-  "date": "2026-09-04",
-  "published_at": "2026-09-04T20:06+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "猪价反弹,猪周期的逻辑已经不同",
-  "summary": "",
-  "source": "21财经",
-  "type": "价格行情",
-  "url": "https://m.21jingji.com/article/20260904/herald/221de66c89f619dcedbcb9c9f372b8a1.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6ce38812148009d87ad0",
-  "date": "2026-09-04",
-  "published_at": "2026-09-04T15:06+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "生猪产能调减提前至三季度末 二季度末能繁母猪存栏3780万头",
-  "summary": "",
-  "source": "guandian.cn",
-  "type": "供需动态",
-  "url": "https://www.guandian.cn/m/show/597311",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "能繁母猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_58bddfcd0ab830030832",
-  "date": "2026-09-04",
-  "published_at": "2026-09-04T13:31+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "秘鲁鳀鱼减产叠加北方渔业收缩 全球高品质鱼油或进入紧缺周期",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "供需动态",
-  "url": "https://cj.sina.cn/articles/view/6673384970/18dc3c60a001029aag",
-  "company": "",
-  "material_ids": [
-   "ANCHOVY",
-   "FISHOIL"
-  ],
-  "matched_keywords": [
-   "鳀鱼",
-   "秘鲁鳀鱼",
-   "鱼油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f32874792d6d0ebc8931",
-  "date": "2026-09-04",
-  "published_at": "2026-09-04T11:29+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "油脂有“料”:豆油利多气氛浓厚,9月或继续走高",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/2026-09-04/doc-iniqrpqw4132615.shtml",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c40fa551750aae1c5aeb",
-  "date": "2026-09-03",
-  "published_at": "2026-09-03T09:53+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "生意社2026年9月3日涤纶短纤行情观点:震荡",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-03/doc-iniqpeke7112362.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_39f294cf86a4e71b40dd",
-  "date": "2026-07-27",
-  "published_at": "2026-07-27T00:00+08:00",
-  "fetched_at": "2026-07-27T00:00+08:00",
-  "title": "期货“托底”让内蒙古甜菜糖产业企业恢复信心",
-  "summary": "",
-  "source": "新华财经·期货日报",
-  "type": "价格行情",
-  "url": "https://www.cnfin.com/dz-lb/detail/20260727/4446276_1.html",
-  "company": "安琪酵母",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "甜菜糖"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_8cc26ec7f8dc1ed8314e",
-  "date": "2026-07-08",
-  "published_at": "2026-07-08T00:00+08:00",
-  "fetched_at": "2026-07-08T00:00+08:00",
-  "title": "超长下行周期后奶价初现回暖趋势,原奶终于要触底了",
-  "summary": "",
-  "source": "第一财经",
-  "type": "价格行情",
-  "url": "https://www.163.com/money/article/L1AOQ0BH002580S6.html",
-  "company": "伊利股份",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "原奶",
-   "奶价"
   ],
   "relevance_score": 8
  }
