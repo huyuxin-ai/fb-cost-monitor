@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T22:47+08:00",
+ "updated_at": "2026-10-08T23:47+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -32,7 +32,7 @@
   "南华期货": 1,
   "南方财经网": 12,
   "同花顺": 5,
-  "同花顺财经": 3,
+  "同花顺财经": 2,
   "国信期货": 2,
   "国元期货": 1,
   "国家粮食和物资储备局": 1,
@@ -57,7 +57,7 @@
   "第一财经": 4,
   "经济日报": 1,
   "腾讯新闻": 2,
-  "证券之星": 4,
+  "证券之星": 5,
   "证券日报": 2,
   "证券时报网": 1,
   "财中社": 1,
@@ -200,6 +200,25 @@
    "matched_keywords": [
     "生猪",
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1c32d025a4852250f6fe",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T12:53+08:00",
+   "fetched_at": "2026-10-08T23:47+08:00",
+   "title": "2026年10月8日全国主要批发市场腰果价格行情_综合资讯",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://futures.stockstar.com/IG2026100800013069.shtml",
+   "company": "",
+   "material_ids": [
+    "CASHEW"
+   ],
+   "matched_keywords": [
+    "腰果"
    ],
    "relevance_score": 8
   },
@@ -3928,25 +3947,6 @@
    "matched_keywords": [
     "豆粕",
     "菜籽粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6180dddc53be700c983b",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T11:43+08:00",
-   "fetched_at": "2026-09-23T15:31+08:00",
-   "title": "【现货】9月23日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260923/c680203427.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   }

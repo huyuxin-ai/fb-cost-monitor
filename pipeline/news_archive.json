@@ -134,6 +134,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_1c32d025a4852250f6fe",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T12:53+08:00",
+  "fetched_at": "2026-10-08T23:47+08:00",
+  "title": "2026年10月8日全国主要批发市场腰果价格行情_综合资讯",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://futures.stockstar.com/IG2026100800013069.shtml",
+  "company": "",
+  "material_ids": [
+   "CASHEW"
+  ],
+  "matched_keywords": [
+   "腰果"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_fdf2b819f58bddce4e5d",
   "date": "2026-10-08",
   "published_at": "2026-10-08T11:47+08:00",
@@ -9638,25 +9657,6 @@
   "source": "finance.sina.com.cn",
   "type": "价格行情",
   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-07/doc-iniqyeua9664110.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ae9bcfedd3bf1d378a43",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T09:19+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "生意社2026年9月7日PTA行情观点:震荡",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-07/doc-iniqyeue6402712.shtml",
   "company": "",
   "material_ids": [
    "TA"
