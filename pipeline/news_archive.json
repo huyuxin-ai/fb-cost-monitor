@@ -1,5 +1,83 @@
 [
  {
+  "id": "news_83fbfeaf2ab4d1fe158c",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T20:44+08:00",
+  "fetched_at": "2026-10-09T23:04+08:00",
+  "title": "棕榈油承压回落,出口关税豁免落空后市场重新审视供需_国际原油市场",
+  "summary": "",
+  "source": "黄金网",
+  "type": "价格行情",
+  "url": "http://gold.cnfol.com/guojiyuanyousc/20261009/32392123.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_9292dcfc986b93b3ab7e",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T19:24+08:00",
+  "fetched_at": "2026-10-09T23:04+08:00",
+  "title": "果葡糖浆不是水果做的 果葡糖浆价格仅白砂糖一半",
+  "summary": "专家介绍,白砂糖主要成分为蔗糖,取自甘蔗、甜菜;果葡糖浆原料是玉米淀粉、木薯淀粉,并非水果制作。越来越多食品开始添加果葡糖浆,主要是从成本考虑:“同等重量,果葡糖浆的价格约是白砂糖的一半;同等甜度,果葡糖浆每吨价格比白砂糖便宜2000多元。”",
+  "source": "央视财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610093891393020.html",
+  "company": "",
+  "material_ids": [
+   "SR",
+   "SP"
+  ],
+  "matched_keywords": [
+   "白砂糖",
+   "浆价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_c77b60b52d036d6839f6",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T17:52+08:00",
+  "fetched_at": "2026-10-09T23:04+08:00",
+  "title": "猪价节后下跌,10月供需双增 市场窄幅拉锯",
+  "summary": "",
+  "source": "中华网",
+  "type": "价格行情",
+  "url": "https://news.china.com/socialgd/10000169/20261009/49785214.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_fdc72cf06ae893695fb3",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T15:26+08:00",
+  "fetched_at": "2026-10-09T23:04+08:00",
+  "title": "国内供应宽松 豆粕期货仍有下行压力",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-09/doc-iniurmnk1032726.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_7a77b0d22aba9661105f",
   "date": "2026-10-09",
   "published_at": "2026-10-09T15:15+08:00",
@@ -155,6 +233,26 @@
    "猪价"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_f596e53cdae12e29f0ea",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T09:33+08:00",
+  "fetched_at": "2026-10-09T23:04+08:00",
+  "title": "节后猪价或延续不温不火,四季度上涨前景或不及预期?|行情|生猪价格|生猪|全国",
+  "summary": "",
+  "source": "新浪网",
+  "type": "价格行情",
+  "url": "https://video.sina.com.cn/p/finance/2026-10-09/detail-iniuqqhi7301479.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_37024d0272ad3d1237a0",
@@ -9572,102 +9670,6 @@
   ],
   "matched_keywords": [
    "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9eaf1d3df6a18b3c5c9d",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T13:19+08:00",
-  "fetched_at": "2026-09-14T06:59+08:00",
-  "title": "2026.9.9-全国生猪价格参考(好消息,猪价又上涨了!)",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/wm/2026-09-08/doc-inirauia4779991.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d6a03d0490019b11d1b3",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T11:45+08:00",
-  "fetched_at": "2026-09-10T02:47+08:00",
-  "title": "【现货】9月8日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260908/c679692042.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_084179fa78410069fe66",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T09:30+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "生意社2026年9月8日涤纶短纤行情观点:震荡",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-08/doc-inirapza5991305.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_503eec2ae921a7fdd4b1",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T09:09+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "生意社2026年9月8日PTA行情观点:震荡",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-08/doc-inirapza5991210.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c13fd84e5e03093c1080",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T06:49+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "果然!猪价下跌“拦不住”!接下来“跌落”到月底?附:9月8日猪价",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1072973442_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }
