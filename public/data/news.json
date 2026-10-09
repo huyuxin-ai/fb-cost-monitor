@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T23:04+08:00",
+ "updated_at": "2026-10-10T04:14+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -11,7 +11,7 @@
   "Shangbao Indonesia": 1,
   "Sohu": 1,
   "dairynews.today": 2,
-  "finance.sina.com.cn": 12,
+  "finance.sina.com.cn": 13,
   "mezha.net": 1,
   "news.10jqka.com.cn": 1,
   "qq.com": 1,
@@ -44,12 +44,12 @@
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 15,
+  "搜狐网": 14,
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
   "新浪网": 1,
-  "新浪财经": 40,
+  "新浪财经": 39,
   "新浪财经_金融信息服务商": 1,
   "期货日报": 2,
   "期货日报网": 2,
@@ -65,7 +65,7 @@
   "证券日报": 3,
   "证券时报网": 1,
   "财中社": 1,
-  "财联社": 1,
+  "财联社": 2,
   "金十数据": 5,
   "铜冠金源期货": 1,
   "雪球": 1,
@@ -74,15 +74,34 @@
  },
  "items": [
   {
-   "id": "news_12712202dbd0425ad11c",
+   "id": "news_c4be6759afcc3cbedd40",
+   "date": "2026-10-10",
+   "published_at": "2026-10-10T00:13+08:00",
+   "fetched_at": "2026-10-10T04:14+08:00",
+   "title": "美玉米期货在USDA上调作物产量预测后下跌4.8%",
+   "summary": "美玉米期货在USDA上调作物产量预测后下跌4.8%。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610103891601279.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_5aafa9df278685ed51b4",
    "date": "2026-10-09",
    "published_at": "2026-10-09T20:31+08:00",
    "fetched_at": "2026-10-09T23:04+08:00",
-   "title": "棕榈油承压回落,出口关税豁免落空后市场重新审视供需",
+   "title": "棕榈油承压回落,出口关税豁免落空后市场重新审视供需_外汇动态报道",
    "summary": "",
    "source": "汇通网 Fx678",
    "type": "价格行情",
-   "url": "https://news.fx678.com/202610092031002289.shtml",
+   "url": "https://www.fx678.com/202610092031002289.shtml",
    "company": "",
    "material_ids": [
     "P"
@@ -427,6 +446,25 @@
    "relevance_score": 12
   },
   {
+   "id": "news_095af335e6e1b2c6fb4d",
+   "date": "2026-10-08",
+   "published_at": "2026-10-08T23:18+08:00",
+   "fetched_at": "2026-10-08T08:48+08:00",
+   "title": "猪价上涨存在压栏,短暂市场或呈现“僵持”局面|国庆假期|养殖户|猪企|猪肉|出栏",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-10-08/detail-iniumqcw5656178.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_806c615a3b211da6c17e",
    "date": "2026-10-08",
    "published_at": "2026-10-08T20:18+08:00",
@@ -750,25 +788,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_095af335e6e1b2c6fb4d",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T07:16+08:00",
-   "fetched_at": "2026-10-08T08:48+08:00",
-   "title": "猪价上涨存在压栏,短暂市场或呈现“僵持”局面",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-08/detail-iniumqcw5656178.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   },
@@ -3931,29 +3950,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_4e4813753e6f674416bc",
-   "date": "2026-09-24",
-   "published_at": "2026-09-24T11:39+08:00",
-   "fetched_at": "2026-09-24T21:40+08:00",
-   "title": "食用油行情 | 菜油领涨豆油稳 棕榈油走弱",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1080327542_121118712",
-   "company": "",
-   "material_ids": [
-    "P",
-    "Y",
-    "OI"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "豆油",
-    "菜油"
    ],
    "relevance_score": 8
   }

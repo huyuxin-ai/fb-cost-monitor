@@ -1,14 +1,33 @@
 [
  {
-  "id": "news_12712202dbd0425ad11c",
+  "id": "news_c4be6759afcc3cbedd40",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T00:13+08:00",
+  "fetched_at": "2026-10-10T04:14+08:00",
+  "title": "美玉米期货在USDA上调作物产量预测后下跌4.8%",
+  "summary": "美玉米期货在USDA上调作物产量预测后下跌4.8%。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610103891601279.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_5aafa9df278685ed51b4",
   "date": "2026-10-09",
   "published_at": "2026-10-09T20:31+08:00",
   "fetched_at": "2026-10-09T23:04+08:00",
-  "title": "棕榈油承压回落,出口关税豁免落空后市场重新审视供需",
+  "title": "棕榈油承压回落,出口关税豁免落空后市场重新审视供需_外汇动态报道",
   "summary": "",
   "source": "汇通网 Fx678",
   "type": "价格行情",
-  "url": "https://news.fx678.com/202610092031002289.shtml",
+  "url": "https://www.fx678.com/202610092031002289.shtml",
   "company": "",
   "material_ids": [
    "P"
@@ -372,6 +391,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_095af335e6e1b2c6fb4d",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T23:18+08:00",
+  "fetched_at": "2026-10-08T08:48+08:00",
+  "title": "猪价上涨存在压栏,短暂市场或呈现“僵持”局面|国庆假期|养殖户|猪企|猪肉|出栏",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-08/detail-iniumqcw5656178.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_806c615a3b211da6c17e",
   "date": "2026-10-08",
   "published_at": "2026-10-08T20:18+08:00",
@@ -695,25 +733,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_095af335e6e1b2c6fb4d",
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T07:16+08:00",
-  "fetched_at": "2026-10-08T08:48+08:00",
-  "title": "猪价上涨存在压栏,短暂市场或呈现“僵持”局面",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-08/detail-iniumqcw5656178.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  },
@@ -9651,25 +9670,6 @@
   "matched_keywords": [
    "玉米",
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_404ee76c9f0aac9e376b",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T14:01+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "海外减产点燃旺季预期 纸浆弱现实制约趋势上行",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-08/detail-inirauia4783850.d.html",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
   ],
   "relevance_score": 8
  }
