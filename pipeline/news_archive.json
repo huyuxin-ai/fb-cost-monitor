@@ -1,5 +1,62 @@
 [
  {
+  "id": "news_372e9b2e6a67ecc43f32",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T08:00+08:00",
+  "fetched_at": "2026-10-09T09:02+08:00",
+  "title": "猪价节后窄幅震荡 供需博弈持续",
+  "summary": "",
+  "source": "中华网",
+  "type": "价格行情",
+  "url": "https://news.china.com/socialgd/10000169/20261009/49783276.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f328c9689f5081a25a04",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T07:38+08:00",
+  "fetched_at": "2026-10-09T09:02+08:00",
+  "title": "10月9日猪价:跌翻了,猪价承压节后跌势不止!接下来“跌绿”到月底?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1085244266_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0e0101022031cfcdf3e7",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T05:56+08:00",
+  "fetched_at": "2026-10-09T09:02+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线下跌,大豆期货跌0.85%",
+  "summary": "当地时间10月8日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.85%报1286.50美分/蒲式耳,玉米期货跌0.45%报499.75美分/蒲式耳,小麦期货跌0.44%报683.50美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610093890062120.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_73034bb6e264a0a000aa",
   "date": "2026-10-09",
   "published_at": "2026-10-09T00:10+08:00",
@@ -9608,63 +9665,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_cd3c3138e71b45d5ba30",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T11:46+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "09月07日猪评:“猛跌”!利好消退,猪价承压偏弱运行!",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101tvvy",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5977e69c8694d62329eb",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T11:26+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "铜冠金源期货:《棕榈油周报:关注累库兑现情况 棕榈油高位调整》",
-  "summary": "",
-  "source": "发现报告",
-  "type": "价格行情",
-  "url": "https://www.fxbaogao.com/detail/5676128",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fa71c47903d61c52bde5",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T10:19+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "9月7日猪价:一片绿,市场供需承压下跌",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://news.china.com/socialgd/10000169/20260907/49723385.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }
