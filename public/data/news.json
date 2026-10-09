@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T09:02+08:00",
+ "updated_at": "2026-10-09T15:49+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -19,11 +19,12 @@
   "video.sina.com.cn": 4,
   "上海证券报·中国证券网": 1,
   "东吴期货": 1,
-  "东方财富": 6,
+  "东方财富": 5,
   "东方财富研究中心": 1,
-  "中华网": 3,
+  "中华网": 4,
   "中国新闻网": 1,
   "中国证券报": 1,
+  "中新经纬": 1,
   "中财期货": 2,
   "五矿期货": 1,
   "人民日报": 2,
@@ -32,36 +33,37 @@
   "南华期货": 1,
   "南方财经网": 10,
   "同花顺": 5,
-  "同花顺财经": 2,
+  "同花顺财经": 3,
   "国信期货": 2,
   "国元期货": 1,
   "国家粮食和物资储备局": 1,
   "国际果蔬报道": 1,
   "大地期货": 1,
   "大河财立方": 1,
+  "央广财经": 1,
   "央视新闻": 1,
-  "央视财经": 1,
   "手机网易网": 1,
   "搜狐网": 15,
   "新京报": 3,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
-  "新浪财经": 43,
+  "新浪财经": 41,
   "新浪财经_金融信息服务商": 1,
-  "期货日报": 2,
+  "期货日报": 3,
   "期货日报网": 2,
   "每日经济新闻": 7,
-  "汇通网 Fx678": 2,
+  "汇通网 Fx678": 1,
   "澎湃新闻": 2,
   "瑞达期货": 2,
   "第一财经": 4,
   "经济日报": 1,
   "腾讯新闻": 2,
+  "观点网": 1,
   "证券之星": 5,
   "证券日报": 3,
   "证券时报网": 1,
   "财中社": 1,
-  "财联社": 3,
+  "财联社": 2,
   "金十数据": 5,
   "铜冠金源期货": 1,
   "雪球": 1,
@@ -69,6 +71,183 @@
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_f2d1b6ab9d79b6b6e1dd",
+   "date": "2026-10-09",
+   "published_at": "2026-10-09T13:53+08:00",
+   "fetched_at": "2026-10-09T15:49+08:00",
+   "title": "期糖冲高突遭抛售!极端天气连番轰炸,全球食糖供应链将迎超级风暴?",
+   "summary": "来源:金十数据 据报道,原糖在触及19个月新高后,受短期获利了结盘打压出现回落。然而,随着巴西恶劣天气导致供应前景趋紧,其核心基本面依然保持建设性。",
+   "source": "新浪财经",
+   "type": "政策与供应",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-09/doc-iniurfep7820492.shtml",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "食糖",
+    "原糖"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_a365741210b5219ca6a7",
+   "date": "2026-10-09",
+   "published_at": "2026-10-09T11:46+08:00",
+   "fetched_at": "2026-10-09T15:49+08:00",
+   "title": "【现货】10月9日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261009/c680513899.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9562d3123b505751daca",
+   "date": "2026-10-09",
+   "published_at": "2026-10-09T11:32+08:00",
+   "fetched_at": "2026-10-09T15:49+08:00",
+   "title": "10月9日全国生猪价格一览 市场震荡调整",
+   "summary": "",
+   "source": "中华网",
+   "type": "价格行情",
+   "url": "https://news.china.com/socialgd/10000169/20261009/49784294.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_ebfdd130e34490920297",
+   "date": "2026-10-09",
+   "published_at": "2026-10-09T10:41+08:00",
+   "fetched_at": "2026-10-09T15:49+08:00",
+   "title": "港股异动丨乳制品股普涨,蒙牛涨2.5%,飞鹤涨1.7%,里昂、银河齐看好原奶价格复苏",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-09/doc-iniuquqf7271400.shtml",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_60f051208811b265d6f4",
+   "date": "2026-10-09",
+   "published_at": "2026-10-09T09:58+08:00",
+   "fetched_at": "2026-10-09T15:49+08:00",
+   "title": "生意社2026年10月9日涤纶短纤趋势分析:明确上涨",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-09/doc-iniuquqp7042672.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_bc97c6aa29426a50d57a",
+   "date": "2026-10-09",
+   "published_at": "2026-10-09T09:52+08:00",
+   "fetched_at": "2026-10-09T15:49+08:00",
+   "title": "国家统计局发布9月下旬生产资料价格监测数据 外三元生猪价格环比降3.7%",
+   "summary": "其中,外三元生猪当期报价为10.3元/千克,环比下降3.7%。(央广财经)",
+   "source": "央广财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610093891214943.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_9d0efc5fbeed134e7a3c",
+   "date": "2026-10-09",
+   "published_at": "2026-10-09T09:38+08:00",
+   "fetched_at": "2026-10-09T15:49+08:00",
+   "title": "国家统计局:9月下旬生猪价格环比跌3.7%",
+   "summary": "具体看,农产品方面,生猪(外三元)本期价格为10.3元/千克,环比下跌3.7%;玉米(黄玉米二等)本期吨价2166.3元,环比下跌2%;豆粕(粗蛋白含量≥43%)本期吨价3371.1元,环比下跌0.1%。",
+   "source": "中新经纬",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610093891201982.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_37024d0272ad3d1237a0",
+   "date": "2026-10-09",
+   "published_at": "2026-10-09T09:32+08:00",
+   "fetched_at": "2026-10-09T15:49+08:00",
+   "title": "供应增加、需求欠佳 PTA价格上涨持续性存疑",
+   "summary": "聚酯终端订单不足 PTA价格重心的抬升未能有效向下游聚酯行业传导,导致聚酯行业大面积亏损。截至9月30日,除涤纶工业丝利润良好、涤纶长丝POY(预取向丝)处于盈亏平衡线附近之外,其他产品均处于亏损状态,其中涤纶短纤亏损高达800元/吨。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610093890529758.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_730be32c0cd4d39a26bb",
+   "date": "2026-10-09",
+   "published_at": "2026-10-09T08:31+08:00",
+   "fetched_at": "2026-10-09T15:49+08:00",
+   "title": "全国生猪价格较国庆假期前小幅反弹",
+   "summary": "",
+   "source": "观点网",
+   "type": "价格行情",
+   "url": "https://www.guandian.cn/article/20261009/610503.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_372e9b2e6a67ecc43f32",
    "date": "2026-10-09",
@@ -3773,182 +3952,6 @@
     "玉米"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_9a8f2a8ac1d61f4a4d85",
-   "date": "2026-09-24",
-   "published_at": "2026-09-24T06:10+08:00",
-   "fetched_at": "2026-09-24T07:53+08:00",
-   "title": "爆单!全球三分之一夏威夷果,产自中国这个小城!",
-   "summary": "夏威夷果的采收窗口期短,摘早了没熟,晚摘几天又会落果,不论早摘还是晚摘,最终都会影响价格。为了精准把控成熟度,合作社的年轻骨干们,提前检测不同地块夏威夷果样品,精准锁定坚果的采摘时间。",
-   "source": "央视财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609243882857224.html",
-   "company": "",
-   "material_ids": [
-    "MACADAMIA"
-   ],
-   "matched_keywords": [
-    "夏威夷果"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_232abf2b7536977546d4",
-   "date": "2026-09-24",
-   "published_at": "2026-09-24T01:52+08:00",
-   "fetched_at": "2026-09-24T21:40+08:00",
-   "title": "豆粕价格短期区间震荡 菜籽粕到港增多步入旺季",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-23/detail-inisvcpz8482265.d.html",
-   "company": "",
-   "material_ids": [
-    "M",
-    "RM"
-   ],
-   "matched_keywords": [
-    "豆粕",
-    "菜籽粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_32193ab2962707175260",
-   "date": "2026-09-24",
-   "published_at": "2026-09-24T00:39+08:00",
-   "fetched_at": "2026-09-24T07:53+08:00",
-   "title": "供应端增量超过需求增量 猪价节前承压下行",
-   "summary": "",
-   "source": "东方财富",
-   "type": "价格行情",
-   "url": "https://wap.eastmoney.com/a/202609233881668928.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6eb70002b564bee7f288",
-   "date": "2026-09-24",
-   "published_at": "2026-09-24T00:35+08:00",
-   "fetched_at": "2026-09-24T01:56+08:00",
-   "title": "印度政府下令将粗棕榈油和原油大豆油的进口关税从10%下调至5%",
-   "summary": "印度政府下令将粗棕榈油和原油大豆油的进口关税从10%下调至5%,将精炼棕榈油和精炼大豆油的进口关税下调至27.5%,将粗向日葵油的基本进口关税从10%下调至0%。",
-   "source": "财联社",
-   "type": "政策与供应",
-   "url": "https://finance.eastmoney.com/a/202609243882824497.html",
-   "company": "",
-   "material_ids": [
-    "P",
-    "Y"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "豆油",
-    "大豆油"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_5795a8d46291d9075d63",
-   "date": "2026-09-24",
-   "published_at": "2026-09-24T00:16+08:00",
-   "fetched_at": "2026-09-24T01:56+08:00",
-   "title": "光大期货0923热点追踪:生猪节前旺季不旺,节后能修复吗?",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-23/detail-inisvcqf1232115.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_ea02a98a971f20553f63",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T18:52+08:00",
-   "fetched_at": "2026-09-22T20:27+08:00",
-   "title": "标肥价差收窄 大猪价格优势能否持续?",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-22/detail-inissyqz8832120.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1606b374c30f00bed5bd",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T18:52+08:00",
-   "fetched_at": "2026-09-23T21:27+08:00",
-   "title": "棕榈油期价连续四日回落库存高企与需求疲软双重压制_外汇动态报道",
-   "summary": "",
-   "source": "汇通网 Fx678",
-   "type": "供需动态",
-   "url": "https://www.fx678.com/202609231852392286.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8d841441a3dfe986805d",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T17:11+08:00",
-   "fetched_at": "2026-09-23T21:27+08:00",
-   "title": "豆菜粕:中美会谈向好、成本与供需博弈",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-22/detail-inissyqz8839747.d.html",
-   "company": "",
-   "material_ids": [
-    "RM"
-   ],
-   "matched_keywords": [
-    "菜粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_94d1f178929259f3d2cf",
-   "date": "2026-09-23",
-   "published_at": "2026-09-23T16:42+08:00",
-   "fetched_at": "2026-09-25T19:41+08:00",
-   "title": "光大期货0923热点追踪:生猪节前旺季不旺,节后能修复吗?",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/2026-09-23/doc-inisvcqf1232115.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
   }
  ]
 }

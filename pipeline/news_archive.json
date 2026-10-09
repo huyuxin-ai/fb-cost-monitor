@@ -1,5 +1,201 @@
 [
  {
+  "id": "news_7a77b0d22aba9661105f",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T15:15+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "印尼棕榈油协会预计2026年毛棕榈油产量为5370万吨,2027年产量为5170万吨",
+  "summary": "印尼棕榈油协会预计2026年毛棕榈油产量为5370万吨,2027年产量为5170万吨。",
+  "source": "财联社",
+  "type": "供需动态",
+  "url": "http://xianhuo.eastmoney.com/a/202610093891236459.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_f2d1b6ab9d79b6b6e1dd",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T13:53+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "期糖冲高突遭抛售!极端天气连番轰炸,全球食糖供应链将迎超级风暴?",
+  "summary": "来源:金十数据 据报道,原糖在触及19个月新高后,受短期获利了结盘打压出现回落。然而,随着巴西恶劣天气导致供应前景趋紧,其核心基本面依然保持建设性。",
+  "source": "新浪财经",
+  "type": "政策与供应",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-09/doc-iniurfep7820492.shtml",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "食糖",
+   "原糖"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a365741210b5219ca6a7",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T11:46+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "【现货】10月9日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261009/c680513899.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_9562d3123b505751daca",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T11:32+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "10月9日全国生猪价格一览 市场震荡调整",
+  "summary": "",
+  "source": "中华网",
+  "type": "价格行情",
+  "url": "https://news.china.com/socialgd/10000169/20261009/49784294.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_ebfdd130e34490920297",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T10:41+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "港股异动丨乳制品股普涨,蒙牛涨2.5%,飞鹤涨1.7%,里昂、银河齐看好原奶价格复苏",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-09/doc-iniuquqf7271400.shtml",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶",
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_60f051208811b265d6f4",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T09:58+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "生意社2026年10月9日涤纶短纤趋势分析:明确上涨",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-09/doc-iniuquqp7042672.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_bc97c6aa29426a50d57a",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T09:52+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "国家统计局发布9月下旬生产资料价格监测数据 外三元生猪价格环比降3.7%",
+  "summary": "其中,外三元生猪当期报价为10.3元/千克,环比下降3.7%。(央广财经)",
+  "source": "央广财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610093891214943.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_9d0efc5fbeed134e7a3c",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T09:38+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "国家统计局:9月下旬生猪价格环比跌3.7%",
+  "summary": "具体看,农产品方面,生猪(外三元)本期价格为10.3元/千克,环比下跌3.7%;玉米(黄玉米二等)本期吨价2166.3元,环比下跌2%;豆粕(粗蛋白含量≥43%)本期吨价3371.1元,环比下跌0.1%。",
+  "source": "中新经纬",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610093891201982.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_37024d0272ad3d1237a0",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T09:32+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "供应增加、需求欠佳 PTA价格上涨持续性存疑",
+  "summary": "聚酯终端订单不足 PTA价格重心的抬升未能有效向下游聚酯行业传导,导致聚酯行业大面积亏损。截至9月30日,除涤纶工业丝利润良好、涤纶长丝POY(预取向丝)处于盈亏平衡线附近之外,其他产品均处于亏损状态,其中涤纶短纤亏损高达800元/吨。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610093890529758.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_730be32c0cd4d39a26bb",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T08:31+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "全国生猪价格较国庆假期前小幅反弹",
+  "summary": "",
+  "source": "观点网",
+  "type": "价格行情",
+  "url": "https://www.guandian.cn/article/20261009/610503.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_372e9b2e6a67ecc43f32",
   "date": "2026-10-09",
   "published_at": "2026-10-09T08:00+08:00",
@@ -9472,199 +9668,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f6825ed78e7246d5e1b0",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T01:25+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "生猪价格8月延续弱势 养殖企业营收承压",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-09-08/detail-iniqzsvr0026729.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0caea50dadf681b0cfe1",
-  "date": "2026-09-08",
-  "published_at": "2026-09-08T01:16+08:00",
-  "fetched_at": "2026-09-11T13:03+08:00",
-  "title": "仙乐健康:鱼油原料价格阶段性波动,毛利率影响整体可控",
-  "summary": "",
-  "source": "东方财富",
-  "type": "价格行情",
-  "url": "https://wap.eastmoney.com/a/202609073866863069.html",
-  "company": "",
-  "material_ids": [
-   "FISHOIL"
-  ],
-  "matched_keywords": [
-   "鱼油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c50ba88b1c5ebbe4397a",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T22:22+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "9月第1周生猪和猪肉价格继续温和回升|生猪市场动态",
-  "summary": "",
-  "source": "cbgc.scol.com.cn",
-  "type": "价格行情",
-  "url": "https://cbgc.scol.com.cn/news/7930523",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪肉价格"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_8fc7d3595071d4a3a43d",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T19:07+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "2026.9.8-全国生猪价格参考",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqyzxw5475588.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ed91072cc97e18bde818",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T18:04+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "【答疑室】仙乐健康:鱼油原料涨价影响可控",
-  "summary": "",
-  "source": "东方财富网",
-  "type": "价格行情",
-  "url": "https://wap.eastmoney.com/a/202609073866668532.html",
-  "company": "",
-  "material_ids": [
-   "FISHOIL"
-  ],
-  "matched_keywords": [
-   "鱼油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_577c6119d62a099bc1e8",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T15:39+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "【收评】豆油日内上涨0.31% 机构称内盘油脂止涨调整,整体延续震荡偏强走势",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20260907/c679652158.shtml",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_06632471a3b84f093ade",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T15:32+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "【收评】棕榈油日内上涨1.39% 机构称内盘油脂止涨调整,整体延续震荡偏强走势",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20260907/c679652289.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2e0cf0bbb689109519e4",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T14:54+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "印尼林火威胁供应 棕榈油期货价格上涨",
-  "summary": "",
-  "source": "亚洲电视新闻",
-  "type": "价格行情",
-  "url": "https://atvnewsonline.com/business/%E5%8D%B0%E5%B0%BC%E6%9E%97%E7%81%AB%E5%A8%81%E8%83%81%E4%BE%9B%E5%BA%94-%E6%A3%95%E6%A6%88%E6%B2%B9%E6%9C%9F%E8%B4%A7%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8/",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b46cb85caa4e713009f4",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T14:20+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "CPO出口增长5.49%,安姆兰寻求棕榈油附加值",
-  "summary": "",
-  "source": "IDNFinancials",
-  "type": "供需动态",
-  "url": "https://www.idnfinancials.com/cn/news/68429/cpo%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%95%BF5-49%E5%AE%89%E5%A7%86%E5%85%B0%E5%AF%BB%E6%B1%82%E6%A3%95%E6%A6%88%E6%B2%B9%E9%99%84%E5%8A%A0%E5%80%BC",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5d66a622e47e2a96d81c",
-  "date": "2026-09-07",
-  "published_at": "2026-09-07T11:49+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "行业追踪|农业生猪养殖市场(8月31日-9月6日):猪料比价格环比小幅上涨",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20260906/c679630332.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  }
