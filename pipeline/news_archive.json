@@ -1,5 +1,81 @@
 [
  {
+  "id": "news_0f607faf5849299b4fea",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T07:47+08:00",
+  "fetched_at": "2026-10-10T08:13+08:00",
+  "title": "10月10日猪价:突然升温,多地猪价“雷霆”上涨!新一轮“涨价潮”来了?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1085679029_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_5cf23edff3e8ccb273ed",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T07:10+08:00",
+  "fetched_at": "2026-10-10T08:13+08:00",
+  "title": "CBOT农产品期货主力合约收盘多数下跌,玉米期货跌3.95%",
+  "summary": "当地时间10月9日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货涨0.37%报1292.25美分/蒲式耳,玉米期货跌3.95%报480.50美分/蒲式耳,小麦期货跌1.83%报670.75美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610103891650031.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_e71cc8d910a21b1b8501",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T07:03+08:00",
+  "fetched_at": "2026-10-10T08:13+08:00",
+  "title": "美国农业部预计期末大豆库存3.15亿蒲式耳",
+  "summary": "观点网讯:10月9日,美国农业部预计期末大豆库存3.15亿蒲式耳,分析师预期3.0880亿蒲式耳,USDA之前预计3.10亿蒲式耳。",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/stock/estate/integration/2026-10-10/doc-iniustfr2340351.shtml",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a8abf2c365b9358bae94",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T07:02+08:00",
+  "fetched_at": "2026-10-10T08:13+08:00",
+  "title": "美国农业部意外上调玉米产量预估,玉米期货盘中暴跌6%创三年最大跌幅",
+  "summary": "文章来源:华尔街见闻 美国农业部意外将本年度玉米产量预估上调至约160亿蒲式耳,远超市场预期,引发玉米期货近三年最大单日跌幅,盘中一度下挫6%。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-10/doc-iniustfu0721396.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_c4be6759afcc3cbedd40",
   "date": "2026-10-10",
   "published_at": "2026-10-10T00:13+08:00",
@@ -9591,84 +9667,6 @@
    "LH"
   ],
   "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0827a807b59a6627e379",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T08:52+08:00",
-  "fetched_at": "2026-09-09T18:12+08:00",
-  "title": "农产品 | 生猪:继续累积矛盾 关注均重数据油脂",
-  "summary": "国内方面,蛋白柏震荡运行,市场谨慎观望,现货库存压力下降,终端走货尚可。近远月市场拉锯,关注资金动态。(豆粕论坛) 生猪 今日主题:继续累积矛盾 关注均重数据 一.市场观点 现货端,今日全国均价录得10.9元/kg,环比未变。",
-  "source": "混沌天成期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093868754329.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_726c8853cd3b27419588",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T08:24+08:00",
-  "fetched_at": "2026-09-09T18:12+08:00",
-  "title": "长安期货:成本与供应端双重支撑继续被夯实 但 豆粕 此次大涨过后继续上行空间或受限",
-  "summary": "不过,高成本持续增加盘面榨利亏损,或限制远期采购动能,并收缩远月大豆与 豆粕 供应, 豆粕 成本与供应端双重支撑继续被夯实。整体而言, 豆粕 近期仍以成本逻辑为主,后续或将转移至四季度大豆供应收缩的逻辑,支撑坚挺,但此次大涨过后继续上行空间或受限,高位震荡为主。后续需重点关注:1.",
-  "source": "长安期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093868711888.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_e0135aba66e73b8adba7",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T08:21+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "受汇率压力和印尼政策影响,棕榈油价格跌至每吨 4,045 林吉特。",
-  "summary": "",
-  "source": "Vietnam.vn",
-  "type": "价格行情",
-  "url": "https://www.vietnam.vn/zh-cn/gia-dau-co-giam-xuong-4-045-ringgit-tan-do-ap-luc-ty-gia-va-chinh-sach-tai-indonesia",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_885fc615ef4ad14373ca",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T01:08+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "生猪供需边际迎来改善 玉米宽松格局仍存变数",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "供需动态",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-08/detail-inirapze9658367.d.html",
-  "company": "",
-  "material_ids": [
-   "C",
-   "LH"
-  ],
-  "matched_keywords": [
-   "玉米",
    "生猪"
   ],
   "relevance_score": 8
