@@ -117,6 +117,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_2db132299917957ded4b",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T17:17+08:00",
+  "fetched_at": "2026-10-11T01:41+08:00",
+  "title": "多重因素推动猪价10月以来小幅反弹",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-09/detail-iniuqiyt7222100.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_82827218d492d5ac3d21",
   "date": "2026-10-10",
   "published_at": "2026-10-10T14:58+08:00",
@@ -252,27 +271,6 @@
   "relevance_score": 8
  },
  {
-  "id": "news_2db132299917957ded4b",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T10:59+08:00",
-  "fetched_at": "2026-10-11T01:41+08:00",
-  "title": "多重因素推动猪价10月以来小幅反弹|猪肉价格|国庆节|生猪|规模|猪肉",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-09/detail-iniuqiyt7222100.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价",
-   "猪肉价格"
-  ],
-  "relevance_score": 8
- },
- {
   "id": "news_8c0ffd1c858743822045",
   "date": "2026-10-10",
   "published_at": "2026-10-10T10:07+08:00",
@@ -288,6 +286,25 @@
   ],
   "matched_keywords": [
    "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_ea8c5b326c0f4c0d0e26",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T09:46+08:00",
+  "fetched_at": "2026-10-11T05:19+08:00",
+  "title": "需求增量有限压制原纸 纸浆供给收缩静待旺季",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1085831077_122014422/?pvid=000115_3w_a",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
   ],
   "relevance_score": 8
  },
@@ -1178,6 +1195,25 @@
   ],
   "matched_keywords": [
    "夏威夷果"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_20f7ccb7c211c4888491",
+  "date": "2026-10-08",
+  "published_at": "2026-10-08T00:00+08:00",
+  "fetched_at": "2026-10-11T05:19+08:00",
+  "title": "大幅反弹条件不足,短期生猪市场以弱势震荡为主",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-08/doc-iniumqct7932899.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
   ],
   "relevance_score": 8
  },
@@ -9632,43 +9668,5 @@
    "猪价"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_eabd055f6eca41fc632c",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T07:37+08:00",
-  "fetched_at": "2026-09-10T07:53+08:00",
-  "title": "【环球财经】机构:巴西前8个月出口大豆9430万吨 七成销往中国",
-  "summary": "随着大豆出口进入季节性回落阶段,巴西港口出口重心逐步转向二茬玉米。 巴西国家商品供应公司(Conab)8月发布的2025/26年度粮食产量调查显示,巴西大豆收获已经结束,产量预计约为1.805亿吨。作为巴西最大的大豆生产州,马托格罗索州产量预计达到5160万吨。",
-  "source": "新华财经",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609103869774711.html",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_c72ef7a54707e82b631b",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T00:00+08:00",
-  "fetched_at": "2026-09-10T05:32+08:00",
-  "title": "涨,多地上涨!2026.9.10生猪市场信息交流",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-10/doc-inirhezh8775703.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
  }
 ]
