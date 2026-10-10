@@ -1,5 +1,82 @@
 [
  {
+  "id": "news_148c1033a0ad0359ee0e",
+  "date": "2026-10-11",
+  "published_at": "2026-10-11T00:19+08:00",
+  "fetched_at": "2026-10-11T01:41+08:00",
+  "title": "上涨!2026.10.11生猪市场信息交流",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1086130012_122014422",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_deccf18ac67970e40a3c",
+  "date": "2026-10-11",
+  "published_at": "2026-10-11T00:00+08:00",
+  "fetched_at": "2026-10-11T01:41+08:00",
+  "title": "猪价还在磨底!四季度有一波反弹,但别当成大行情来了",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-11/doc-iniuumqy0579870.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b6f34717e6b4d0f9d01f",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T23:28+08:00",
+  "fetched_at": "2026-10-11T01:41+08:00",
+  "title": "受行业行情拖累,天康生物9月生猪销售收入同比大降,月度出栏环比下滑",
+  "summary": "简报显示,自6月起羌都畜牧纳入合并报表,公司9月生猪出栏36.12万头,销量环比下滑,商品猪均价小幅回升,1-9月累计生猪出栏超300万头。销售数据尚未审计,生猪价格波动会对业绩带来较大影响。",
+  "source": "深圳商报·读创",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610103892004064.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_721952e1daf9235a9b18",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T21:09+08:00",
+  "fetched_at": "2026-10-11T01:41+08:00",
+  "title": "猪价继续磨底!供需博弈,10月猪价还有翘尾机会吗?",
+  "summary": "",
+  "source": "新浪网",
+  "type": "供需动态",
+  "url": "https://video.sina.com.cn/p/finance/2026-10-10/detail-iniusxps0676916.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_055e7af962f673d8ef1c",
   "date": "2026-10-10",
   "published_at": "2026-10-10T18:12+08:00",
@@ -118,6 +195,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_e53f5425b4e7ca1a6d72",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T12:45+08:00",
+  "fetched_at": "2026-10-11T01:41+08:00",
+  "title": "猪价“跌跌不止”背后:集团增量、二育观望、冻品32%,10月还有救吗?|出栏|母猪|散户|反弹|价格",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-10/detail-iniusakc7727766.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_4036427ab031a3e1ec48",
   "date": "2026-10-10",
   "published_at": "2026-10-10T12:35+08:00",
@@ -152,6 +248,27 @@
   ],
   "matched_keywords": [
    "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2db132299917957ded4b",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T10:59+08:00",
+  "fetched_at": "2026-10-11T01:41+08:00",
+  "title": "多重因素推动猪价10月以来小幅反弹|猪肉价格|国庆节|生猪|规模|猪肉",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-09/detail-iniuqiyt7222100.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价",
+   "猪肉价格"
   ],
   "relevance_score": 8
  },
@@ -287,6 +404,25 @@
    "玉米"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_8825da99a6368ff3eacc",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T22:25+08:00",
+  "fetched_at": "2026-10-08T15:06+08:00",
+  "title": "大幅反弹条件不足,短期生猪市场以弱势震荡为主",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-08/detail-iniumqct7932899.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_5aafa9df278685ed51b4",
@@ -1006,25 +1142,6 @@
    "原糖"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_8825da99a6368ff3eacc",
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T07:16+08:00",
-  "fetched_at": "2026-10-08T15:06+08:00",
-  "title": "大幅反弹条件不足,短期生猪市场以弱势震荡为主",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-08/detail-iniumqct7932899.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_8684eedba5a8b8891185",
@@ -9551,125 +9668,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e37e147d27aab4036caa",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T20:35+08:00",
-  "fetched_at": "2026-09-14T21:12+08:00",
-  "title": "印度对乳清蛋白的需求为乳制品公司创造了机遇",
-  "summary": "",
-  "source": "Dairy News Today",
-  "type": "供需动态",
-  "url": "https://dairynews.today/cn/news/india_s_whey_protein_demand_creates_opportunities_for_dairy_companies_2045581.html",
-  "company": "",
-  "material_ids": [
-   "WPC34",
-   "WPC80"
-  ],
-  "matched_keywords": [
-   "乳清蛋白"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9eb6516f5ce98487e17d",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T19:45+08:00",
-  "fetched_at": "2026-09-09T21:04+08:00",
-  "title": "猪价连涨4周 上市猪企8月销量环比回暖",
-  "summary": "国信证券研报认为,近期仔猪和母猪价格触达历史新低位置,从历史上看,仔猪价格与生猪价格接近,代表周期情绪见底,这是反转的前瞻指标,后续能繁母猪有望进一步加速去化。预计接下来几个月能繁产能会进一步加速去化,到2027年猪价有望开启周期反转。",
-  "source": "数据宝",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093869494270.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪",
-   "仔猪",
-   "能繁母猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_cf46bff585d59ab28276",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T19:07+08:00",
-  "fetched_at": "2026-09-09T19:41+08:00",
-  "title": "【现货异动】玉米纤维单日暴涨4.67%!玉米原料走强+饲料补库双轮驱动价格飙升",
-  "summary": "据同花顺iFinD数据显示,现货商品玉米纤维9月9日最新价格1120.00元/吨,单日上涨4.67%,最近一周上涨6.67%,一个月累计上涨1.82%。",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-09/doc-inirfumn8858219.shtml",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_117ad68ce9054b725a5c",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T18:58+08:00",
-  "fetched_at": "2026-09-09T19:41+08:00",
-  "title": "红棉股份:国际原糖价格上涨等对公司短期经营业绩的影响存在不确定性",
-  "summary": "公司制糖业务由子公司广州华糖食品有限公司开展,业务模式为采购原糖、普通一级白砂糖作为原料经精炼加工后销售,主要产品为“红棉”牌精制白砂糖等,产品主要用于食品加工、餐饮及民用消费等领域。2026年半年度,公司制糖业务实现营业收入约7.25亿元,占公司营业收入的68.07%。",
-  "source": "界面新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093869474394.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "原糖",
-   "白砂糖"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_cf9fd79f9860e2956529",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T18:54+08:00",
-  "fetched_at": "2026-09-09T18:55+08:00",
-  "title": "8月马棕大概率累库 棕榈油短期或宽幅震荡",
-  "summary": "近期印尼部分地区火灾频繁,棕榈园农场工人被抽调去灭火,同时雾霾和干旱影响到棕榈油的产量。预计油脂短期或宽幅震荡为主。",
-  "source": "华联期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093869446190.html",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_2267691bdd8f2c1ad29b",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T18:47+08:00",
-  "fetched_at": "2026-09-09T23:02+08:00",
-  "title": "进口腰果平均价格",
-  "summary": "",
-  "source": "Vietnam.vn",
-  "type": "价格行情",
-  "url": "https://www.vietnam.vn/zh-cn/tag/gia-hat-dieu-nhap-khau-binh-quan",
-  "company": "",
-  "material_ids": [
-   "CASHEW"
-  ],
-  "matched_keywords": [
-   "腰果"
   ],
   "relevance_score": 8
  }
