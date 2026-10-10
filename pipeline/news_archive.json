@@ -1,5 +1,139 @@
 [
  {
+  "id": "news_3941c935631e9c6df639",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T14:04+08:00",
+  "fetched_at": "2026-10-10T14:14+08:00",
+  "title": "价格周报|本周猪价先涨后跌,周均价环比上涨",
+  "summary": "据农业农村部监测,10月9日,全国农产品批发市场猪肉平均价格为16.04元/公斤,与节前9月30日的16.42元/公斤相比,下降2.3%。本周的平均价格为16.07元/公斤,与上周16.37元/公斤的均价相比,下降1.8%。 本周国内生猪价格先涨后降,周均价环比上涨。",
+  "source": "澎湃新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610103891898374.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_7fa75db609f63cf88ec6",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T14:03+08:00",
+  "fetched_at": "2026-10-10T08:13+08:00",
+  "title": "美国农业部意外上调玉米产量预估 美玉米一度跌超6%",
+  "summary": "受此影响,美玉米期货价格盘中一度下跌6%,触及470.25美分/蒲式耳,创8月11日以来最低水平,随后跌幅有所收窄。 值得注意的是,目前美国玉米收割进度仅完成约四分之一,后续产量估值仍存在调整空间。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610103891897463.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_4036427ab031a3e1ec48",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T12:35+08:00",
+  "fetched_at": "2026-10-10T14:14+08:00",
+  "title": "美玉米期货盘中突然大跌!“多头猝不及防”!一则消息引发?",
+  "summary": "大家好,来关注下玉米期货。 当地时间10月9日,美国农业部将本年度玉米产量预估上调至约160亿蒲式耳,较上月增加1%。 这一结果与彭博调查分析师预测的157.3亿蒲式耳相比偏高,与大多数分析师此前预期的下调产量形成鲜明反差。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610103891882846.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2a59829e2fcf13f989af",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T11:42+08:00",
+  "fetched_at": "2026-10-10T14:14+08:00",
+  "title": "【现货】10月10日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261010/c680548581.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_8c0ffd1c858743822045",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T10:07+08:00",
+  "fetched_at": "2026-10-10T14:14+08:00",
+  "title": "国产核桃丰产上市,产区价格分化加剧",
+  "summary": "",
+  "source": "国际果蔬报道",
+  "type": "价格行情",
+  "url": "https://m.guojiguoshu.com/article/11336",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_9bce2dd219a09e070a7e",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T09:29+08:00",
+  "fetched_at": "2026-10-10T14:14+08:00",
+  "title": "生意社2026年10月10日涤纶短纤趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-10/doc-iniusxpp6210546.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_75c4be865688ddb44dd5",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T09:07+08:00",
+  "fetched_at": "2026-10-10T14:14+08:00",
+  "title": "生意社2026年10月10日PTA趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-10/doc-iniusxpp2247936.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_0f607faf5849299b4fea",
   "date": "2026-10-10",
   "published_at": "2026-10-10T07:47+08:00",
@@ -53,25 +187,6 @@
   ],
   "matched_keywords": [
    "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_a8abf2c365b9358bae94",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T07:02+08:00",
-  "fetched_at": "2026-10-10T08:13+08:00",
-  "title": "美国农业部意外上调玉米产量预估,玉米期货盘中暴跌6%创三年最大跌幅",
-  "summary": "文章来源:华尔街见闻 美国农业部意外将本年度玉米产量预估上调至约160亿蒲式耳,远超市场预期,引发玉米期货近三年最大单日跌幅,盘中一度下挫6%。",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-10/doc-iniustfu0721396.shtml",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
   ],
   "relevance_score": 12
  },
@@ -150,6 +265,46 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c420ee483a2c6896f6ea",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T17:30+08:00",
+  "fetched_at": "2026-10-10T14:14+08:00",
+  "title": "生猪市场供给周期拐点何时到来?",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.cn/2026-10-05/detail-iniueeui6405161.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_55f7b62f87db6cabee80",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T16:31+08:00",
+  "fetched_at": "2026-10-09T15:49+08:00",
+  "title": "全国生猪价格较国庆假期前小幅反弹|猪肉价格|国庆节|生猪市场|三元|数据",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/stock/estate/2026-10-09/detail-iniuqqhm4051680.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价",
+   "猪肉价格"
   ],
   "relevance_score": 8
  },
@@ -367,26 +522,6 @@
    "pta"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_730be32c0cd4d39a26bb",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T08:31+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "全国生猪价格较国庆假期前小幅反弹",
-  "summary": "",
-  "source": "观点网",
-  "type": "价格行情",
-  "url": "https://www.guandian.cn/article/20261009/610503.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_372e9b2e6a67ecc43f32",
@@ -1096,6 +1231,25 @@
   "matched_keywords": [
    "生猪",
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_59b2905da7e0f869ee43",
+  "date": "2026-10-05",
+  "published_at": "2026-10-05T15:56+08:00",
+  "fetched_at": "2026-10-10T14:14+08:00",
+  "title": "马来西亚9月棕榈油库存料创历史新高 价格承压下行",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniueeuf9670520.shtml?froms=ggmp",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
   ],
   "relevance_score": 8
  },
@@ -9515,160 +9669,5 @@
    "玉米"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_39b57c9a6e19d492d650",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T14:28+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "豆油:工厂库存高位,基差有所回落",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/2026-09-09/doc-inirfcpw5735771.shtml",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_85d9650c1b5f476338cb",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T12:19+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "全球乳清蛋白涨价及货运成本增加 本地奶粉价格上涨2.8%",
-  "summary": "",
-  "source": "联合早报",
-  "type": "价格行情",
-  "url": "https://www.zaobao.com.sg/news/singapore/story20260909-9649450",
-  "company": "",
-  "material_ids": [
-   "WPC34",
-   "WPC80"
-  ],
-  "matched_keywords": [
-   "乳清蛋白"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_51113f33c86ba3ef6704",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T11:48+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "【现货】9月9日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260909/c679734599.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_3525f34fbe0afb0d8288",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T09:49+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "生意社2026年9月9日涤纶短纤行情观点:震荡",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20260909/c679730225.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_01da22827f56702b5eda",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T09:27+08:00",
-  "fetched_at": "2026-09-09T18:12+08:00",
-  "title": "农产品 | 生猪:受节后消费淡季及夏季疫病影响 市场补栏积极性一般 多观望为主",
-  "summary": "本周仔猪 价格 整体变动不大,断奶仔猪主流报价130-170元/头。受节后消费淡季及夏季疫病影响,市场补栏积极性一般,多观望为主,整体成交有限。预计短期猪价延续震荡调整。 【 蛋白 粕】 蛋白 粕:夜盘豆菜粕偏弱震荡,根据最新作物生长报告,美豆优良率继续下降。",
-  "source": "申银万国期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093868928021.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价",
-   "仔猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_be7563a333e980edfb1a",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T09:10+08:00",
-  "fetched_at": "2026-09-09T18:12+08:00",
-  "title": "农产品 | 美 豆 优良率58% 连 粕 偏强震荡 豆粕 菜 粕",
-  "summary": "豆粕 菜粕 美豆优良率58%,连粕偏强震荡 周二, 豆粕 01合约收涨0.32%,报3415元/吨;广东 豆粕 现货涨10收于3280元/吨;菜粕01合约收涨0.04%,报2401元/吨;广西菜粕现货涨30收于2530元/吨;CBOT美豆11月合约涨6.5收于1316.75美分/蒲式耳",
-  "source": "铜冠金源期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093868854214.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_76640983fa5fecc4f942",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T09:10+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "金九猪价没大涨!母猪低价清栏,双节前二师兄要反弹?",
-  "summary": "",
-  "source": "video.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://video.sina.com.cn/p/finance/2026-09-09/detail-iniresye3992426.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6cefdba98a9df9cdb797",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T08:58+08:00",
-  "fetched_at": "2026-09-09T18:42+08:00",
-  "title": "牧原股份:8月生猪养殖完全成本在11.5元/kg左右",
-  "summary": "",
-  "source": "Sohu",
-  "type": "供需动态",
-  "url": "https://m.sohu.com/a/1073634873_121157270",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
  }
 ]
