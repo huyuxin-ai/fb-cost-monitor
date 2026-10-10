@@ -1,5 +1,84 @@
 [
  {
+  "id": "news_055e7af962f673d8ef1c",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T18:12+08:00",
+  "fetched_at": "2026-10-10T20:54+08:00",
+  "title": "今日核桃价格一览|10月10日",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1086054915_122014422",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_895027c2786a71950b1a",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T18:00+08:00",
+  "fetched_at": "2026-10-10T20:54+08:00",
+  "title": "豆粕产量上调压制盘面 棕油短期受宏观拖累调整",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-10/detail-iniutkci2121991.d.html",
+  "company": "",
+  "material_ids": [
+   "P",
+   "M"
+  ],
+  "matched_keywords": [
+   "棕油",
+   "豆粕"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_82827218d492d5ac3d21",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T14:58+08:00",
+  "fetched_at": "2026-10-10T20:54+08:00",
+  "title": "DHA、EPA 供给被鱼油和微藻' 卡脖子':荣海妍生物想用' 醇合成' 把不饱和脂肪酸的控制点搬到分子构建环节-36氪",
+  "summary": "",
+  "source": "36kr.com",
+  "type": "供需动态",
+  "url": "https://36kr.com/p/4019596838981761",
+  "company": "",
+  "material_ids": [
+   "FISHOIL"
+  ],
+  "matched_keywords": [
+   "鱼油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e171208d2b2fb94af640",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T14:14+08:00",
+  "fetched_at": "2026-10-10T20:54+08:00",
+  "title": "USDA维持新年度大豆油生物燃料需求预测",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1085955353_121123885",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油",
+   "大豆油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_3941c935631e9c6df639",
   "date": "2026-10-10",
   "published_at": "2026-10-10T14:04+08:00",
@@ -9593,81 +9672,5 @@
    "腰果"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_93d35669086b1c8d49ae",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T17:33+08:00",
-  "fetched_at": "2026-09-10T05:32+08:00",
-  "title": "生意社2026年9月9日PTA行情观点:震荡",
-  "summary": "",
-  "source": "新浪网",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-09-09/detail-iniresya5752144.d.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_70415a8cbbf6c2c23d22",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T16:57+08:00",
-  "fetched_at": "2026-09-09T18:12+08:00",
-  "title": "【豆粕季报】北美定盘,南美蓄变",
-  "summary": "大地期货研究院 观点小结2026年Q3总结:巴西出口顺畅但升贴水持续偏强;美豆优良率持续下降,中国大量采购支撑出口+生柴利好国内压榨,26/27年度美豆供需双旺...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/2026-09-09/doc-inirfqcs5630460.shtml",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 7
- },
- {
-  "id": "news_da1295780749eec7f73e",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T15:43+08:00",
-  "fetched_at": "2026-09-09T18:12+08:00",
-  "title": "生猪 主力合约收跌0.51%",
-  "summary": "南财智讯9月9日电,盘后期货数据显示,大连商品交易所的 生猪 主力合约收跌0.51%,收盘报11730.0元/吨,日内资金流入9118.89万元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093869301483.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_7099bf2f98a3a259eb98",
-  "date": "2026-09-09",
-  "published_at": "2026-09-09T15:43+08:00",
-  "fetched_at": "2026-09-09T18:12+08:00",
-  "title": "玉米 主力合约收跌0.35%",
-  "summary": "南财智讯9月9日电,盘后期货数据显示,大连商品交易所的 玉米 主力合约收跌0.35%,收盘报2282.0元/吨,日内资金流出6003.3万元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609093869302089.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
  }
 ]

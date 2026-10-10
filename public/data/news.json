@@ -1,8 +1,9 @@
 {
- "updated_at": "2026-10-10T14:14+08:00",
+ "updated_at": "2026-10-10T20:54+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
+  "36kr.com": 1,
   "Dairy News Today": 1,
   "IndexBox": 6,
   "KLSE Screener": 1,
@@ -42,15 +43,15 @@
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 14,
+  "搜狐网": 16,
   "新京报": 1,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
   "新浪网": 1,
-  "新浪财经": 41,
+  "新浪财经": 40,
   "期货日报": 4,
   "期货日报网": 2,
-  "每日经济新闻": 7,
+  "每日经济新闻": 6,
   "汇通网 Fx678": 2,
   "澎湃新闻": 3,
   "瑞达期货": 2,
@@ -64,11 +65,89 @@
   "财联社": 2,
   "金十数据": 5,
   "铜冠金源期货": 1,
-  "雪球": 1,
   "马来西亚东方日报": 1,
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_055e7af962f673d8ef1c",
+   "date": "2026-10-10",
+   "published_at": "2026-10-10T18:12+08:00",
+   "fetched_at": "2026-10-10T20:54+08:00",
+   "title": "今日核桃价格一览|10月10日",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1086054915_122014422",
+   "company": "",
+   "material_ids": [
+    "WALNUT"
+   ],
+   "matched_keywords": [
+    "核桃"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_895027c2786a71950b1a",
+   "date": "2026-10-10",
+   "published_at": "2026-10-10T18:00+08:00",
+   "fetched_at": "2026-10-10T20:54+08:00",
+   "title": "豆粕产量上调压制盘面 棕油短期受宏观拖累调整",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-10/detail-iniutkci2121991.d.html",
+   "company": "",
+   "material_ids": [
+    "P",
+    "M"
+   ],
+   "matched_keywords": [
+    "棕油",
+    "豆粕"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_82827218d492d5ac3d21",
+   "date": "2026-10-10",
+   "published_at": "2026-10-10T14:58+08:00",
+   "fetched_at": "2026-10-10T20:54+08:00",
+   "title": "DHA、EPA 供给被鱼油和微藻' 卡脖子':荣海妍生物想用' 醇合成' 把不饱和脂肪酸的控制点搬到分子构建环节-36氪",
+   "summary": "",
+   "source": "36kr.com",
+   "type": "供需动态",
+   "url": "https://36kr.com/p/4019596838981761",
+   "company": "",
+   "material_ids": [
+    "FISHOIL"
+   ],
+   "matched_keywords": [
+    "鱼油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e171208d2b2fb94af640",
+   "date": "2026-10-10",
+   "published_at": "2026-10-10T14:14+08:00",
+   "fetched_at": "2026-10-10T20:54+08:00",
+   "title": "USDA维持新年度大豆油生物燃料需求预测",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1085955353_121123885",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油",
+    "大豆油"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_3941c935631e9c6df639",
    "date": "2026-10-10",
@@ -3867,85 +3946,6 @@
    "matched_keywords": [
     "原奶",
     "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_bab7432dc2cbe51c4ddb",
-   "date": "2026-09-25",
-   "published_at": "2026-09-25T06:54+08:00",
-   "fetched_at": "2026-09-25T08:42+08:00",
-   "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌0.47%",
-   "summary": "当地时间9月24日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.11%报1316.50美分/蒲式耳,玉米期货跌0.47%报526.50美分/蒲式耳,小麦期货跌0.39%报705.75美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609253884043666.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_d546fb43da719b72e41a",
-   "date": "2026-09-25",
-   "published_at": "2026-09-25T06:31+08:00",
-   "fetched_at": "2026-09-25T13:57+08:00",
-   "title": "国家统计局:9月中旬生猪(外三元)价格环比下降2.7%",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-09-24/detail-iniswrrm5057962.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_23f4c4255f45ca86682a",
-   "date": "2026-09-25",
-   "published_at": "2026-09-25T03:23+08:00",
-   "fetched_at": "2026-09-25T06:06+08:00",
-   "title": "豆粕价格短期上行承压 棕榈油价格短期承压回调",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-24/detail-inisxaff5028416.d.html",
-   "company": "",
-   "material_ids": [
-    "P",
-    "M"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "豆粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_86a876e3900bbcdd8a39",
-   "date": "2026-09-24",
-   "published_at": "2026-09-24T23:52+08:00",
-   "fetched_at": "2026-09-28T12:25+08:00",
-   "title": "生猪价格预测- 202609 $牧原股份(SZ002714)$ 9月到目前为止(9与25日),平均猪价10.85。如果今天10.44的价格持续到月底,...",
-   "summary": "",
-   "source": "雪球",
-   "type": "价格行情",
-   "url": "https://xueqiu.com/8655363359/410586233",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
    ],
    "relevance_score": 8
   }
