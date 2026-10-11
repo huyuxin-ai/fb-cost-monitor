@@ -1,5 +1,63 @@
 [
  {
+  "id": "news_b0e1931ee8c9fb0f104d",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T02:16+08:00",
+  "fetched_at": "2026-10-12T02:20+08:00",
+  "title": "期货+场外期权组合发力 纸浆企业实现库存主动管理",
+  "summary": "项目还建立常态化的数据服务体系,向企业持续提供市场专项日报,覆盖库存、基差、隐含波动率等核心监测指标;每周出具情景分析报告,推演不同价格情景下组合策略损益表现,同步给出行权价上移、头寸移仓、仓位增减等实操建议。",
+  "source": "证券时报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610123892136278.html",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_dd549e15950bcb8fab05",
+  "date": "2026-10-11",
+  "published_at": "2026-10-11T23:43+08:00",
+  "fetched_at": "2026-10-12T02:20+08:00",
+  "title": "生猪养殖企业相继发布前三季度销售数据",
+  "summary": "上海钢联生猪行业分析师王红焱在接受《证券日报》记者采访时介绍,今年上半年,猪价相对平稳,多数养殖企业维持盈利或微利,随着下半年猪价震荡下行,行业整体进入盈亏平衡线附近,成本控制较好的企业尚能维持,成本偏高的已出现亏损。",
+  "source": "证券日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610113892129671.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_386ab2cdbc520b48c196",
+  "date": "2026-10-11",
+  "published_at": "2026-10-11T20:01+08:00",
+  "fetched_at": "2026-10-12T02:20+08:00",
+  "title": "农林牧渔行业周报:生猪产能持续去化,牛肉价格持续新高_行业研究_研报",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://stock.stockstar.com/JC2026101100008879.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_53f77794fb81b9ae661b",
   "date": "2026-10-11",
   "published_at": "2026-10-11T17:12+08:00",
@@ -9609,62 +9667,5 @@
    "生猪"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_089bab5007017f2291e6",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T15:10+08:00",
-  "fetched_at": "2026-09-10T16:46+08:00",
-  "title": "农业农村部:全面推行养殖业节粮 深入推进饲用豆粕减量替代",
-  "summary": "鼓励增加小品种氨基酸和酶制剂等生产供应,支持高效菌株创新研发,优化生物技术构建菌株审批程序。推进地源性特色饲料资源调查评估,完善饲料原料营养和加工参数基础数据库。推进新蛋白资源饲料化利用,加快发酵饲料推广应用,促进秸秆、糟渣类饲料资源提效加工利用。",
-  "source": "财联社",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609103870515885.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7891c47a65bc6cca5753",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T15:05+08:00",
-  "fetched_at": "2026-09-10T21:01+08:00",
-  "title": "Mysteel解读:9月USDA供需报告前瞻——新作定产悬念与豆粕后市推演",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "供需动态",
-  "url": "https://m.10jqka.com.cn/20260910/c679778554.shtml",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_38b98cf087ab7011b1da",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T15:01+08:00",
-  "fetched_at": "2026-09-10T16:46+08:00",
-  "title": "【玉米专题】回到现实:无法视而不见的“港存”",
-  "summary": "来源:中州私友会 回顾8月玉米市场,总结一点:“强预期,弱现实”,即基差大幅下跌。 展望9月玉米市场,核心一点:关注北港库存累库速度。",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-10/doc-inirinus8618942.shtml",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
  }
 ]
