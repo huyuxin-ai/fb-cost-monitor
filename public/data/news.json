@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T02:20+08:00",
+ "updated_at": "2026-10-12T06:18+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -42,11 +42,11 @@
   "央视财经": 1,
   "手机网易网": 1,
   "搜狐": 3,
-  "搜狐网": 16,
+  "搜狐网": 17,
   "新京报": 1,
   "新华财经": 4,
   "新浪网": 2,
-  "新浪财经": 43,
+  "新浪财经": 42,
   "期货日报": 4,
   "期货日报网": 2,
   "每日经济新闻": 6,
@@ -69,6 +69,25 @@
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_27c49ca7aa69ff069c57",
+   "date": "2026-10-12",
+   "published_at": "2026-10-12T05:27+08:00",
+   "fetched_at": "2026-10-12T06:18+08:00",
+   "title": "10月12日猪价:崩落!猪价下跌“跌猛了”,蓄势待涨?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1086411660_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_b0e1931ee8c9fb0f104d",
    "date": "2026-10-12",
@@ -3925,25 +3944,6 @@
     "ice原糖"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_136cbf3d75fb12c0c2c0",
-   "date": "2026-09-28",
-   "published_at": "2026-09-28T08:58+08:00",
-   "fetched_at": "2026-09-28T12:25+08:00",
-   "title": "生意社2026年9月28日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-28/doc-initirzp9759280.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
   }
  ]
 }

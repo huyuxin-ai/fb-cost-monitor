@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_27c49ca7aa69ff069c57",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T05:27+08:00",
+  "fetched_at": "2026-10-12T06:18+08:00",
+  "title": "10月12日猪价:崩落!猪价下跌“跌猛了”,蓄势待涨?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1086411660_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_b0e1931ee8c9fb0f104d",
   "date": "2026-10-12",
   "published_at": "2026-10-12T02:16+08:00",
@@ -9648,24 +9667,5 @@
    "玉米"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_ef2ea96945bf7bc7a5bd",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T15:10+08:00",
-  "fetched_at": "2026-09-10T16:46+08:00",
-  "title": "农业农村部:探索实施生猪养殖头部企业产能集中度目标调控",
-  "summary": "农业农村部印发《全国畜牧兽医行业发展“十五五”规划》,其中提到,探索实施生猪养殖头部企业产能集中度目标调控,开展年度生产备案管理,实施产能和产量综合调控。规范发展楼房养猪,制定并推行楼房养猪建设和运行规范。探索建立奶牛养殖规模与粪污消纳用地配套制度。",
-  "source": "界面新闻",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609103870515681.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
  }
 ]
