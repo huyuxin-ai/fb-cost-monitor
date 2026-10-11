@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T08:21+08:00",
+ "updated_at": "2026-10-11T14:13+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -30,7 +30,7 @@
   "南华期货": 1,
   "南方财经网": 8,
   "同花顺": 5,
-  "同花顺财经": 4,
+  "同花顺财经": 5,
   "国信期货": 2,
   "国元期货": 1,
   "国家粮食和物资储备局": 1,
@@ -41,12 +41,12 @@
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐网": 18,
+  "搜狐网": 17,
   "新京报": 1,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
   "新浪网": 2,
-  "新浪财经": 43,
+  "新浪财经": 44,
   "期货日报": 4,
   "期货日报网": 2,
   "每日经济新闻": 6,
@@ -57,7 +57,7 @@
   "第一财经": 4,
   "经济日报": 1,
   "腾讯新闻": 2,
-  "证券之星": 5,
+  "证券之星": 4,
   "证券日报": 3,
   "证券时报网": 1,
   "财中社": 1,
@@ -84,6 +84,44 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7965007d779cb1672dcd",
+   "date": "2026-10-11",
+   "published_at": "2026-10-11T06:18+08:00",
+   "fetched_at": "2026-10-11T14:13+08:00",
+   "title": "生意社2026年10月10日涤纶短纤趋势分析:震荡",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261010/c680547012.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_a9d056df905a53fea5e6",
+   "date": "2026-10-11",
+   "published_at": "2026-10-11T00:07+08:00",
+   "fetched_at": "2026-10-11T14:13+08:00",
+   "title": "上涨!2026.10.11生猪市场信息交流",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-11/doc-iniuumqz7350390.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
    ],
    "relevance_score": 8
   },
@@ -3900,44 +3938,6 @@
    "source": "sohu.com",
    "type": "价格行情",
    "url": "https://m.sohu.com/a/1081399285_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7808daa81abb16ff0cb3",
-   "date": "2026-09-27",
-   "published_at": "2026-09-27T12:55+08:00",
-   "fetched_at": "2026-09-27T14:56+08:00",
-   "title": "2026年9月27日全国主要批发市场腰果价格行情_综合资讯",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://futures.stockstar.com/IG2026092700000411.shtml",
-   "company": "",
-   "material_ids": [
-    "CASHEW"
-   ],
-   "matched_keywords": [
-    "腰果"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_4db1840bb65fcd906d36",
-   "date": "2026-09-26",
-   "published_at": "2026-09-26T14:04+08:00",
-   "fetched_at": "2026-09-26T15:14+08:00",
-   "title": "下跌“如火如荼”!附:9月27日猪价",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1081102982_120238851",
    "company": "",
    "material_ids": [
     "LH"
