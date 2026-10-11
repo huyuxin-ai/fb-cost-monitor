@@ -1,5 +1,63 @@
 [
  {
+  "id": "news_53f77794fb81b9ae661b",
+  "date": "2026-10-11",
+  "published_at": "2026-10-11T17:12+08:00",
+  "fetched_at": "2026-10-11T21:18+08:00",
+  "title": "今日核桃价格一览|10月11日",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1086376688_122014422",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e308c18edcdfb6ca0626",
+  "date": "2026-10-11",
+  "published_at": "2026-10-11T16:11+08:00",
+  "fetched_at": "2026-10-11T21:18+08:00",
+  "title": "纸浆:纸浆震荡运行2026.10.11",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1086362893_122014422",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f9816cf23c3c539c8cd7",
+  "date": "2026-10-11",
+  "published_at": "2026-10-11T14:19+08:00",
+  "fetched_at": "2026-10-11T21:18+08:00",
+  "title": "USDA维持新年度大豆油生物燃料需求预测",
+  "summary": "",
+  "source": "搜狐",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1086331846_121119270",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油",
+   "大豆油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_b6d3a9d36801ae8bc8de",
   "date": "2026-10-11",
   "published_at": "2026-10-11T07:46+08:00",
@@ -170,6 +228,25 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_db522f2aa7e47becc839",
+  "date": "2026-10-10",
+  "published_at": "2026-10-10T15:00+08:00",
+  "fetched_at": "2026-10-11T21:18+08:00",
+  "title": "【现货】10月10日各地区一级豆油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "http://news.10jqka.com.cn/20261010/c680548582.shtml",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
   ],
   "relevance_score": 8
  },
@@ -9589,82 +9666,5 @@
    "玉米"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_4eb6baf2ecec0ecc0dd9",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T13:49+08:00",
-  "fetched_at": "2026-09-10T16:46+08:00",
-  "title": "机构:出栏压力边际改善,生猪价格偏强运行",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1074244792_121157270",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1c95d862859f808f46c6",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T11:51+08:00",
-  "fetched_at": "2026-09-10T16:46+08:00",
-  "title": "【现货】9月10日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260910/c679776246.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0fe08915bc4c16cc4afb",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T09:53+08:00",
-  "fetched_at": "2026-09-10T21:01+08:00",
-  "title": "生意社2026年9月10日涤纶短纤行情观点:震荡",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-10/doc-iniriaey5421733.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b3f1e30fe7e6f26f46e4",
-  "date": "2026-09-10",
-  "published_at": "2026-09-10T09:32+08:00",
-  "fetched_at": "2026-09-10T21:01+08:00",
-  "title": "生意社2026年9月10日PTA行情观点:震荡",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-10/doc-iniriafa3067602.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
  }
 ]

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T14:13+08:00",
+ "updated_at": "2026-10-11T21:18+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -12,8 +12,8 @@
   "finance.sina.com.cn": 13,
   "mezha.net": 1,
   "qq.com": 1,
-  "sohu.com": 2,
-  "video.sina.com.cn": 3,
+  "sohu.com": 1,
+  "video.sina.com.cn": 2,
   "上海证券报·中国证券网": 1,
   "东吴期货": 1,
   "东方财富": 5,
@@ -41,12 +41,13 @@
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
+  "搜狐": 3,
   "搜狐网": 17,
   "新京报": 1,
   "新华财经": 4,
   "新浪新闻_手机新浪网": 1,
   "新浪网": 2,
-  "新浪财经": 44,
+  "新浪财经": 43,
   "期货日报": 4,
   "期货日报网": 2,
   "每日经济新闻": 6,
@@ -68,6 +69,64 @@
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_53f77794fb81b9ae661b",
+   "date": "2026-10-11",
+   "published_at": "2026-10-11T17:12+08:00",
+   "fetched_at": "2026-10-11T21:18+08:00",
+   "title": "今日核桃价格一览|10月11日",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1086376688_122014422",
+   "company": "",
+   "material_ids": [
+    "WALNUT"
+   ],
+   "matched_keywords": [
+    "核桃"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e308c18edcdfb6ca0626",
+   "date": "2026-10-11",
+   "published_at": "2026-10-11T16:11+08:00",
+   "fetched_at": "2026-10-11T21:18+08:00",
+   "title": "纸浆:纸浆震荡运行2026.10.11",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1086362893_122014422",
+   "company": "",
+   "material_ids": [
+    "SP"
+   ],
+   "matched_keywords": [
+    "纸浆"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_f9816cf23c3c539c8cd7",
+   "date": "2026-10-11",
+   "published_at": "2026-10-11T14:19+08:00",
+   "fetched_at": "2026-10-11T21:18+08:00",
+   "title": "USDA维持新年度大豆油生物燃料需求预测",
+   "summary": "",
+   "source": "搜狐",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1086331846_121119270",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油",
+    "大豆油"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_b6d3a9d36801ae8bc8de",
    "date": "2026-10-11",
@@ -3880,64 +3939,6 @@
    "source": "搜狐网",
    "type": "价格行情",
    "url": "https://m.sohu.com/a/1081473817_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_324e806edd8c7cb18312",
-   "date": "2026-09-28",
-   "published_at": "2026-09-28T00:00+08:00",
-   "fetched_at": "2026-09-28T01:35+08:00",
-   "title": "猪价节日效应失效,供应增量>消费增量,2027年能否迎来拐点?",
-   "summary": "来源:今日猪价行情价格表 在“供应增量>消费增量”的格局下,节日效应对猪价提振明显失效。短期猪价或震荡偏弱,中长期能繁母猪去化加速,为2027年猪价回暖埋下伏笔。",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-28/doc-inithzcu3141977.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "能繁母猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_9d3f529a3ee47cdc6854",
-   "date": "2026-09-27",
-   "published_at": "2026-09-27T17:25+08:00",
-   "fetched_at": "2026-09-27T20:53+08:00",
-   "title": "生猪现货低迷,硬任务要交卷了",
-   "summary": "",
-   "source": "video.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://video.sina.com.cn/p/finance/2026-09-27/detail-inithcyh0202874.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_0e6caaf295b8e738405d",
-   "date": "2026-09-27",
-   "published_at": "2026-09-27T14:13+08:00",
-   "fetched_at": "2026-09-27T14:56+08:00",
-   "title": "一夜降温,猪价下跌“势不可挡”!附:9月28日猪价",
-   "summary": "",
-   "source": "sohu.com",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1081399285_120238851",
    "company": "",
    "material_ids": [
     "LH"
