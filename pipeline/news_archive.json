@@ -1,5 +1,140 @@
 [
  {
+  "id": "news_3d3fe16632ed3bc608c3",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T15:45+08:00",
+  "fetched_at": "2026-10-12T16:49+08:00",
+  "title": "玉米主力合约收涨1.16%",
+  "summary": "南财智讯10月12日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨1.16%,收盘报2176.0元/吨,日内资金流出2.28亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610123892693989.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_471bccc0c8928e52e5da",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T15:44+08:00",
+  "fetched_at": "2026-10-12T16:49+08:00",
+  "title": "生猪主力合约收跌3.06%",
+  "summary": "南财智讯10月12日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌3.06%,收盘报10310.0元/吨,日内资金流出1.59亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610123892686993.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_da0b8647758c129cf42d",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T13:43+08:00",
+  "fetched_at": "2026-10-12T16:49+08:00",
+  "title": "短期供应压力仍存 预计生猪期货价格震荡调整为主",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-12/doc-iniuxwik0528399.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6f981435c19309caa11e",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T12:35+08:00",
+  "fetched_at": "2026-10-12T16:49+08:00",
+  "title": "豆油 | 节后价格小涨,需求尚未明显回暖",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1086649001_122014422",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f3089e936ae582c45bc5",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T11:46+08:00",
+  "fetched_at": "2026-10-12T16:49+08:00",
+  "title": "【现货】10月12日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261012/c680578313.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_683150cd485950b8e8e0",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T10:31+08:00",
+  "fetched_at": "2026-10-12T16:49+08:00",
+  "title": "超级厄尔尼诺搅动全球!白糖鱼粉已经涨价,橡胶棕榈油也要悬了?",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1086591814_122219919",
+  "company": "",
+  "material_ids": [
+   "SR",
+   "P"
+  ],
+  "matched_keywords": [
+   "白糖",
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_bc8b5347a290feead58c",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T09:26+08:00",
+  "fetched_at": "2026-10-12T16:49+08:00",
+  "title": "生意社2026年10月12日PTA趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-12/doc-iniuxmtm5438809.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_938c72203a1b0f092d20",
   "date": "2026-10-12",
   "published_at": "2026-10-12T08:59+08:00",
@@ -37,6 +172,25 @@
    "玉米"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_22a145bf898f0945cc17",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T08:43+08:00",
+  "fetched_at": "2026-10-12T16:49+08:00",
+  "title": "机构:超强厄尔尼诺正式形成,生猪供给压力下产能持续收缩",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.cn/2026-10-11/detail-iniuvxsh0604843.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_a87bf4940ad8491803fd",
@@ -9504,167 +9658,5 @@
    "豆油"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_8170e0bfe54212b5e6d8",
-  "date": "2026-09-11",
-  "published_at": "2026-09-11T13:08+08:00",
-  "fetched_at": "2026-09-12T01:50+08:00",
-  "title": "豆粕供需拉扯高位震荡 棕榈油维持高位区间震荡",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmruc2165337.shtml",
-  "company": "",
-  "material_ids": [
-   "P",
-   "M"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "豆粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fbae145de3395e2506f8",
-  "date": "2026-09-11",
-  "published_at": "2026-09-11T12:54+08:00",
-  "fetched_at": "2026-09-11T13:03+08:00",
-  "title": "【现货】9月11日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260911/c679820666.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ecf4182e7a0ad4c28574",
-  "date": "2026-09-11",
-  "published_at": "2026-09-11T11:11+08:00",
-  "fetched_at": "2026-09-11T13:03+08:00",
-  "title": "厄尔尼诺冲击下:国际糖价大涨25% 国内白糖会涨价吗?",
-  "summary": "厄尔尼诺正在对全球农业造成全面扰动,在小麦、玉米等大宗农产品国际价格大幅上涨的同时,食糖也不甘示弱,ICE原糖价格最近一个多月涨幅达25%。 全球主要生产地区欧盟、印度此前发布了减产预期,而在近日,泰国糖业组织预计2026/27榨季当地将减产20%。",
-  "source": "第一财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609113871882554.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白糖",
-   "食糖",
-   "原糖",
-   "ice原糖"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_ab8d5705d39efc5ae124",
-  "date": "2026-09-11",
-  "published_at": "2026-09-11T08:47+08:00",
-  "fetched_at": "2026-09-11T13:03+08:00",
-  "title": "农产品 | 生猪:短期供需博弈加剧 生猪价格震荡反复 关注出栏节奏",
-  "summary": "需求端,高温影响逐渐消退,终端采购意愿或缓慢回暖,预计生猪需求持续小幅增量,只是当前备货尚未启动,增量有限,支撑也相对有限。总的来说,短期供需博弈加剧,生猪价格震荡反复,关注出栏节奏。",
-  "source": "瑞达期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609113871249389.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_ad5bc8d094a5e79cd532",
-  "date": "2026-09-11",
-  "published_at": "2026-09-11T08:45+08:00",
-  "fetched_at": "2026-09-11T13:03+08:00",
-  "title": "9月10日玉米“闪崩”,新作低开? 供需博弈加剧",
-  "summary": "",
-  "source": "中华网",
-  "type": "供需动态",
-  "url": "https://3g.china.com/act/redian/13004758/20260911/49734196.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_288e958a4c1b2837e9bb",
-  "date": "2026-09-11",
-  "published_at": "2026-09-11T08:16+08:00",
-  "fetched_at": "2026-09-11T08:26+08:00",
-  "title": "中泰期货:直到高库存消化完毕 白糖价格中枢才会抬升",
-  "summary": "预计短期内价格区间震荡,直到高库存消化完毕,价格中枢才会抬升。 (本内容及观点仅供参考,不构成任何投资建议)",
-  "source": "中泰期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609113871240319.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白糖"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_893195e11cf9881bc4f6",
-  "date": "2026-09-11",
-  "published_at": "2026-09-11T07:31+08:00",
-  "fetched_at": "2026-09-11T08:26+08:00",
-  "title": "“弱现实”与“强预期”交织,白糖后市怎么走?",
-  "summary": "来源:期货日报 8月初以来,ICE原糖价格快速拉升,已经从15美分/磅下方攀升至18美分/磅以上,累计涨幅超过20%。国内市场上,郑糖主力2701合约自7月末的5178元/吨开启反弹...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfea7054600.shtml",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白糖",
-   "原糖",
-   "郑糖",
-   "ice原糖"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_980f33866037c85ee7ca",
-  "date": "2026-09-11",
-  "published_at": "2026-09-11T07:19+08:00",
-  "fetched_at": "2026-09-11T08:26+08:00",
-  "title": "“弱现实”与“强预期”交织 郑糖短期或区间震荡",
-  "summary": "主产区广西现货市场报价多在5250元/吨以下,低于成本。 图为国内食糖工业库存变化 从下游表现来看,食品饮料等行业消费增长缓慢,终端采购以刚需为主,食品饮料企业在传统旺季也缺乏大规模备货的动力。",
-  "source": "期货日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609113871024074.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "郑糖",
-   "食糖"
-  ],
-  "relevance_score": 12
  }
 ]
