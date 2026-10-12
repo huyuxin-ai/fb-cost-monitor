@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T06:18+08:00",
+ "updated_at": "2026-10-12T09:35+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -9,7 +9,7 @@
   "Shangbao Indonesia": 1,
   "Sohu": 1,
   "dairynews.today": 2,
-  "finance.sina.com.cn": 13,
+  "finance.sina.com.cn": 12,
   "mezha.net": 1,
   "qq.com": 1,
   "sohu.com": 1,
@@ -18,42 +18,42 @@
   "东吴期货": 1,
   "东方财富": 5,
   "东方财富研究中心": 1,
-  "中华网": 5,
+  "中华网": 6,
   "中国新闻网": 1,
   "中国证券报": 1,
   "中新经纬": 1,
-  "中财期货": 2,
+  "中财期货": 1,
   "五矿期货": 1,
   "人民日报": 2,
   "光大期货": 1,
+  "创元期货": 1,
   "华夏时报网": 1,
   "南华期货": 1,
   "南方财经网": 8,
-  "同花顺": 5,
+  "同花顺": 4,
   "同花顺财经": 5,
   "国信期货": 2,
   "国元期货": 1,
   "国家粮食和物资储备局": 1,
   "国际果蔬报道": 2,
-  "大地期货": 1,
   "大河财立方": 1,
   "央广财经": 1,
   "央视新闻": 1,
   "央视财经": 1,
   "手机网易网": 1,
-  "搜狐": 3,
-  "搜狐网": 17,
+  "搜狐": 4,
+  "搜狐网": 16,
   "新京报": 1,
   "新华财经": 4,
   "新浪网": 2,
-  "新浪财经": 42,
+  "新浪财经": 43,
   "期货日报": 4,
   "期货日报网": 2,
   "每日经济新闻": 6,
   "汇通网 Fx678": 2,
   "深圳商报·读创": 1,
   "澎湃新闻": 3,
-  "瑞达期货": 1,
+  "瑞达期货": 2,
   "第一财经": 4,
   "经济日报": 1,
   "腾讯新闻": 2,
@@ -70,15 +70,73 @@
  },
  "items": [
   {
-   "id": "news_27c49ca7aa69ff069c57",
+   "id": "news_938c72203a1b0f092d20",
    "date": "2026-10-12",
-   "published_at": "2026-10-12T05:27+08:00",
-   "fetched_at": "2026-10-12T06:18+08:00",
-   "title": "10月12日猪价:崩落!猪价下跌“跌猛了”,蓄势待涨?",
-   "summary": "",
-   "source": "搜狐网",
+   "published_at": "2026-10-12T08:59+08:00",
+   "fetched_at": "2026-10-12T09:35+08:00",
+   "title": "农产品 | 生猪:短期市场供应依旧过剩 需求侧难有发力点",
+   "summary": "总体来看,短期市场供应依旧过剩,高体重高供应压制下,需求侧难有发力点,猪价震荡偏弱看待,盘面反弹沽空挤升水,关注周一农业部会议和体重变化。",
+   "source": "创元期货",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1086411660_120238851",
+   "url": "https://finance.eastmoney.com/a/202610123892186768.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_bdc00df31b0b5e38ceed",
+   "date": "2026-10-12",
+   "published_at": "2026-10-12T08:50+08:00",
+   "fetched_at": "2026-10-12T09:35+08:00",
+   "title": "农产品 | 芝加哥交易所玉米期货周五收低 USDA意外上调美玉米产量预估",
+   "summary": "且原料端玉米阶段性上量,市场价格偏弱调整,对淀粉价格有所拖累。盘面来看,淀粉期价随玉米市场波动,总体走势偏弱。 生猪 根据Mysteel数据,10月样本规模养殖场计划出栏量环比增加1.91%,出栏压力仍有,不过短时间价格下跌,有部分养殖主体有惜售情绪。",
+   "source": "瑞达期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610123892183110.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_a87bf4940ad8491803fd",
+   "date": "2026-10-12",
+   "published_at": "2026-10-12T08:41+08:00",
+   "fetched_at": "2026-10-12T09:35+08:00",
+   "title": "10月11日猪价上涨“卷土重来” 供需情绪谨慎",
+   "summary": "",
+   "source": "中华网",
+   "type": "价格行情",
+   "url": "https://news.china.com/socialgd/10000169/20261012/49788638.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_76ff9e6ffabd31e382fd",
+   "date": "2026-10-12",
+   "published_at": "2026-10-12T07:27+08:00",
+   "fetched_at": "2026-10-12T06:18+08:00",
+   "title": "10月12日猪价:突然降温!猪价下跌“坐滑梯”,接下来“断崖”下跌?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1086412457_120238851",
    "company": "",
    "material_ids": [
     "LH"
@@ -147,6 +205,25 @@
    "relevance_score": 8
   },
   {
+   "id": "news_7116c1003734837b0036",
+   "date": "2026-10-11",
+   "published_at": "2026-10-11T17:30+08:00",
+   "fetched_at": "2026-10-12T09:35+08:00",
+   "title": "机构:超强厄尔尼诺正式形成,生猪供给压力下产能持续收缩",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuvxsh0604843.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_53f77794fb81b9ae661b",
    "date": "2026-10-11",
    "published_at": "2026-10-11T17:12+08:00",
@@ -201,6 +278,25 @@
    "matched_keywords": [
     "豆油",
     "大豆油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2eb93553a14453f6cd26",
+   "date": "2026-10-11",
+   "published_at": "2026-10-11T08:44+08:00",
+   "fetched_at": "2026-10-12T09:35+08:00",
+   "title": "期货+场外期权组合发力 纸浆企业实现库存主动管理",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-10-12/detail-iniuwuvt5465720.d.html",
+   "company": "",
+   "material_ids": [
+    "SP"
+   ],
+   "matched_keywords": [
+    "纸浆"
    ],
    "relevance_score": 8
   },
@@ -3841,107 +3937,6 @@
    ],
    "matched_keywords": [
     "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_e9f028072bc4ceaee84e",
-   "date": "2026-09-28",
-   "published_at": "2026-09-28T09:56+08:00",
-   "fetched_at": "2026-09-28T12:25+08:00",
-   "title": "【季报】生猪:余压未尽 去化成色渐入验期",
-   "summary": "观点小结 行情回顾: 生猪价格:Q3市场逐步进入到前期产能去化兑现的验证阶段,消费端还处相对淡季,供应端释压仍为主导,猪价几轮小反弹持续性都不足—但底部有所抬升;其中7月初最高全国均价11.4元/公斤左右,8-9月维持在10.5-11.2元/公斤涨跌调整。",
-   "source": "大地期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609283884761834.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_e67b0e9411e1e8a326f3",
-   "date": "2026-09-28",
-   "published_at": "2026-09-28T09:50+08:00",
-   "fetched_at": "2026-09-28T12:25+08:00",
-   "title": "假期集团散户同步出栏 生猪价格承压偏弱运行",
-   "summary": "(来源:信达期货) 研报正文 资讯:9 月 21 日,牧原股份于互动易答复投资者,力争9月底将能繁母猪存栏降至 300 万头以下;9 月 23 日企业亮相农民丰收节...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwim9706532.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价",
-    "能繁母猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_52edcc5833118a125ff4",
-   "date": "2026-09-28",
-   "published_at": "2026-09-28T09:46+08:00",
-   "fetched_at": "2026-09-28T19:09+08:00",
-   "title": "PTA供需呈现多空拉扯 价格高位宽幅震荡运行",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwif8747929.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b8f913385ecc4ac9aa8f",
-   "date": "2026-09-28",
-   "published_at": "2026-09-28T09:41+08:00",
-   "fetched_at": "2026-09-28T12:25+08:00",
-   "title": "【现货】9月28日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260928/c680305087.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_116144ab88ba80a94e74",
-   "date": "2026-09-28",
-   "published_at": "2026-09-28T09:09+08:00",
-   "fetched_at": "2026-09-28T12:25+08:00",
-   "title": "农产品 | 白糖:外盘偏弱叠加国内高库存 郑糖弱势延续 预计5300-5380元区间震荡",
-   "summary": "白糖:国外:ICE原糖厄尔尼诺叙事支撑减弱;UNICA数据显示巴西8月上半月双周产糖361.5万吨、同比增15.96%,供给提速持续压制糖价;StoneX上调2026/27榨季全球供应缺口至170万吨,远端预期偏多。",
-   "source": "中财期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609283884594665.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白糖",
-    "郑糖",
-    "原糖",
-    "ice原糖"
    ],
    "relevance_score": 12
   }
