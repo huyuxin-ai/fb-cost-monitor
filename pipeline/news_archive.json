@@ -1,5 +1,25 @@
 [
  {
+  "id": "news_567a3fc21d59fad973da",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T02:07+08:00",
+  "fetched_at": "2026-10-13T02:44+08:00",
+  "title": "养殖端集中出栏 9月国内生猪价格有所下滑",
+  "summary": "预计10月份生猪价格或震荡下滑。但11月份生猪市场需求或陆续增加,随着大猪需求好转、价格上涨,标猪价格或得以支撑;此外,养殖户或有压栏增重表现,等待12月份冬至前后出栏,因此11月份供应或短时收窄,猪价不乏上涨可能。",
+  "source": "证券时报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610133893054051.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_793f90c81281f47e92a2",
   "date": "2026-10-12",
   "published_at": "2026-10-12T23:12+08:00",
@@ -9640,25 +9660,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c7313383bd396680f761",
-  "date": "2026-09-12",
-  "published_at": "2026-09-12T03:32+08:00",
-  "fetched_at": "2026-09-13T23:17+08:00",
-  "title": "USDA 9月月报:美国大豆供需预期数据",
-  "summary": "",
-  "source": "富途牛牛",
-  "type": "供需动态",
-  "url": "https://news.futunn.com/post/79165686/usda-september-monthly-report-us-soybean-supply-and-demand-outlook",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆"
   ],
   "relevance_score": 8
  }
