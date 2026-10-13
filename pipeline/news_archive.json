@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_94cb4b7170b4828700c3",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T22:30+08:00",
+  "fetched_at": "2026-10-14T00:13+08:00",
+  "title": "美国农业部生猪报告2026年10月13日:购买量参差,协商价格走软 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-hog-report-mixed-purchase-volumes-softer-negotiated-prices/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_44a548cce8d90d3f2cff",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T18:30+08:00",
+  "fetched_at": "2026-10-14T00:13+08:00",
+  "title": "今日核桃价格一览|10月12日",
+  "summary": "",
+  "source": "新浪网",
+  "type": "价格行情",
+  "url": "https://k.sina.com.cn/article_5953466437_162dab0450670beq6e.html",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_7b93aebfae38eadf6a74",
   "date": "2026-10-13",
   "published_at": "2026-10-13T15:41+08:00",
@@ -112,6 +150,26 @@
   ],
   "matched_keywords": [
    "乳清蛋白"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2cf19dc9b1973e8a589b",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T10:31+08:00",
+  "fetched_at": "2026-10-14T00:13+08:00",
+  "title": "豆一突破性上涨供需面是否支持继续上行?|厄尔尼诺现象|豆一期货|农产品|黑龙江省|大豆",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-12/detail-iniuypff8437371.d.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆",
+   "豆一"
   ],
   "relevance_score": 8
  },
@@ -9605,62 +9663,5 @@
    "猪价"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_4d93aa0258e8fdef59a1",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T10:03+08:00",
-  "fetched_at": "2026-09-14T14:03+08:00",
-  "title": "Mysteel解读:2026年9月份世界玉米供需情况分析",
-  "summary": "",
-  "source": "news.mysteel.com",
-  "type": "供需动态",
-  "url": "https://news.mysteel.com/a/26091410/24A8E14470B561D6.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_01a62dc36662e32432de",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T09:40+08:00",
-  "fetched_at": "2026-09-14T14:03+08:00",
-  "title": "生意社2026年9月14日涤纶短纤趋势分析:震荡",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-14/doc-iniruarh4121990.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d69f9a401a20e6944db4",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T09:35+08:00",
-  "fetched_at": "2026-09-14T14:03+08:00",
-  "title": "国家统计局:9月上旬生猪(外三元)价格环比上涨0.9%",
-  "summary": "其中,生猪(外三元)价格为11.0元/千克,环比上涨0.9%。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609143873031987.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
  }
 ]
