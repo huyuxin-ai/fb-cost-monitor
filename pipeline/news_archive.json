@@ -1,5 +1,178 @@
 [
  {
+  "id": "news_7b93aebfae38eadf6a74",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T15:41+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "生猪主力合约收跌1.5%",
+  "summary": "南财智讯10月13日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.5%,收盘报10210.0元/吨,日内资金流出2.92亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610133894133814.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_58105b30c7ac775a3b9f",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T15:41+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "玉米主力合约收涨1.11%",
+  "summary": "南财智讯10月13日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨1.11%,收盘报2195.0元/吨,日内资金流出3.14亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610133894133211.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_12c612eb695f0615a161",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T13:38+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "供给增加、消费转弱叠加冻品抛压,10月猪价或继续磨底",
+  "summary": "卓创资讯生猪行业高级分析师范晴晴 【导语】据卓创资讯统计,9月生猪均价环比下滑1.05%,市场供大于求拖累猪价震荡下行。进入10月,样本养殖企业出栏计划环比增加2.45%...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-13/doc-inivafqp8819363.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_45b168ddf8900b15a39b",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T13:32+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "10月东南沿海玉米市场或迎来价格探底、交投回暖",
+  "summary": "卓创资讯玉米市场分析师邹骏 【导语】2026年9月东南沿海玉米市场新陈交替节奏明显快于往年,华北新季玉米集中上市直接推动南港报价提前向新作定价体系过渡...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-13/doc-inivafqi7189775.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_b1dbf7bf3cb664fe3fed",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T11:39+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "港股异动丨猪肉股集体下跌,德康农牧跌超4%,猪价再次跌破10元关口",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1087098355_639898",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_9c63841d4e808f8d05fb",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T11:03+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "蛋白粉“伤肾”争议背后:乳清蛋白成本暴涨 蟑螂粉成平替?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "供需动态",
+  "url": "https://www.sohu.com/a/1087075542_161795",
+  "company": "",
+  "material_ids": [
+   "WPC34",
+   "WPC80"
+  ],
+  "matched_keywords": [
+   "乳清蛋白"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_5eb61c046a2cd2a15990",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T09:55+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "观察 | 双汇因兽药残留超标事件被罚没上亿元,给生猪产业带来什么警示",
+  "summary": "双汇发展是国内老牌肉制品龙头,除了以火腿肠为代表的肉食品业务,生猪屠宰也是双汇的支柱业务之一。在行业内,生猪产销分离的模式较为常见,屠宰企业外购生猪,而上游供应方分散,容易造成上下游信息不对称。",
+  "source": "第一财经",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610133893754784.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_a3687fe3e52f27e77b8b",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T09:22+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "生猪主力合约跌逾2%",
+  "summary": "生猪主力合约跌幅扩大至逾2%,现报10145元/吨。",
+  "source": "第一财经",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610133893568549.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_93139cdbf697ba70aab2",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T09:17+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "牧原股份:公司9月的生猪养殖完全成本略低于11.5元/kg",
+  "summary": "南财智讯10月13日电,牧原股份在互动平台表示,公司2026年9月的生猪养殖完全成本略低于11.5元/kg。",
+  "source": "南方财经网",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610133893528254.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_63426a40e59c98591984",
   "date": "2026-10-13",
   "published_at": "2026-10-13T08:52+08:00",
@@ -57,25 +230,6 @@
   "relevance_score": 12
  },
  {
-  "id": "news_b546a0c8bc3f4f93c696",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T07:29+08:00",
-  "fetched_at": "2026-10-13T09:09+08:00",
-  "title": "猪价跌回“原价”,破位下跌!接下来“地板线”是多少?附:10月13日猪价",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1086834537_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
   "id": "news_2f9c06a17faa0e42cd7e",
   "date": "2026-10-13",
   "published_at": "2026-10-13T05:46+08:00",
@@ -113,6 +267,27 @@
    "猪价"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_6dbc210eea15ecb1b25f",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T02:00+08:00",
+  "fetched_at": "2026-10-13T16:12+08:00",
+  "title": "短期供应压力仍存预计生猪期货价格震荡调整为主|银河期货|仔猪价格|申银万国|猪肉|猪价",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-12/detail-iniuxwik0528399.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价",
+   "仔猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_65b88dc838afd274bc2f",
@@ -9487,180 +9662,5 @@
    "生猪"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_5af11e28d2557f99d79e",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T09:35+08:00",
-  "fetched_at": "2026-09-14T21:12+08:00",
-  "title": "养殖持续亏损去化提速 生猪价格震荡偏弱为主",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-14/detail-iniruark4822245.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_8550efd07b14d7727952",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T09:08+08:00",
-  "fetched_at": "2026-09-14T14:03+08:00",
-  "title": "生意社2026年9月14日PTA趋势分析:震荡",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-14/doc-iniruarh4043969.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_adf18b4c679867f534f4",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T08:53+08:00",
-  "fetched_at": "2026-09-14T08:57+08:00",
-  "title": "农产品 | 需求增量不及供应 供大于求下猪价重心持续下移",
-  "summary": "红枣: 现货淡季弱势运行,期货持续破位下行,01折合新季收购价4.5左右水平,这种下跌深度兑现了收购价预期,谨慎对待。 生猪: 供应增量明显,虽气温下降带动终端消费边际回暖、屠宰量小幅提升,但需求增量不及供应,供大于求下猪价重心持续下移。",
-  "source": "一德期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609143872963374.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_33d36bca3646bf3bb21d",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T08:49+08:00",
-  "fetched_at": "2026-09-14T08:57+08:00",
-  "title": "能化 | 库存偏低对价格亦形成支撑 预计PTA价格跟随成本维持区间偏强震荡",
-  "summary": "综上,PTA供应震荡回升,而下游负荷持续下降,对价格形成压制,但是库存偏低对价格亦形成支撑。预计PTA价格跟随成本维持区间偏强震荡。关注中东局势演变、装置动态和需求变化。 【乙二醇】 乙二醇:夜盘主力合约跌0.57%。",
-  "source": "申银万国期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609143872961918.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_bdd58fafe26a0f2ecc88",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T08:14+08:00",
-  "fetched_at": "2026-09-17T21:40+08:00",
-  "title": "2026辅酶Q10品牌怎么选?金奥维小红丸等热门产品盘点,从形态、原料、第三方检测深度横评- 进展专区",
-  "summary": "",
-  "source": "生物谷",
-  "type": "供需动态",
-  "url": "https://news.bioon.com/article/90579512e553.html",
-  "company": "",
-  "material_ids": [
-   "COQ10"
-  ],
-  "matched_keywords": [
-   "辅酶q10"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_41977348bb05329850a8",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T07:33+08:00",
-  "fetched_at": "2026-09-14T08:57+08:00",
-  "title": "中信建投:聚焦红利增强逻辑 关注散奶价格上涨和新兴原料机会",
-  "summary": "【乳制品】:奶价回升,下半年进口牛肉或趋紧,关注乳业周期拐点配置机会 9月西北华北多地散奶价格上涨明显,肉奶共振推动原奶周期向好,厄尔尼诺推动饲料价格上行,亦利好行业继续出清,利好龙头液奶竞争格局改善,牛价持续上行带动上游牧场盈利修复,奶价企稳下牧场利润弹性更大。",
-  "source": "界面新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609143872942836.html",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "奶价",
-   "原奶"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_cfa0405ef1603a14420b",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T04:30+08:00",
-  "fetched_at": "2026-09-15T05:08+08:00",
-  "title": "9月14日猪价:6涨4跌!猪价“倔强”下跌,中秋将至,季节性“拐点”蓄势待发?",
-  "summary": "",
-  "source": "腾讯新闻",
-  "type": "价格行情",
-  "url": "https://news.qq.com/rain/a/20260913A08SPI00",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5184ea6a96ca51adc01d",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T00:13+08:00",
-  "fetched_at": "2026-09-14T01:59+08:00",
-  "title": "8月猪价温和回暖 养殖企业下半年利润有望修复",
-  "summary": "对于当前的价格走势,上海钢联生猪行业分析师王红炎告诉《证券日报》记者,本轮价格回升是产能去化见效后的修复性行情,而非传统强周期开启。从监测数据透露的情况可知,行业正进入低波动、长磨底周期,未来供给稳定性增强,但是很难再出现价格大涨大跌的现象。",
-  "source": "证券日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609143872895720.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_e4dcf0239beeac97c45d",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T00:00+08:00",
-  "fetched_at": "2026-09-14T01:59+08:00",
-  "title": "【止跌上涨】2026.9.14生猪市场信息交流",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-14/doc-inirtfmq7543996.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
  }
 ]
