@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_9cbdb3528d5d051e3e58",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T06:20+08:00",
+  "fetched_at": "2026-10-15T07:22+08:00",
+  "title": "CBOT农产品期货主力合约收盘多数下跌,大豆期货跌0.49%",
+  "summary": "当地时间10月14日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货跌0.49%报1277.50美分/蒲式耳,玉米期货跌0.36%报481.00美分/蒲式耳,小麦期货涨0.64%报673.50美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610153895900731.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_c01c607b16dab7776d19",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T05:15+08:00",
+  "fetched_at": "2026-10-15T07:22+08:00",
+  "title": "10月15日猪价:跌跌不休!猪价下跌“跌猛了”,物极必反?",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1087785015_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a19bac261bd040393e3b",
   "date": "2026-10-14",
   "published_at": "2026-10-14T18:27+08:00",
@@ -790,6 +828,25 @@
   "matched_keywords": [
    "棕榈油",
    "mpob"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c66361314b38c7f15c6c",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T00:58+08:00",
+  "fetched_at": "2026-10-15T07:22+08:00",
+  "title": "受库存压力和汇率波动的影响,棕榈油价格跌至每吨 4,121 林吉特。",
+  "summary": "",
+  "source": "Vietnam.vn",
+  "type": "价格行情",
+  "url": "https://www.vietnam.vn/zh-cn/gia-dau-co-giam-ve-4-121-ringgit-tan-truoc-ap-luc-ton-kho-va-ty-gia",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
   ],
   "relevance_score": 8
  },
@@ -9609,62 +9666,5 @@
    "生猪"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_22c9cb66a7f4ef4b1207",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T15:41+08:00",
-  "fetched_at": "2026-09-15T19:34+08:00",
-  "title": "生猪主力合约收跌2.56%",
-  "summary": "南财智讯9月15日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌2.56%,收盘报11235.0元/吨,日内资金流出1.61亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609153874680634.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_c7cb16ae60d4cf73a0bd",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T15:16+08:00",
-  "fetched_at": "2026-09-15T19:34+08:00",
-  "title": "东方甄选一辅酶Q10中国研发澳洲生产,国内销售从海关发货",
-  "summary": "这款软胶囊每粒含200mg的辅酶Q10,复配维生素E10mg、有机硒50μg、橄榄油50mg。东方甄选在配方说明中介绍,辅酶Q10为脂溶性成分,产品采用微生物发酵法来源的辅酶Q10原料。",
-  "source": "南方都市报",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609153874663417.html",
-  "company": "",
-  "material_ids": [
-   "COQ10"
-  ],
-  "matched_keywords": [
-   "辅酶q10"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_af9ff8e12107cb33f6b6",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T15:00+08:00",
-  "fetched_at": "2026-09-17T17:35+08:00",
-  "title": "【仓单】9月15日大商所生猪期货仓单较上一日下降10手",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260915/c679921995.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
  }
 ]
