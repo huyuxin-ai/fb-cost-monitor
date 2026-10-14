@@ -424,6 +424,26 @@
   "relevance_score": 8
  },
  {
+  "id": "news_f0e482d707dc198ae2da",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T17:35+08:00",
+  "fetched_at": "2026-10-15T04:04+08:00",
+  "title": "新希望9月商品猪销售均价同比下降20%,受生猪价格同比下降影响今年上半年已亏损17亿元",
+  "summary": "",
+  "source": "挖贝网",
+  "type": "价格行情",
+  "url": "https://www.wabei.cn/Home/News/366229",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_7b93aebfae38eadf6a74",
   "date": "2026-10-13",
   "published_at": "2026-10-13T15:41+08:00",
@@ -750,6 +770,26 @@
   "matched_keywords": [
    "生猪",
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_db970ef6296b2db74d9b",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T01:09+08:00",
+  "fetched_at": "2026-10-07T23:18+08:00",
+  "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
+  "summary": "",
+  "source": "金十数据",
+  "type": "供需动态",
+  "url": "https://xnews.jin10.com/details/231803",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "mpob"
   ],
   "relevance_score": 8
  },
@@ -2005,6 +2045,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_532f9526b2ba7a88ede3",
+  "date": "2026-10-09",
+  "published_at": "2026-10-09T16:53+08:00",
+  "fetched_at": "2026-10-15T04:04+08:00",
+  "title": "双十一预售开启丨养护血管哪个牌子辅酶q10最好?2026辅酶Q10专业选购参考,从原料形态剂量到十大品牌口碑完整梳理",
+  "summary": "",
+  "source": "凤凰网",
+  "type": "供需动态",
+  "url": "https://baby.ifeng.com/c/8x5KL0rnEZl",
+  "company": "",
+  "material_ids": [
+   "COQ10"
+  ],
+  "matched_keywords": [
+   "辅酶q10"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_55f7b62f87db6cabee80",
   "date": "2026-10-09",
   "published_at": "2026-10-09T16:31+08:00",
@@ -2775,26 +2834,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_db970ef6296b2db74d9b",
-  "date": "2026-10-07",
-  "published_at": "2026-10-07T15:35+08:00",
-  "fetched_at": "2026-10-07T23:18+08:00",
-  "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
-  "summary": "",
-  "source": "金十数据",
-  "type": "供需动态",
-  "url": "https://xnews.jin10.com/details/231803",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "mpob"
   ],
   "relevance_score": 8
  },
@@ -9625,44 +9664,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9b02fffeb022af68b1d3",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T14:12+08:00",
-  "fetched_at": "2026-09-16T21:38+08:00",
-  "title": "一夜升温,猪价上涨“如火如荼”!附:9月16日猪价",
-  "summary": "",
-  "source": "手机网易网",
-  "type": "价格行情",
-  "url": "https://www.163.com/dy/article/L6SFEH7S0512JUR9.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_85958d99f6c8a9121fb1",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T14:01+08:00",
-  "fetched_at": "2026-09-16T21:38+08:00",
-  "title": "供需格局分化推升豆、菜粕价差",
-  "summary": "",
-  "source": "东方财富",
-  "type": "供需动态",
-  "url": "https://wap.eastmoney.com/a/202609163875455475.html",
-  "company": "",
-  "material_ids": [
-   "RM"
-  ],
-  "matched_keywords": [
-   "菜粕"
   ],
   "relevance_score": 8
  }
