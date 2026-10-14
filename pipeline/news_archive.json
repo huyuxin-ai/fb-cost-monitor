@@ -1,5 +1,236 @@
 [
  {
+  "id": "news_5062f6b9668772e12ba4",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T13:32+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "被罚1.29亿的双汇,如何走出低猪价困境",
+  "summary": "公司将这一结果归因于“生猪及肉类价格低位运行、行业竞争加剧”:肉卖得更多了,单价却更低了。 猪价之低,有具体刻度。2026年一季度全国生猪出栏20026万头、同比增长2.8%,供给持续放量;4月,外三元生猪均价一度跌至8.68元/公斤,创2015年以来最低。",
+  "source": "界面新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610143895304061.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_cf5f17fcc9b112678070",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T11:48+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "【现货】10月14日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261014/c680673343.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_86ee371f6bd1479bbf00",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T10:30+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "优然牧业盘中涨超5%,原奶价格拐点已现,机构推荐底部反转",
+  "summary": "",
+  "source": "www.caiwennews.com",
+  "type": "价格行情",
+  "url": "https://www.caiwennews.com/article/1650213.shtml",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶",
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d33a3860fc9873dba37c",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T10:29+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "本周国内豆粕现货基差报价上涨",
+  "summary": "本周豆粕现货价格小幅波动,受节后补库需求提振,油厂库存下降,基差报价小幅上涨。9月22日,沿海地区43%蛋白豆粕现货报价3260~3480元/吨,较10月8日下跌40元/吨至上涨10元/吨不等;现货基差报价M2701-40~+100元/吨,较10月8日上涨30~50元/吨。",
+  "source": "国家粮食和物资储备局",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610143895207636.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_6ef42694aa8eeefa48e0",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T10:28+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "华泰期货:油厂开机回升,豆粕维持震荡",
+  "summary": "作者: 薛钧元 粕类观点 市场要闻与重要数据 期货方面,昨日收盘豆粕2701合约3361元/吨,较前日变动-22元/吨,幅度-0.65%;菜粕2701合约2374元/吨,较前日变动+12元/吨...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-14/doc-iniveefm7232076.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_44e236fd599046795e45",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T10:27+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "华泰期货:三大油脂走势分化,豆油盘面弱势调整",
+  "summary": "作者: 白旭宇 油脂观点 市场分析 期货方面,昨日收盘棕榈油2701合约9625.00元/吨,环比变化-59元,幅度-0.61%;昨日收盘豆油2701合约8949.00元/吨,环比变化-19.00元...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-14/doc-iniveefm7231245.shtml",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a6de5b986b00427c0e32",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T08:57+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "中国银河证券:超级厄尔尼诺已形成 预计近期豆粕等走势偏强",
+  "summary": "中国银河证券研报称,超级厄尔尼诺已形成,展望未来,预计近期豆粕、菜粕、三大油脂、白糖偏强,玉米、生猪、棉花震荡。核心主线是超强厄尔尼诺注入的远期天气升水,叠加美豆\"利空出尽\" 后震荡偏强抬升进口成本。豆粕受利空出尽、国内供应阶段性偏紧及天气升水共振偏强;菜粕跟随豆粕运行。",
+  "source": "第一财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610143894863617.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_bd2eebb21614a5923b26",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T08:46+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "农产品 | 玉米:下游饲企和贸易商未大规模进场收购 粮价震荡偏弱看待",
+  "summary": "供给端,2026/27 年玉米产量维持持平至略减看法,整体供给充裕;10-11 月处于新粮集中上市期,10 日全国秋粮收获过半,黄淮海六成半,东北三成半,收割加速。新季玉米上市,粮价持续偏弱,产销区小麦玉米价差涨至 200 元/吨以上,小麦退出饲用替代。",
+  "source": "创元期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610143894804898.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a7a70e00af233b32869a",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T08:43+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "农产品 | 棕榈油 :受厄尔尼诺影响 2027年棕榈油供应收紧风险上升",
+  "summary": "玉米: 隔夜玉米主力低位震荡运行,全国玉米周度均价2235元/吨,较上周下调7元/吨,跌幅0.31%。国内方面,Mysteel调查显示,截至2026年10月7日,全国样本饲料企业玉米平均库存为24.12天,较上周减少0.65天,环比下跌2.62%,同比下跌1.51%。",
+  "source": "上海中期期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610143894804553.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_369ae8e12a57b31cfb65",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T08:36+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "农产品 | 生猪:现货报价继续下跌盘面价格持续走低",
+  "summary": "3价格方面:参考钢联数据,10月13日河南生猪价格维持在10.08元/公斤,环比(-0.09)元/公斤。 三、市场研判: 单边:基于当前价格和驱动考虑,我们认为多空胜率和赔率都偏低,即期望收益中性偏低,建议投资者观望为主。",
+  "source": "中州期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610143894802180.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_e0e12bae2c77fa7f3410",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T08:02+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "下游需求偏弱 PTA宽幅震荡",
+  "summary": "受终端弱需求影响,下游聚酯价格涨幅不及原料,利润压缩,出现明显负反馈。截至10月8日,聚酯综合负荷回落至74%,大幅低于往年同期水平。具体来看,由于亏损持续时间较长,瓶片和短纤的负反馈更为明显:瓶片负荷近1个月持续走低,已跌至57%,短纤负荷大幅下滑至62%。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610143894917457.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_4decc22832b94bb69d43",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T05:12+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "10月14日猪价:崩了!猪价“坍塌式”下跌,破5入4!接下来“柳暗花明”?",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1087320557_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_b589254779e1f0e7774d",
   "date": "2026-10-14",
   "published_at": "2026-10-14T03:50+08:00",
@@ -538,6 +769,25 @@
   ],
   "matched_keywords": [
    "玉米"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_a9b0a7afa3d452083e87",
+  "date": "2026-10-12",
+  "published_at": "2026-10-12T17:50+08:00",
+  "fetched_at": "2026-10-14T13:55+08:00",
+  "title": "2026超级11.11预售开启:卵巢早衰吃哪个辅酶q10产品效果最好?原料溯源到形态十大全球备孕辅酶Q10品牌观察解析",
+  "summary": "",
+  "source": "凤凰网",
+  "type": "供需动态",
+  "url": "https://baby.ifeng.com/c/8xANEV4cklw",
+  "company": "",
+  "material_ids": [
+   "COQ10"
+  ],
+  "matched_keywords": [
+   "辅酶q10"
   ],
   "relevance_score": 8
  },
@@ -9413,255 +9663,5 @@
    "纸浆"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_86c8a611b46944e73d43",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T05:49+08:00",
-  "fetched_at": "2026-09-15T06:20+08:00",
-  "title": "CBOT农产品期货主力合约收盘多数上涨,玉米期货涨0.71%",
-  "summary": "当地时间9月14日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数上涨,大豆期货涨0.66%报1305.00美分/蒲式耳,玉米期货涨0.71%报534.00美分/蒲式耳,小麦期货跌0.45%报722.00美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609153873823328.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_98bbef79f46e79d8e233",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T23:32+08:00",
-  "fetched_at": "2026-09-15T05:08+08:00",
-  "title": "美国农业部生猪市场报告:2026年9月11日至12日价格与屠宰量 - 新闻和统计",
-  "summary": "",
-  "source": "IndexBox",
-  "type": "价格行情",
-  "url": "https://www.indexbox.io/zh-hans/blog/usda-national-daily-direct-hog-prior-day-report-september-11-12-2026/",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_107aaecd869fde723586",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T21:38+08:00",
-  "fetched_at": "2026-09-15T05:08+08:00",
-  "title": "猪价回暖,猪企离扭亏还有多远",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1076003543_481016",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2c6b1dfcd2b3d3735e95",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T19:54+08:00",
-  "fetched_at": "2026-09-14T21:12+08:00",
-  "title": "原油飙升带动棕榈油收涨,出口疲软压制反弹空间",
-  "summary": "",
-  "source": "汇通网 Fx678",
-  "type": "价格行情",
-  "url": "https://news.fx678.com/202609141954132288.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e8a1e6131b22989ce730",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T18:35+08:00",
-  "fetched_at": "2026-09-14T21:12+08:00",
-  "title": "天灾预警!超强厄尔尼诺来袭,白糖也要涨价了?干旱暴雨双重暴击",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1075960561_122219919",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白糖"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5bdd1263f1775cb3c5e5",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T18:07+08:00",
-  "fetched_at": "2026-09-14T21:12+08:00",
-  "title": "新五丰拟5374.30万元收购广联公司18.88%股权,公司上半年大亏超7亿元,生猪销价持续低迷",
-  "summary": "资料显示,湖南新五丰股份有限公司2004年上市,主营业务是生猪养殖、肉品销售、饲料加工。公司的主要产品是生猪出口、生猪内销、饲料销售、贸易、鲜肉、冻肉、屠宰冷藏业务。 2020年,公司业绩触及历史高点,恰逢上一轮猪价峰值;此后猪周期进入下行通道,公司经营急转直下。",
-  "source": "深圳商报·读创",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609143873534537.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_917e640676ae248524ef",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T18:07+08:00",
-  "fetched_at": "2026-09-14T21:12+08:00",
-  "title": "牧原股份:8月生猪养殖完全成本11.5元/kg左右",
-  "summary": "",
-  "source": "观点网",
-  "type": "供需动态",
-  "url": "https://www.guandian.cn/article/20260914/601320.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_481f73abf82099bc8b33",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T17:56+08:00",
-  "fetched_at": "2026-09-14T21:12+08:00",
-  "title": "猪价震荡调整,机构称年内猪价低点基本已明确",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://cj.sina.cn/articles/view/5426766895/14375e42f00102y70c",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1f30614f85c60b961bc0",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T16:06+08:00",
-  "fetched_at": "2026-09-15T06:20+08:00",
-  "title": "豆油跨期2807/2912 (ZL2807-ZL2912) 期货",
-  "summary": "",
-  "source": "Moomoo",
-  "type": "价格行情",
-  "url": "https://www.moomoo.com/hans/futures/ZL2807-ZL2912-US",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f8afea76f8f55edf2abe",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T16:00+08:00",
-  "fetched_at": "2026-09-14T21:12+08:00",
-  "title": "9月第2周生猪和猪肉价格总体稳定",
-  "summary": "据农业农村部对500个县集贸市场和采集点监测,上周(9月第2周,9月7—13日,下同),全国活猪价格为11.54元/公斤,环比略跌0.4%;猪肉集贸市场价格为21.22元/公斤,环比持平。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609143873408568.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪肉价格",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_0aec8e1b36c14352dbd4",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T14:00+08:00",
-  "fetched_at": "2026-09-14T21:12+08:00",
-  "title": "原油上涨提振生物燃料吸引力,棕榈油价格走高",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1075828581_121157270",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d25900af96e7ab35e341",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T11:46+08:00",
-  "fetched_at": "2026-09-14T14:03+08:00",
-  "title": "【现货】9月14日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260914/c679871326.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_37f88c830197738bd54c",
-  "date": "2026-09-14",
-  "published_at": "2026-09-14T11:20+08:00",
-  "fetched_at": "2026-09-14T14:03+08:00",
-  "title": "农业农村部:9月第1周生猪定点屠宰企业生猪平均收购价格为12.14元/公斤",
-  "summary": "据农业农村部监测,2026年8月31日—9月6日,生猪定点屠宰企业生猪平均收购价格为12.14元/公斤,环比下降0.6%,同比下降18.4%。白条肉平均出厂价格为15.91元/公斤,环比下降0.5%,同比下降17.0%。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609143873255835.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
  }
 ]
