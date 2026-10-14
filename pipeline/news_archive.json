@@ -59,26 +59,6 @@
   "relevance_score": 8
  },
  {
-  "id": "news_b7773da0a1c64611149a",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T16:30+08:00",
-  "fetched_at": "2026-10-14T19:26+08:00",
-  "title": "MPOB 9月报告解读:库存升至历史高位,棕榈油价格上行承压_期市动态",
-  "summary": "",
-  "source": "中金在线",
-  "type": "价格行情",
-  "url": "http://futures.cnfol.com/qishidongtai/20261014/32396607.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "mpob"
-  ],
-  "relevance_score": 8
- },
- {
   "id": "news_0d86658345f7dad9f134",
   "date": "2026-10-14",
   "published_at": "2026-10-14T15:46+08:00",
@@ -96,6 +76,26 @@
    "生猪"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_f22fefbad33958f49fb5",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T15:43+08:00",
+  "fetched_at": "2026-10-14T19:26+08:00",
+  "title": "MPOB 9月报告解读:库存升至历史高位,棕榈油价格上行承压",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1087676556_639898",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "mpob"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_2c11401bf946fdba8964",
