@@ -1,5 +1,26 @@
 [
  {
+  "id": "news_f233342080c70f9affbe",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T21:38+08:00",
+  "fetched_at": "2026-10-16T01:40+08:00",
+  "title": "仔猪价格持续下降引关注,旺季备货不及预期,猪价磨底还要多久?|大宗风云",
+  "summary": "存栏量的回升恰巧印证了去化尚未真正兑现到存栏端,存栏量的高位徘徊甚至回升是压制猪价反弹的核心矛盾之一。 随着生猪价格持续波动,市场对后续需要关注的因素格外关注。对此,侯晓瑞表示,首先是短期内需要关注出栏节奏。",
+  "source": "华夏时报网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610153897238935.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "仔猪",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_9cc9479734239abff63b",
   "date": "2026-10-15",
   "published_at": "2026-10-15T18:45+08:00",
@@ -9646,25 +9667,6 @@
    "猪价",
    "仔猪",
    "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_a7e57d424b83febfb0dc",
-  "date": "2026-09-16",
-  "published_at": "2026-09-16T08:59+08:00",
-  "fetched_at": "2026-09-16T09:33+08:00",
-  "title": "农产品 | 供应压力未明显缓解前 玉米上方空间仍受限制",
-  "summary": "后续随着新作玉米进入关键生长期,8月天气炒作仍可能带来阶段性扰动,但在供应压力未明显缓解前,玉米上方空间仍受限制。",
-  "source": "东吴期货",
-  "type": "政策与供应",
-  "url": "https://finance.eastmoney.com/a/202609163875474441.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
   ],
   "relevance_score": 12
  }
