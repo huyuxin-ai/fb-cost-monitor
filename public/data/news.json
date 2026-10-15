@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-15T15:07+08:00",
+ "updated_at": "2026-10-15T20:47+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "36kr.com": 1,
-  "IndexBox": 5,
+  "IndexBox": 6,
   "QQ News": 1,
   "Shangbao Indonesia": 1,
   "Sohu": 1,
@@ -13,12 +13,11 @@
   "dairynews.today": 2,
   "finance.sina.com.cn": 6,
   "mezha.net": 1,
-  "qq.com": 1,
   "sohu.com": 1,
   "www.caiwennews.com": 1,
   "上海中期期货": 1,
   "东吴期货": 1,
-  "东方财富": 4,
+  "东方财富": 3,
   "中华网": 9,
   "中州期货": 1,
   "中新经纬": 1,
@@ -31,7 +30,7 @@
   "南华期货": 1,
   "南方财经网": 12,
   "同花顺": 5,
-  "同花顺财经": 5,
+  "同花顺财经": 4,
   "国信期货": 1,
   "国家粮食和物资储备局": 1,
   "国投期货": 1,
@@ -43,10 +42,10 @@
   "手机网易网": 1,
   "挖贝网": 1,
   "搜狐": 11,
-  "搜狐网": 16,
+  "搜狐网": 15,
   "新华财经": 1,
   "新浪网": 4,
-  "新浪财经": 37,
+  "新浪财经": 38,
   "期货日报": 6,
   "期货日报网": 1,
   "正信期货": 1,
@@ -57,8 +56,9 @@
   "瑞达期货": 2,
   "申银万国期货": 1,
   "界面新闻": 1,
-  "第一财经": 4,
+  "第一财经": 5,
   "网易新闻客户端": 1,
+  "虎嗅网": 1,
   "证券之星": 5,
   "证券日报": 3,
   "证券时报": 2,
@@ -70,6 +70,103 @@
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_881f9bf9c2635ddc8617",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T18:06+08:00",
+   "fetched_at": "2026-10-15T20:47+08:00",
+   "title": "模制玻璃瓶平台市场展望2035:生物制品需求驱动增长 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "供需动态",
+   "url": "https://www.indexbox.io/zh-hans/blog/molded-glass-vial-platform-market-forecast-to-2035-growth-driven-by-biologics-and-cell-therapy-demand/",
+   "company": "",
+   "material_ids": [
+    "FG"
+   ],
+   "matched_keywords": [
+    "玻璃瓶"
+   ],
+   "relevance_score": 9
+  },
+  {
+   "id": "news_f3b8cc3626e3aa4fc821",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T18:06+08:00",
+   "fetched_at": "2026-10-15T20:47+08:00",
+   "title": "生猪价格跌破10元/公斤 上市猪企9月量增价减收入下滑",
+   "summary": "",
+   "source": "虎嗅网",
+   "type": "价格行情",
+   "url": "https://www.huxiu.com/article/4897786.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7dc4ad9381b4d1bfb5cf",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T17:06+08:00",
+   "fetched_at": "2026-10-15T20:47+08:00",
+   "title": "生猪 | 看懂生猪供需—四季度猪价三段波动,难上成本线",
+   "summary": "",
+   "source": "搜狐",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1088171882_122014422/?pvid=000115_3w_a",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_07bfc93b844c05f44f6e",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T15:46+08:00",
+   "fetched_at": "2026-10-15T20:47+08:00",
+   "title": "玉米主力合约收跌0.23%",
+   "summary": "南财智讯10月15日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.23%,收盘报2183.0元/吨,日内资金流出2.92亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610153896905744.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_371a9027f97ff0a01d4b",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T15:44+08:00",
+   "fetched_at": "2026-10-15T20:47+08:00",
+   "title": "生猪主力合约收跌1.04%",
+   "summary": "南财智讯10月15日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.04%,收盘报10455.0元/吨,日内资金流出1.2亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610153896926645.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_916133566277470fd4d5",
    "date": "2026-10-15",
@@ -86,6 +183,25 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_30a4d492f760652c2564",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T14:37+08:00",
+   "fetched_at": "2026-10-15T20:47+08:00",
+   "title": "光大期货:供应压力持续 猪价创新低",
+   "summary": "",
+   "source": "第一财经",
+   "type": "价格行情",
+   "url": "https://www.yicai.com/video/103394894.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -186,25 +302,6 @@
    "relevance_score": 8
   },
   {
-   "id": "news_fb8c0270e7aac0af07ec",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T07:15+08:00",
-   "fetched_at": "2026-10-15T07:22+08:00",
-   "title": "10月15日猪价:3涨13跌!猪价下跌“180°大变”,接下来否极泰来?",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1087785097_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
    "id": "news_9cbdb3528d5d051e3e58",
    "date": "2026-10-15",
    "published_at": "2026-10-15T06:20+08:00",
@@ -222,6 +319,25 @@
     "大豆"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_c276f79170ca90b11902",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T04:53+08:00",
+   "fetched_at": "2026-10-15T20:47+08:00",
+   "title": "华泰期货:三大油脂走势分化,豆油盘面弱势调整",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-14/detail-iniveefm7231245.d.html",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_a19bac261bd040393e3b",
@@ -3810,122 +3926,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f45c2374d061596f5141",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T15:42+08:00",
-   "fetched_at": "2026-09-30T20:54+08:00",
-   "title": "生猪主力合约收涨1.76%",
-   "summary": "南财智讯9月30日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨1.76%,收盘报10680.0元/吨,日内资金流入2.93亿元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609303887707588.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_9c491e3c3ef1d3856ea4",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T15:42+08:00",
-   "fetched_at": "2026-09-30T20:54+08:00",
-   "title": "玉米主力合约收涨0.09%",
-   "summary": "南财智讯9月30日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.09%,收盘报2187.0元/吨,日内资金流出2.29亿元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609303887688894.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_8cf32b71f892b9c52293",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T15:06+08:00",
-   "fetched_at": "2026-10-05T06:27+08:00",
-   "title": "全球库存10年最低 玉米后市不必太悲观",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "供需动态",
-   "url": "https://mt.sohu.com/a/1082727555_121118712",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_93fe803745a1d4ed0a6c",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T15:00+08:00",
-   "fetched_at": "2026-09-27T20:53+08:00",
-   "title": "PTA期货报价",
-   "summary": "",
-   "source": "东方财富",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/pta.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9e2dda0a59ef17320c4c",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T14:53+08:00",
-   "fetched_at": "2026-10-06T18:39+08:00",
-   "title": "2026年9月30日大豆豆油价格:新豆零星上市挺价惜售 豆油全线走弱",
-   "summary": "",
-   "source": "qq.com",
-   "type": "价格行情",
-   "url": "https://news.qq.com/rain/a/20260930A0747G00?ptag=ima",
-   "company": "",
-   "material_ids": [
-    "A",
-    "Y"
-   ],
-   "matched_keywords": [
-    "大豆",
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_a120b477b90f6e69bbd0",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T11:46+08:00",
-   "fetched_at": "2026-09-30T14:23+08:00",
-   "title": "【现货】9月30日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20260930/c680397789.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   }
