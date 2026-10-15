@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T05:04+08:00",
+ "updated_at": "2026-10-16T07:45+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -16,7 +16,7 @@
   "www.caiwennews.com": 1,
   "上海中期期货": 1,
   "东吴期货": 1,
-  "东方财富": 3,
+  "东方财富": 2,
   "中华网": 9,
   "中国产业经济信息网": 1,
   "中州期货": 1,
@@ -41,14 +41,14 @@
   "币界网": 1,
   "手机网易网": 1,
   "挖贝网": 1,
-  "搜狐": 11,
+  "搜狐": 13,
   "搜狐网": 14,
   "新浪网": 4,
-  "新浪财经": 39,
+  "新浪财经": 38,
   "期货日报": 6,
   "期货日报网": 1,
   "正信期货": 1,
-  "每日经济新闻": 5,
+  "每日经济新闻": 6,
   "汇通网 Fx678": 3,
   "深圳商报·读创": 1,
   "澎湃新闻": 2,
@@ -64,11 +64,49 @@
   "证券时报网": 1,
   "财中社": 1,
   "财联社": 4,
-  "金十数据": 3,
+  "金十数据": 2,
   "马来西亚东方日报": 1,
   "아시아경제": 1
  },
  "items": [
+  {
+   "id": "news_f95b32f8e176bb15631c",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T07:01+08:00",
+   "fetched_at": "2026-10-16T07:45+08:00",
+   "title": "10月16日猪价:崩落!猪价下跌“超预期”,原因已找到!物极必反?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1088249234_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e563c46ec429d94aeadd",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T05:38+08:00",
+   "fetched_at": "2026-10-16T07:45+08:00",
+   "title": "芝加哥大豆期货跌1%",
+   "summary": "周四(10月15日)纽约尾盘,CBOT玉米期货跌0.52%,报4.7825美元/蒲式耳。CBOT小麦期货跌0.57%,报6.6925美元/蒲式耳。CBOT大豆期货跌1%,报12.6425美元/蒲式耳,豆粕期货跌1.29%,豆油期货涨0.18%。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610163897352460.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_f233342080c70f9affbe",
    "date": "2026-10-15",
@@ -89,6 +127,25 @@
     "生猪"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_c4757f827124d4f6cd54",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T18:12+08:00",
+   "fetched_at": "2026-10-16T07:45+08:00",
+   "title": "今日核桃价格一览|10月15日",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1088205154_122014422/?pvid=000115_3w_a",
+   "company": "",
+   "material_ids": [
+    "WALNUT"
+   ],
+   "matched_keywords": [
+    "核桃"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_881f9bf9c2635ddc8617",
@@ -765,6 +822,26 @@
    "relevance_score": 8
   },
   {
+   "id": "news_db970ef6296b2db74d9b",
+   "date": "2026-10-14",
+   "published_at": "2026-10-14T04:10+08:00",
+   "fetched_at": "2026-10-07T23:18+08:00",
+   "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
+   "summary": "",
+   "source": "金十数据",
+   "type": "供需动态",
+   "url": "https://xnews.jin10.com/details/231803",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "mpob"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_b589254779e1f0e7774d",
    "date": "2026-10-14",
    "published_at": "2026-10-14T03:50+08:00",
@@ -1211,26 +1288,6 @@
    "matched_keywords": [
     "生猪",
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_db970ef6296b2db74d9b",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T01:09+08:00",
-   "fetched_at": "2026-10-07T23:18+08:00",
-   "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
-   "summary": "",
-   "source": "金十数据",
-   "type": "供需动态",
-   "url": "https://xnews.jin10.com/details/231803",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "mpob"
    ],
    "relevance_score": 8
   },
@@ -3870,66 +3927,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_28f2e5273d6915168c31",
-   "date": "2026-10-01",
-   "published_at": "2026-10-01T00:00+08:00",
-   "fetched_at": "2026-10-01T06:29+08:00",
-   "title": "开门红!猪价上涨!2026.10.1生猪市场信息交流",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-01/doc-initrshx2462474.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_d6fc0c9351ad45d79a20",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T22:39+08:00",
-   "fetched_at": "2026-10-02T21:00+08:00",
-   "title": "USDA 8月月报:南美大豆和玉米产量及全球农作物库存数据-市场参考",
-   "summary": "",
-   "source": "金十数据",
-   "type": "供需动态",
-   "url": "https://xnews.jin10.com/details/227272",
-   "company": "",
-   "material_ids": [
-    "C",
-    "A"
-   ],
-   "matched_keywords": [
-    "玉米",
-    "大豆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6d575bd0e8663172ca54",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T21:03+08:00",
-   "fetched_at": "2026-10-02T21:00+08:00",
-   "title": "本周国内豆油现货报价下跌",
-   "summary": "",
-   "source": "东方财富",
-   "type": "价格行情",
-   "url": "https://wap.eastmoney.com/a/202609303887518034.html",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
    ],
    "relevance_score": 8
   }

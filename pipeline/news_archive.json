@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_f95b32f8e176bb15631c",
+  "date": "2026-10-16",
+  "published_at": "2026-10-16T07:01+08:00",
+  "fetched_at": "2026-10-16T07:45+08:00",
+  "title": "10月16日猪价:崩落!猪价下跌“超预期”,原因已找到!物极必反?",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1088249234_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e563c46ec429d94aeadd",
+  "date": "2026-10-16",
+  "published_at": "2026-10-16T05:38+08:00",
+  "fetched_at": "2026-10-16T07:45+08:00",
+  "title": "芝加哥大豆期货跌1%",
+  "summary": "周四(10月15日)纽约尾盘,CBOT玉米期货跌0.52%,报4.7825美元/蒲式耳。CBOT小麦期货跌0.57%,报6.6925美元/蒲式耳。CBOT大豆期货跌1%,报12.6425美元/蒲式耳,豆粕期货跌1.29%,豆油期货涨0.18%。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610163897352460.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_f233342080c70f9affbe",
   "date": "2026-10-15",
   "published_at": "2026-10-15T21:38+08:00",
@@ -36,6 +74,25 @@
   ],
   "matched_keywords": [
    "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c4757f827124d4f6cd54",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T18:12+08:00",
+  "fetched_at": "2026-10-16T07:45+08:00",
+  "title": "今日核桃价格一览|10月15日",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1088205154_122014422/?pvid=000115_3w_a",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃"
   ],
   "relevance_score": 8
  },
@@ -733,6 +790,26 @@
   "relevance_score": 8
  },
  {
+  "id": "news_db970ef6296b2db74d9b",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T04:10+08:00",
+  "fetched_at": "2026-10-07T23:18+08:00",
+  "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
+  "summary": "",
+  "source": "金十数据",
+  "type": "供需动态",
+  "url": "https://xnews.jin10.com/details/231803",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "mpob"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_b589254779e1f0e7774d",
   "date": "2026-10-14",
   "published_at": "2026-10-14T03:50+08:00",
@@ -1179,26 +1256,6 @@
   "matched_keywords": [
    "生猪",
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_db970ef6296b2db74d9b",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T01:09+08:00",
-  "fetched_at": "2026-10-07T23:18+08:00",
-  "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
-  "summary": "",
-  "source": "金十数据",
-  "type": "供需动态",
-  "url": "https://xnews.jin10.com/details/231803",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "mpob"
   ],
   "relevance_score": 8
  },
@@ -9611,64 +9668,6 @@
   "matched_keywords": [
    "原奶",
    "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_bf2cade10468e62037e2",
-  "date": "2026-09-16",
-  "published_at": "2026-09-16T11:44+08:00",
-  "fetched_at": "2026-09-16T15:24+08:00",
-  "title": "【现货】9月16日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260916/c679958030.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0975c30429276be88df4",
-  "date": "2026-09-16",
-  "published_at": "2026-09-16T11:43+08:00",
-  "fetched_at": "2026-09-16T15:24+08:00",
-  "title": "丹东港完成首单玉米期货仓单注册",
-  "summary": "上证报中国证券网讯(记者韩远飞)9月16日,记者从辽港集团获悉,丹东港散粮码头分公司日前依托大连商品交易所玉米期货指定交割库资质,顺利完成首笔玉米期货标准仓单注册。这是该公司获得指定交割库资质后落地的首单期货业务,标志着丹东港“北粮南运”枢纽功能向期现联动方向迈出关键一步。",
-  "source": "上海证券报·中国证券网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609163875942241.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_a5a4d3ce3c01d3e26c2e",
-  "date": "2026-09-16",
-  "published_at": "2026-09-16T11:35+08:00",
-  "fetched_at": "2026-09-15T13:56+08:00",
-  "title": "仔猪出生量连降五月 生猪去产能仍任重道远",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "供需动态",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-15/detail-inirwmwh3905451.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "仔猪"
   ],
   "relevance_score": 8
  }
