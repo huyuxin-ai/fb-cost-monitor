@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_8cef0a806b6dae81813e",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T09:16+08:00",
+  "fetched_at": "2026-10-15T09:41+08:00",
+  "title": "农产品 | 棕榈油:美国通胀数据高于预期 加剧市场担忧情绪",
+  "summary": "大豆盘面压榨毛利润表现较差,后续关注压榨利润修复路径对国内油粕价格走势的指引。棕榈油短期供需面仍呈现偏宽松,偏高的库存仍对价格形成压制,而厄尔尼诺现象主要影响明年产量下降的预期,预期层面的兑现还需要时间去验证,关注现实和预期反复博弈。",
+  "source": "国投期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610153896274875.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_fb8c0270e7aac0af07ec",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T07:15+08:00",
+  "fetched_at": "2026-10-15T07:22+08:00",
+  "title": "10月15日猪价:3涨13跌!猪价下跌“180°大变”,接下来否极泰来?",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1087785097_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_9cbdb3528d5d051e3e58",
   "date": "2026-10-15",
   "published_at": "2026-10-15T06:20+08:00",
@@ -17,25 +55,6 @@
    "大豆"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_c01c607b16dab7776d19",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T05:15+08:00",
-  "fetched_at": "2026-10-15T07:22+08:00",
-  "title": "10月15日猪价:跌跌不休!猪价下跌“跌猛了”,物极必反?",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1087785015_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_a19bac261bd040393e3b",
@@ -9646,25 +9665,5 @@
    "豆油"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_06101da0cd4ad062b6fb",
-  "date": "2026-09-15",
-  "published_at": "2026-09-15T15:44+08:00",
-  "fetched_at": "2026-09-16T00:33+08:00",
-  "title": "猪价涨了 为何猪企还在亏?",
-  "summary": "大宗商品分析机构上海钢联生猪行业分析师王红炎表示,本轮生猪价格回升是产能去化见效后的修复性行情,而非传统强周期开启。行业正进入低波动、长磨底周期,很难再出现价格大涨大跌的情况。 猪卖得多了 但收入没涨 在生猪价格微涨的同时,猪企出栏量保持稳定。",
-  "source": "中国商报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609153875052797.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 11
  }
 ]

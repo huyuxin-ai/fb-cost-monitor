@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T07:22+08:00",
+ "updated_at": "2026-10-15T09:41+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,7 +10,7 @@
   "Sohu": 1,
   "Vietnam.vn": 1,
   "dairynews.today": 2,
-  "finance.sina.com.cn": 9,
+  "finance.sina.com.cn": 8,
   "mezha.net": 1,
   "qq.com": 1,
   "sohu.com": 1,
@@ -33,6 +33,7 @@
   "同花顺财经": 5,
   "国信期货": 1,
   "国家粮食和物资储备局": 1,
+  "国投期货": 1,
   "国际果蔬报道": 2,
   "央广财经": 1,
   "央视新闻": 1,
@@ -70,6 +71,44 @@
  },
  "items": [
   {
+   "id": "news_8cef0a806b6dae81813e",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T09:16+08:00",
+   "fetched_at": "2026-10-15T09:41+08:00",
+   "title": "农产品 | 棕榈油:美国通胀数据高于预期 加剧市场担忧情绪",
+   "summary": "大豆盘面压榨毛利润表现较差,后续关注压榨利润修复路径对国内油粕价格走势的指引。棕榈油短期供需面仍呈现偏宽松,偏高的库存仍对价格形成压制,而厄尔尼诺现象主要影响明年产量下降的预期,预期层面的兑现还需要时间去验证,关注现实和预期反复博弈。",
+   "source": "国投期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610153896274875.html",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_fb8c0270e7aac0af07ec",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T07:15+08:00",
+   "fetched_at": "2026-10-15T07:22+08:00",
+   "title": "10月15日猪价:3涨13跌!猪价下跌“180°大变”,接下来否极泰来?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1087785097_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_9cbdb3528d5d051e3e58",
    "date": "2026-10-15",
    "published_at": "2026-10-15T06:20+08:00",
@@ -87,25 +126,6 @@
     "大豆"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_c01c607b16dab7776d19",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T05:15+08:00",
-   "fetched_at": "2026-10-15T07:22+08:00",
-   "title": "10月15日猪价:跌跌不休!猪价下跌“跌猛了”,物极必反?",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1087785015_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_a19bac261bd040393e3b",
@@ -3906,25 +3926,6 @@
    "matched_keywords": [
     "白糖",
     "郑糖"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_4d845abad383b0f1a122",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T08:58+08:00",
-   "fetched_at": "2026-09-30T14:23+08:00",
-   "title": "生意社2026年9月30日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-30/doc-initqeff7190116.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
    ],
    "relevance_score": 8
   }
