@@ -1,17 +1,16 @@
 {
- "updated_at": "2026-10-16T01:40+08:00",
+ "updated_at": "2026-10-16T05:04+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 1,
   "36kr.com": 1,
   "IndexBox": 6,
-  "QQ News": 1,
   "Shangbao Indonesia": 1,
   "Sohu": 1,
   "Vietnam.vn": 1,
   "dairynews.today": 2,
-  "finance.sina.com.cn": 6,
+  "finance.sina.com.cn": 7,
   "mezha.net": 1,
   "sohu.com": 1,
   "www.caiwennews.com": 1,
@@ -19,6 +18,7 @@
   "东吴期货": 1,
   "东方财富": 3,
   "中华网": 9,
+  "中国产业经济信息网": 1,
   "中州期货": 1,
   "中新经纬": 1,
   "中财期货": 1,
@@ -26,7 +26,7 @@
   "农业农村部": 1,
   "凤凰网": 2,
   "创元期货": 2,
-  "华夏时报网": 2,
+  "华夏时报网": 1,
   "南华期货": 1,
   "南方财经网": 12,
   "同花顺": 5,
@@ -43,9 +43,8 @@
   "挖贝网": 1,
   "搜狐": 11,
   "搜狐网": 14,
-  "新华财经": 1,
   "新浪网": 4,
-  "新浪财经": 38,
+  "新浪财经": 39,
   "期货日报": 6,
   "期货日报网": 1,
   "正信期货": 1,
@@ -342,6 +341,25 @@
    "relevance_score": 12
   },
   {
+   "id": "news_326c6c366c7ee7c8bd01",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T05:30+08:00",
+   "fetched_at": "2026-10-16T05:04+08:00",
+   "title": "PX装置检修库存偏紧PTA短期价格偏强运行|卓创资讯|现货|成本|停车|逻辑",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-14/detail-inivcxxr7890175.d.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_c276f79170ca90b11902",
    "date": "2026-10-15",
    "published_at": "2026-10-15T04:53+08:00",
@@ -551,6 +569,25 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e7638fd7bca4bf3e65f3",
+   "date": "2026-10-14",
+   "published_at": "2026-10-14T11:43+08:00",
+   "fetched_at": "2026-10-16T05:04+08:00",
+   "title": "破解辅酶Q10工艺难题,多特倍斯以微生物发酵重塑全球膳食原料格局- 健康",
+   "summary": "",
+   "source": "中国产业经济信息网",
+   "type": "供需动态",
+   "url": "https://www.cinic.org.cn/hy/yy/1656843.html",
+   "company": "",
+   "material_ids": [
+    "COQ10"
+   ],
+   "matched_keywords": [
+    "辅酶q10"
    ],
    "relevance_score": 8
   },
@@ -861,6 +898,29 @@
     "玉米"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_b8b7f28d447ec012fc09",
+   "date": "2026-10-13",
+   "published_at": "2026-10-13T15:00+08:00",
+   "fetched_at": "2026-10-16T05:04+08:00",
+   "title": "光大期货:10月13日农产品日报|大豆|豆油期货|美国|巴西|玉米",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-13/detail-iniuzuyp7244141.d.html",
+   "company": "",
+   "material_ids": [
+    "C",
+    "A",
+    "Y"
+   ],
+   "matched_keywords": [
+    "玉米",
+    "大豆",
+    "豆油"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_12c612eb695f0615a161",
@@ -3870,64 +3930,6 @@
    ],
    "matched_keywords": [
     "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_eb7e21332a868cd3f9b2",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T20:18+08:00",
-   "fetched_at": "2026-09-30T20:54+08:00",
-   "title": "猪价“金九”落空 产能调控进入“硬约束”时刻,猪周期拐点还有多远?",
-   "summary": "对于四季度生猪行情走势,曲国娜表示,四季度生猪价格预计呈“前弱后强、重心温和抬升”走势,但供应高位压制下,反弹空间有限,全季度行业仍难恢复盈利。",
-   "source": "华夏时报网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202609303887864361.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_1b0bfb11db4153b4a43d",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T20:02+08:00",
-   "fetched_at": "2026-10-01T02:18+08:00",
-   "title": "内蒙古通辽:这个玉米不一样 产出零反式脂肪玉米油和优质蛋白",
-   "summary": "让农业固废变身优质蛋白为粮食安全与绿色养殖赋能 关于发展新型蛋白,内蒙古海邻科技发展有限公司市场部总监张鹏提到,公司通过与上游玉米加工企业合作,将玉米产业生产中产生的副产物,作为生产的原材料,使玉米副产物变废为宝,生产出可利用、具有高品质的蛋白原料,新型蛋白可作为生猪、家禽以及各类水产品养殖的饲料原料使用",
-   "source": "新华财经",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202609303887976780.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_486ee07c935739904270",
-   "date": "2026-09-30",
-   "published_at": "2026-09-30T16:34+08:00",
-   "fetched_at": "2026-10-04T23:55+08:00",
-   "title": "原奶跌到2.8元一公斤,超市鲜奶仍卖18元,1升奶里原奶成本不到3.2元",
-   "summary": "",
-   "source": "QQ News",
-   "type": "供需动态",
-   "url": "https://news.qq.com/rain/a/20260930A08IIV00",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶"
    ],
    "relevance_score": 8
   }

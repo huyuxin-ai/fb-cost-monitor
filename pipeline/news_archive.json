@@ -309,6 +309,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_326c6c366c7ee7c8bd01",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T05:30+08:00",
+  "fetched_at": "2026-10-16T05:04+08:00",
+  "title": "PX装置检修库存偏紧PTA短期价格偏强运行|卓创资讯|现货|成本|停车|逻辑",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-14/detail-inivcxxr7890175.d.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_c276f79170ca90b11902",
   "date": "2026-10-15",
   "published_at": "2026-10-15T04:53+08:00",
@@ -518,6 +537,25 @@
   ],
   "matched_keywords": [
    "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e7638fd7bca4bf3e65f3",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T11:43+08:00",
+  "fetched_at": "2026-10-16T05:04+08:00",
+  "title": "破解辅酶Q10工艺难题,多特倍斯以微生物发酵重塑全球膳食原料格局- 健康",
+  "summary": "",
+  "source": "中国产业经济信息网",
+  "type": "供需动态",
+  "url": "https://www.cinic.org.cn/hy/yy/1656843.html",
+  "company": "",
+  "material_ids": [
+   "COQ10"
+  ],
+  "matched_keywords": [
+   "辅酶q10"
   ],
   "relevance_score": 8
  },
@@ -828,6 +866,29 @@
    "玉米"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_b8b7f28d447ec012fc09",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T15:00+08:00",
+  "fetched_at": "2026-10-16T05:04+08:00",
+  "title": "光大期货:10月13日农产品日报|大豆|豆油期货|美国|巴西|玉米",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-13/detail-iniuzuyp7244141.d.html",
+  "company": "",
+  "material_ids": [
+   "C",
+   "A",
+   "Y"
+  ],
+  "matched_keywords": [
+   "玉米",
+   "大豆",
+   "豆油"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_12c612eb695f0615a161",
@@ -9610,64 +9671,5 @@
    "仔猪"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_eaca32b3a5dcb65c61cc",
-  "date": "2026-09-16",
-  "published_at": "2026-09-16T11:31+08:00",
-  "fetched_at": "2026-09-16T15:24+08:00",
-  "title": "国内期货主力合约多数上涨 瓶片、菜粕涨超3%",
-  "summary": "国内期货主力合约多数上涨,瓶片、菜粕涨超3%,豆粕、沪银、豆二、短纤、乙二醇(EG)涨超2%,纸浆涨近2%。跌幅方面,碳酸锂、菜籽跌超2%,沪镍、SC原油、集运欧线、玻璃跌超1%,聚氯乙烯(PVC)、棉纱跌近1%。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609163875938553.html",
-  "company": "",
-  "material_ids": [
-   "RM"
-  ],
-  "matched_keywords": [
-   "菜粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_95185ce8b26a39ff0482",
-  "date": "2026-09-16",
-  "published_at": "2026-09-16T09:46+08:00",
-  "fetched_at": "2026-09-16T15:24+08:00",
-  "title": "豆粕主力合约日内涨幅达2.00%",
-  "summary": "豆粕主力合约日内涨幅达2.00%,现报3442元/吨。菜粕主力合约盘中拉升,涨幅扩大至2.23%,最新报2337元/吨。",
-  "source": "东方财富Choice数据",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609163875729454.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_e4858eca08c862070bf6",
-  "date": "2026-09-16",
-  "published_at": "2026-09-16T09:06+08:00",
-  "fetched_at": "2026-09-16T09:33+08:00",
-  "title": "农产品 | 全产业链仍维持亏损状态 仔猪价格表现低迷 行业去产能趋势预计仍将延续",
-  "summary": "【生猪】 生猪期货大跌,现货价格持续疲弱,9月涨价预期落空,盘面升水结构下挤出升水。仔猪价格继续下跌,集团场6.5公斤断奶仔猪价格降至144元,反应养殖端信心缺失。淘汰母猪折扣价格快速下行,母猪去产能加速。",
-  "source": "国投期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609163875522174.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "仔猪",
-   "生猪"
-  ],
-  "relevance_score": 12
  }
 ]
