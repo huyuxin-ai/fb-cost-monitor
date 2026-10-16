@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T16:50+08:00",
+ "updated_at": "2026-10-16T21:24+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -9,14 +9,14 @@
   "Shangbao Indonesia": 1,
   "Sohu": 1,
   "Vietnam.vn": 1,
-  "dairynews.today": 2,
+  "dairynews.today": 1,
   "finance.sina.com.cn": 8,
   "mezha.net": 1,
   "sohu.com": 1,
   "www.caiwennews.com": 1,
   "上海中期期货": 1,
   "东吴期货": 1,
-  "中华网": 10,
+  "中华网": 11,
   "中国产业经济信息网": 1,
   "中州期货": 1,
   "中新经纬": 1,
@@ -28,8 +28,8 @@
   "华夏时报": 1,
   "华夏时报网": 1,
   "南华期货": 1,
-  "南方财经网": 12,
-  "同花顺": 5,
+  "南方财经网": 13,
+  "同花顺": 7,
   "同花顺财经": 4,
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
@@ -42,9 +42,9 @@
   "手机网易网": 1,
   "挖贝网": 1,
   "搜狐": 13,
-  "搜狐网": 13,
+  "搜狐网": 12,
   "新浪网": 4,
-  "新浪财经": 39,
+  "新浪财经": 37,
   "期货日报": 6,
   "期货日报网": 1,
   "正信期货": 1,
@@ -68,6 +68,84 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_4008b94cc0ba9fc1e245",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T20:58+08:00",
+   "fetched_at": "2026-10-16T21:24+08:00",
+   "title": "立高食品:目前公司的调制稀奶油依然处于一个较快的增速",
+   "summary": "南财智讯10月16日电,立高食品在投资者关系活动中表示,今年3月份以后,稀奶油的新国标正式执行,对稀奶油分为新国标稀奶油和新国标调制稀奶油。市场对无论是调制还是非调制的稀奶油的价格都比较敏感,目前公司的调制稀奶油依然处于一个较快的增速。",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610163898614525.html",
+   "company": "",
+   "material_ids": [
+    "CREAM"
+   ],
+   "matched_keywords": [
+    "稀奶油"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_ea4283cc4f65549520c5",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T18:58+08:00",
+   "fetched_at": "2026-10-16T21:24+08:00",
+   "title": "一夜遇冷,猪价下跌“跌猛了”!",
+   "summary": "",
+   "source": "中华网",
+   "type": "价格行情",
+   "url": "https://news.china.com/socialgd/10000169/20261016/49798881.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_dc589bb0a63ee14a08ec",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T15:29+08:00",
+   "fetched_at": "2026-10-16T21:24+08:00",
+   "title": "【收评】菜油日内下跌0.33% 机构称棕榈油、菜油中长期价格仍有支撑",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261016/c680773617.shtml",
+   "company": "",
+   "material_ids": [
+    "P",
+    "OI"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "菜油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_58864ada23cc89f6a88c",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T15:29+08:00",
+   "fetched_at": "2026-10-16T21:24+08:00",
+   "title": "【收评】棕榈油日内下跌0.96% 机构称情绪低迷,棕榈油再度破位下行",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261016/c680773704.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_4b46046b30dc8201e5f2",
    "date": "2026-10-16",
@@ -282,6 +360,26 @@
     "猪价"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_db970ef6296b2db74d9b",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T06:43+08:00",
+   "fetched_at": "2026-10-07T23:18+08:00",
+   "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
+   "summary": "",
+   "source": "金十数据",
+   "type": "供需动态",
+   "url": "https://xnews.jin10.com/details/231803",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "mpob"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_e563c46ec429d94aeadd",
@@ -1032,26 +1130,6 @@
    ],
    "matched_keywords": [
     "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_db970ef6296b2db74d9b",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T04:10+08:00",
-   "fetched_at": "2026-10-07T23:18+08:00",
-   "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
-   "summary": "",
-   "source": "金十数据",
-   "type": "供需动态",
-   "url": "https://xnews.jin10.com/details/231803",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "mpob"
    ],
    "relevance_score": 8
   },
@@ -3855,82 +3933,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_40ed91b9367fb270906b",
-   "date": "2026-10-02",
-   "published_at": "2026-10-02T11:00+08:00",
-   "fetched_at": "2026-10-02T14:00+08:00",
-   "title": "棕榈油:产量超预期兑现,单边回调之后机会在哪里?",
-   "summary": "来源:牛钱网 嘉宾介绍:徐超,大地期货油脂首席分析师,国内资深“生柴”研究专家,农产品SQL数据库核心开发者。曾供职于油脂龙头企业...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-02/doc-initviic4599323.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_12942ec2f70c09cf8a46",
-   "date": "2026-10-02",
-   "published_at": "2026-10-02T10:17+08:00",
-   "fetched_at": "2026-10-02T14:00+08:00",
-   "title": "猪肉价格又到关键路口?9月起,猪肉价格或将重演2015年的历史",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1083308911_122572428",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪肉价格"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_93accf687767be0b3745",
-   "date": "2026-10-02",
-   "published_at": "2026-10-02T08:02+08:00",
-   "fetched_at": "2026-10-02T14:00+08:00",
-   "title": "奶价上涨,但供应恢复可能抑制涨幅",
-   "summary": "",
-   "source": "dairynews.today",
-   "type": "价格行情",
-   "url": "https://dairynews.today/cn/news/__9932344.html",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6f929b3eba50f78adcff",
-   "date": "2026-10-02",
-   "published_at": "2026-10-02T00:00+08:00",
-   "fetched_at": "2026-10-02T14:00+08:00",
-   "title": "上涨!2026.10.2生猪市场信息交流",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-02/doc-inittzpz7942250.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 8
   }
