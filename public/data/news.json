@@ -1,11 +1,12 @@
 {
- "updated_at": "2026-10-17T01:51+08:00",
+ "updated_at": "2026-10-17T07:19+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 2,
   "36kr.com": 1,
   "IndexBox": 4,
+  "QQ News": 1,
   "Sohu": 1,
   "Vietnam.vn": 1,
   "dairynews.today": 1,
@@ -40,8 +41,8 @@
   "广州期货": 1,
   "手机网易网": 1,
   "挖贝网": 1,
-  "搜狐": 13,
-  "搜狐网": 12,
+  "搜狐": 14,
+  "搜狐网": 11,
   "新浪网": 4,
   "新浪财经": 37,
   "期货日报": 5,
@@ -57,7 +58,7 @@
   "第一财经": 5,
   "网易新闻客户端": 1,
   "虎嗅网": 1,
-  "证券之星": 5,
+  "证券之星": 4,
   "证券日报": 3,
   "证券时报": 2,
   "证券时报网": 1,
@@ -67,6 +68,25 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_77f1fd805020e4c0744d",
+   "date": "2026-10-17",
+   "published_at": "2026-10-17T05:20+08:00",
+   "fetched_at": "2026-10-17T07:19+08:00",
+   "title": "10月17日猪价:突然升温!猪价“蓄势”待涨,接下来“报复性”上涨?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1088731086_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_06e3b5ff14b9a0659b03",
    "date": "2026-10-16",
@@ -257,6 +277,27 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_166fdc848db9f001f215",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T10:10+08:00",
+   "fetched_at": "2026-10-17T07:19+08:00",
+   "title": "2026年10月16日大豆豆油价格:东北惜售、南方新豆收尾?",
+   "summary": "",
+   "source": "QQ News",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20261016A04H1800?ptag=ima",
+   "company": "",
+   "material_ids": [
+    "A",
+    "Y"
+   ],
+   "matched_keywords": [
+    "大豆",
+    "豆油"
    ],
    "relevance_score": 8
   },
@@ -3893,44 +3934,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_02bb3d09ecb72691a6b5",
-   "date": "2026-10-03",
-   "published_at": "2026-10-03T12:55+08:00",
-   "fetched_at": "2026-10-06T23:22+08:00",
-   "title": "2026年10月3日全国主要批发市场腰果价格行情_综合资讯",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://futures.stockstar.com/IG2026100300000603.shtml",
-   "company": "",
-   "material_ids": [
-    "CASHEW"
-   ],
-   "matched_keywords": [
-    "腰果"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_dd79e9c4f465e88c4bd6",
-   "date": "2026-10-02",
-   "published_at": "2026-10-02T16:51+08:00",
-   "fetched_at": "2026-10-03T02:36+08:00",
-   "title": "今日核桃价格一览|10月2日",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1083426108_122014422",
-   "company": "",
-   "material_ids": [
-    "WALNUT"
-   ],
-   "matched_keywords": [
-    "核桃"
    ],
    "relevance_score": 8
   }
