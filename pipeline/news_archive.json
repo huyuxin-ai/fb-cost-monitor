@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_f013ac6d926554e8d1ab",
+  "date": "2026-10-16",
+  "published_at": "2026-10-16T21:57+08:00",
+  "fetched_at": "2026-10-17T04:40+08:00",
+  "title": "价格暴涨、配额有限棕榈油越来越难买",
+  "summary": "",
+  "source": "缅甸金凤凰报",
+  "type": "价格行情",
+  "url": "http://www.mmgpmedia.com/static/content/ZH/2026-10-16/1560696434267918336.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_06e3b5ff14b9a0659b03",
   "date": "2026-10-16",
   "published_at": "2026-10-16T21:00+08:00",
@@ -9650,26 +9669,6 @@
   ],
   "matched_keywords": [
    "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_a6daf1f0ecbf3358b00a",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T09:00+08:00",
-  "fetched_at": "2026-09-17T12:04+08:00",
-  "title": "农产品 | 白糖:市场总体供应仍较为充裕 预计短期价格延续震荡格局",
-  "summary": "现货报价方面,南宁中间商站台基准价5210元/吨;南宁集团厂内车板陈糖报价5150~5220元/吨;昆明中间商报价5060~5120元/吨。原糖缺乏新驱动引领,表现趋弱,有调整迹象,静待后期巴西压榨进度和北半球估产数据。",
-  "source": "光大期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609173876833928.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白糖",
-   "原糖"
   ],
   "relevance_score": 12
  }
