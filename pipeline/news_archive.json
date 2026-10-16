@@ -57,6 +57,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_667f9a1b149784bc1bca",
+  "date": "2026-10-16",
+  "published_at": "2026-10-16T15:42+08:00",
+  "fetched_at": "2026-10-17T01:51+08:00",
+  "title": "生猪主力合约收涨0.24%",
+  "summary": "南财智讯10月16日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨0.24%,收盘报10490.0元/吨,日内资金流入2.34亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610163898740381.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_dc589bb0a63ee14a08ec",
   "date": "2026-10-16",
   "published_at": "2026-10-16T15:29+08:00",
@@ -9653,24 +9672,5 @@
    "原糖"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_3e3b7e4a7a17cbb42a3b",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T08:36+08:00",
-  "fetched_at": "2026-09-17T12:04+08:00",
-  "title": "农产品 | 外盘走弱叠加国内高库存 郑糖重回震荡区间下沿",
-  "summary": "建议多单离场观望,等待CBOT企稳与国内去库信号,豆粕关注3320-3330元支撑。",
-  "source": "中财期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609173876725942.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "郑糖"
-  ],
-  "relevance_score": 8
  }
 ]
