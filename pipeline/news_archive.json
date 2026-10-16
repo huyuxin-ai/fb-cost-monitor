@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_2581be55b273d1164779",
+  "date": "2026-10-16",
+  "published_at": "2026-10-16T14:16+08:00",
+  "fetched_at": "2026-10-16T16:50+08:00",
+  "title": "聚酯瓶片:成本支撑回落,短期价格窄幅偏弱_期市动态",
+  "summary": "",
+  "source": "中金在线",
+  "type": "价格行情",
+  "url": "http://futures.cnfol.com/qishidongtai/20261016/32399222.shtml",
+  "company": "",
+  "material_ids": [
+   "PR"
+  ],
+  "matched_keywords": [
+   "聚酯瓶片"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_4b46046b30dc8201e5f2",
+  "date": "2026-10-16",
+  "published_at": "2026-10-16T13:34+08:00",
+  "fetched_at": "2026-10-16T07:45+08:00",
+  "title": "10月16日猪价:北稳南弱 供需错配导致阴跌不止",
+  "summary": "",
+  "source": "中华网",
+  "type": "供需动态",
+  "url": "https://3g.china.com/act/redian/13004758/20261016/49798117.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_7c4bb7a75f16389970e5",
   "date": "2026-10-16",
   "published_at": "2026-10-16T11:18+08:00",
@@ -194,25 +232,6 @@
    "猪价"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_f95b32f8e176bb15631c",
-  "date": "2026-10-16",
-  "published_at": "2026-10-16T07:01+08:00",
-  "fetched_at": "2026-10-16T07:45+08:00",
-  "title": "10月16日猪价:崩落!猪价下跌“超预期”,原因已找到!物极必反?",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1088249234_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_e563c46ec429d94aeadd",
@@ -539,6 +558,25 @@
   ],
   "matched_keywords": [
    "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_3caf7a0bdcd96781084f",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T07:15+08:00",
+  "fetched_at": "2026-10-16T16:50+08:00",
+  "title": "10月15日猪价:3涨13跌!猪价下跌“180°大变”,接下来否极泰来?",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://www.sohu.com/a/1087785097_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
@@ -9632,43 +9670,5 @@
    "豆粕"
   ],
   "relevance_score": 7
- },
- {
-  "id": "news_081e1b15d92eb96b75b5",
-  "date": "2026-09-16",
-  "published_at": "2026-09-16T18:14+08:00",
-  "fetched_at": "2026-09-16T20:45+08:00",
-  "title": "油脂有“料”:报告中性偏空,豆油价格维持高位",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1076910387_639898",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_88a3e1621ee7fb0269b8",
-  "date": "2026-09-16",
-  "published_at": "2026-09-16T17:42+08:00",
-  "fetched_at": "2026-09-16T21:38+08:00",
-  "title": "商品日报(9月16日):蛋白粕携手大涨菜粕涨超4% 碳酸锂跌近3%",
-  "summary": "新华财经北京9月16日电(张瑶、郭洲洋)国内商品期货市场9月16日收盘涨多跌少,其中菜粕、瓶片主力合约涨超4%,甲醇、乙二醇、豆粕主力合约涨超3%,短纤、沥青、BR橡胶、豆二、沪银主力合约涨超2%。",
-  "source": "新华财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609163876301628.html",
-  "company": "",
-  "material_ids": [
-   "RM"
-  ],
-  "matched_keywords": [
-   "菜粕"
-  ],
-  "relevance_score": 11
  }
 ]

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T11:44+08:00",
+ "updated_at": "2026-10-16T16:50+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -16,7 +16,7 @@
   "www.caiwennews.com": 1,
   "上海中期期货": 1,
   "东吴期货": 1,
-  "中华网": 9,
+  "中华网": 10,
   "中国产业经济信息网": 1,
   "中州期货": 1,
   "中新经纬": 1,
@@ -36,7 +36,6 @@
   "国投期货": 1,
   "国际果蔬报道": 2,
   "央广财经": 1,
-  "央视新闻": 1,
   "央视财经": 1,
   "币界网": 1,
   "广州期货": 1,
@@ -69,6 +68,25 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_4b46046b30dc8201e5f2",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T13:34+08:00",
+   "fetched_at": "2026-10-16T07:45+08:00",
+   "title": "10月16日猪价:北稳南弱 供需错配导致阴跌不止",
+   "summary": "",
+   "source": "中华网",
+   "type": "供需动态",
+   "url": "https://3g.china.com/act/redian/13004758/20261016/49798117.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_7c4bb7a75f16389970e5",
    "date": "2026-10-16",
@@ -264,25 +282,6 @@
     "猪价"
    ],
    "relevance_score": 11
-  },
-  {
-   "id": "news_f95b32f8e176bb15631c",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T07:01+08:00",
-   "fetched_at": "2026-10-16T07:45+08:00",
-   "title": "10月16日猪价:崩落!猪价下跌“超预期”,原因已找到!物极必反?",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1088249234_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_e563c46ec429d94aeadd",
@@ -571,6 +570,25 @@
    ],
    "matched_keywords": [
     "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_3caf7a0bdcd96781084f",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T07:15+08:00",
+   "fetched_at": "2026-10-16T16:50+08:00",
+   "title": "10月15日猪价:3涨13跌!猪价下跌“180°大变”,接下来否极泰来?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://www.sohu.com/a/1087785097_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -3913,25 +3931,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_0b92d089849c612e09ec",
-   "date": "2026-10-02",
-   "published_at": "2026-10-02T00:00+08:00",
-   "fetched_at": "2026-10-02T14:00+08:00",
-   "title": "今年,全国秋粮面积预计稳中有增,特别是高产作物玉米增加较多。目前,已开始大面积收获,进度过三成,快于去年同期。如果后期气象条件总体正常,有望再获丰收。",
-   "summary": "",
-   "source": "央视新闻",
-   "type": "供需动态",
-   "url": "https://news.cctv.com/2026/10/02/ARTIIsxXmuBJCBBUWV2HxVlO261002.shtml",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
    ],
    "relevance_score": 8
   }
