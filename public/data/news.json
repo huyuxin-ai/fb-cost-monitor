@@ -1,12 +1,11 @@
 {
- "updated_at": "2026-10-16T21:24+08:00",
+ "updated_at": "2026-10-16T21:48+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 2,
   "36kr.com": 1,
   "IndexBox": 4,
-  "Shangbao Indonesia": 1,
   "Sohu": 1,
   "Vietnam.vn": 1,
   "dairynews.today": 1,
@@ -63,11 +62,30 @@
   "证券时报": 2,
   "证券时报网": 1,
   "财中社": 1,
-  "财联社": 4,
+  "财联社": 5,
   "金十数据": 1,
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_06e3b5ff14b9a0659b03",
+   "date": "2026-10-16",
+   "published_at": "2026-10-16T21:00+08:00",
+   "fetched_at": "2026-10-16T21:48+08:00",
+   "title": "国内商品期货夜盘开盘涨跌不一,燃油涨2.24%,沪银涨0.83%,氧化铝涨0.77%,焦煤跌2.39%,原油跌1.37%,豆粕跌0.79%",
+   "summary": "国内商品期货夜盘开盘涨跌不一,燃油涨2.24%,沪银涨0.83%,氧化铝涨0.77%,焦煤跌2.39%,原油跌1.37%,豆粕跌0.79%。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610163898639241.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_4008b94cc0ba9fc1e245",
    "date": "2026-10-16",
@@ -3916,25 +3934,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_2811f26b9b8376eba6d0",
-   "date": "2026-10-02",
-   "published_at": "2026-10-02T15:31+08:00",
-   "fetched_at": "2026-10-02T21:00+08:00",
-   "title": "印尼上调10月毛棕榈油及可可豆出口计税价格",
-   "summary": "",
-   "source": "Shangbao Indonesia",
-   "type": "价格行情",
-   "url": "https://www.shangbaoindonesia.com/read/2026/10/02/economy-1790929875",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
   }
  ]
 }

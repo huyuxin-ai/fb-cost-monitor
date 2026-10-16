@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_06e3b5ff14b9a0659b03",
+  "date": "2026-10-16",
+  "published_at": "2026-10-16T21:00+08:00",
+  "fetched_at": "2026-10-16T21:48+08:00",
+  "title": "国内商品期货夜盘开盘涨跌不一,燃油涨2.24%,沪银涨0.83%,氧化铝涨0.77%,焦煤跌2.39%,原油跌1.37%,豆粕跌0.79%",
+  "summary": "国内商品期货夜盘开盘涨跌不一,燃油涨2.24%,沪银涨0.83%,氧化铝涨0.77%,焦煤跌2.39%,原油跌1.37%,豆粕跌0.79%。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610163898639241.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_4008b94cc0ba9fc1e245",
   "date": "2026-10-16",
   "published_at": "2026-10-16T20:58+08:00",
@@ -9653,24 +9672,5 @@
    "郑糖"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_13019afd2cec7dfeeaed",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T06:04+08:00",
-  "fetched_at": "2026-09-17T07:45+08:00",
-  "title": "全国政协委员严建兵—— 钻研玉米新品种 筑牢“中国粮仓”根基(履职故事)",
-  "summary": "从最初探索玉米产量相关性状,到后来聚焦玉米营养品质的遗传改良,再到如今深耕高产高蛋白宜机收玉米研究,严建兵从事玉米研究已有20余年。",
-  "source": "人民日报",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609173876483153.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
  }
 ]
