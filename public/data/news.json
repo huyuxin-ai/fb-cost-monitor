@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T07:19+08:00",
+ "updated_at": "2026-10-17T19:03+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,7 +10,7 @@
   "Sohu": 1,
   "Vietnam.vn": 1,
   "dairynews.today": 1,
-  "finance.sina.com.cn": 8,
+  "finance.sina.com.cn": 7,
   "mezha.net": 1,
   "sohu.com": 1,
   "www.caiwennews.com": 1,
@@ -41,9 +41,9 @@
   "广州期货": 1,
   "手机网易网": 1,
   "挖贝网": 1,
-  "搜狐": 14,
-  "搜狐网": 11,
-  "新浪网": 4,
+  "搜狐": 15,
+  "搜狐网": 10,
+  "新浪网": 5,
   "新浪财经": 37,
   "期货日报": 5,
   "期货日报网": 1,
@@ -68,6 +68,44 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_b83199fe86c47523f0a1",
+   "date": "2026-10-17",
+   "published_at": "2026-10-17T17:54+08:00",
+   "fetched_at": "2026-10-17T19:03+08:00",
+   "title": "生猪产业周度复盘,三方数据显示产能去化趋势明确",
+   "summary": "",
+   "source": "新浪网",
+   "type": "供需动态",
+   "url": "https://video.sina.com.cn/p/finance/2026-10-17/detail-inivpnhp8157502.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_dcc66dd0009f240a3fc1",
+   "date": "2026-10-17",
+   "published_at": "2026-10-17T17:52+08:00",
+   "fetched_at": "2026-10-17T19:03+08:00",
+   "title": "今日核桃价格一览|10月17日",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1089052236_122014422",
+   "company": "",
+   "material_ids": [
+    "WALNUT"
+   ],
+   "matched_keywords": [
+    "核桃"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_db5598a7aa9bbf0b61a3",
    "date": "2026-10-17",
@@ -3895,44 +3933,6 @@
    ],
    "matched_keywords": [
     "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_821db2ff56fca0ecaf77",
-   "date": "2026-10-04",
-   "published_at": "2026-10-04T11:06+08:00",
-   "fetched_at": "2026-10-04T07:35+08:00",
-   "title": "10月4日猪价终结三连涨!供需承压,未来将震荡偏弱运行",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101b31e",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6be2070947ba61106152",
-   "date": "2026-10-03",
-   "published_at": "2026-10-03T16:35+08:00",
-   "fetched_at": "2026-10-04T01:31+08:00",
-   "title": "一夜降温,猪价下跌“卷土重来”!附:10月4日猪价",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1083689861_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
     "猪价"
    ],
    "relevance_score": 8
