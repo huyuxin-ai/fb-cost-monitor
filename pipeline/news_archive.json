@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_af58716dbe7116f7b11c",
+  "date": "2026-10-18",
+  "published_at": "2026-10-18T00:39+08:00",
+  "fetched_at": "2026-10-18T01:27+08:00",
+  "title": "上涨!2026.10.18生猪市场信息交流",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1089112333_122014422",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_b83199fe86c47523f0a1",
   "date": "2026-10-17",
   "published_at": "2026-10-17T17:54+08:00",
@@ -9653,24 +9672,5 @@
    "豆粕"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_3158307bbc8b007d4d67",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T09:59+08:00",
-  "fetched_at": "2026-09-17T12:04+08:00",
-  "title": "豆粕:国内情绪偏强 期价再创新高",
-  "summary": "其次,市场外溢利多,如:美伊冲突、原油持续上涨带来市场普涨,俄乌冲突引发黑海港口运输忧虑、美麦/美玉米上涨带动美豆上涨。再次,豆类自身基本面也有利多,如:美豆优良率偏低、产区高温天气、巴拿马运河限运,国内豆粕m2701合约供应存在不确定性。",
-  "source": "国泰君安期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609173877073918.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 11
  }
 ]
