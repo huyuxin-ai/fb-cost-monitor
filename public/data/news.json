@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T08:10+08:00",
+ "updated_at": "2026-10-18T12:58+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,7 +10,7 @@
   "Sohu": 1,
   "Vietnam.vn": 1,
   "dairynews.today": 1,
-  "finance.sina.com.cn": 7,
+  "finance.sina.com.cn": 6,
   "mezha.net": 1,
   "sohu.com": 1,
   "www.caiwennews.com": 1,
@@ -30,7 +30,7 @@
   "南华期货": 1,
   "南方财经网": 14,
   "同花顺": 7,
-  "同花顺财经": 4,
+  "同花顺财经": 5,
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
@@ -44,7 +44,7 @@
   "搜狐": 16,
   "搜狐网": 9,
   "新浪网": 5,
-  "新浪财经": 36,
+  "新浪财经": 37,
   "期货日报": 5,
   "期货日报网": 1,
   "正信期货": 1,
@@ -58,7 +58,7 @@
   "第一财经": 5,
   "网易新闻客户端": 1,
   "虎嗅网": 1,
-  "证券之星": 4,
+  "证券之星": 3,
   "证券日报": 3,
   "证券时报": 2,
   "证券时报网": 1,
@@ -868,9 +868,9 @@
    "date": "2026-10-15",
    "published_at": "2026-10-15T05:30+08:00",
    "fetched_at": "2026-10-16T05:04+08:00",
-   "title": "PX装置检修库存偏紧PTA短期价格偏强运行|卓创资讯|现货|成本|停车|逻辑",
+   "title": "PX装置检修库存偏紧 PTA短期价格偏强运行",
    "summary": "",
-   "source": "finance.sina.com.cn",
+   "source": "新浪财经",
    "type": "价格行情",
    "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-14/detail-inivcxxr7890175.d.html",
    "company": "",
@@ -1442,6 +1442,25 @@
     "玉米",
     "大豆",
     "豆油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_87eac1dd86b9fe7be539",
+   "date": "2026-10-13",
+   "published_at": "2026-10-13T15:00+08:00",
+   "fetched_at": "2026-10-18T12:58+08:00",
+   "title": "行业追踪|农业生猪养殖市场(10月7日-10月13日):猪料比价格环比略有下跌",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261013/c680643084.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
    ],
    "relevance_score": 8
   },
@@ -3915,26 +3934,6 @@
     "猪价"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_2e863bf6243e1c474979",
-   "date": "2026-10-05",
-   "published_at": "2026-10-05T08:25+08:00",
-   "fetched_at": "2026-10-05T09:09+08:00",
-   "title": "【券商聚焦】中信建投:9月西北华北多地散奶价格上涨明显,肉奶共振推动原奶周期向好_滚动新闻_财经",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://wap.stockstar.com/detail/IG2026100500000049",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶",
-    "奶价"
-   ],
-   "relevance_score": 8
   }
  ]
 }

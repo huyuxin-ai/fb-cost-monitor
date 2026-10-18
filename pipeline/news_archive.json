@@ -875,9 +875,9 @@
   "date": "2026-10-15",
   "published_at": "2026-10-15T05:30+08:00",
   "fetched_at": "2026-10-16T05:04+08:00",
-  "title": "PX装置检修库存偏紧PTA短期价格偏强运行|卓创资讯|现货|成本|停车|逻辑",
+  "title": "PX装置检修库存偏紧 PTA短期价格偏强运行",
   "summary": "",
-  "source": "finance.sina.com.cn",
+  "source": "新浪财经",
   "type": "价格行情",
   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-14/detail-inivcxxr7890175.d.html",
   "company": "",
@@ -1449,6 +1449,25 @@
    "玉米",
    "大豆",
    "豆油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_87eac1dd86b9fe7be539",
+  "date": "2026-10-13",
+  "published_at": "2026-10-13T15:00+08:00",
+  "fetched_at": "2026-10-18T12:58+08:00",
+  "title": "行业追踪|农业生猪养殖市场(10月7日-10月13日):猪料比价格环比略有下跌",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261013/c680643084.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
   ],
   "relevance_score": 8
  },
@@ -9653,24 +9672,5 @@
    "pta"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_af786509c6a767de3d9f",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T10:32+08:00",
-  "fetched_at": "2026-09-17T12:04+08:00",
-  "title": "9月第2周生猪定点屠宰企业生猪收购和白条肉出厂价格情况",
-  "summary": "据农业农村部监测,2026年9月7—13日,生猪定点屠宰企业生猪平均收购价格为12.14元/公斤,环比与上期持平,同比下降17.2%。白条肉平均出厂价格为15.89元/公斤,环比增长0.1%,同比下降16.1%。",
-  "source": "农业农村部",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609173877116535.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
  }
 ]
