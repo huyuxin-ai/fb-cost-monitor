@@ -1,14 +1,52 @@
 [
  {
-  "id": "news_af58716dbe7116f7b11c",
+  "id": "news_a8bcadf14770ce543c42",
   "date": "2026-10-18",
-  "published_at": "2026-10-18T00:39+08:00",
-  "fetched_at": "2026-10-18T01:27+08:00",
-  "title": "上涨!2026.10.18生猪市场信息交流",
+  "published_at": "2026-10-18T14:51+08:00",
+  "fetched_at": "2026-10-18T17:27+08:00",
+  "title": "2连涨,猪价上涨“势不可挡”!附:10月19日猪价",
   "summary": "",
   "source": "搜狐",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1089112333_122014422",
+  "url": "https://m.sohu.com/a/1089300957_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7992db5729083751a402",
+  "date": "2026-10-18",
+  "published_at": "2026-10-18T12:59+08:00",
+  "fetched_at": "2026-10-18T17:27+08:00",
+  "title": "印尼遭遇十余年来最严重烟霾,全球棕榈油行情看涨",
+  "summary": "印尼棕榈油协会预计,由于厄尔尼诺现象的严重影响,印尼明年的棕榈油产量可能会减少多达300万吨,同比下降3%,这将进一步推高棕榈油价格。作为全球植物油定价锚的棕榈油涨价,直接带动豆油、菜籽油等替代品种同步跟涨,全球食品加工、日化行业的原料成本普遍抬升。",
+  "source": "界面新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610183899117919.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_1336c09f6d3e52908219",
+  "date": "2026-10-17",
+  "published_at": "2026-10-17T22:10+08:00",
+  "fetched_at": "2026-10-18T17:27+08:00",
+  "title": "2021年333生猪的价格调查结果在各大洲各不相同- 文章 - pig333.cn, 世界猪业之窗",
+  "summary": "",
+  "source": "3TRES3",
+  "type": "价格行情",
+  "url": "https://www.3tres3.com/cn/articles/article_5070/",
   "company": "",
   "material_ids": [
    "LH"
@@ -53,6 +91,25 @@
   ],
   "matched_keywords": [
    "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_353694a3f2769aa8dbe6",
+  "date": "2026-10-17",
+  "published_at": "2026-10-17T14:25+08:00",
+  "fetched_at": "2026-10-18T17:27+08:00",
+  "title": "烧芭印尼公司接预防措施通知 亚洲纸浆:支持供应商全力配合",
+  "summary": "",
+  "source": "联合早报",
+  "type": "供需动态",
+  "url": "https://www.zaobao.com.sg/news/singapore/story20261017-9852117",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
   ],
   "relevance_score": 8
  },
@@ -795,6 +852,27 @@
   "relevance_score": 8
  },
  {
+  "id": "news_308163b3b411423ad7b5",
+  "date": "2026-10-15",
+  "published_at": "2026-10-15T09:49+08:00",
+  "fetched_at": "2026-10-18T17:27+08:00",
+  "title": "2026年10月15日大豆豆油价格:东北惜售把价格顶上去 豆油全线小跌",
+  "summary": "",
+  "source": "QQ News",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20261015A045SD00",
+  "company": "",
+  "material_ids": [
+   "A",
+   "Y"
+  ],
+  "matched_keywords": [
+   "大豆",
+   "豆油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_8cef0a806b6dae81813e",
   "date": "2026-10-15",
   "published_at": "2026-10-15T09:16+08:00",
@@ -1216,6 +1294,26 @@
    "豆粕"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_d2926764df613b6239f2",
+  "date": "2026-10-14",
+  "published_at": "2026-10-14T08:47+08:00",
+  "fetched_at": "2026-10-18T17:27+08:00",
+  "title": "#蟑螂粉成蛋白粉平替#【蛋白粉“伤肾”争议背后:乳清蛋白成本暴涨蟑螂粉成平替?】#医生回应蛋白粉伤肾争议# #蛋白粉涨价蟑螂粉成平替#近期,42岁的演员向佐在综艺里自曝,早年为了快速增肌,把蛋白粉冲得很浓还长期超量喝,后来医生告诉他肾功能相当于70岁",
+  "summary": "",
+  "source": "手机新浪网",
+  "type": "价格行情",
+  "url": "https://www.sina.cn/news/detail/5353842009181647.html",
+  "company": "",
+  "material_ids": [
+   "WPC34",
+   "WPC80"
+  ],
+  "matched_keywords": [
+   "乳清蛋白"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_bd2eebb21614a5923b26",
@@ -9575,101 +9673,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d49c3390cfbc770d5f36",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T11:38+08:00",
-  "fetched_at": "2026-09-17T12:04+08:00",
-  "title": "【现货】9月17日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260917/c680003806.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_cd6c2d5aa150fd4df084",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T11:26+08:00",
-  "fetched_at": "2026-09-17T07:45+08:00",
-  "title": "9月17日猪价:一片绿,市场承压下跌",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://3g.china.com/act/redian/13004758/20260917/49747964.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_eede1f59139ca989bc33",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T11:25+08:00",
-  "fetched_at": "2026-09-17T12:04+08:00",
-  "title": "“一语道粕”:豆粕市场研究的重要锚点之华东地区",
-  "summary": "卓创资讯豆粕市场高级分析师王汝文 华东是国内豆粕压榨、货源流转、基差定价的核心枢纽,区域内生产企业原料到港、压榨节奏、库存变化...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/2026-09-17/doc-inisayaf4246743.shtml",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_d5eb3ab4e6b046f888a7",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T11:24+08:00",
-  "fetched_at": "2026-09-17T12:04+08:00",
-  "title": "华北玉米新作上市 拉开价格下跌序幕",
-  "summary": "卓创资讯玉米市场分析师邹骏 2026年9月上旬,华北黄淮新季玉米集中上市,供应快速释放,价格下行节奏超预期。低价优势沿华中、西南向东南沿海扩散,直接压制东北...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/2026-09-17/doc-inisayai3608625.shtml",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_74ff88f075c1a60be8a5",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T11:06+08:00",
-  "fetched_at": "2026-09-18T05:57+08:00",
-  "title": "生意社2026年9月17日PTA趋势分析:震荡",
-  "summary": "",
-  "source": "新浪财经_金融信息服务商",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-17/doc-iniscekf3503102.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
   ],
   "relevance_score": 8
  }
