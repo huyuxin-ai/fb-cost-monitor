@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T03:17+08:00",
+ "updated_at": "2026-10-19T05:42+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -41,10 +41,10 @@
   "手机新浪网": 1,
   "手机网易网": 1,
   "挖贝网": 1,
-  "搜狐": 17,
+  "搜狐": 18,
   "搜狐网": 8,
   "新浪网": 6,
-  "新浪财经": 34,
+  "新浪财经": 33,
   "期货日报": 5,
   "期货日报网": 1,
   "正信期货": 1,
@@ -69,6 +69,25 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_d28752699c15eb8ecb34",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T05:00+08:00",
+   "fetched_at": "2026-10-19T05:42+08:00",
+   "title": "10月19日猪价:枯木逢春,猪价“翘尾”翻红!接下来“补偿”性上涨?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1089388345_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_6bc75ec188e4f9dd9161",
    "date": "2026-10-18",
@@ -3918,25 +3937,6 @@
     "猪价"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_02bb46d6dbaf54a3213d",
-   "date": "2026-10-07",
-   "published_at": "2026-10-07T08:21+08:00",
-   "fetched_at": "2026-10-07T09:15+08:00",
-   "title": "美国农业部海外农业局:印度食糖产量预计低于3000万吨",
-   "summary": "美国农业部海外农业局(FAS)在一份报告中称,本月开启的2026-27榨季,印度食糖产量预计为2950万吨。 该数值低于美国农业部此前3360万吨的官方预估。",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat5011833.shtml",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "食糖"
-   ],
-   "relevance_score": 12
   }
  ]
 }
