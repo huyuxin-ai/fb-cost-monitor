@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T01:27+08:00",
+ "updated_at": "2026-10-18T08:10+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -42,7 +42,7 @@
   "手机网易网": 1,
   "挖贝网": 1,
   "搜狐": 16,
-  "搜狐网": 10,
+  "搜狐网": 9,
   "新浪网": 5,
   "新浪财经": 36,
   "期货日报": 5,
@@ -64,7 +64,7 @@
   "证券时报网": 1,
   "财中社": 1,
   "财联社": 5,
-  "金十数据": 1,
+  "金十数据": 2,
   "马来西亚东方日报": 1
  },
  "items": [
@@ -688,6 +688,25 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_49c19d28331fc2b75af8",
+   "date": "2026-10-15",
+   "published_at": "2026-10-15T14:39+08:00",
+   "fetched_at": "2026-10-18T08:10+08:00",
+   "title": "USDA 9月月报:美国玉米、小麦供需预期数据-市场参考",
+   "summary": "",
+   "source": "金十数据",
+   "type": "供需动态",
+   "url": "https://xnews.jin10.com/details/229914",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
    ],
    "relevance_score": 8
   },
@@ -3914,25 +3933,6 @@
    "matched_keywords": [
     "原奶",
     "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c14a3ec8362372e3b5e1",
-   "date": "2026-10-05",
-   "published_at": "2026-10-05T07:11+08:00",
-   "fetched_at": "2026-10-05T09:09+08:00",
-   "title": "10月5日猪价:4涨13跌!猪价“滑坡”下跌,国庆后猪价跌回“原价”?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1083996085_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }
