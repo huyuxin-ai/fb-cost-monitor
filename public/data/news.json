@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T00:49+08:00",
+ "updated_at": "2026-10-19T03:17+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -90,6 +90,25 @@
    "relevance_score": 8
   },
   {
+   "id": "news_11c8548712f331896702",
+   "date": "2026-10-18",
+   "published_at": "2026-10-18T20:02+08:00",
+   "fetched_at": "2026-10-19T03:17+08:00",
+   "title": "供需关系宽松,山东猪肉价格环比回落0.64%,牛羊肉价格再创新高|新黄河探市",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1089394397_121347613",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_6093cd73868aec477e38",
    "date": "2026-10-18",
    "published_at": "2026-10-18T18:12+08:00",
@@ -118,25 +137,6 @@
    "source": "证券之星",
    "type": "供需动态",
    "url": "https://stock.stockstar.com/JC2026101800006902.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_a8bcadf14770ce543c42",
-   "date": "2026-10-18",
-   "published_at": "2026-10-18T14:51+08:00",
-   "fetched_at": "2026-10-18T17:27+08:00",
-   "title": "2连涨,猪价上涨“势不可挡”!附:10月19日猪价",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1089300957_120238851",
    "company": "",
    "material_ids": [
     "LH"
