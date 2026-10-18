@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-10-18T17:27+08:00",
+ "updated_at": "2026-10-18T21:29+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 2,
   "36kr.com": 1,
   "3TRES3": 1,
-  "IndexBox": 4,
+  "IndexBox": 3,
   "QQ News": 2,
   "Sohu": 1,
   "Vietnam.vn": 1,
   "dairynews.today": 1,
-  "finance.sina.com.cn": 6,
+  "finance.sina.com.cn": 5,
   "mezha.net": 1,
   "www.caiwennews.com": 1,
   "上海中期期货": 1,
@@ -42,9 +42,9 @@
   "手机新浪网": 1,
   "手机网易网": 1,
   "挖贝网": 1,
-  "搜狐": 16,
-  "搜狐网": 9,
-  "新浪网": 5,
+  "搜狐": 17,
+  "搜狐网": 8,
+  "新浪网": 6,
   "新浪财经": 34,
   "期货日报": 5,
   "期货日报网": 1,
@@ -60,7 +60,7 @@
   "网易新闻客户端": 1,
   "联合早报": 1,
   "虎嗅网": 1,
-  "证券之星": 3,
+  "证券之星": 4,
   "证券日报": 3,
   "证券时报": 2,
   "证券时报网": 1,
@@ -70,6 +70,44 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_6093cd73868aec477e38",
+   "date": "2026-10-18",
+   "published_at": "2026-10-18T18:12+08:00",
+   "fetched_at": "2026-10-18T21:29+08:00",
+   "title": "今日核桃价格一览|10月18日",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1089376006_122014422",
+   "company": "",
+   "material_ids": [
+    "WALNUT"
+   ],
+   "matched_keywords": [
+    "核桃"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_5289badeea9c41fcde3b",
+   "date": "2026-10-18",
+   "published_at": "2026-10-18T16:50+08:00",
+   "fetched_at": "2026-10-18T21:29+08:00",
+   "title": "农林牧渔行业周报:节后供需错配压制猪价,深度亏损推动产能去化_行业研究_研报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "供需动态",
+   "url": "https://stock.stockstar.com/JC2026101800006902.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_a8bcadf14770ce543c42",
    "date": "2026-10-18",
@@ -107,6 +145,25 @@
     "棕榈油"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_13ebc12589d78490630f",
+   "date": "2026-10-18",
+   "published_at": "2026-10-18T11:21+08:00",
+   "fetched_at": "2026-10-18T21:29+08:00",
+   "title": "上涨!2026.10.18生猪市场信息交流",
+   "summary": "",
+   "source": "新浪网",
+   "type": "价格行情",
+   "url": "https://k.sina.com.cn/article_5952915705_162d248f906703qy8a.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_1336c09f6d3e52908219",
@@ -3878,63 +3935,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7ec5ca67ed03b43cbfb1",
-   "date": "2026-10-07",
-   "published_at": "2026-10-07T04:51+08:00",
-   "fetched_at": "2026-10-08T08:48+08:00",
-   "title": "管制玻璃瓶市场展望2035:生物制剂需求与即用型转型驱动增长 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "供需动态",
-   "url": "https://www.indexbox.io/zh-hans/blog/tubular-glass-vials-market-forecast-to-2035-growth-driven-by-biologics-and-rtu-adoption/",
-   "company": "",
-   "material_ids": [
-    "FG"
-   ],
-   "matched_keywords": [
-    "玻璃瓶"
-   ],
-   "relevance_score": 9
-  },
-  {
-   "id": "news_d5a3702f66131a2b3f24",
-   "date": "2026-10-07",
-   "published_at": "2026-10-07T04:44+08:00",
-   "fetched_at": "2026-10-06T01:17+08:00",
-   "title": "3大消息来袭,猪价连夜拉涨,这波反弹能持续多久?",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-06/detail-iniuezxt2477601.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2f1ede8ada911d88152e",
-   "date": "2026-10-06",
-   "published_at": "2026-10-06T16:52+08:00",
-   "fetched_at": "2026-10-06T18:39+08:00",
-   "title": "今日核桃价格一览|10月6日",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1084508655_122014422",
-   "company": "",
-   "material_ids": [
-    "WALNUT"
-   ],
-   "matched_keywords": [
-    "核桃"
    ],
    "relevance_score": 8
   }
