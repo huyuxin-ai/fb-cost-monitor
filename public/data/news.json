@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T12:27+08:00",
+ "updated_at": "2026-10-19T18:12+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -9,7 +9,6 @@
   "IndexBox": 2,
   "QQ News": 2,
   "Vietnam.vn": 1,
-  "dairynews.today": 1,
   "finance.sina.com.cn": 5,
   "mezha.net": 1,
   "www.caiwennews.com": 1,
@@ -19,21 +18,19 @@
   "中国产业经济信息网": 1,
   "中州期货": 1,
   "中新经纬": 1,
-  "中财期货": 1,
-  "五矿期货": 1,
   "农业农村部": 1,
   "凤凰网": 2,
   "创元期货": 3,
   "华夏时报": 1,
   "华夏时报网": 1,
   "南华期货": 2,
-  "南方财经网": 14,
+  "南方财经网": 15,
   "同花顺": 7,
   "同花顺财经": 6,
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
-  "国际果蔬报道": 2,
+  "国际果蔬报道": 1,
   "央广财经": 1,
   "央视财经": 1,
   "币界网": 1,
@@ -43,22 +40,23 @@
   "挖贝网": 1,
   "搜狐": 18,
   "搜狐网": 7,
-  "新浪网": 6,
-  "新浪财经": 33,
+  "新华财经": 1,
+  "新浪网": 7,
+  "新浪财经": 34,
   "期货日报": 5,
   "正信期货": 1,
   "每日经济新闻": 5,
   "汇通网 Fx678": 2,
   "深圳商报·读创": 1,
   "澎湃新闻": 1,
-  "瑞达期货": 3,
+  "瑞达期货": 2,
   "申银万国期货": 2,
   "界面新闻": 2,
   "第一财经": 5,
   "网易新闻客户端": 1,
   "联合早报": 1,
   "虎嗅网": 1,
-  "证券之星": 5,
+  "证券之星": 6,
   "证券日报": 3,
   "证券时报": 2,
   "证券时报网": 1,
@@ -67,6 +65,63 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_73c20be80b1d55f28228",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T16:58+08:00",
+   "fetched_at": "2026-10-19T18:12+08:00",
+   "title": "增强盘面价格代表性 大商所调整生猪期货交割发票类型",
+   "summary": "在现货流通环节,生猪现货贸易发票既包括生猪养殖企业开具的自产自销农产品普票,又包括生猪贸易企业开具的一般纳税人专票和其他类型发票,不同发票类型的买方可抵扣税额不同,因此可能对期货盘面价格产生扰动。",
+   "source": "新华财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610193899955194.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_944fb7172d1c6b38281a",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T15:41+08:00",
+   "fetched_at": "2026-10-19T18:12+08:00",
+   "title": "生猪主力合约收跌2.48%",
+   "summary": "南财智讯10月19日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌2.48%,收盘报10215.0元/吨,日内资金流入1.1亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610193899888965.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_5ab9eec54e35621d4395",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T13:10+08:00",
+   "fetched_at": "2026-10-19T18:12+08:00",
+   "title": "农业行业周报:本周猪价回落,白羽鸡价格延续反弹_行业研究_研报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://stock.stockstar.com/JC2026101900012671.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_1ea94b67e5823cf06d01",
    "date": "2026-10-19",
@@ -83,6 +138,25 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1b9637512e9a10a06b62",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T11:19+08:00",
+   "fetched_at": "2026-10-19T18:12+08:00",
+   "title": "供需边际改善,猪价微涨!这波反弹能走多远?",
+   "summary": "",
+   "source": "新浪网",
+   "type": "价格行情",
+   "url": "https://video.sina.com.cn/p/finance/2026-10-19/detail-inivtpwv6919342.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -143,6 +217,25 @@
     "pta"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_9017449e76eb9ea73fab",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T09:09+08:00",
+   "fetched_at": "2026-10-19T18:12+08:00",
+   "title": "生意社2026年10月19日PTA趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-19/doc-inivtiqx6954351.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_f40f25d25be29db2ff54",
@@ -3837,104 +3930,6 @@
    ],
    "matched_keywords": [
     "大豆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6adcdcede5a2cb8fb3d0",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T08:50+08:00",
-   "fetched_at": "2026-10-08T15:06+08:00",
-   "title": "农产品 | 生猪:终端消费阶段性降温 走货速度放缓",
-   "summary": "生猪 国庆期间生猪价格先跌后涨,前期生猪价格延续跌势,多省份跌破10元/公斤关口,后期由于规模场集中放量节奏放缓以及价格下跌后挺价惜售情绪抬头,标猪供应缩紧,多地生猪价格上涨。",
-   "source": "瑞达期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610083889075043.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_6e799ba967fe7199b33d",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T08:44+08:00",
-   "fetched_at": "2026-10-08T08:48+08:00",
-   "title": "机构:国庆假期期间全国生猪价格有所回暖",
-   "summary": "中财期货10月8日研报显示,国庆假期期间,全国生猪价格有所回暖。节前育肥猪集中出栏收尾后,标猪短期供给压力骤减,叠加集团猪企假期缩量出栏、散户惜售压栏情绪升温,猪价先涨后跌再回升。",
-   "source": "中财期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610083889068677.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_f75e43a5ade1f054aafa",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T08:26+08:00",
-   "fetched_at": "2026-10-08T08:48+08:00",
-   "title": "机构:预计节后郑糖开盘上涨的概率较大",
-   "summary": "按当前原糖价格预估,我国配额外巴西进口加工糖成本将达到约6600元/吨,远高于节前郑糖价格。预计节后郑糖开盘上涨的概率较大。",
-   "source": "五矿期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610083889063630.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "郑糖",
-    "原糖"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_8684eedba5a8b8891185",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T04:54+08:00",
-   "fetched_at": "2026-10-09T04:33+08:00",
-   "title": "Lactalis Leerdammer 提高 10 月份牛奶价格至 €46.35",
-   "summary": "",
-   "source": "dairynews.today",
-   "type": "价格行情",
-   "url": "https://dairynews.today/cn/news/lactalis_leerdammer_10_46_35_4782903.html",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6f1df2f1e5b297bec57f",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T04:26+08:00",
-   "fetched_at": "2026-10-07T23:43+08:00",
-   "title": "全球夏威夷果市场价格承压,中国对欧出口增近300%!",
-   "summary": "",
-   "source": "国际果蔬报道",
-   "type": "价格行情",
-   "url": "https://m.guojiguoshu.com/article/11321",
-   "company": "",
-   "material_ids": [
-    "MACADAMIA"
-   ],
-   "matched_keywords": [
-    "夏威夷果"
    ],
    "relevance_score": 8
   }
