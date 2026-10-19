@@ -1,5 +1,102 @@
 [
  {
+  "id": "news_1ea94b67e5823cf06d01",
+  "date": "2026-10-19",
+  "published_at": "2026-10-19T11:49+08:00",
+  "fetched_at": "2026-10-19T12:27+08:00",
+  "title": "【现货】10月19日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261019/c680822879.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_efd61ad2bd088aef5dd9",
+  "date": "2026-10-19",
+  "published_at": "2026-10-19T10:55+08:00",
+  "fetched_at": "2026-10-19T12:27+08:00",
+  "title": "猪价失守10元关口!行业亏损时长刷新历史最长纪录,超强厄尔尼诺或成产能出清加速器",
+  "summary": "中国养猪网数据显示,10月16日全国生猪(外三元)价格报9.88元/公斤,再度失守10元关口。被寄予厚望的中秋、国庆双节并未带来预期中的反弹——猪价自9月底10.06元/公斤短暂回升至10月6日的10.31元/公斤后便掉头向下,生猪市场呈现“旺季不旺”。",
+  "source": "21世纪经济报道",
+  "type": "价格行情",
+  "url": "https://stock.eastmoney.com/a/202610193899726731.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_619e550818ba6246c1e8",
+  "date": "2026-10-19",
+  "published_at": "2026-10-19T10:43+08:00",
+  "fetched_at": "2026-10-19T12:27+08:00",
+  "title": "华泰期货:供应压力逐步释放,豆粕价格震荡运行",
+  "summary": "作者: 薛钧元 粕类市场要闻与重要数据 期货方面,上周末收盘豆粕2701合约3281元/吨,环比下跌121元/吨,跌幅3.56%;上周末收盘菜粕2701合约2349元/吨,环比下跌25元/吨...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtpwv6911127.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_4eaa3d7e04e7fe1cd3d7",
+  "date": "2026-10-19",
+  "published_at": "2026-10-19T09:18+08:00",
+  "fetched_at": "2026-10-19T12:27+08:00",
+  "title": "能化 | PTA供需均相对偏弱 预计期价大概率延续弱势",
+  "summary": "终端方面,瓶片需求趋弱,PET片材采购意愿下滑,中低端替代品用量增加,下游以刚需补货为主。短纤旺季氛围兑现不足,以刚需采购为主。长丝工厂成品库存压力逐步增加,采购心态偏谨慎。整体来看,PTA供需均相对偏弱,预计期价大概率延续弱势。",
+  "source": "上海中期期货",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610193899284051.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_f40f25d25be29db2ff54",
+  "date": "2026-10-19",
+  "published_at": "2026-10-19T08:52+08:00",
+  "fetched_at": "2026-10-19T12:27+08:00",
+  "title": "农产品 | 生猪:现货弱稳、亏损加深 猪价短期偏弱震荡",
+  "summary": "高蛋白豆粕中,盘锦45%下跌20元/吨,天津46%下跌20元/吨,日照46%下跌20元/吨,南通46%下跌10元/吨,东莞46%持平。豆粕基差普遍上涨,辽宁139(+15)、天津29(+15)、山东-21(+15)、江苏-31(+15),广东-11(+35)。",
+  "source": "南华期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610193899273733.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_299c785ebb03de1d067d",
   "date": "2026-10-19",
   "published_at": "2026-10-19T07:00+08:00",
@@ -225,6 +322,26 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_db970ef6296b2db74d9b",
+  "date": "2026-10-17",
+  "published_at": "2026-10-17T04:07+08:00",
+  "fetched_at": "2026-10-07T23:18+08:00",
+  "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
+  "summary": "",
+  "source": "金十数据",
+  "type": "供需动态",
+  "url": "https://xnews.jin10.com/details/231803",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "mpob"
   ],
   "relevance_score": 8
  },
@@ -617,26 +734,6 @@
    "猪价"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_db970ef6296b2db74d9b",
-  "date": "2026-10-16",
-  "published_at": "2026-10-16T06:43+08:00",
-  "fetched_at": "2026-10-07T23:18+08:00",
-  "title": "【MPOB 9月月报前瞻】产量破纪录、出口陷泥潭,马来西亚棕榈油正面临史上最严峻的累库危机?",
-  "summary": "",
-  "source": "金十数据",
-  "type": "供需动态",
-  "url": "https://xnews.jin10.com/details/231803",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "mpob"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_e563c46ec429d94aeadd",
@@ -9577,103 +9674,6 @@
   "matched_keywords": [
    "生猪",
    "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_09dff7660a41c745545b",
-  "date": "2026-09-18",
-  "published_at": "2026-09-18T07:40+08:00",
-  "fetched_at": "2026-09-18T08:03+08:00",
-  "title": "【读财报】猪价企稳:8月上市猪企销量同比增长1.73% 神农集团、傲农生物销量增速居前",
-  "summary": "8月生猪成交均价在11元/公斤上下浮动 根据国家生猪市场披露的数据,全国生猪成交均价自2026年4月下探至10元/公斤以下后在低位震荡,6月下旬以来出现反弹。8月份,生猪成交价格在11元/公斤上下波动。",
-  "source": "新华财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609183877818275.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_663e41b347fdb6f391a3",
-  "date": "2026-09-18",
-  "published_at": "2026-09-18T07:36+08:00",
-  "fetched_at": "2026-09-18T08:03+08:00",
-  "title": "9月18日猪价:跌猛了!猪价下跌3.8%,下跌逻辑已找到!蓄势上涨?",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1077439093_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e32c445cc09527e49fa4",
-  "date": "2026-09-18",
-  "published_at": "2026-09-18T04:23+08:00",
-  "fetched_at": "2026-09-18T21:04+08:00",
-  "title": "中国生猪行业:8月产能去化加速,看好2027年猪价上行周期",
-  "summary": "",
-  "source": "Moomoo",
-  "type": "价格行情",
-  "url": "https://www.moomoo.com/hans/news/post/76425177",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d56a55d3976ca9dfc75b",
-  "date": "2026-09-18",
-  "published_at": "2026-09-18T00:44+08:00",
-  "fetched_at": "2026-09-18T02:51+08:00",
-  "title": "美股讯号 | 阿根廷豆油价格上调,成交量激增665.91% |#美股资讯# #豆油市场# #行业动态#",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1077509076_122132398",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0f0508696adccbec7e99",
-  "date": "2026-09-17",
-  "published_at": "2026-09-17T21:35+08:00",
-  "fetched_at": "2026-09-17T22:45+08:00",
-  "title": "18天9板万向德农发布异动公告:玉米种业市场整体供大于求 行业供需矛盾仍突出",
-  "summary": "9月17日,万向德农(600371.SH)发布股价异动公告,公司主营业务收入高度集中于玉米杂交种,该产品占主营业务收入的比例持续处于较高水平。公司业绩与玉米产业的政策环境及市场行情密切相关,同时也高度依赖自然条件。",
-  "source": "央广财经",
-  "type": "政策与供应",
-  "url": "https://finance.eastmoney.com/a/202609173877582779.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
   ],
   "relevance_score": 12
  }
