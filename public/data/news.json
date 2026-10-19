@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T00:10+08:00",
+ "updated_at": "2026-10-20T05:40+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -9,7 +9,7 @@
   "IndexBox": 3,
   "QQ News": 2,
   "Vietnam.vn": 1,
-  "finance.sina.com.cn": 5,
+  "finance.sina.com.cn": 4,
   "mezha.net": 1,
   "www.caiwennews.com": 1,
   "上海中期期货": 2,
@@ -18,13 +18,13 @@
   "中州期货": 1,
   "中新经纬": 1,
   "农业农村部": 1,
-  "凤凰网": 2,
+  "凤凰网": 3,
   "创元期货": 3,
   "华夏时报": 1,
   "华夏时报网": 1,
   "南华期货": 2,
-  "南方财经网": 15,
-  "同花顺": 5,
+  "南方财经网": 13,
+  "同花顺": 6,
   "同花顺财经": 6,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
@@ -41,7 +41,7 @@
   "搜狐网": 7,
   "新华财经": 2,
   "新浪网": 7,
-  "新浪财经": 35,
+  "新浪财经": 36,
   "时代周报": 1,
   "期货日报": 5,
   "正信期货": 1,
@@ -56,11 +56,10 @@
   "网易新闻客户端": 1,
   "联合早报": 1,
   "虎嗅网": 1,
-  "证券之星": 5,
+  "证券之星": 6,
   "证券日报": 3,
   "证券时报": 2,
   "证券时报网": 1,
-  "财中社": 1,
   "财联社": 5,
   "金十数据": 2
  },
@@ -144,6 +143,44 @@
    "relevance_score": 12
   },
   {
+   "id": "news_7f31c07e85d4384d2a51",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T17:55+08:00",
+   "fetched_at": "2026-10-20T05:40+08:00",
+   "title": "11.11狂欢节抢先囤货,辅酶Q10哪个牌子效果最好?辅酶Q10十大品牌深度梳理原料形态与生物利用度三重门",
+   "summary": "",
+   "source": "凤凰网",
+   "type": "供需动态",
+   "url": "https://baby.ifeng.com/c/8xLzO55qB5y",
+   "company": "",
+   "material_ids": [
+    "COQ10"
+   ],
+   "matched_keywords": [
+    "辅酶q10"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2752bca18dbf1381cbee",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T17:21+08:00",
+   "fetched_at": "2026-10-20T05:40+08:00",
+   "title": "止跌翻红!南北多地跟涨,生猪市场迎来阶段性回暖!",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101vf34",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_9a57140c41c645e4a41a",
    "date": "2026-10-19",
    "published_at": "2026-10-19T17:09+08:00",
@@ -201,6 +238,25 @@
    "relevance_score": 11
   },
   {
+   "id": "news_de63bd92a2839c60bc9b",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T15:30+08:00",
+   "fetched_at": "2026-10-19T18:12+08:00",
+   "title": "10月19日PTA期货收盘下跌1.57%,报6384元_综合资讯",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://futures.stockstar.com/RB2026101900013393.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_5ab9eec54e35621d4395",
    "date": "2026-10-19",
    "published_at": "2026-10-19T13:10+08:00",
@@ -216,6 +272,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_69a315e1c51c14c58f86",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T12:56+08:00",
+   "fetched_at": "2026-10-20T05:40+08:00",
+   "title": "山东猪肉价格接近“20元”,蛋价“9元”,牛羊肉涨价再创年内新高",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://cj.sina.com.cn/articles/view/5426766895/14375e42f00102zk2w",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪肉价格"
    ],
    "relevance_score": 8
   },
@@ -314,25 +389,6 @@
     "pta"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_9017449e76eb9ea73fab",
-   "date": "2026-10-19",
-   "published_at": "2026-10-19T09:09+08:00",
-   "fetched_at": "2026-10-19T18:12+08:00",
-   "title": "生意社2026年10月19日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-19/doc-inivtiqx6954351.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_f40f25d25be29db2ff54",
@@ -1941,6 +1997,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_5bfce3c329a5d3219d77",
+   "date": "2026-10-13",
+   "published_at": "2026-10-13T14:21+08:00",
+   "fetched_at": "2026-10-20T05:40+08:00",
+   "title": "10月USDA大豆月度供需报告解读",
+   "summary": "",
+   "source": "同花顺",
+   "type": "供需动态",
+   "url": "https://m.10jqka.com.cn/20261013/c680629721.shtml",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
    ],
    "relevance_score": 8
   },
@@ -3857,83 +3932,6 @@
     "生猪"
    ],
    "relevance_score": 11
-  },
-  {
-   "id": "news_571ccdea4c46dd9ed956",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T16:21+08:00",
-   "fetched_at": "2026-10-08T22:47+08:00",
-   "title": "克明食品:子公司9月生猪销量同比增54.63%",
-   "summary": "2026年1-9月,兴疆牧歌累计销售生猪56.76万头,较去年同期增长36.25%;累计销售收入4.17亿元,较去年同期下降3.32%。 公告中提到,2026年9月生猪销售数量及1-9月累计销售数量同比上升主要系产能释放所致。",
-   "source": "财中社",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610083889652979.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_a5c28b7479dd33f6470d",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T15:41+08:00",
-   "fetched_at": "2026-10-08T22:47+08:00",
-   "title": "生猪主力合约收跌0.71%",
-   "summary": "南财智讯10月8日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.71%,收盘报10515.0元/吨,日内资金流出3.03亿元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610083889613065.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_40b4117d9fb771a36c67",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T15:40+08:00",
-   "fetched_at": "2026-10-08T22:47+08:00",
-   "title": "玉米主力合约收跌1.46%",
-   "summary": "南财智讯10月8日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌1.46%,收盘报2154.0元/吨,日内资金流出9964.81万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610083889613972.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_750b467936e884489b5b",
-   "date": "2026-10-08",
-   "published_at": "2026-10-08T13:06+08:00",
-   "fetched_at": "2026-10-08T15:06+08:00",
-   "title": "棉花多空博弈等待方向生猪疫病增多出栏积极|新疆维吾尔自治区|棉纱期货|海关总署|中国|猪价",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-08/detail-iniunrrp3922207.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }
