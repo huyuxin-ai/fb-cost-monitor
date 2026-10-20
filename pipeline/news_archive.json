@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_b88b61e9d0a1390e8d09",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T03:19+08:00",
+  "fetched_at": "2026-10-21T03:53+08:00",
+  "title": "光大期货1020热点追踪:生猪延续回落,01合约盘中跌破万点",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-20/detail-inivwcmk0878862.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e913e1d5030136c79714",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T00:40+08:00",
+  "fetched_at": "2026-10-21T03:53+08:00",
+  "title": "猪价骤然“升温”,上涨来了?",
+  "summary": "",
+  "source": "新浪网",
+  "type": "价格行情",
+  "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bfdkk.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_c308f01910ba89431261",
   "date": "2026-10-20",
   "published_at": "2026-10-20T21:00+08:00",
@@ -113,6 +151,26 @@
    "辅酶q10"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_e49f7ff66e6932aaae84",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T16:50+08:00",
+  "fetched_at": "2026-10-21T03:53+08:00",
+  "title": "生猪价格“金九银十”未反弹,行业供需调整或延续至2027年",
+  "summary": "",
+  "source": "虎嗅网",
+  "type": "价格行情",
+  "url": "https://www.huxiu.com/article/4898949.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_69319c2c7017dcb1f62b",
@@ -9621,62 +9679,5 @@
    "棕榈油"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_18939999448ecd64257d",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T16:04+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "【收评】白糖日内上涨0.04% 机构称白糖库存高位,糖价上行动能偏弱",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20260921/c680120841.shtml",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白糖"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7619f8b1441b27767e75",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T15:45+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "生猪主力合约收跌1.49%",
-  "summary": "南财智讯9月21日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.49%,收盘报10940.0元/吨,日内资金流出5748.33万元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609213880002186.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_3b8421f3a03546053141",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T15:45+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "玉米主力合约收跌0.82%",
-  "summary": "南财智讯9月21日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.82%,收盘报2170.0元/吨,日内资金流入28.48万元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609213880003463.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
  }
 ]

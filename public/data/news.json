@@ -1,15 +1,14 @@
 {
- "updated_at": "2026-10-20T23:46+08:00",
+ "updated_at": "2026-10-21T03:53+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
-  "36kr.com": 1,
   "3TRES3": 1,
   "IndexBox": 3,
   "QQ News": 2,
   "Vietnam.vn": 1,
-  "finance.sina.com.cn": 3,
+  "finance.sina.com.cn": 4,
   "www.caiwennews.com": 1,
   "上海中期期货": 2,
   "东方财富": 1,
@@ -38,8 +37,8 @@
   "搜狐": 20,
   "搜狐网": 3,
   "新华财经": 4,
-  "新浪网": 7,
-  "新浪财经": 33,
+  "新浪网": 8,
+  "新浪财经": 31,
   "时代周报": 1,
   "期货日报": 7,
   "正信期货": 1,
@@ -53,7 +52,7 @@
   "第一财经": 4,
   "网易新闻客户端": 1,
   "联合早报": 1,
-  "虎嗅网": 1,
+  "虎嗅网": 2,
   "观点网": 1,
   "证券之星": 6,
   "证券日报": 1,
@@ -64,6 +63,44 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_b88b61e9d0a1390e8d09",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T03:19+08:00",
+   "fetched_at": "2026-10-21T03:53+08:00",
+   "title": "光大期货1020热点追踪:生猪延续回落,01合约盘中跌破万点",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-20/detail-inivwcmk0878862.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e913e1d5030136c79714",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T00:40+08:00",
+   "fetched_at": "2026-10-21T03:53+08:00",
+   "title": "猪价骤然“升温”,上涨来了?",
+   "summary": "",
+   "source": "新浪网",
+   "type": "价格行情",
+   "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bfdkk.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_c308f01910ba89431261",
    "date": "2026-10-20",
@@ -159,6 +196,26 @@
     "菜粕"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_e49f7ff66e6932aaae84",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T16:50+08:00",
+   "fetched_at": "2026-10-21T03:53+08:00",
+   "title": "生猪价格“金九银十”未反弹,行业供需调整或延续至2027年",
+   "summary": "",
+   "source": "虎嗅网",
+   "type": "价格行情",
+   "url": "https://www.huxiu.com/article/4898949.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_69319c2c7017dcb1f62b",
@@ -3875,65 +3932,6 @@
    ],
    "matched_keywords": [
     "核桃"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_895027c2786a71950b1a",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T18:00+08:00",
-   "fetched_at": "2026-10-10T20:54+08:00",
-   "title": "豆粕产量上调压制盘面 棕油短期受宏观拖累调整",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-10/detail-iniutkci2121991.d.html",
-   "company": "",
-   "material_ids": [
-    "P",
-    "M"
-   ],
-   "matched_keywords": [
-    "棕油",
-    "豆粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2db132299917957ded4b",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T17:17+08:00",
-   "fetched_at": "2026-10-11T01:41+08:00",
-   "title": "多重因素推动猪价10月以来小幅反弹",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-09/detail-iniuqiyt7222100.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_82827218d492d5ac3d21",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T14:58+08:00",
-   "fetched_at": "2026-10-10T20:54+08:00",
-   "title": "DHA、EPA 供给被鱼油和微藻' 卡脖子':荣海妍生物想用' 醇合成' 把不饱和脂肪酸的控制点搬到分子构建环节-36氪",
-   "summary": "",
-   "source": "36kr.com",
-   "type": "供需动态",
-   "url": "https://36kr.com/p/4019596838981761",
-   "company": "",
-   "material_ids": [
-    "FISHOIL"
-   ],
-   "matched_keywords": [
-    "鱼油"
    ],
    "relevance_score": 8
   }
