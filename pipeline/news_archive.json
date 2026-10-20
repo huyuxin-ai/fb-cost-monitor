@@ -1,5 +1,160 @@
 [
  {
+  "id": "news_130418f6a8ee827e707b",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T11:44+08:00",
+  "fetched_at": "2026-10-20T13:52+08:00",
+  "title": "【现货】10月20日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261020/c680871672.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_fc34cc58116ee8f16dfb",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T10:23+08:00",
+  "fetched_at": "2026-10-20T13:52+08:00",
+  "title": "生意社2026年10月20日豆油趋势分析:震荡",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261020/c680868399.shtml",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_fd6f9f8fb8304421ca5d",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T10:03+08:00",
+  "fetched_at": "2026-10-20T13:52+08:00",
+  "title": "生意社2026年10月20日棕榈油趋势分析:震荡",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261020/c680867285.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_cecf3ad564d76a00898f",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T09:54+08:00",
+  "fetched_at": "2026-10-20T13:52+08:00",
+  "title": "涨势昙花一现?供需宽松,10月底生猪行情持续磨底?|猪价|全国|动态",
+  "summary": "",
+  "source": "新浪网",
+  "type": "供需动态",
+  "url": "https://video.sina.com.cn/p/finance/2026-10-20/detail-inivvsvt5803048.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_1c11fa8da14042e39e5c",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T09:24+08:00",
+  "fetched_at": "2026-10-20T13:52+08:00",
+  "title": "能化 | 年内PTA供需格局转好 短期PTA价格预计跟随原油价格波动",
+  "summary": "短期瓶片开工率持平,当前生产毛利135左右,加工利润增加,短期瓶片价格预计跟随原料价格波动。 原木 原木价格主力合约收跌至829元/m3,现货端,辐射松原木山东地区报价830元/m3,+0;江苏地区现货价格810元/m3,-10;进口CFR报价在132美元/m3,+2。",
+  "source": "瑞达期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610203900808127.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_639dfdb6dda0063f0efb",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T09:21+08:00",
+  "fetched_at": "2026-10-20T13:52+08:00",
+  "title": "农产品 | 豆粕基差承压 菜粕下行空间有限",
+  "summary": "【玉米】 逻辑东北降雨致收割延后,基层价趋稳,中储粮收购托底,短期偏弱但大跌风险小;华北新粮收割结束品质较好,玉米稳中有涨但反弹受限;南方销区偏弱盘整。",
+  "source": "广发期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610203900800518.html",
+  "company": "",
+  "material_ids": [
+   "M",
+   "RM"
+  ],
+  "matched_keywords": [
+   "豆粕",
+   "菜粕"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_43433d7b5cd2728a034d",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T09:21+08:00",
+  "fetched_at": "2026-10-20T13:52+08:00",
+  "title": "猪价又破10元!期货\"膝斩\"暴跌64%创历史新低,收储今天启动!",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/2553858574/9838ca0e02001fjyg",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_dce2dd1be69f785733d0",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T08:55+08:00",
+  "fetched_at": "2026-10-20T13:52+08:00",
+  "title": "农产品 | 白糖:广西蔗区干旱预警 关注新季开榨情况",
+  "summary": "3、巴西国家商品供应公司(Conab)预计巴西2025/26榨季产糖量为4,420万吨,同比增长0.1%;预计甘蔗乙醇产量同比下降6.9%至273.3亿升;预计甘蔗和玉米的乙醇总产量同比增长0.8%至375亿升。",
+  "source": "混沌天成期货",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610203900630237.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_bfa3d7b0bb09028f2859",
   "date": "2026-10-20",
   "published_at": "2026-10-20T08:45+08:00",
@@ -9517,160 +9672,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_8c2fc5080f44cc09090f",
-  "date": "2026-09-20",
-  "published_at": "2026-09-20T11:49+08:00",
-  "fetched_at": "2026-09-20T13:14+08:00",
-  "title": "【现货】9月20日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260920/c680088745.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f3265aabc0d733695a0b",
-  "date": "2026-09-20",
-  "published_at": "2026-09-20T11:40+08:00",
-  "fetched_at": "2026-09-20T17:59+08:00",
-  "title": "养猪亏损周期长达到一年之久!生猪产能去化周期或接近尾声!",
-  "summary": "",
-  "source": "video.sina.com.cn",
-  "type": "供需动态",
-  "url": "https://video.sina.com.cn/p/finance/2026-09-20/detail-inismvnz1678668.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e7c150bee9ad670925f2",
-  "date": "2026-09-20",
-  "published_at": "2026-09-20T11:12+08:00",
-  "fetched_at": "2026-09-20T13:14+08:00",
-  "title": "“玉”见未来:华北新季玉米价格持续下跌,东北产区如何应对?",
-  "summary": "卓创资讯玉米市场分析师李霞 【导语】8月下旬以来华北和东北地区的玉米价格走势出现明显分化:华北玉米价格因供应增加而下行,东北玉米价格则因减产预期和惜售情绪而反弹。...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpc2578633.shtml",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_2c7fd7406b662582cbd5",
-  "date": "2026-09-20",
-  "published_at": "2026-09-20T11:11+08:00",
-  "fetched_at": "2026-09-20T13:14+08:00",
-  "title": "三季度生猪产能去化加速,四季度或接近尾声",
-  "summary": "卓创资讯生猪市场分析师朱泽坤 【导语】2026年生猪价格低迷,生猪养殖长期处于亏损状态,长期亏损压力下,养殖端于三季度开始加速淘汰母猪出栏...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpe9350585.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_b06f39e35b06152acd48",
-  "date": "2026-09-20",
-  "published_at": "2026-09-20T09:27+08:00",
-  "fetched_at": "2026-09-20T13:14+08:00",
-  "title": "中秋备货力度偏弱,节前猪价或涨幅有限?",
-  "summary": "",
-  "source": "video.sina.com.cn",
-  "type": "供需动态",
-  "url": "https://video.sina.com.cn/p/finance/2026-09-20/detail-inismrfh9387503.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1d76d5bc797a3b3d6b10",
-  "date": "2026-09-20",
-  "published_at": "2026-09-20T05:35+08:00",
-  "fetched_at": "2026-09-20T06:25+08:00",
-  "title": "9月20日猪价:不温不火!猪价涨跌“踩刹车”,中秋在即,新一轮“爆发”上涨来了?",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1078296830_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_62be549cd521201d4984",
-  "date": "2026-09-20",
-  "published_at": "2026-09-20T00:51+08:00",
-  "fetched_at": "2026-09-20T01:50+08:00",
-  "title": "双节将至,生猪集中备货幅度大!猪价仍有上涨空间!",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-20/doc-iniskyim2013629.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b62ae59d583e2922f72e",
-  "date": "2026-09-20",
-  "published_at": "2026-09-20T00:23+08:00",
-  "fetched_at": "2026-09-20T13:14+08:00",
-  "title": "国产鱼油要不要有偏见?元素力鱼油从秘鲁原料和IFOS资料说明- 进展专区",
-  "summary": "",
-  "source": "生物谷",
-  "type": "供需动态",
-  "url": "https://news.bioon.com/article/7fab952262b6.html",
-  "company": "",
-  "material_ids": [
-   "FISHOIL"
-  ],
-  "matched_keywords": [
-   "鱼油"
   ],
   "relevance_score": 8
  }

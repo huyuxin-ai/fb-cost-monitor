@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T08:57+08:00",
+ "updated_at": "2026-10-20T13:52+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -13,10 +13,9 @@
   "www.caiwennews.com": 1,
   "上海中期期货": 2,
   "东方财富": 1,
-  "中华网": 9,
+  "中华网": 8,
   "中国产业经济信息网": 1,
   "中州期货": 1,
-  "中新经纬": 1,
   "农业农村部": 1,
   "凤凰网": 3,
   "创元期货": 3,
@@ -24,15 +23,15 @@
   "华夏时报网": 1,
   "南华期货": 2,
   "南方财经网": 13,
-  "同花顺": 6,
-  "同花顺财经": 6,
+  "同花顺": 9,
+  "同花顺财经": 5,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
   "国际果蔬报道": 1,
   "国际金融报": 1,
-  "央广财经": 1,
   "央视财经": 1,
   "币界网": 1,
+  "广发期货": 1,
   "广州期货": 1,
   "手机新浪网": 1,
   "手机网易网": 1,
@@ -41,15 +40,16 @@
   "搜狐网": 6,
   "新华财经": 3,
   "新浪网": 7,
-  "新浪财经": 38,
+  "新浪财经": 37,
   "时代周报": 1,
-  "期货日报": 9,
+  "期货日报": 8,
   "正信期货": 1,
   "每日经济新闻": 5,
   "汇通网 Fx678": 2,
   "深圳商报·读创": 1,
+  "混沌天成期货": 1,
   "澎湃新闻": 1,
-  "瑞达期货": 2,
+  "瑞达期货": 3,
   "申银万国期货": 2,
   "界面新闻": 2,
   "第一财经": 4,
@@ -64,6 +64,161 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_130418f6a8ee827e707b",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T11:44+08:00",
+   "fetched_at": "2026-10-20T13:52+08:00",
+   "title": "【现货】10月20日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261020/c680871672.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_fc34cc58116ee8f16dfb",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T10:23+08:00",
+   "fetched_at": "2026-10-20T13:52+08:00",
+   "title": "生意社2026年10月20日豆油趋势分析:震荡",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261020/c680868399.shtml",
+   "company": "",
+   "material_ids": [
+    "Y"
+   ],
+   "matched_keywords": [
+    "豆油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_fd6f9f8fb8304421ca5d",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T10:03+08:00",
+   "fetched_at": "2026-10-20T13:52+08:00",
+   "title": "生意社2026年10月20日棕榈油趋势分析:震荡",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261020/c680867285.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_cecf3ad564d76a00898f",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T09:54+08:00",
+   "fetched_at": "2026-10-20T13:52+08:00",
+   "title": "涨势昙花一现?供需宽松,10月底生猪行情持续磨底?|猪价|全国|动态",
+   "summary": "",
+   "source": "新浪网",
+   "type": "供需动态",
+   "url": "https://video.sina.com.cn/p/finance/2026-10-20/detail-inivvsvt5803048.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1c11fa8da14042e39e5c",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T09:24+08:00",
+   "fetched_at": "2026-10-20T13:52+08:00",
+   "title": "能化 | 年内PTA供需格局转好 短期PTA价格预计跟随原油价格波动",
+   "summary": "短期瓶片开工率持平,当前生产毛利135左右,加工利润增加,短期瓶片价格预计跟随原料价格波动。 原木 原木价格主力合约收跌至829元/m3,现货端,辐射松原木山东地区报价830元/m3,+0;江苏地区现货价格810元/m3,-10;进口CFR报价在132美元/m3,+2。",
+   "source": "瑞达期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610203900808127.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_639dfdb6dda0063f0efb",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T09:21+08:00",
+   "fetched_at": "2026-10-20T13:52+08:00",
+   "title": "农产品 | 豆粕基差承压 菜粕下行空间有限",
+   "summary": "【玉米】 逻辑东北降雨致收割延后,基层价趋稳,中储粮收购托底,短期偏弱但大跌风险小;华北新粮收割结束品质较好,玉米稳中有涨但反弹受限;南方销区偏弱盘整。",
+   "source": "广发期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610203900800518.html",
+   "company": "",
+   "material_ids": [
+    "M",
+    "RM"
+   ],
+   "matched_keywords": [
+    "豆粕",
+    "菜粕"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_43433d7b5cd2728a034d",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T09:21+08:00",
+   "fetched_at": "2026-10-20T13:52+08:00",
+   "title": "猪价又破10元!期货\"膝斩\"暴跌64%创历史新低,收储今天启动!",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://cj.sina.cn/articles/view/2553858574/9838ca0e02001fjyg",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_dce2dd1be69f785733d0",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T08:55+08:00",
+   "fetched_at": "2026-10-20T13:52+08:00",
+   "title": "农产品 | 白糖:广西蔗区干旱预警 关注新季开榨情况",
+   "summary": "3、巴西国家商品供应公司(Conab)预计巴西2025/26榨季产糖量为4,420万吨,同比增长0.1%;预计甘蔗乙醇产量同比下降6.9%至273.3亿升;预计甘蔗和玉米的乙醇总产量同比增长0.8%至375亿升。",
+   "source": "混沌天成期货",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202610203900630237.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "白糖"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_bfa3d7b0bb09028f2859",
    "date": "2026-10-20",
@@ -3774,163 +3929,6 @@
    "matched_keywords": [
     "食糖",
     "原糖"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_a365741210b5219ca6a7",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T11:46+08:00",
-   "fetched_at": "2026-10-09T15:49+08:00",
-   "title": "【现货】10月9日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261009/c680513899.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9562d3123b505751daca",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T11:32+08:00",
-   "fetched_at": "2026-10-09T15:49+08:00",
-   "title": "10月9日全国生猪价格一览 市场震荡调整",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://news.china.com/socialgd/10000169/20261009/49784294.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_ebfdd130e34490920297",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T10:41+08:00",
-   "fetched_at": "2026-10-09T15:49+08:00",
-   "title": "港股异动丨乳制品股普涨,蒙牛涨2.5%,飞鹤涨1.7%,里昂、银河齐看好原奶价格复苏",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-09/doc-iniuquqf7271400.shtml",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶",
-    "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_60f051208811b265d6f4",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T09:58+08:00",
-   "fetched_at": "2026-10-09T15:49+08:00",
-   "title": "生意社2026年10月9日涤纶短纤趋势分析:明确上涨",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-09/doc-iniuquqp7042672.shtml",
-   "company": "",
-   "material_ids": [
-    "PF"
-   ],
-   "matched_keywords": [
-    "涤纶短纤"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_bc97c6aa29426a50d57a",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T09:52+08:00",
-   "fetched_at": "2026-10-09T15:49+08:00",
-   "title": "国家统计局发布9月下旬生产资料价格监测数据 外三元生猪价格环比降3.7%",
-   "summary": "其中,外三元生猪当期报价为10.3元/千克,环比下降3.7%。(央广财经)",
-   "source": "央广财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610093891214943.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_9d0efc5fbeed134e7a3c",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T09:38+08:00",
-   "fetched_at": "2026-10-09T15:49+08:00",
-   "title": "国家统计局:9月下旬生猪价格环比跌3.7%",
-   "summary": "具体看,农产品方面,生猪(外三元)本期价格为10.3元/千克,环比下跌3.7%;玉米(黄玉米二等)本期吨价2166.3元,环比下跌2%;豆粕(粗蛋白含量≥43%)本期吨价3371.1元,环比下跌0.1%。",
-   "source": "中新经纬",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610093891201982.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_f596e53cdae12e29f0ea",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T09:33+08:00",
-   "fetched_at": "2026-10-09T23:04+08:00",
-   "title": "节后猪价或延续不温不火,四季度上涨前景或不及预期?|行情|生猪价格|生猪|全国",
-   "summary": "",
-   "source": "新浪网",
-   "type": "价格行情",
-   "url": "https://video.sina.com.cn/p/finance/2026-10-09/detail-iniuqqhi7301479.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_37024d0272ad3d1237a0",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T09:32+08:00",
-   "fetched_at": "2026-10-09T15:49+08:00",
-   "title": "供应增加、需求欠佳 PTA价格上涨持续性存疑",
-   "summary": "聚酯终端订单不足 PTA价格重心的抬升未能有效向下游聚酯行业传导,导致聚酯行业大面积亏损。截至9月30日,除涤纶工业丝利润良好、涤纶长丝POY(预取向丝)处于盈亏平衡线附近之外,其他产品均处于亏损状态,其中涤纶短纤亏损高达800元/吨。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610093890529758.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
    ],
    "relevance_score": 12
   }
