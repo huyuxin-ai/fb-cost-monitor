@@ -58,6 +58,44 @@
   "relevance_score": 8
  },
  {
+  "id": "news_ea2438ca0c4294a7eec4",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T18:30+08:00",
+  "fetched_at": "2026-10-20T23:46+08:00",
+  "title": "供应持续宽松,菜籽粕跌超3%",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivwpzf7688630.shtml",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜籽粕"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f3367b210551bc7dd363",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T17:22+08:00",
+  "fetched_at": "2026-10-20T23:46+08:00",
+  "title": "商品日报(10月20日):集运欧线大跌 菜粕增仓下行",
+  "summary": "此外,虽然目前豆菜粕价差再次走扩至1000元/吨附近,菜粕之于豆粕的需求替代似有受阻,但当下二者库存水平分化,后续进口大豆到港及压榨居高不下,二者累库程度或将进一步拉开差距,价差仍有再次缩窄空间。",
+  "source": "新华财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610203901607748.html",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜粕"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_f1112c824b8ddd5c7e85",
   "date": "2026-10-20",
   "published_at": "2026-10-20T17:21+08:00",
@@ -9640,44 +9678,5 @@
    "玉米"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_28ac3c71b4c797c86b56",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T15:25+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "猪价拐点或在春节前后?8月肉猪成本跌破6元/斤!温氏股份半年亏损43.7亿元、借款激增91亿元",
-  "summary": "针对投资者关于“如何看待当前生猪行业所处周期阶段及后续猪价走势”的问题,公司方面表示,猪价已持续低迷较长时间。对于周期反转的具体时点与幅度,产业端和市场端存在一定分歧,初步预计春节前后猪价有望迎来盘整拐点。",
-  "source": "深圳商报·读创",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609213879988768.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_0df4453883a0e0e5f131",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T15:20+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "期市收评 | 商品期货涨多跌少 纸浆领涨期市",
-  "summary": "(证券时报) 农产品期货 生猪:据农业农村部监测,截至9月21日14:00时,全国农产品批发市场猪肉平均价格为16.27元/公斤,较前一日下降0.4%;鸡蛋平均价格为11.17元/公斤,较前一日下降0.4%。",
-  "source": "东方财富研究中心",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609213879984131.html",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
-  ],
-  "relevance_score": 8
  }
 ]

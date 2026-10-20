@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T21:44+08:00",
+ "updated_at": "2026-10-20T23:46+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -36,10 +36,10 @@
   "手机网易网": 1,
   "挖贝网": 1,
   "搜狐": 20,
-  "搜狐网": 4,
-  "新华财经": 3,
+  "搜狐网": 3,
+  "新华财经": 4,
   "新浪网": 7,
-  "新浪财经": 32,
+  "新浪财经": 33,
   "时代周报": 1,
   "期货日报": 7,
   "正信期货": 1,
@@ -47,7 +47,6 @@
   "汇通网 Fx678": 1,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
-  "澎湃新闻": 1,
   "瑞达期货": 3,
   "申银万国期货": 2,
   "界面新闻": 2,
@@ -122,6 +121,44 @@
     "生猪"
    ],
    "relevance_score": 8
+  },
+  {
+   "id": "news_ea2438ca0c4294a7eec4",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T18:30+08:00",
+   "fetched_at": "2026-10-20T23:46+08:00",
+   "title": "供应持续宽松,菜籽粕跌超3%",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivwpzf7688630.shtml",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜籽粕"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_f3367b210551bc7dd363",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T17:22+08:00",
+   "fetched_at": "2026-10-20T23:46+08:00",
+   "title": "商品日报(10月20日):集运欧线大跌 菜粕增仓下行",
+   "summary": "此外,虽然目前豆菜粕价差再次走扩至1000元/吨附近,菜粕之于豆粕的需求替代似有受阻,但当下二者库存水平分化,后续进口大豆到港及压榨居高不下,二者累库程度或将进一步拉开差距,价差仍有再次缩窄空间。",
+   "source": "新华财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610203901607748.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 12
   },
   {
    "id": "news_69319c2c7017dcb1f62b",
@@ -3899,46 +3936,6 @@
     "鱼油"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_e171208d2b2fb94af640",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T14:14+08:00",
-   "fetched_at": "2026-10-10T20:54+08:00",
-   "title": "USDA维持新年度大豆油生物燃料需求预测",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "供需动态",
-   "url": "https://m.sohu.com/a/1085955353_121123885",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油",
-    "大豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_3941c935631e9c6df639",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T14:04+08:00",
-   "fetched_at": "2026-10-10T14:14+08:00",
-   "title": "价格周报|本周猪价先涨后跌,周均价环比上涨",
-   "summary": "据农业农村部监测,10月9日,全国农产品批发市场猪肉平均价格为16.04元/公斤,与节前9月30日的16.42元/公斤相比,下降2.3%。本周的平均价格为16.07元/公斤,与上周16.37元/公斤的均价相比,下降1.8%。 本周国内生猪价格先涨后降,周均价环比上涨。",
-   "source": "澎湃新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610103891898374.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
   }
  ]
 }
