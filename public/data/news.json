@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T13:52+08:00",
+ "updated_at": "2026-10-20T19:07+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -13,39 +13,39 @@
   "www.caiwennews.com": 1,
   "上海中期期货": 2,
   "东方财富": 1,
+  "东方财富研究中心": 1,
   "中华网": 8,
   "中国产业经济信息网": 1,
   "中州期货": 1,
-  "农业农村部": 1,
-  "凤凰网": 3,
+  "农业农村部": 2,
+  "凤凰网": 2,
   "创元期货": 3,
   "华夏时报": 1,
   "华夏时报网": 1,
   "南华期货": 2,
-  "南方财经网": 13,
-  "同花顺": 9,
+  "南方财经网": 15,
+  "同花顺": 14,
   "同花顺财经": 5,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
   "国际果蔬报道": 1,
   "国际金融报": 1,
-  "央视财经": 1,
   "币界网": 1,
   "广发期货": 1,
   "广州期货": 1,
   "手机新浪网": 1,
   "手机网易网": 1,
   "挖贝网": 1,
-  "搜狐": 18,
-  "搜狐网": 6,
+  "搜狐": 20,
+  "搜狐网": 4,
   "新华财经": 3,
   "新浪网": 7,
-  "新浪财经": 37,
+  "新浪财经": 32,
   "时代周报": 1,
   "期货日报": 8,
   "正信期货": 1,
-  "每日经济新闻": 5,
-  "汇通网 Fx678": 2,
+  "每日经济新闻": 4,
+  "汇通网 Fx678": 1,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
   "澎湃新闻": 1,
@@ -56,14 +56,309 @@
   "网易新闻客户端": 1,
   "联合早报": 1,
   "虎嗅网": 1,
+  "观点网": 1,
   "证券之星": 6,
   "证券日报": 1,
   "证券时报": 2,
   "证券时报网": 1,
-  "财联社": 5,
+  "财联社": 4,
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_69319c2c7017dcb1f62b",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T16:29+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "菜粕:加菜籽收割压力突显,郑菜粕供需预期切换",
+   "summary": "来源:广发期货研究 证监许可【2011】1292号 | 朱迪 Z0015979 | 2026年10月20日 星期二 行情导读:今日郑州菜粕主力合约(RM2701)大幅下跌,日内跌超80元/吨,跌幅超3...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-20/doc-inivwith0884961.shtml",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_7a8a3f76d2561e95fe82",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T16:26+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "商品期货10月20日收盘 集运欧线主力跌近8% 菜籽粕、生猪跌超3%",
+   "summary": "",
+   "source": "观点网",
+   "type": "价格行情",
+   "url": "https://www.guandian.cn/article/20261020/615500.html",
+   "company": "",
+   "material_ids": [
+    "RM",
+    "LH"
+   ],
+   "matched_keywords": [
+    "菜籽粕",
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1795a84a14f5ffec534a",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T16:23+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "玉米市场或迎涨价机会 供需博弈加剧",
+   "summary": "",
+   "source": "中华网",
+   "type": "价格行情",
+   "url": "https://3g.china.com/act/redian/13004758/20261020/49805694.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1019a392cc9fe006d12c",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:55+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "10月第2周生猪定点屠宰企业生猪收购和白条肉出厂价格情况",
+   "summary": "据农业农村部监测,2026年10月5-11日,生猪定点屠宰企业生猪平均收购价格为11.75元/公斤,环比下降0.6%,同比下降12.6%。白条肉平均出厂价格为15.44元/公斤,环比下降0.7%,同比下降12.2%。",
+   "source": "农业农村部",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610203901305024.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_898fa2fcfa2f7bfa2cd9",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:41+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "生猪主力合约收跌3.15%",
+   "summary": "南财智讯10月20日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌3.15%,收盘报9995.0元/吨,日内资金流入2.88亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610203901341652.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_708ce85ac94acef6b117",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:40+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "玉米主力合约收涨0.09%",
+   "summary": "南财智讯10月20日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.09%,收盘报2191.0元/吨,日内资金流入1.02亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610203901341854.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_c390774161f69557cd10",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:38+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "【收评】棕榈油日内上涨0.98% 机构称印度9月棕榈油进口量增4.5%至81.8万吨",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261020/c680878050.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_c2a3a984b052a26eb258",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:38+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "【收评】豆油日内上涨0.28% 机构称油脂冲高回落,棕榈油表现强于豆油",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261020/c680877811.shtml",
+   "company": "",
+   "material_ids": [
+    "P",
+    "Y"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "豆油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_6cf5e3bcca966a1705d6",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:38+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "【期权排行榜】热门商品期权合约涨幅TOP10:生猪2611沽9400大涨1200.0%勇夺榜首",
+   "summary": "",
+   "source": "同花顺",
+   "type": "供需动态",
+   "url": "https://m.10jqka.com.cn/20261020/c680877961.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1e717004c6baa815adfd",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:25+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "【收评】菜油日内下跌0.29% 机构称油脂冲高回落,棕榈油表现强于豆油",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261020/c680877905.shtml",
+   "company": "",
+   "material_ids": [
+    "P",
+    "Y",
+    "OI"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "豆油",
+    "菜油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_21cf28f3a41692253cc3",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:20+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "期市收评 | 商品期货多数下跌 菜粕跌幅居前",
+   "summary": "(Mysteel) 农产品期货 生猪:截至10月14日,全国生猪出场价格为10.45元/公斤,较9月30日下跌2.43%;主要批发市场玉米价格为2.38元/公斤,较9月30日下跌0.83%;猪粮比价为4.39,较9月30日下跌1.57%。",
+   "source": "东方财富研究中心",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610203901286449.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7caa4b52b86cbef030fc",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:19+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "跌了,猪价“报复性”下跌!附:10月21日猪价",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1090137152_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_a81e8351b0cf75341d17",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:13+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "【收评】纸浆日内下跌0.93% 机构称纸浆-胶版纸:现货行情再度下跌",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261020/c680877464.shtml",
+   "company": "",
+   "material_ids": [
+    "SP"
+   ],
+   "matched_keywords": [
+    "纸浆"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_736fcf9b6f6243cb063e",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T14:50+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "光大期货1020热点追踪:生猪延续回落,01合约盘中跌破万点",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-20/doc-inivwcmk0878862.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_3427a3d307232f7fb04c",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T12:13+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "原奶价格同比连跌53个月后转正,奶农扭亏了吗?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1090101013_121332524",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_130418f6a8ee827e707b",
    "date": "2026-10-20",
@@ -1864,6 +2159,26 @@
    "relevance_score": 11
   },
   {
+   "id": "news_8433db7b4e80f62a93f4",
+   "date": "2026-10-14",
+   "published_at": "2026-10-14T15:00+08:00",
+   "fetched_at": "2026-10-20T19:07+08:00",
+   "title": "乳清蛋白成本飙升 蛋白粉集体涨价",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://cj.sina.cn/articles/view/1750070171/684ff39b04001i5ey",
+   "company": "",
+   "material_ids": [
+    "WPC34",
+    "WPC80"
+   ],
+   "matched_keywords": [
+    "乳清蛋白"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_5062f6b9668772e12ba4",
    "date": "2026-10-14",
    "published_at": "2026-10-14T13:32+08:00",
@@ -3622,315 +3937,6 @@
     "核桃"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_ea8c5b326c0f4c0d0e26",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T09:46+08:00",
-   "fetched_at": "2026-10-11T05:19+08:00",
-   "title": "需求增量有限压制原纸 纸浆供给收缩静待旺季",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "供需动态",
-   "url": "https://m.sohu.com/a/1085831077_122014422/?pvid=000115_3w_a",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9bce2dd219a09e070a7e",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T09:29+08:00",
-   "fetched_at": "2026-10-10T14:14+08:00",
-   "title": "生意社2026年10月10日涤纶短纤趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-10/doc-iniusxpp6210546.shtml",
-   "company": "",
-   "material_ids": [
-    "PF"
-   ],
-   "matched_keywords": [
-    "涤纶短纤"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_75c4be865688ddb44dd5",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T09:07+08:00",
-   "fetched_at": "2026-10-10T14:14+08:00",
-   "title": "生意社2026年10月10日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-10/doc-iniusxpp2247936.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_0f607faf5849299b4fea",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T07:47+08:00",
-   "fetched_at": "2026-10-10T08:13+08:00",
-   "title": "10月10日猪价:突然升温,多地猪价“雷霆”上涨!新一轮“涨价潮”来了?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1085679029_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5cf23edff3e8ccb273ed",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T07:10+08:00",
-   "fetched_at": "2026-10-10T08:13+08:00",
-   "title": "CBOT农产品期货主力合约收盘多数下跌,玉米期货跌3.95%",
-   "summary": "当地时间10月9日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货涨0.37%报1292.25美分/蒲式耳,玉米期货跌3.95%报480.50美分/蒲式耳,小麦期货跌1.83%报670.75美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610103891650031.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_e71cc8d910a21b1b8501",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T07:03+08:00",
-   "fetched_at": "2026-10-10T08:13+08:00",
-   "title": "美国农业部预计期末大豆库存3.15亿蒲式耳",
-   "summary": "观点网讯:10月9日,美国农业部预计期末大豆库存3.15亿蒲式耳,分析师预期3.0880亿蒲式耳,USDA之前预计3.10亿蒲式耳。",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/stock/estate/integration/2026-10-10/doc-iniustfr2340351.shtml",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_c4be6759afcc3cbedd40",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T00:13+08:00",
-   "fetched_at": "2026-10-10T04:14+08:00",
-   "title": "美玉米期货在USDA上调作物产量预测后下跌4.8%",
-   "summary": "美玉米期货在USDA上调作物产量预测后下跌4.8%。",
-   "source": "财联社",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610103891601279.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_8825da99a6368ff3eacc",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T22:25+08:00",
-   "fetched_at": "2026-10-08T15:06+08:00",
-   "title": "大幅反弹条件不足,短期生猪市场以弱势震荡为主",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-08/detail-iniumqct7932899.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5aafa9df278685ed51b4",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T20:31+08:00",
-   "fetched_at": "2026-10-09T23:04+08:00",
-   "title": "棕榈油承压回落,出口关税豁免落空后市场重新审视供需_外汇动态报道",
-   "summary": "",
-   "source": "汇通网 Fx678",
-   "type": "价格行情",
-   "url": "https://www.fx678.com/202610092031002289.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9292dcfc986b93b3ab7e",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T19:24+08:00",
-   "fetched_at": "2026-10-09T23:04+08:00",
-   "title": "果葡糖浆不是水果做的 果葡糖浆价格仅白砂糖一半",
-   "summary": "专家介绍,白砂糖主要成分为蔗糖,取自甘蔗、甜菜;果葡糖浆原料是玉米淀粉、木薯淀粉,并非水果制作。越来越多食品开始添加果葡糖浆,主要是从成本考虑:“同等重量,果葡糖浆的价格约是白砂糖的一半;同等甜度,果葡糖浆每吨价格比白砂糖便宜2000多元。”",
-   "source": "央视财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610093891393020.html",
-   "company": "",
-   "material_ids": [
-    "SR",
-    "SP"
-   ],
-   "matched_keywords": [
-    "白砂糖",
-    "浆价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_c77b60b52d036d6839f6",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T17:52+08:00",
-   "fetched_at": "2026-10-09T23:04+08:00",
-   "title": "猪价节后下跌,10月供需双增 市场窄幅拉锯",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://news.china.com/socialgd/10000169/20261009/49785214.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c420ee483a2c6896f6ea",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T17:30+08:00",
-   "fetched_at": "2026-10-10T14:14+08:00",
-   "title": "生猪市场供给周期拐点何时到来?",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.cn/2026-10-05/detail-iniueeui6405161.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_532f9526b2ba7a88ede3",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T16:53+08:00",
-   "fetched_at": "2026-10-15T04:04+08:00",
-   "title": "双十一预售开启丨养护血管哪个牌子辅酶q10最好?2026辅酶Q10专业选购参考,从原料形态剂量到十大品牌口碑完整梳理",
-   "summary": "",
-   "source": "凤凰网",
-   "type": "供需动态",
-   "url": "https://baby.ifeng.com/c/8x5KL0rnEZl",
-   "company": "",
-   "material_ids": [
-    "COQ10"
-   ],
-   "matched_keywords": [
-    "辅酶q10"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_55f7b62f87db6cabee80",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T16:31+08:00",
-   "fetched_at": "2026-10-09T15:49+08:00",
-   "title": "全国生猪价格较国庆假期前小幅反弹|猪肉价格|国庆节|生猪市场|三元|数据",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/stock/estate/2026-10-09/detail-iniuqqhm4051680.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价",
-    "猪肉价格"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fdc72cf06ae893695fb3",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T15:26+08:00",
-   "fetched_at": "2026-10-09T23:04+08:00",
-   "title": "国内供应宽松 豆粕期货仍有下行压力",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-09/doc-iniurmnk1032726.shtml",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f2d1b6ab9d79b6b6e1dd",
-   "date": "2026-10-09",
-   "published_at": "2026-10-09T13:53+08:00",
-   "fetched_at": "2026-10-09T15:49+08:00",
-   "title": "期糖冲高突遭抛售!极端天气连番轰炸,全球食糖供应链将迎超级风暴?",
-   "summary": "来源:金十数据 据报道,原糖在触及19个月新高后,受短期获利了结盘打压出现回落。然而,随着巴西恶劣天气导致供应前景趋紧,其核心基本面依然保持建设性。",
-   "source": "新浪财经",
-   "type": "政策与供应",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-09/doc-iniurfep7820492.shtml",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "食糖",
-    "原糖"
-   ],
-   "relevance_score": 12
   }
  ]
 }
