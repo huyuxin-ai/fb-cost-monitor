@@ -1,5 +1,63 @@
 [
  {
+  "id": "news_c308f01910ba89431261",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T21:00+08:00",
+  "fetched_at": "2026-10-20T21:44+08:00",
+  "title": "生猪期价跌破1万元/吨 交易所提示风险",
+  "summary": "如果四季度行业延续亏损,行业或进入超量去库阶段,预计2027年二季度后行业供给水平将逐步下降,届时猪价有望迎来修复。",
+  "source": "期货日报",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610203901537868.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_dd63e9fef75f9d0f5bd9",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T19:37+08:00",
+  "fetched_at": "2026-10-20T21:44+08:00",
+  "title": "近期生猪品种价格波动较大 大商所发布市场风险提示函",
+  "summary": "10月20日,据大商所公告,近期生猪品种价格波动较大。请各会员单位切实加强投资者教育和风险防范工作,提醒投资者理性参与,合规交易。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610203901484233.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a98b6dbc67f95bdc7a50",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T19:26+08:00",
+  "fetched_at": "2026-10-20T21:44+08:00",
+  "title": "今年出口近11万只生猪 养猪业为砂带来1.58亿收入",
+  "summary": "",
+  "source": "诗华日报",
+  "type": "供需动态",
+  "url": "https://news.seehua.com/post/1586893/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_f1112c824b8ddd5c7e85",
   "date": "2026-10-20",
   "published_at": "2026-10-20T17:21+08:00",
@@ -184,6 +242,25 @@
   "source": "同花顺",
   "type": "供需动态",
   "url": "https://m.10jqka.com.cn/20261020/c680877961.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0a11dcaf6ec107644176",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T15:38+08:00",
+  "fetched_at": "2026-10-20T21:44+08:00",
+  "title": "【收评】生猪日内下跌3.15% 机构称生猪短期或继续承压运行",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261020/c680877951.shtml",
   "company": "",
   "material_ids": [
    "LH"
@@ -619,6 +696,26 @@
   ],
   "matched_keywords": [
    "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_480a9081f74a5d402012",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T00:04+08:00",
+  "fetched_at": "2026-10-20T21:44+08:00",
+  "title": "这轮反弹“昙花一现”,生猪价格再次转跌!",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivuvsc6023175.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
   ],
   "relevance_score": 8
  },
@@ -9580,102 +9677,6 @@
   ],
   "matched_keywords": [
    "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_bb805f726fec9e24d900",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T15:19+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "【收评】淀粉日内下跌0.41% 机构称供需宽松格局强化,玉米及淀粉短期价格承压",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20260921/c680120677.shtml",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f9b6a99381e91aa4e915",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T15:13+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "期货收评:原油暴跌超4%!纸浆、碳酸锂强势上扬 商品多空分化",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/tapp/news/share/680120325/",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_deff18ac392162c9a09a",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T14:54+08:00",
-  "fetched_at": "2026-09-21T23:15+08:00",
-  "title": "09月21日猪评:旺季不旺、节前不涨,猪价承压下行背后谁在“砸盘”?",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101uk2i",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0337323c1431b6d7e1c6",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T13:13+08:00",
-  "fetched_at": "2026-09-21T14:53+08:00",
-  "title": "农业农村部:9月第3周生猪和猪肉价格窄幅波动",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-09-21/detail-inispync2195758.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪肉价格"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fc59c1686e18b3595581",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T11:53+08:00",
-  "fetched_at": "2026-09-21T14:53+08:00",
-  "title": "【现货】9月21日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260921/c680114777.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
   ],
   "relevance_score": 8
  }

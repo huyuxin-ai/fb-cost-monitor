@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T19:07+08:00",
+ "updated_at": "2026-10-20T21:44+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -24,11 +24,10 @@
   "华夏时报网": 1,
   "南华期货": 2,
   "南方财经网": 15,
-  "同花顺": 14,
-  "同花顺财经": 5,
+  "同花顺": 15,
+  "同花顺财经": 4,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
-  "国际果蔬报道": 1,
   "国际金融报": 1,
   "币界网": 1,
   "广发期货": 1,
@@ -42,9 +41,9 @@
   "新浪网": 7,
   "新浪财经": 32,
   "时代周报": 1,
-  "期货日报": 8,
+  "期货日报": 7,
   "正信期货": 1,
-  "每日经济新闻": 4,
+  "每日经济新闻": 5,
   "汇通网 Fx678": 1,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
@@ -61,10 +60,69 @@
   "证券日报": 1,
   "证券时报": 2,
   "证券时报网": 1,
+  "诗华日报": 1,
   "财联社": 4,
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_c308f01910ba89431261",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T21:00+08:00",
+   "fetched_at": "2026-10-20T21:44+08:00",
+   "title": "生猪期价跌破1万元/吨 交易所提示风险",
+   "summary": "如果四季度行业延续亏损,行业或进入超量去库阶段,预计2027年二季度后行业供给水平将逐步下降,届时猪价有望迎来修复。",
+   "source": "期货日报",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202610203901537868.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_dd63e9fef75f9d0f5bd9",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T19:37+08:00",
+   "fetched_at": "2026-10-20T21:44+08:00",
+   "title": "近期生猪品种价格波动较大 大商所发布市场风险提示函",
+   "summary": "10月20日,据大商所公告,近期生猪品种价格波动较大。请各会员单位切实加强投资者教育和风险防范工作,提醒投资者理性参与,合规交易。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610203901484233.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_a98b6dbc67f95bdc7a50",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T19:26+08:00",
+   "fetched_at": "2026-10-20T21:44+08:00",
+   "title": "今年出口近11万只生猪 养猪业为砂带来1.58亿收入",
+   "summary": "",
+   "source": "诗华日报",
+   "type": "供需动态",
+   "url": "https://news.seehua.com/post/1586893/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_69319c2c7017dcb1f62b",
    "date": "2026-10-20",
@@ -231,6 +289,25 @@
    "source": "同花顺",
    "type": "供需动态",
    "url": "https://m.10jqka.com.cn/20261020/c680877961.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_0a11dcaf6ec107644176",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T15:38+08:00",
+   "fetched_at": "2026-10-20T21:44+08:00",
+   "title": "【收评】生猪日内下跌3.15% 机构称生猪短期或继续承压运行",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261020/c680877951.shtml",
    "company": "",
    "material_ids": [
     "LH"
@@ -666,6 +743,26 @@
    ],
    "matched_keywords": [
     "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_480a9081f74a5d402012",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T00:04+08:00",
+   "fetched_at": "2026-10-20T21:44+08:00",
+   "title": "这轮反弹“昙花一现”,生猪价格再次转跌!",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivuvsc6023175.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -3842,101 +3939,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_7fa75db609f63cf88ec6",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T14:03+08:00",
-   "fetched_at": "2026-10-10T08:13+08:00",
-   "title": "美国农业部意外上调玉米产量预估 美玉米一度跌超6%",
-   "summary": "受此影响,美玉米期货价格盘中一度下跌6%,触及470.25美分/蒲式耳,创8月11日以来最低水平,随后跌幅有所收窄。 值得注意的是,目前美国玉米收割进度仅完成约四分之一,后续产量估值仍存在调整空间。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610103891897463.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_e53f5425b4e7ca1a6d72",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T12:45+08:00",
-   "fetched_at": "2026-10-11T01:41+08:00",
-   "title": "猪价“跌跌不止”背后:集团增量、二育观望、冻品32%,10月还有救吗?|出栏|母猪|散户|反弹|价格",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-10/detail-iniusakc7727766.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_4036427ab031a3e1ec48",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T12:35+08:00",
-   "fetched_at": "2026-10-10T14:14+08:00",
-   "title": "美玉米期货盘中突然大跌!“多头猝不及防”!一则消息引发?",
-   "summary": "大家好,来关注下玉米期货。 当地时间10月9日,美国农业部将本年度玉米产量预估上调至约160亿蒲式耳,较上月增加1%。 这一结果与彭博调查分析师预测的157.3亿蒲式耳相比偏高,与大多数分析师此前预期的下调产量形成鲜明反差。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610103891882846.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2a59829e2fcf13f989af",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T11:42+08:00",
-   "fetched_at": "2026-10-10T14:14+08:00",
-   "title": "【现货】10月10日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261010/c680548581.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8c0ffd1c858743822045",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T10:07+08:00",
-   "fetched_at": "2026-10-10T14:14+08:00",
-   "title": "国产核桃丰产上市,产区价格分化加剧",
-   "summary": "",
-   "source": "国际果蔬报道",
-   "type": "价格行情",
-   "url": "https://m.guojiguoshu.com/article/11336",
-   "company": "",
-   "material_ids": [
-    "WALNUT"
-   ],
-   "matched_keywords": [
-    "核桃"
-   ],
-   "relevance_score": 8
   }
  ]
 }
