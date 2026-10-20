@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_e497995093edd75597ad",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T05:59+08:00",
+  "fetched_at": "2026-10-21T07:01+08:00",
+  "title": "10月21日猪价:跌猛了!猪价“崩落”,“破位”下跌!10月上涨“落空”?",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1090315160_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_b88b61e9d0a1390e8d09",
   "date": "2026-10-21",
   "published_at": "2026-10-21T03:19+08:00",
@@ -34,6 +53,25 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_ccc4899458ec70af96a8",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T00:18+08:00",
+  "fetched_at": "2026-10-21T07:01+08:00",
+  "title": "新加坡限制亚洲纸浆纸品的绿色标签认证 三家供应商涉印尼林火",
+  "summary": "",
+  "source": "茉莉花新闻网",
+  "type": "供需动态",
+  "url": "https://molihua.org/zonghe-1408/",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
   ],
   "relevance_score": 8
  },
@@ -9641,43 +9679,5 @@
    "浆价"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_5c36d22acfd18bf90bfc",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T16:21+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "科普为白砂糖申冤提及白砂糖价格五千余元/吨",
-  "summary": "",
-  "source": "微博",
-  "type": "价格行情",
-  "url": "https://weibo.com/2/detail/5345615741717881",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白砂糖"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5c9e52ed022f83a6d803",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T16:04+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "【收评】棕榈油日内下跌0.92% 机构称油脂近期震荡整理,远月价格重心抬升",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20260921/c680120962.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
  }
 ]
