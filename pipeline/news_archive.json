@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_b90eb7ab250a2b65fffe",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T05:00+08:00",
+  "fetched_at": "2026-10-22T05:53+08:00",
+  "title": "10月22日猪价:一片绿!猪价“猛烈”下跌,10月末跌破“前低”?",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1090833397_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_8c133a469956da704dbd",
   "date": "2026-10-21",
   "published_at": "2026-10-21T20:43+08:00",
@@ -152,6 +171,25 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_4fa9dd569f5be98055f6",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T11:51+08:00",
+  "fetched_at": "2026-10-22T05:53+08:00",
+  "title": "菜粕:加菜籽收割压力突显,郑菜粕供需预期切换",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "供需动态",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-20/detail-inivwith0884961.d.html",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜粕"
   ],
   "relevance_score": 8
  },
@@ -9646,44 +9684,5 @@
    "涤纶短纤"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_2132a977280dd9d0919e",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T09:24+08:00",
-  "fetched_at": "2026-09-22T14:44+08:00",
-  "title": "农产品 | 生猪市场延续供强需弱底部磨底格局",
-  "summary": "生猪 生猪市场延续供强需弱的底部磨底格局,全国外三元均价约10.59-10.66元/公斤,环比微降,节前上涨预期落空。",
-  "source": "迈科期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609223880911976.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_6c24f2d474aece2ce6b3",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T08:41+08:00",
-  "fetched_at": "2026-09-22T14:44+08:00",
-  "title": "“金九”旺季不旺 生猪价格偏弱震荡",
-  "summary": "进入9月,国内生猪市场本应步入传统的“金九”消费旺季,但行情呈现出“旺季不旺”的特征。截至9月21日,全国外三元生猪出栏均价为10.66~10.69元/公斤,在8月末短暂反弹后再度回落。当前市场多空因素交织,供需博弈激烈,生猪价格在养殖成本线附近窄幅波动。",
-  "source": "期货日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609223880682911.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
  }
 ]

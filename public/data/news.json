@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T21:05+08:00",
+ "updated_at": "2026-10-22T05:53+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,13 +8,13 @@
   "IndexBox": 3,
   "QQ News": 2,
   "Vietnam.vn": 1,
-  "finance.sina.com.cn": 4,
+  "finance.sina.com.cn": 5,
   "www.caiwennews.com": 1,
   "一德期货": 1,
   "上海中期期货": 2,
   "东方财富": 2,
   "东方财富研究中心": 1,
-  "中华网": 9,
+  "中华网": 8,
   "中国产业经济信息网": 1,
   "中国经营报": 1,
   "中州期货": 1,
@@ -65,6 +65,25 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_b90eb7ab250a2b65fffe",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T05:00+08:00",
+   "fetched_at": "2026-10-22T05:53+08:00",
+   "title": "10月22日猪价:一片绿!猪价“猛烈”下跌,10月末跌破“前低”?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1090833397_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_8c133a469956da704dbd",
    "date": "2026-10-21",
@@ -218,6 +237,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_4fa9dd569f5be98055f6",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T11:51+08:00",
+   "fetched_at": "2026-10-22T05:53+08:00",
+   "title": "菜粕:加菜籽收割压力突显,郑菜粕供需预期切换",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "供需动态",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-20/detail-inivwith0884961.d.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜粕"
    ],
    "relevance_score": 8
   },
@@ -3900,44 +3938,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_a87bf4940ad8491803fd",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T08:41+08:00",
-   "fetched_at": "2026-10-12T09:35+08:00",
-   "title": "10月11日猪价上涨“卷土重来” 供需情绪谨慎",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://news.china.com/socialgd/10000169/20261012/49788638.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_76ff9e6ffabd31e382fd",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T07:27+08:00",
-   "fetched_at": "2026-10-12T06:18+08:00",
-   "title": "10月12日猪价:突然降温!猪价下跌“坐滑梯”,接下来“断崖”下跌?",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1086412457_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }
