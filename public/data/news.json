@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T15:15+08:00",
+ "updated_at": "2026-10-21T21:05+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -14,8 +14,9 @@
   "上海中期期货": 2,
   "东方财富": 2,
   "东方财富研究中心": 1,
-  "中华网": 8,
+  "中华网": 9,
   "中国产业经济信息网": 1,
+  "中国经营报": 1,
   "中州期货": 1,
   "农业农村部": 2,
   "凤凰网": 2,
@@ -23,9 +24,9 @@
   "华夏时报": 1,
   "华夏时报网": 1,
   "南华期货": 2,
-  "南方财经网": 15,
+  "南方财经网": 16,
   "同花顺": 15,
-  "同花顺财经": 3,
+  "同花顺财经": 4,
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
@@ -36,11 +37,11 @@
   "手机新浪网": 1,
   "手机网易网": 1,
   "挖贝网": 1,
-  "搜狐": 20,
+  "搜狐": 19,
   "搜狐网": 1,
   "新华财经": 4,
   "新浪网": 7,
-  "新浪财经": 29,
+  "新浪财经": 27,
   "时代周报": 1,
   "期货日报": 8,
   "正信期货": 1,
@@ -56,15 +57,131 @@
   "茉莉花新闻网": 1,
   "虎嗅网": 2,
   "观点网": 1,
-  "证券之星": 7,
-  "证券日报": 1,
-  "证券时报": 2,
+  "证券之星": 6,
+  "证券时报": 1,
   "证券时报网": 1,
   "诗华日报": 1,
-  "财联社": 4,
+  "财联社": 6,
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_8c133a469956da704dbd",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T20:43+08:00",
+   "fetched_at": "2026-10-21T21:05+08:00",
+   "title": "能繁母猪存栏下降超10% 猪价上涨期曙光渐显",
+   "summary": "我国生猪产能调控仍在持续进行。只是在能繁母猪存量锐减的背景下,我国生猪价格却未有太大起色。 国家统计局最新披露的数据显示,截至三季度末,全国能繁母猪存栏3602万头,同比下降10.7%,已进入农业农村部划定的产能调控“绿色区间”。然而,去化加速并未换来猪价回升。",
+   "source": "中国经营报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610213902868587.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "能繁母猪",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_0cdd6aa819371562bd25",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T17:57+08:00",
+   "fetched_at": "2026-10-21T21:05+08:00",
+   "title": "温氏股份:前三季度净亏损49.61亿元 主产品肉猪价格大幅下跌",
+   "summary": "业绩变动主要系主产品肉猪价格大幅下跌,公司养猪业务出现大额亏损所致。注:公司Q3净利润亏损5.96亿,Q2净利润-32.96亿,据此计算,Q3净利润环比持续亏损。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610213902737127.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_1bb45a88e9be12205ede",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T16:55+08:00",
+   "fetched_at": "2026-10-21T21:05+08:00",
+   "title": "能繁母猪跌破调控基准线、猪肉股集体爆发 超长猪周期“见底”了吗?",
+   "summary": "饲料成本占生猪养殖完全成本约60%,配方中玉米约占70%、豆粕约占15%。温氏股份相关人员表示,近期饲料原料价格波动较大,整体呈“玉米偏弱、豆粕偏强”的分化走势,公司预计下半年及2027年核心饲料原料价格呈区间震荡走势,玉米与豆粕走势继续分化。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610213902689797.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "能繁母猪",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_2860d851c84a6b5df2ce",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T15:48+08:00",
+   "fetched_at": "2026-10-21T21:05+08:00",
+   "title": "10月21日猪价:跌猛了 供需失衡加剧",
+   "summary": "",
+   "source": "中华网",
+   "type": "供需动态",
+   "url": "https://news.china.com/socialgd/10000169/20261021/49807984.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_8f00ebd8adaaa6feb03a",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T15:43+08:00",
+   "fetched_at": "2026-10-21T21:05+08:00",
+   "title": "玉米主力合约收跌0.14%",
+   "summary": "南财智讯10月21日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.14%,收盘报2186.0元/吨,日内资金流入1.36亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610213902624882.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_4894eed4ba9232ddf634",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T15:24+08:00",
+   "fetched_at": "2026-10-21T21:05+08:00",
+   "title": "【收评】生猪日内上涨0.35% 机构称短期生猪反弹承压,下方空间收窄",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261021/c680925398.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_c92406b2ac301c10d482",
    "date": "2026-10-21",
@@ -86,21 +203,20 @@
    "relevance_score": 12
   },
   {
-   "id": "news_ad72fc392c87d94d3f2b",
+   "id": "news_2b3e66d33956b6cf0746",
    "date": "2026-10-21",
-   "published_at": "2026-10-21T13:21+08:00",
-   "fetched_at": "2026-10-21T15:15+08:00",
-   "title": "机构:“节后”需求持续走弱,生猪价格整体下行",
+   "published_at": "2026-10-21T14:05+08:00",
+   "fetched_at": "2026-10-21T21:05+08:00",
+   "title": "跌了,跌了,猪价“失控”下跌!附:10月22日猪价",
    "summary": "",
    "source": "搜狐",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1090622212_121157270",
+   "url": "https://m.sohu.com/a/1090631224_120238851",
    "company": "",
    "material_ids": [
     "LH"
    ],
    "matched_keywords": [
-    "生猪",
     "猪价"
    ],
    "relevance_score": 8
@@ -3822,121 +3938,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_72ce842fecd6dd6690c9",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T03:56+08:00",
-   "fetched_at": "2026-10-13T02:07+08:00",
-   "title": "这一农作物,涨价预期骤升|厄尔尼诺现象|印尼|马来西亚|棕榈油|油脂",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-02/detail-initvyev4449297.d.html",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b0e1931ee8c9fb0f104d",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T02:16+08:00",
-   "fetched_at": "2026-10-12T02:20+08:00",
-   "title": "期货+场外期权组合发力 纸浆企业实现库存主动管理",
-   "summary": "项目还建立常态化的数据服务体系,向企业持续提供市场专项日报,覆盖库存、基差、隐含波动率等核心监测指标;每周出具情景分析报告,推演不同价格情景下组合策略损益表现,同步给出行权价上移、头寸移仓、仓位增减等实操建议。",
-   "source": "证券时报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610123892136278.html",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_dd549e15950bcb8fab05",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T23:43+08:00",
-   "fetched_at": "2026-10-12T02:20+08:00",
-   "title": "生猪养殖企业相继发布前三季度销售数据",
-   "summary": "上海钢联生猪行业分析师王红焱在接受《证券日报》记者采访时介绍,今年上半年,猪价相对平稳,多数养殖企业维持盈利或微利,随着下半年猪价震荡下行,行业整体进入盈亏平衡线附近,成本控制较好的企业尚能维持,成本偏高的已出现亏损。",
-   "source": "证券日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610113892129671.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_386ab2cdbc520b48c196",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T20:01+08:00",
-   "fetched_at": "2026-10-12T02:20+08:00",
-   "title": "农林牧渔行业周报:生猪产能持续去化,牛肉价格持续新高_行业研究_研报",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://stock.stockstar.com/JC2026101100008879.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7116c1003734837b0036",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T17:30+08:00",
-   "fetched_at": "2026-10-12T09:35+08:00",
-   "title": "机构:超强厄尔尼诺正式形成,生猪供给压力下产能持续收缩",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuvxsh0604843.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_53f77794fb81b9ae661b",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T17:12+08:00",
-   "fetched_at": "2026-10-11T21:18+08:00",
-   "title": "今日核桃价格一览|10月11日",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1086376688_122014422",
-   "company": "",
-   "material_ids": [
-    "WALNUT"
-   ],
-   "matched_keywords": [
-    "核桃"
    ],
    "relevance_score": 8
   }

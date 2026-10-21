@@ -1,5 +1,122 @@
 [
  {
+  "id": "news_8c133a469956da704dbd",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T20:43+08:00",
+  "fetched_at": "2026-10-21T21:05+08:00",
+  "title": "能繁母猪存栏下降超10% 猪价上涨期曙光渐显",
+  "summary": "我国生猪产能调控仍在持续进行。只是在能繁母猪存量锐减的背景下,我国生猪价格却未有太大起色。 国家统计局最新披露的数据显示,截至三季度末,全国能繁母猪存栏3602万头,同比下降10.7%,已进入农业农村部划定的产能调控“绿色区间”。然而,去化加速并未换来猪价回升。",
+  "source": "中国经营报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610213902868587.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "能繁母猪",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_0cdd6aa819371562bd25",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T17:57+08:00",
+  "fetched_at": "2026-10-21T21:05+08:00",
+  "title": "温氏股份:前三季度净亏损49.61亿元 主产品肉猪价格大幅下跌",
+  "summary": "业绩变动主要系主产品肉猪价格大幅下跌,公司养猪业务出现大额亏损所致。注:公司Q3净利润亏损5.96亿,Q2净利润-32.96亿,据此计算,Q3净利润环比持续亏损。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610213902737127.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_1bb45a88e9be12205ede",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T16:55+08:00",
+  "fetched_at": "2026-10-21T21:05+08:00",
+  "title": "能繁母猪跌破调控基准线、猪肉股集体爆发 超长猪周期“见底”了吗?",
+  "summary": "饲料成本占生猪养殖完全成本约60%,配方中玉米约占70%、豆粕约占15%。温氏股份相关人员表示,近期饲料原料价格波动较大,整体呈“玉米偏弱、豆粕偏强”的分化走势,公司预计下半年及2027年核心饲料原料价格呈区间震荡走势,玉米与豆粕走势继续分化。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610213902689797.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "能繁母猪",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2860d851c84a6b5df2ce",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T15:48+08:00",
+  "fetched_at": "2026-10-21T21:05+08:00",
+  "title": "10月21日猪价:跌猛了 供需失衡加剧",
+  "summary": "",
+  "source": "中华网",
+  "type": "供需动态",
+  "url": "https://news.china.com/socialgd/10000169/20261021/49807984.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_8f00ebd8adaaa6feb03a",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T15:43+08:00",
+  "fetched_at": "2026-10-21T21:05+08:00",
+  "title": "玉米主力合约收跌0.14%",
+  "summary": "南财智讯10月21日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.14%,收盘报2186.0元/吨,日内资金流入1.36亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610213902624882.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_4894eed4ba9232ddf634",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T15:24+08:00",
+  "fetched_at": "2026-10-21T21:05+08:00",
+  "title": "【收评】生猪日内上涨0.35% 机构称短期生猪反弹承压,下方空间收窄",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261021/c680925398.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_c92406b2ac301c10d482",
   "date": "2026-10-21",
   "published_at": "2026-10-21T14:06+08:00",
@@ -20,21 +137,20 @@
   "relevance_score": 12
  },
  {
-  "id": "news_ad72fc392c87d94d3f2b",
+  "id": "news_2b3e66d33956b6cf0746",
   "date": "2026-10-21",
-  "published_at": "2026-10-21T13:21+08:00",
-  "fetched_at": "2026-10-21T15:15+08:00",
-  "title": "机构:“节后”需求持续走弱,生猪价格整体下行",
+  "published_at": "2026-10-21T14:05+08:00",
+  "fetched_at": "2026-10-21T21:05+08:00",
+  "title": "跌了,跌了,猪价“失控”下跌!附:10月22日猪价",
   "summary": "",
   "source": "搜狐",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1090622212_121157270",
+  "url": "https://m.sohu.com/a/1090631224_120238851",
   "company": "",
   "material_ids": [
    "LH"
   ],
   "matched_keywords": [
-   "生猪",
    "猪价"
   ],
   "relevance_score": 8
@@ -9567,120 +9683,6 @@
   "matched_keywords": [
    "生猪",
    "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_b2f5e01e27b55c7031f0",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T07:00+08:00",
-  "fetched_at": "2026-09-22T14:44+08:00",
-  "title": "9月22日猪价:1涨9跌!猪价承压下跌,集团增量需求回暖,节前猪价上涨“落空”?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1079147563_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_3427eb9916a1c926d24a",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T05:45+08:00",
-  "fetched_at": "2026-09-22T06:44+08:00",
-  "title": "CBOT农产品期货主力合约收盘全线上涨,玉米期货涨2.94%",
-  "summary": "当地时间9月21日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线上涨,大豆期货涨1.80%报1327.00美分/蒲式耳,玉米期货涨2.94%报543.00美分/蒲式耳,小麦期货涨1.65%报726.00美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609223880403380.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_03e4225a1da15a208eb0",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T04:51+08:00",
-  "fetched_at": "2026-09-22T06:44+08:00",
-  "title": "美国关税推高成本,加拿大饮料商转向中国订购易拉罐",
-  "summary": "",
-  "source": "vinetur.com",
-  "type": "政策与供应",
-  "url": "https://www.vinetur.com/cn/20260921107470/canadian-drink-makers-shift-can-orders-to-china-after-us-tariffs-raise-costs.html",
-  "company": "",
-  "material_ids": [
-   "AL"
-  ],
-  "matched_keywords": [
-   "易拉罐"
-  ],
-  "relevance_score": 9
- },
- {
-  "id": "news_03de39cc27f7d56f63db",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T03:19+08:00",
-  "fetched_at": "2026-09-22T06:44+08:00",
-  "title": "美国铝关税推高成本 加拿大啤酒商转向中国制铝罐 价差最高每罐8仙",
-  "summary": "",
-  "source": "VanPeople",
-  "type": "政策与供应",
-  "url": "https://info.vanpeople.com/1904397.html",
-  "company": "",
-  "material_ids": [
-   "AL"
-  ],
-  "matched_keywords": [
-   "铝罐"
-  ],
-  "relevance_score": 9
- },
- {
-  "id": "news_c8f1a442ea46ad039a10",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T22:53+08:00",
-  "fetched_at": "2026-09-21T23:15+08:00",
-  "title": "生意社:成本与需求博弈 涤纶短纤价格高位震荡运行",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-09-21/detail-inisrhft7490720.d.html",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f2c5c1934685db60aed2",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T22:45+08:00",
-  "fetched_at": "2026-09-22T03:07+08:00",
-  "title": "农业农村部:持续推进生猪产能综合调控",
-  "summary": "会议要求,要统筹做好秋冬农业生产各项工作,着力保障“菜篮子”产品均衡供应,大力加强农产品质量安全监管,持续推进生猪产能综合调控,加快推进草食畜牧业高质量发展,强化动物疫病防控,抓好农产品产销衔接,切实保障粮食等重要农产品稳定安全供给。",
-  "source": "期货日报网",
-  "type": "政策与供应",
-  "url": "https://finance.eastmoney.com/a/202609213880378842.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 12
  }
