@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T09:52+08:00",
+ "updated_at": "2026-10-21T15:15+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -12,7 +12,7 @@
   "www.caiwennews.com": 1,
   "一德期货": 1,
   "上海中期期货": 2,
-  "东方财富": 1,
+  "东方财富": 2,
   "东方财富研究中心": 1,
   "中华网": 8,
   "中国产业经济信息网": 1,
@@ -25,7 +25,7 @@
   "南华期货": 2,
   "南方财经网": 15,
   "同花顺": 15,
-  "同花顺财经": 4,
+  "同花顺财经": 3,
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
@@ -36,8 +36,8 @@
   "手机新浪网": 1,
   "手机网易网": 1,
   "挖贝网": 1,
-  "搜狐": 21,
-  "搜狐网": 2,
+  "搜狐": 20,
+  "搜狐网": 1,
   "新华财经": 4,
   "新浪网": 7,
   "新浪财经": 29,
@@ -49,14 +49,14 @@
   "混沌天成期货": 1,
   "瑞达期货": 3,
   "申银万国期货": 2,
-  "界面新闻": 2,
+  "界面新闻": 3,
   "第一财经": 4,
   "网易新闻客户端": 1,
   "联合早报": 1,
   "茉莉花新闻网": 1,
   "虎嗅网": 2,
   "观点网": 1,
-  "证券之星": 6,
+  "证券之星": 7,
   "证券日报": 1,
   "证券时报": 2,
   "证券时报网": 1,
@@ -65,6 +65,84 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_c92406b2ac301c10d482",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T14:06+08:00",
+   "fetched_at": "2026-10-21T15:15+08:00",
+   "title": "生猪存栏同比降2.6%、能繁去化降幅扩大4.2个百分点,产能拐点信号强化",
+   "summary": "从价格端看,猪价仍处磨底区域但已现企稳迹象:农业农村部监测显示,10月第2周全国活猪平均价格11.07元/公斤,环比小幅回落0.5%,同比仍低14.2%;中国养猪网数据显示,10月16日全国生猪(外三元)报9.88元/公斤,在跌破10元关口后暂未进一步下探。",
+   "source": "界面新闻",
+   "type": "价格行情",
+   "url": "https://stock.eastmoney.com/a/202610213902544540.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_ad72fc392c87d94d3f2b",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T13:21+08:00",
+   "fetched_at": "2026-10-21T15:15+08:00",
+   "title": "机构:“节后”需求持续走弱,生猪价格整体下行",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1090622212_121157270",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9d1485c6171d4fd642e3",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T11:31+08:00",
+   "fetched_at": "2026-10-21T15:15+08:00",
+   "title": "消费情绪疲弱叠加原奶供应过剩 乳业股集体低迷,优然牧业跌超5%",
+   "summary": "",
+   "source": "搜狐",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1090570364_121157270",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_c2ade033b94a29a4d027",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T10:56+08:00",
+   "fetched_at": "2026-10-21T15:15+08:00",
+   "title": "养殖业概念盘中走强,今年下半年生猪出栏量预计将趋势性回落|异动情报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://stock.stockstar.com/IG2026102100014293.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_6ec9c3fb20cd0deca0c4",
    "date": "2026-10-21",
@@ -124,25 +202,6 @@
     "仔猪"
    ],
    "relevance_score": 11
-  },
-  {
-   "id": "news_385a7159c3821d1d1151",
-   "date": "2026-10-21",
-   "published_at": "2026-10-21T06:59+08:00",
-   "fetched_at": "2026-10-21T07:01+08:00",
-   "title": "10月21日猪价:大降12.3%!猪价跌回“解放前”,接下来“地板线”是多少,何时上涨?",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1090317868_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_b88b61e9d0a1390e8d09",
@@ -601,6 +660,25 @@
    "source": "新浪财经",
    "type": "价格行情",
    "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-20/doc-inivwcmk0878862.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_ee6e7bcfd75ed26251b1",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T12:30+08:00",
+   "fetched_at": "2026-10-21T15:15+08:00",
+   "title": "早盘异动!猪肉概念集体反弹 生猪期货跌破1万大关",
+   "summary": "",
+   "source": "东方财富",
+   "type": "价格行情",
+   "url": "https://emwap.eastmoney.com/a/202610213902464828.html",
    "company": "",
    "material_ids": [
     "LH"
@@ -1162,6 +1240,25 @@
    "source": "证券之星",
    "type": "价格行情",
    "url": "https://futures.stockstar.com/RB2026101900013393.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_58625c6921336b80bd22",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T14:34+08:00",
+   "fetched_at": "2026-10-21T15:15+08:00",
+   "title": "旺季氛围兑现不足 预计PTA期货价格弱势震荡为主",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtynm7594882.shtml",
    "company": "",
    "material_ids": [
     "TA"
@@ -3840,102 +3937,6 @@
    ],
    "matched_keywords": [
     "核桃"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e308c18edcdfb6ca0626",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T16:11+08:00",
-   "fetched_at": "2026-10-11T21:18+08:00",
-   "title": "纸浆:纸浆震荡运行2026.10.11",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1086362893_122014422",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f9816cf23c3c539c8cd7",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T14:19+08:00",
-   "fetched_at": "2026-10-11T21:18+08:00",
-   "title": "USDA维持新年度大豆油生物燃料需求预测",
-   "summary": "",
-   "source": "搜狐",
-   "type": "供需动态",
-   "url": "https://m.sohu.com/a/1086331846_121119270",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油",
-    "大豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2eb93553a14453f6cd26",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T08:44+08:00",
-   "fetched_at": "2026-10-12T09:35+08:00",
-   "title": "期货+场外期权组合发力 纸浆企业实现库存主动管理",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-12/detail-iniuwuvt5465720.d.html",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b6d3a9d36801ae8bc8de",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T07:46+08:00",
-   "fetched_at": "2026-10-11T08:21+08:00",
-   "title": "10月11日猪价:好消息!猪价上涨“卷土重来”,季节性“拐点”兑现?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1086101902_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7965007d779cb1672dcd",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T06:18+08:00",
-   "fetched_at": "2026-10-11T14:13+08:00",
-   "title": "生意社2026年10月10日涤纶短纤趋势分析:震荡",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20261010/c680547012.shtml",
-   "company": "",
-   "material_ids": [
-    "PF"
-   ],
-   "matched_keywords": [
-    "涤纶短纤"
    ],
    "relevance_score": 8
   }
