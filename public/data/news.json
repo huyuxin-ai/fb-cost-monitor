@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T07:01+08:00",
+ "updated_at": "2026-10-21T09:52+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,6 +10,7 @@
   "Vietnam.vn": 1,
   "finance.sina.com.cn": 4,
   "www.caiwennews.com": 1,
+  "一德期货": 1,
   "上海中期期货": 2,
   "东方财富": 1,
   "东方财富研究中心": 1,
@@ -25,6 +26,7 @@
   "南方财经网": 15,
   "同花顺": 15,
   "同花顺财经": 4,
+  "国信期货": 1,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
   "国际金融报": 1,
@@ -38,13 +40,12 @@
   "搜狐网": 2,
   "新华财经": 4,
   "新浪网": 7,
-  "新浪财经": 31,
+  "新浪财经": 29,
   "时代周报": 1,
-  "期货日报": 7,
+  "期货日报": 8,
   "正信期货": 1,
   "每日经济新闻": 5,
   "汇通网 Fx678": 1,
-  "深圳商报·读创": 1,
   "混沌天成期货": 1,
   "瑞达期货": 3,
   "申银万国期货": 2,
@@ -65,15 +66,75 @@
  },
  "items": [
   {
-   "id": "news_e497995093edd75597ad",
+   "id": "news_6ec9c3fb20cd0deca0c4",
    "date": "2026-10-21",
-   "published_at": "2026-10-21T05:59+08:00",
+   "published_at": "2026-10-21T09:20+08:00",
+   "fetched_at": "2026-10-21T09:52+08:00",
+   "title": "农产品 | 生猪:短期缺乏上涨动力 期货仓单充裕",
+   "summary": "生猪: 猪e数据显示10月20日全国外三元均价9.73元/kg,较昨日跌0.08元/kg,短期缺乏上涨动力,期货仓单充裕,近月或向仓单成本靠近为主。远期合约升水不同程度挤出,在现货未出现明显减重出栏的信号前,维持中性观察为主,不做多。",
+   "source": "一德期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610213902212880.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_8447046faa24122b671e",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T09:18+08:00",
+   "fetched_at": "2026-10-21T09:52+08:00",
+   "title": "农产品 | 马棕油冲高回落 油脂低位震荡加剧",
+   "summary": "现货方面,据汇易网,国内玉米市场弱势震荡,南北港口玉米价格承压;华北玉米价格涨跌互现,东北玉米继续承压;北方玉米散船新粮15%水分集港2125-2135元/吨,14.5%水分集港2140-2150元/吨,较昨日降价10元,广东蛇口散船2270-2290元/吨,集装箱新玉米2300元",
+   "source": "国信期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610213902198649.html",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕油",
+    "马棕油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_42a7f8620bb93bd9093e",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T08:38+08:00",
+   "fetched_at": "2026-10-21T09:52+08:00",
+   "title": "猪价二次探底 拐点仍需等待",
+   "summary": "进入10月,国内生猪市场并未延续9月末的回暖态势,而是再度走弱,呈现出“二次探底”的特征。截至10月19日,全国生猪出栏均价已跌至9.75~9.84元/公斤,部分区域毛猪价格逼近9.4元/公斤,自繁自养模式头均亏损约220元,外购仔猪育肥亏损也同步扩大。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610213902015112.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪",
+    "仔猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_385a7159c3821d1d1151",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T06:59+08:00",
    "fetched_at": "2026-10-21T07:01+08:00",
-   "title": "10月21日猪价:跌猛了!猪价“崩落”,“破位”下跌!10月上涨“落空”?",
+   "title": "10月21日猪价:大降12.3%!猪价跌回“解放前”,接下来“地板线”是多少,何时上涨?",
    "summary": "",
    "source": "搜狐",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1090315160_120238851",
+   "url": "https://m.sohu.com/a/1090317868_120238851",
    "company": "",
    "material_ids": [
     "LH"
@@ -3877,64 +3938,6 @@
     "涤纶短纤"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_a9d056df905a53fea5e6",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T00:07+08:00",
-   "fetched_at": "2026-10-11T14:13+08:00",
-   "title": "上涨!2026.10.11生猪市场信息交流",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-11/doc-iniuumqz7350390.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_deccf18ac67970e40a3c",
-   "date": "2026-10-11",
-   "published_at": "2026-10-11T00:00+08:00",
-   "fetched_at": "2026-10-11T01:41+08:00",
-   "title": "猪价还在磨底!四季度有一波反弹,但别当成大行情来了",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-11/doc-iniuumqy0579870.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b6f34717e6b4d0f9d01f",
-   "date": "2026-10-10",
-   "published_at": "2026-10-10T23:28+08:00",
-   "fetched_at": "2026-10-11T01:41+08:00",
-   "title": "受行业行情拖累,天康生物9月生猪销售收入同比大降,月度出栏环比下滑",
-   "summary": "简报显示,自6月起羌都畜牧纳入合并报表,公司9月生猪出栏36.12万头,销量环比下滑,商品猪均价小幅回升,1-9月累计生猪出栏超300万头。销售数据尚未审计,生猪价格波动会对业绩带来较大影响。",
-   "source": "深圳商报·读创",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610103892004064.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
   }
  ]
 }

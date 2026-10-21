@@ -1,14 +1,74 @@
 [
  {
-  "id": "news_e497995093edd75597ad",
+  "id": "news_6ec9c3fb20cd0deca0c4",
   "date": "2026-10-21",
-  "published_at": "2026-10-21T05:59+08:00",
+  "published_at": "2026-10-21T09:20+08:00",
+  "fetched_at": "2026-10-21T09:52+08:00",
+  "title": "农产品 | 生猪:短期缺乏上涨动力 期货仓单充裕",
+  "summary": "生猪: 猪e数据显示10月20日全国外三元均价9.73元/kg,较昨日跌0.08元/kg,短期缺乏上涨动力,期货仓单充裕,近月或向仓单成本靠近为主。远期合约升水不同程度挤出,在现货未出现明显减重出栏的信号前,维持中性观察为主,不做多。",
+  "source": "一德期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610213902212880.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_8447046faa24122b671e",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T09:18+08:00",
+  "fetched_at": "2026-10-21T09:52+08:00",
+  "title": "农产品 | 马棕油冲高回落 油脂低位震荡加剧",
+  "summary": "现货方面,据汇易网,国内玉米市场弱势震荡,南北港口玉米价格承压;华北玉米价格涨跌互现,东北玉米继续承压;北方玉米散船新粮15%水分集港2125-2135元/吨,14.5%水分集港2140-2150元/吨,较昨日降价10元,广东蛇口散船2270-2290元/吨,集装箱新玉米2300元",
+  "source": "国信期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610213902198649.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕油",
+   "马棕油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_42a7f8620bb93bd9093e",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T08:38+08:00",
+  "fetched_at": "2026-10-21T09:52+08:00",
+  "title": "猪价二次探底 拐点仍需等待",
+  "summary": "进入10月,国内生猪市场并未延续9月末的回暖态势,而是再度走弱,呈现出“二次探底”的特征。截至10月19日,全国生猪出栏均价已跌至9.75~9.84元/公斤,部分区域毛猪价格逼近9.4元/公斤,自繁自养模式头均亏损约220元,外购仔猪育肥亏损也同步扩大。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610213902015112.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪",
+   "仔猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_385a7159c3821d1d1151",
+  "date": "2026-10-21",
+  "published_at": "2026-10-21T06:59+08:00",
   "fetched_at": "2026-10-21T07:01+08:00",
-  "title": "10月21日猪价:跌猛了!猪价“崩落”,“破位”下跌!10月上涨“落空”?",
+  "title": "10月21日猪价:大降12.3%!猪价跌回“解放前”,接下来“地板线”是多少,何时上涨?",
   "summary": "",
   "source": "搜狐",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1090315160_120238851",
+  "url": "https://m.sohu.com/a/1090317868_120238851",
   "company": "",
   "material_ids": [
    "LH"
@@ -9621,63 +9681,5 @@
    "猪价"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_2aee80a83c6209d4e776",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T17:40+08:00",
-  "fetched_at": "2026-09-21T23:15+08:00",
-  "title": "商品日报(9月21日):纸浆大涨创近四个月新高 油价继续回吐风险溢价",
-  "summary": "下跌品种方面,SC原油跌超4%;菜粕跌超2%;液化气、聚丙烯、LU、丙烯、生猪、苹果、塑料、豆粕、燃料油跌超1%。",
-  "source": "新华财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609213880292256.html",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
-  ],
-  "relevance_score": 7
- },
- {
-  "id": "news_8db8edeecd961136e0c4",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T17:20+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "山西证券:《农业行业周报 本周猪价震荡走弱,白羽肉鸡/鸡苗均价显著下滑》",
-  "summary": "",
-  "source": "发现报告",
-  "type": "价格行情",
-  "url": "https://www.fxbaogao.com/detail/5715387",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_3625ddd0550ff5512443",
-  "date": "2026-09-21",
-  "published_at": "2026-09-21T17:13+08:00",
-  "fetched_at": "2026-09-21T21:44+08:00",
-  "title": "供给持续扰动 纸浆期货大涨",
-  "summary": "当前港口库存存在结构性矛盾,产成品高库存限制了原料补库的力度,现货供需改善的可持续性存疑。 在石忆宁看来,纸浆期价大概率维持震荡走势,建议后续重点跟踪基差变化、现货成交情况以及阔叶浆价格变动等。",
-  "source": "期货日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609213880072815.html",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆",
-   "浆价"
-  ],
-  "relevance_score": 12
  }
 ]
