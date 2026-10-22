@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-22T08:29+08:00",
+ "updated_at": "2026-10-22T13:16+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
-  "21世纪经济报道": 4,
+  "21世纪经济报道": 5,
   "3TRES3": 1,
   "IndexBox": 3,
   "QQ News": 2,
@@ -18,9 +18,10 @@
   "中国产业经济信息网": 1,
   "中国经营报": 1,
   "中州期货": 1,
+  "光大期货": 1,
   "农业农村部": 2,
   "凤凰网": 2,
-  "创元期货": 3,
+  "创元期货": 2,
   "华夏时报": 1,
   "华夏时报网": 1,
   "南华期货": 2,
@@ -35,21 +36,20 @@
   "广发期货": 1,
   "广州期货": 1,
   "手机新浪网": 1,
-  "手机网易网": 1,
   "挖贝网": 1,
-  "搜狐": 19,
+  "搜狐": 18,
   "搜狐网": 1,
   "新华财经": 4,
-  "新浪网": 7,
-  "新浪财经": 26,
+  "新浪网": 8,
+  "新浪财经": 25,
   "时代周报": 1,
-  "期货日报": 8,
+  "期货日报": 9,
   "正信期货": 1,
   "每日经济新闻": 5,
   "汇通网 Fx678": 1,
   "混沌天成期货": 1,
-  "瑞达期货": 3,
-  "申银万国期货": 2,
+  "瑞达期货": 2,
+  "申银万国期货": 3,
   "界面新闻": 3,
   "第一财经": 4,
   "网易新闻客户端": 1,
@@ -65,6 +65,125 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_f86108eb8bd41d051ba6",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T13:14+08:00",
+   "fetched_at": "2026-10-22T13:16+08:00",
+   "title": "刚刚 全线下跌 生猪、红枣再创新低!最新研判",
+   "summary": "生猪方面,大地期货表示,商品猪供应收缩的乐观预期被打破,短期缺乏有效利好题材,盘面继续消化供应压力,期现货价格以低位偏弱运行为主。中期来看,腌腊等季节性需求或带动猪价出现一轮反弹,但基础供应量、高体重和冻品库存对四季度猪价预计存有利空。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610223903885223.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_c7ca8140ecbe1e0b4c59",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T11:44+08:00",
+   "fetched_at": "2026-10-22T13:16+08:00",
+   "title": "【现货】10月22日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261022/c680966805.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_8c1690534038707347c9",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T11:03+08:00",
+   "fetched_at": "2026-10-22T13:16+08:00",
+   "title": "华泰期货:猪价跌到9块多,生猪期货却涨了,后市怎么看?",
+   "summary": "",
+   "source": "新浪网",
+   "type": "价格行情",
+   "url": "https://k.sina.com.cn/article_5953189932_162d6782c067051nko.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_ff1ec73a29bdf9f4f899",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T10:22+08:00",
+   "fetched_at": "2026-10-22T13:16+08:00",
+   "title": "农产品 | 市场对远期需求有担忧 加速豆粕价差下挫",
+   "summary": "国内方面,蛋白粕震荡回落。进口成本回落引发价格回落,但榨利差以及油厂大豆采购偏慢提振市场。现货市场依然宽松,豆粕库存处于高位。生猪价格低迷,市场对远期需求有担忧,加速豆粕价差下挫。后市继续关注大豆成本以及豆粕需求的预期,关注资金动态。",
+   "source": "光大期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610223903773136.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_a8e11e932eedfeb48f66",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T09:43+08:00",
+   "fetched_at": "2026-10-22T13:16+08:00",
+   "title": "农产品 | 厄尔尼诺预期下远月棕榈油和菜油供应都将受到影响",
+   "summary": "【蛋白粕】 蛋白粕:夜盘豆菜粕偏弱震荡,美国中西部地区天气干燥有利于大豆收割,近期美豆收割进度持续加快。USDA周度作物报告显示,截至10月18日美国大豆收割率为64%,市场预期为66%,此前一周为46%,五年均值为65%;落叶率为96%,此前一周为92%,五年均值为97%。",
+   "source": "申银万国期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610223903607537.html",
+   "company": "",
+   "material_ids": [
+    "P",
+    "OI"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "菜油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d9941951c0aca819f7ac",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T09:12+08:00",
+   "fetched_at": "2026-10-22T13:16+08:00",
+   "title": "猪价年内二次探底至9.77元/公斤,行业持续深亏,机构:2027年出栏压力减轻、周期或见底修复",
+   "summary": "现货端,猪价延续跌势。中国养猪网数据显示,10月22日全国生猪(外三元)均价报9.77元/公斤,同比下降近15%;10月21日全国均价9.86元/公斤,较上月同期回落0.84元/公斤,猪价呈大面积下跌态势、年内二次探底。",
+   "source": "21世纪经济报道",
+   "type": "价格行情",
+   "url": "https://stock.eastmoney.com/a/202610223903532915.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_8c133a469956da704dbd",
    "date": "2026-10-22",
@@ -3824,123 +3943,6 @@
     "豆油"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_f3089e936ae582c45bc5",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T11:46+08:00",
-   "fetched_at": "2026-10-12T16:49+08:00",
-   "title": "【现货】10月12日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261012/c680578313.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_ee9c16a0abbac03856b9",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T11:37+08:00",
-   "fetched_at": "2026-10-13T09:09+08:00",
-   "title": "猪肉接连下跌,猪价已经快跌穿了,网友说:灵活就业环境下,猪肉快成奢侈品了!",
-   "summary": "",
-   "source": "手机网易网",
-   "type": "价格行情",
-   "url": "https://www.163.com/dy/article/L91NCJ5U0556AKU1.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_683150cd485950b8e8e0",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T10:31+08:00",
-   "fetched_at": "2026-10-12T16:49+08:00",
-   "title": "超级厄尔尼诺搅动全球!白糖鱼粉已经涨价,橡胶棕榈油也要悬了?",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1086591814_122219919",
-   "company": "",
-   "material_ids": [
-    "SR",
-    "P"
-   ],
-   "matched_keywords": [
-    "白糖",
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_bc8b5347a290feead58c",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T09:26+08:00",
-   "fetched_at": "2026-10-12T16:49+08:00",
-   "title": "生意社2026年10月12日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-12/doc-iniuxmtm5438809.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_938c72203a1b0f092d20",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T08:59+08:00",
-   "fetched_at": "2026-10-12T09:35+08:00",
-   "title": "农产品 | 生猪:短期市场供应依旧过剩 需求侧难有发力点",
-   "summary": "总体来看,短期市场供应依旧过剩,高体重高供应压制下,需求侧难有发力点,猪价震荡偏弱看待,盘面反弹沽空挤升水,关注周一农业部会议和体重变化。",
-   "source": "创元期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610123892186768.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_bdc00df31b0b5e38ceed",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T08:50+08:00",
-   "fetched_at": "2026-10-12T09:35+08:00",
-   "title": "农产品 | 芝加哥交易所玉米期货周五收低 USDA意外上调美玉米产量预估",
-   "summary": "且原料端玉米阶段性上量,市场价格偏弱调整,对淀粉价格有所拖累。盘面来看,淀粉期价随玉米市场波动,总体走势偏弱。 生猪 根据Mysteel数据,10月样本规模养殖场计划出栏量环比增加1.91%,出栏压力仍有,不过短时间价格下跌,有部分养殖主体有惜售情绪。",
-   "source": "瑞达期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610123892183110.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
   }
  ]
 }

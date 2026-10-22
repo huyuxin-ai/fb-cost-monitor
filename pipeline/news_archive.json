@@ -1,5 +1,124 @@
 [
  {
+  "id": "news_f86108eb8bd41d051ba6",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T13:14+08:00",
+  "fetched_at": "2026-10-22T13:16+08:00",
+  "title": "刚刚 全线下跌 生猪、红枣再创新低!最新研判",
+  "summary": "生猪方面,大地期货表示,商品猪供应收缩的乐观预期被打破,短期缺乏有效利好题材,盘面继续消化供应压力,期现货价格以低位偏弱运行为主。中期来看,腌腊等季节性需求或带动猪价出现一轮反弹,但基础供应量、高体重和冻品库存对四季度猪价预计存有利空。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610223903885223.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_c7ca8140ecbe1e0b4c59",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T11:44+08:00",
+  "fetched_at": "2026-10-22T13:16+08:00",
+  "title": "【现货】10月22日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261022/c680966805.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_8c1690534038707347c9",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T11:03+08:00",
+  "fetched_at": "2026-10-22T13:16+08:00",
+  "title": "华泰期货:猪价跌到9块多,生猪期货却涨了,后市怎么看?",
+  "summary": "",
+  "source": "新浪网",
+  "type": "价格行情",
+  "url": "https://k.sina.com.cn/article_5953189932_162d6782c067051nko.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_ff1ec73a29bdf9f4f899",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T10:22+08:00",
+  "fetched_at": "2026-10-22T13:16+08:00",
+  "title": "农产品 | 市场对远期需求有担忧 加速豆粕价差下挫",
+  "summary": "国内方面,蛋白粕震荡回落。进口成本回落引发价格回落,但榨利差以及油厂大豆采购偏慢提振市场。现货市场依然宽松,豆粕库存处于高位。生猪价格低迷,市场对远期需求有担忧,加速豆粕价差下挫。后市继续关注大豆成本以及豆粕需求的预期,关注资金动态。",
+  "source": "光大期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610223903773136.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a8e11e932eedfeb48f66",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T09:43+08:00",
+  "fetched_at": "2026-10-22T13:16+08:00",
+  "title": "农产品 | 厄尔尼诺预期下远月棕榈油和菜油供应都将受到影响",
+  "summary": "【蛋白粕】 蛋白粕:夜盘豆菜粕偏弱震荡,美国中西部地区天气干燥有利于大豆收割,近期美豆收割进度持续加快。USDA周度作物报告显示,截至10月18日美国大豆收割率为64%,市场预期为66%,此前一周为46%,五年均值为65%;落叶率为96%,此前一周为92%,五年均值为97%。",
+  "source": "申银万国期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610223903607537.html",
+  "company": "",
+  "material_ids": [
+   "P",
+   "OI"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "菜油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d9941951c0aca819f7ac",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T09:12+08:00",
+  "fetched_at": "2026-10-22T13:16+08:00",
+  "title": "猪价年内二次探底至9.77元/公斤,行业持续深亏,机构:2027年出栏压力减轻、周期或见底修复",
+  "summary": "现货端,猪价延续跌势。中国养猪网数据显示,10月22日全国生猪(外三元)均价报9.77元/公斤,同比下降近15%;10月21日全国均价9.86元/公斤,较上月同期回落0.84元/公斤,猪价呈大面积下跌态势、年内二次探底。",
+  "source": "21世纪经济报道",
+  "type": "价格行情",
+  "url": "https://stock.eastmoney.com/a/202610223903532915.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_8c133a469956da704dbd",
   "date": "2026-10-22",
   "published_at": "2026-10-22T08:15+08:00",
@@ -9566,123 +9685,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9021ae1563bc608ae373",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T11:27+08:00",
-  "fetched_at": "2026-09-22T14:44+08:00",
-  "title": "农业农村部:9月第3周生猪和猪肉价格窄幅波动",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-09-21/detail-inisqeue5908866.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪肉价格"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d2f4d61b0cd224c63095",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T10:45+08:00",
-  "fetched_at": "2026-09-22T14:44+08:00",
-  "title": "美国铝关税推高成本 加国啤酒商转向中国制铝罐",
-  "summary": "",
-  "source": "温哥华港湾",
-  "type": "政策与供应",
-  "url": "https://www.bcbay.com/news/2026/09/21/1036419.html",
-  "company": "",
-  "material_ids": [
-   "AL"
-  ],
-  "matched_keywords": [
-   "铝罐"
-  ],
-  "relevance_score": 9
- },
- {
-  "id": "news_adba83aaa02192434e00",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T10:21+08:00",
-  "fetched_at": "2026-09-22T14:44+08:00",
-  "title": "国内生猪期货主力合约盘中再创阶段新低",
-  "summary": "南方财经9月22日电,9月22日,国内生猪期货主力合约进一步走低,盘中再创阶段新低,该合约日前已跌破1.1万元/吨。",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609223881153885.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_27571df51e13672734ed",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T10:04+08:00",
-  "fetched_at": "2026-09-22T14:44+08:00",
-  "title": "上周国内大豆豆粕商业库存均上升",
-  "summary": "9月18日,全国主要油厂进口大豆库存869万吨,周环比上升22万吨,月环比上升22万吨,同比上升117万吨,较过去三年均值上升234万吨;豆粕库存113万吨,周环比上升5万吨,月环比上升6万吨,同比下降10万吨,较过去三年同期均值上升2万吨。",
-  "source": "国家粮食和物资储备局",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609223880993230.html",
-  "company": "",
-  "material_ids": [
-   "M",
-   "A"
-  ],
-  "matched_keywords": [
-   "豆粕",
-   "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_4a1b29019ff0356be5e5",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T09:59+08:00",
-  "fetched_at": "2026-09-22T14:44+08:00",
-  "title": "预计9月底油厂豆粕库存在110万吨左右",
-  "summary": "9月国内油厂开机率仍然较高,上周豆粕累库速度加快,截至18日库存升至110万吨以上。但本周即将迎来中秋假期,月底库存可能小幅降至110万吨左右,环比、同比均基本持平。",
-  "source": "国家粮食和物资储备局",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609223880982849.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_77f22e9f191b35c451e5",
-  "date": "2026-09-22",
-  "published_at": "2026-09-22T09:28+08:00",
-  "fetched_at": "2026-09-22T14:44+08:00",
-  "title": "中秋双节遇冷!9月猪价跌跌不休,下跌原因是啥?",
-  "summary": "",
-  "source": "video.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://video.sina.com.cn/p/finance/2026-09-22/detail-inisscmp5700187.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }
