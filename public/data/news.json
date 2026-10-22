@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-22T05:53+08:00",
+ "updated_at": "2026-10-22T08:29+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
-  "21世纪经济报道": 3,
+  "21世纪经济报道": 4,
   "3TRES3": 1,
   "IndexBox": 3,
   "QQ News": 2,
@@ -41,7 +41,7 @@
   "搜狐网": 1,
   "新华财经": 4,
   "新浪网": 7,
-  "新浪财经": 27,
+  "新浪财经": 26,
   "时代周报": 1,
   "期货日报": 8,
   "正信期货": 1,
@@ -66,28 +66,9 @@
  },
  "items": [
   {
-   "id": "news_b90eb7ab250a2b65fffe",
-   "date": "2026-10-22",
-   "published_at": "2026-10-22T05:00+08:00",
-   "fetched_at": "2026-10-22T05:53+08:00",
-   "title": "10月22日猪价:一片绿!猪价“猛烈”下跌,10月末跌破“前低”?",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1090833397_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
    "id": "news_8c133a469956da704dbd",
-   "date": "2026-10-21",
-   "published_at": "2026-10-21T20:43+08:00",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T08:15+08:00",
    "fetched_at": "2026-10-21T21:05+08:00",
    "title": "能繁母猪存栏下降超10% 猪价上涨期曙光渐显",
    "summary": "我国生猪产能调控仍在持续进行。只是在能繁母猪存量锐减的背景下,我国生猪价格却未有太大起色。 国家统计局最新披露的数据显示,截至三季度末,全国能繁母猪存栏3602万头,同比下降10.7%,已进入农业农村部划定的产能调控“绿色区间”。然而,去化加速并未换来猪价回升。",
@@ -104,6 +85,45 @@
     "生猪"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_1c28c81021c8e43043b7",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T07:00+08:00",
+   "fetched_at": "2026-10-22T08:29+08:00",
+   "title": "生猪养殖业站上周期“十字路口”",
+   "summary": "今年6月末以来,牧原股份等生猪养殖企业股价、生猪价格同步反弹,但是当9月猪价出现明显回落后,生猪养殖企业股价却未跟随下跌。",
+   "source": "21世纪经济报道",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610223903100366.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_37f38626690defbd5c97",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T07:00+08:00",
+   "fetched_at": "2026-10-22T05:53+08:00",
+   "title": "10月22日猪价:跌跌不休!猪价“跌猛了”,下跌逻辑已找到!蓄势待涨?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1090834962_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_0cdd6aa819371562bd25",
@@ -3921,25 +3941,6 @@
     "玉米"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_22a145bf898f0945cc17",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T08:43+08:00",
-   "fetched_at": "2026-10-12T16:49+08:00",
-   "title": "机构:超强厄尔尼诺正式形成,生猪供给压力下产能持续收缩",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.cn/2026-10-11/detail-iniuvxsh0604843.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
   }
  ]
 }
