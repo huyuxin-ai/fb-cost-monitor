@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T18:28+08:00",
+ "updated_at": "2026-10-22T21:59+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -19,7 +19,7 @@
   "中国经营报": 1,
   "中州期货": 1,
   "光大期货": 1,
-  "农业农村部": 2,
+  "农业农村部": 1,
   "凤凰网": 1,
   "创元期货": 2,
   "华夏时报": 1,
@@ -41,7 +41,7 @@
   "搜狐网": 1,
   "新华财经": 4,
   "新浪网": 7,
-  "新浪财经": 26,
+  "新浪财经": 28,
   "时代周报": 2,
   "期货日报": 10,
   "正信期货": 1,
@@ -59,10 +59,48 @@
   "证券之星": 6,
   "证券时报": 1,
   "诗华日报": 1,
-  "财联社": 6,
+  "财联社": 5,
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_367abe906e0af4edc317",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T21:05+08:00",
+   "fetched_at": "2026-10-22T21:59+08:00",
+   "title": "生意社:成本支撑减弱需求拖累 涤纶短纤价格冲高回落",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-22/doc-iniwchpc5162332.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_82a7909e68b29f98b6f8",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T19:17+08:00",
+   "fetched_at": "2026-10-22T21:59+08:00",
+   "title": "生意社:成本支撑与需求疲软博弈 PTA价格冲高回落",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-22/doc-iniwcafi5924819.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_71077c66978248c6e69e",
    "date": "2026-10-22",
@@ -3902,46 +3940,6 @@
    ],
    "matched_keywords": [
     "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2c58254d344f1cfca84b",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T21:24+08:00",
-   "fetched_at": "2026-10-13T02:07+08:00",
-   "title": "泛欧交易所玉米期货一度上涨1.3%",
-   "summary": "泛欧交易所玉米期货一度上涨1.3%,创一周最大涨幅。",
-   "source": "财联社",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610123892907418.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_d8a034290190e35ebc45",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T20:35+08:00",
-   "fetched_at": "2026-10-13T02:07+08:00",
-   "title": "10月第2周生猪和猪肉价格有所下跌",
-   "summary": "据农业农村部对500个县集贸市场和采集点监测,上周(10月第2周,10月5—11日,下同),全国活猪价格为11.07元/公斤,环比跌0.5%;猪肉集贸市场价格为20.98元/公斤,环比跌0.4%。",
-   "source": "农业农村部",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610123892874490.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪肉价格",
-    "猪价"
    ],
    "relevance_score": 12
   }
