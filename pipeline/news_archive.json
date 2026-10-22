@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_64c2509779e0bc920d54",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T06:37+08:00",
+  "fetched_at": "2026-10-23T07:02+08:00",
+  "title": "10月23日猪价:坐滑梯!猪价跌回“姥姥家”,下跌原因已找到!会不会“超跌大涨”?",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1091316323_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_669415fe1d6a8db57c11",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T05:46+08:00",
+  "fetched_at": "2026-10-23T07:02+08:00",
+  "title": "芝加哥玉米期货跌超0.6%",
+  "summary": "周四(10月22日)纽约尾盘,CBOT玉米期货跌0.65%,报4.6025美元/蒲式耳。CBOT小麦期货跌0.56%,报6.2475美元/蒲式耳。CBOT大豆期货涨0.54%,报12.6525美元/蒲式耳,豆粕期货跌0.26%,豆油期货涨1.15%。ICE原糖期货跌1.56%。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610233904670069.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_a1ba8507bb3254a975da",
   "date": "2026-10-22",
   "published_at": "2026-10-22T21:39+08:00",
@@ -171,6 +209,25 @@
    "玉米"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_6a942702e5823cc39f03",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T15:32+08:00",
+  "fetched_at": "2026-10-23T07:02+08:00",
+  "title": "【收评】棕榈油日内下跌0.60% 机构称马来西亚棕榈油产量环比下降,油脂短期宽幅震荡",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261022/c680972209.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_275284feb9ec851fa490",
@@ -9634,62 +9691,5 @@
    "豆粕"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_9b77c6cfcf46794154ce",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T09:05+08:00",
-  "fetched_at": "2026-09-23T09:41+08:00",
-  "title": "能化 | PTA供需转向累库 但流通性现货偏紧 预计短期PTA宽幅震荡为主",
-  "summary": "总结:PVC基本面驱动有限,主要跟随商品情绪波动,目前原料电石及乙烯仍在高位,成本支撑仍存在,库存有小幅下降预期,价格进一步下行空间或相对有限,短期PVC区间震荡为主,后续仍需关注原油及煤炭波动对市场心态影响。",
-  "source": "正信期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609233881989370.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c89babd28a75e302f4b3",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T08:58+08:00",
-  "fetched_at": "2026-09-23T15:31+08:00",
-  "title": "生意社2026年9月23日PTA趋势分析:震荡",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-23/doc-inisunsp1416845.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_3cd1daac2e2369b45139",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T08:20+08:00",
-  "fetched_at": "2026-09-23T09:41+08:00",
-  "title": "EAEU 原奶产量达到 3450 万吨",
-  "summary": "",
-  "source": "Dairy News Today",
-  "type": "供需动态",
-  "url": "https://dairynews.today/cn/news/eaeu_3450__6597478.html",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "原奶"
-  ],
-  "relevance_score": 8
  }
 ]

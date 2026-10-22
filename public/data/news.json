@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T23:33+08:00",
+ "updated_at": "2026-10-23T07:02+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,8 +7,7 @@
   "3TRES3": 1,
   "IndexBox": 3,
   "QQ News": 2,
-  "Vietnam.vn": 1,
-  "finance.sina.com.cn": 5,
+  "finance.sina.com.cn": 4,
   "www.caiwennews.com": 1,
   "一德期货": 1,
   "上海中期期货": 2,
@@ -27,7 +26,7 @@
   "南华期货": 2,
   "南方财经网": 16,
   "同花顺": 16,
-  "同花顺财经": 4,
+  "同花顺财经": 5,
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
@@ -37,15 +36,15 @@
   "广州期货": 1,
   "手机新浪网": 1,
   "挖贝网": 1,
-  "搜狐": 17,
+  "搜狐": 18,
   "搜狐网": 1,
   "新华财经": 5,
   "新浪网": 7,
-  "新浪财经": 28,
+  "新浪财经": 27,
   "时代周报": 2,
   "期货日报": 10,
   "正信期货": 1,
-  "每日经济新闻": 5,
+  "每日经济新闻": 6,
   "混沌天成期货": 1,
   "瑞达期货": 2,
   "申银万国期货": 3,
@@ -63,6 +62,44 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_64c2509779e0bc920d54",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T06:37+08:00",
+   "fetched_at": "2026-10-23T07:02+08:00",
+   "title": "10月23日猪价:坐滑梯!猪价跌回“姥姥家”,下跌原因已找到!会不会“超跌大涨”?",
+   "summary": "",
+   "source": "搜狐",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1091316323_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_669415fe1d6a8db57c11",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T05:46+08:00",
+   "fetched_at": "2026-10-23T07:02+08:00",
+   "title": "芝加哥玉米期货跌超0.6%",
+   "summary": "周四(10月22日)纽约尾盘,CBOT玉米期货跌0.65%,报4.6025美元/蒲式耳。CBOT小麦期货跌0.56%,报6.2475美元/蒲式耳。CBOT大豆期货涨0.54%,报12.6525美元/蒲式耳,豆粕期货跌0.26%,豆油期货涨1.15%。ICE原糖期货跌1.56%。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610233904670069.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_a1ba8507bb3254a975da",
    "date": "2026-10-22",
@@ -235,6 +272,25 @@
     "玉米"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_6a942702e5823cc39f03",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T15:32+08:00",
+   "fetched_at": "2026-10-23T07:02+08:00",
+   "title": "【收评】棕榈油日内下跌0.60% 机构称马来西亚棕榈油产量环比下降,油脂短期宽幅震荡",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261022/c680972209.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_275284feb9ec851fa490",
@@ -3885,64 +3941,6 @@
     "仔猪"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_65b88dc838afd274bc2f",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T01:11+08:00",
-   "fetched_at": "2026-10-13T09:09+08:00",
-   "title": "生猪养殖企业相继发布前三季度销售数据|上海钢联|格局|猪价|价格|产能",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-12/detail-iniuxfms0422017.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c66361314b38c7f15c6c",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T00:58+08:00",
-   "fetched_at": "2026-10-15T07:22+08:00",
-   "title": "受库存压力和汇率波动的影响,棕榈油价格跌至每吨 4,121 林吉特。",
-   "summary": "",
-   "source": "Vietnam.vn",
-   "type": "价格行情",
-   "url": "https://www.vietnam.vn/zh-cn/gia-dau-co-giam-ve-4-121-ringgit-tan-truoc-ap-luc-ton-kho-va-ty-gia",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_793f90c81281f47e92a2",
-   "date": "2026-10-12",
-   "published_at": "2026-10-12T23:12+08:00",
-   "fetched_at": "2026-10-13T02:07+08:00",
-   "title": "原糖期货重拾涨势 交易员防范厄尔尼诺冲击",
-   "summary": "原糖期货上涨,看涨交易员继续押注强劲的厄尔尼诺现象将导致主要产糖国供应趋紧。 纽约交投最活跃的原糖期货合约一度上涨3.2%,恢复了上周伦敦糖业周之前开始的涨势。",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuytny0541120.shtml",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "原糖"
-   ],
-   "relevance_score": 12
   }
  ]
 }
