@@ -22,15 +22,15 @@
   "relevance_score": 8
  },
  {
-  "id": "news_b8bd8ff1ee35ef69e422",
+  "id": "news_f600f75bdb5b8b6a7747",
   "date": "2026-10-23",
-  "published_at": "2026-10-23T17:35+08:00",
+  "published_at": "2026-10-23T17:36+08:00",
   "fetched_at": "2026-10-23T20:46+08:00",
-  "title": "大商所:调整生猪期货LH2701合约交易保证金水平",
-  "summary": "自2026年10月27日(星期二)结算时起,生猪期货LH2701合约交易保证金水平由8%调整为10%。对同时满足《大连商品交易所风险管理办法》有关调整交易保证金规定的合约,其交易保证金按照规定交易保证金数值中的较大值收取。",
-  "source": "界面新闻",
+  "title": "大商所上调生猪期货LH2701合约交易保证金水平",
+  "summary": "大商所公告,自2026年10月27日(星期二)结算时起,生猪期货LH2701合约交易保证金水平由8%调整为10%。对同时满足《大连商品交易所风险管理办法》有关调整交易保证金规定的合约,其交易保证金按照规定交易保证金数值中的较大值收取。",
+  "source": "财联社",
   "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610233906366619.html",
+  "url": "https://finance.eastmoney.com/a/202610233906606751.html",
   "company": "",
   "material_ids": [
    "LH"
@@ -1201,6 +1201,25 @@
   ],
   "matched_keywords": [
    "菜籽粕"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_79f4c40f8b51467f75d8",
+  "date": "2026-10-20",
+  "published_at": "2026-10-20T17:54+08:00",
+  "fetched_at": "2026-10-23T21:41+08:00",
+  "title": "专题报告丨豆粕:美豆收割持续推进,丰产格局下豆粕震荡偏弱格局延续",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivwith0997258.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
   ],
   "relevance_score": 8
  },
@@ -9672,24 +9691,5 @@
    "玉米"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_9a8f2a8ac1d61f4a4d85",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T06:10+08:00",
-  "fetched_at": "2026-09-24T07:53+08:00",
-  "title": "爆单!全球三分之一夏威夷果,产自中国这个小城!",
-  "summary": "夏威夷果的采收窗口期短,摘早了没熟,晚摘几天又会落果,不论早摘还是晚摘,最终都会影响价格。为了精准把控成熟度,合作社的年轻骨干们,提前检测不同地块夏威夷果样品,精准锁定坚果的采摘时间。",
-  "source": "央视财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609243882857224.html",
-  "company": "",
-  "material_ids": [
-   "MACADAMIA"
-  ],
-  "matched_keywords": [
-   "夏威夷果"
-  ],
-  "relevance_score": 11
  }
 ]
