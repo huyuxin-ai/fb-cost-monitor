@@ -1,5 +1,143 @@
 [
  {
+  "id": "news_975003f56f86052d9d87",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T17:58+08:00",
+  "fetched_at": "2026-10-23T20:46+08:00",
+  "title": "乳清蛋白粉涨价,网红平替怎么选?专家:大豆蛋白靠谱,蟑螂粉不建议",
+  "summary": "",
+  "source": "搜狐",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1091797048_120388781",
+  "company": "",
+  "material_ids": [
+   "A",
+   "WPC34",
+   "WPC80"
+  ],
+  "matched_keywords": [
+   "大豆",
+   "乳清蛋白"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b8bd8ff1ee35ef69e422",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T17:35+08:00",
+  "fetched_at": "2026-10-23T20:46+08:00",
+  "title": "大商所:调整生猪期货LH2701合约交易保证金水平",
+  "summary": "自2026年10月27日(星期二)结算时起,生猪期货LH2701合约交易保证金水平由8%调整为10%。对同时满足《大连商品交易所风险管理办法》有关调整交易保证金规定的合约,其交易保证金按照规定交易保证金数值中的较大值收取。",
+  "source": "界面新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610233906366619.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_1db92e82007385e1e264",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T16:52+08:00",
+  "fetched_at": "2026-10-23T20:46+08:00",
+  "title": "【现货】10月22日全国生猪现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261022/c680952031.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_a3a666cbe232c0dbd92f",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T16:43+08:00",
+  "fetched_at": "2026-10-23T20:46+08:00",
+  "title": "市场情绪回暖,豆油菜油收涨—10月23日",
+  "summary": "",
+  "source": "导油网",
+  "type": "价格行情",
+  "url": "https://www.oilcn.com/article/2026/10/10_99361.html",
+  "company": "",
+  "material_ids": [
+   "Y",
+   "OI"
+  ],
+  "matched_keywords": [
+   "豆油",
+   "菜油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_9f32f9f41741fd0f7db3",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T15:42+08:00",
+  "fetched_at": "2026-10-23T20:46+08:00",
+  "title": "生猪主力合约收跌1.16%",
+  "summary": "南财智讯10月23日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.16%,收盘报9825.0元/吨,日内资金流出2.95亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610233906266139.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_16f3fb52c2d2fe78affa",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T15:40+08:00",
+  "fetched_at": "2026-10-23T20:46+08:00",
+  "title": "秦英林:生猪行业产能调控是必要的,牧原也是调产的受益者",
+  "summary": "",
+  "source": "www.agripost.cn",
+  "type": "供需动态",
+  "url": "https://www.agripost.cn/2026/10/23/muyuans-qin-yinglin-backs-chinas-pig-production-capacity-controls/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_39040ef8909868ad1e01",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T15:28+08:00",
+  "fetched_at": "2026-10-23T20:46+08:00",
+  "title": "【收评】生猪日内下跌1.16% 机构称生猪供强需弱,短期低位震荡",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261023/c681020293.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_aa9ce30cc7be4b81745f",
   "date": "2026-10-23",
   "published_at": "2026-10-23T14:31+08:00",
@@ -9553,143 +9691,5 @@
    "夏威夷果"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_232abf2b7536977546d4",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T01:52+08:00",
-  "fetched_at": "2026-09-24T21:40+08:00",
-  "title": "豆粕价格短期区间震荡 菜籽粕到港增多步入旺季",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-23/detail-inisvcpz8482265.d.html",
-  "company": "",
-  "material_ids": [
-   "M",
-   "RM"
-  ],
-  "matched_keywords": [
-   "豆粕",
-   "菜籽粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_32193ab2962707175260",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T00:39+08:00",
-  "fetched_at": "2026-09-24T07:53+08:00",
-  "title": "供应端增量超过需求增量 猪价节前承压下行",
-  "summary": "",
-  "source": "东方财富",
-  "type": "价格行情",
-  "url": "https://wap.eastmoney.com/a/202609233881668928.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6eb70002b564bee7f288",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T00:35+08:00",
-  "fetched_at": "2026-09-24T01:56+08:00",
-  "title": "印度政府下令将粗棕榈油和原油大豆油的进口关税从10%下调至5%",
-  "summary": "印度政府下令将粗棕榈油和原油大豆油的进口关税从10%下调至5%,将精炼棕榈油和精炼大豆油的进口关税下调至27.5%,将粗向日葵油的基本进口关税从10%下调至0%。",
-  "source": "财联社",
-  "type": "政策与供应",
-  "url": "https://finance.eastmoney.com/a/202609243882824497.html",
-  "company": "",
-  "material_ids": [
-   "P",
-   "Y"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "豆油",
-   "大豆油"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_5795a8d46291d9075d63",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T00:16+08:00",
-  "fetched_at": "2026-09-24T01:56+08:00",
-  "title": "光大期货0923热点追踪:生猪节前旺季不旺,节后能修复吗?",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-23/detail-inisvcqf1232115.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_267ea944b86bd7797a97",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T22:55+08:00",
-  "fetched_at": "2026-09-24T07:53+08:00",
-  "title": "棕榈油期价连续四日回落库存高企与需求疲软双重压制_汇市观察",
-  "summary": "",
-  "source": "中金在线外汇",
-  "type": "供需动态",
-  "url": "http://forex.cnfol.com/jingjiyaowen/20260923/32379574.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ea02a98a971f20553f63",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T18:52+08:00",
-  "fetched_at": "2026-09-22T20:27+08:00",
-  "title": "标肥价差收窄 大猪价格优势能否持续?",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-22/detail-inissyqz8832120.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1606b374c30f00bed5bd",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T18:52+08:00",
-  "fetched_at": "2026-09-23T21:27+08:00",
-  "title": "棕榈油期价连续四日回落库存高企与需求疲软双重压制_外汇动态报道",
-  "summary": "",
-  "source": "汇通网 Fx678",
-  "type": "供需动态",
-  "url": "https://www.fx678.com/202609231852392286.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
  }
 ]
