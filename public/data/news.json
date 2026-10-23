@@ -1,17 +1,18 @@
 {
- "updated_at": "2026-10-23T09:46+08:00",
+ "updated_at": "2026-10-23T15:11+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 5,
   "3TRES3": 1,
+  "8world": 1,
   "IndexBox": 3,
   "QQ News": 2,
   "finance.sina.com.cn": 4,
   "www.caiwennews.com": 1,
   "一德期货": 1,
   "上海中期期货": 3,
-  "东方财富": 2,
+  "东方财富": 3,
   "东方财富研究中心": 1,
   "中华网": 8,
   "中国产业经济信息网": 1,
@@ -23,12 +24,12 @@
   "创元期货": 2,
   "华夏时报": 1,
   "华夏时报网": 1,
-  "南华期货": 2,
-  "南方财经网": 16,
-  "同花顺": 16,
+  "南华期货": 1,
+  "南方财经网": 15,
+  "同花顺": 17,
   "同花顺财经": 5,
   "国信期货": 1,
-  "国家粮食和物资储备局": 2,
+  "国家粮食和物资储备局": 3,
   "国投期货": 1,
   "国际金融报": 1,
   "币界网": 1,
@@ -43,13 +44,12 @@
   "新浪财经": 27,
   "时代周报": 2,
   "期货日报": 10,
-  "正信期货": 1,
   "每日经济新闻": 5,
   "混沌天成期货": 1,
   "瑞达期货": 2,
   "申银万国期货": 2,
   "界面新闻": 4,
-  "第一财经": 5,
+  "第一财经": 4,
   "联合早报": 1,
   "茉莉花新闻网": 1,
   "蓝鲸财经": 1,
@@ -62,6 +62,82 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_aa9ce30cc7be4b81745f",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T14:31+08:00",
+   "fetched_at": "2026-10-23T15:11+08:00",
+   "title": "供需宽松格局下 生猪期现货屡创新低|期货周刊",
+   "summary": "",
+   "source": "第一财经",
+   "type": "价格行情",
+   "url": "https://www.yicai.com/video/103406325.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_eb14962f27ac89bb27cf",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T11:44+08:00",
+   "fetched_at": "2026-10-23T15:11+08:00",
+   "title": "【现货】10月23日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261023/c681013975.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_643ca7338fb2519088cb",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T10:26+08:00",
+   "fetched_at": "2026-10-23T15:11+08:00",
+   "title": "本周国内豆粕期价整体呈震荡下跌走势",
+   "summary": "昨日国内豆粕期价收盘略微上涨。受美国大豆收获进展顺利、CBOT大豆期价走势偏弱等影响,本周国内豆粕期价整体呈震荡下跌走势,昨日收盘略微上涨,反弹幅度有限。",
+   "source": "国家粮食和物资储备局",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610233905470375.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_df39bbc02ef77d0952df",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T10:20+08:00",
+   "fetched_at": "2026-10-23T15:11+08:00",
+   "title": "生意社2026年10月23日PTA趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-23/doc-iniweqhr5595096.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_cb26c1df6f8d5e94c99a",
    "date": "2026-10-23",
@@ -647,6 +723,25 @@
     "猪价"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_1af7ca3ae2285c85e98c",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T19:45+08:00",
+   "fetched_at": "2026-10-23T15:11+08:00",
+   "title": "刚刚 全线下跌 生猪、红枣再创新低!最新研判",
+   "summary": "",
+   "source": "东方财富",
+   "type": "价格行情",
+   "url": "https://emwap.eastmoney.com/a/202610223903885223.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_0cdd6aa819371562bd25",
@@ -1770,6 +1865,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9a4b302501d2ec81e9f8",
+   "date": "2026-10-19",
+   "published_at": "2026-10-19T22:44+08:00",
+   "fetched_at": "2026-10-23T15:11+08:00",
+   "title": "供应商涉及印尼林火 亚洲纸浆纸品接获绿色标签限制通知",
+   "summary": "",
+   "source": "8world",
+   "type": "供需动态",
+   "url": "https://www.8world.com/singapore/haze-asia-pulp-paper-singapore-environment-council-3314541",
+   "company": "",
+   "material_ids": [
+    "SP"
+   ],
+   "matched_keywords": [
+    "纸浆"
    ],
    "relevance_score": 8
   },
@@ -3823,121 +3937,6 @@
    ],
    "matched_keywords": [
     "乳清蛋白"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2cf19dc9b1973e8a589b",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T10:31+08:00",
-   "fetched_at": "2026-10-14T00:13+08:00",
-   "title": "豆一突破性上涨供需面是否支持继续上行?|厄尔尼诺现象|豆一期货|农产品|黑龙江省|大豆",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-12/detail-iniuypff8437371.d.html",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆",
-    "豆一"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5eb61c046a2cd2a15990",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T09:55+08:00",
-   "fetched_at": "2026-10-13T16:12+08:00",
-   "title": "观察 | 双汇因兽药残留超标事件被罚没上亿元,给生猪产业带来什么警示",
-   "summary": "双汇发展是国内老牌肉制品龙头,除了以火腿肠为代表的肉食品业务,生猪屠宰也是双汇的支柱业务之一。在行业内,生猪产销分离的模式较为常见,屠宰企业外购生猪,而上游供应方分散,容易造成上下游信息不对称。",
-   "source": "第一财经",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610133893754784.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_a3687fe3e52f27e77b8b",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T09:22+08:00",
-   "fetched_at": "2026-10-13T16:12+08:00",
-   "title": "生猪主力合约跌逾2%",
-   "summary": "生猪主力合约跌幅扩大至逾2%,现报10145元/吨。",
-   "source": "第一财经",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610133893568549.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_93139cdbf697ba70aab2",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T09:17+08:00",
-   "fetched_at": "2026-10-13T16:12+08:00",
-   "title": "牧原股份:公司9月的生猪养殖完全成本略低于11.5元/kg",
-   "summary": "南财智讯10月13日电,牧原股份在互动平台表示,公司2026年9月的生猪养殖完全成本略低于11.5元/kg。",
-   "source": "南方财经网",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610133893528254.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_63426a40e59c98591984",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T08:52+08:00",
-   "fetched_at": "2026-10-13T09:09+08:00",
-   "title": "农产品 | 玉米:现货市场好转带动盘面回调",
-   "summary": "驻马店白沙花生现货价格7750元/吨,基差14元/吨;南阳白沙花生现货价格7800元/吨,基差64元/吨;河南大杂米通货现货价格7600元/吨,基差-136元/吨;辽宁白沙现货价格8050元/吨,基差314元/吨;兴城小日本现货价格8150元/吨,基差414元/吨。",
-   "source": "南华期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610133893351813.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b23127c22390b68530b3",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T08:32+08:00",
-   "fetched_at": "2026-10-13T09:09+08:00",
-   "title": "农产品 | 棕榈油:马棕增库阶段性利空兑现 短期连棕探底后企稳",
-   "summary": "原油价格上涨提供支持。 国内,种植端,新疆大部分地区棉花已充分吐絮,现已开启大面积机采,新棉陆续上市,开秤价区间7.30-7.40元/公斤,整体籽棉收购价维持高位,轧花厂收购偏理性,后续持续跟踪采收进度。供应端,新棉上市提速、供应增多。",
-   "source": "正信期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610133893320688.html",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   }
