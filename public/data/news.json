@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T07:02+08:00",
+ "updated_at": "2026-10-23T09:46+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,10 +10,10 @@
   "finance.sina.com.cn": 4,
   "www.caiwennews.com": 1,
   "一德期货": 1,
-  "上海中期期货": 2,
+  "上海中期期货": 3,
   "东方财富": 2,
   "东方财富研究中心": 1,
-  "中华网": 7,
+  "中华网": 8,
   "中国产业经济信息网": 1,
   "中国经营报": 1,
   "中州期货": 1,
@@ -44,10 +44,10 @@
   "时代周报": 2,
   "期货日报": 10,
   "正信期货": 1,
-  "每日经济新闻": 6,
+  "每日经济新闻": 5,
   "混沌天成期货": 1,
   "瑞达期货": 2,
-  "申银万国期货": 3,
+  "申银万国期货": 2,
   "界面新闻": 4,
   "第一财经": 5,
   "联合早报": 1,
@@ -56,12 +56,90 @@
   "虎嗅网": 2,
   "观点网": 1,
   "证券之星": 6,
-  "证券时报": 1,
+  "证券日报": 1,
   "诗华日报": 1,
   "财联社": 4,
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_cb26c1df6f8d5e94c99a",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T09:30+08:00",
+   "fetched_at": "2026-10-23T09:46+08:00",
+   "title": "31省市猪价全线下跌 供给过剩压制反弹",
+   "summary": "",
+   "source": "中华网",
+   "type": "价格行情",
+   "url": "https://news.china.com/socialgd/10000169/20261023/49812602.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_cb38a821daceb4305e32",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T09:25+08:00",
+   "fetched_at": "2026-10-23T09:46+08:00",
+   "title": "华泰期货:出栏均重上升,猪价偏弱震荡",
+   "summary": "作者: 薛钧元 生猪观点 市场要闻与重要数据 期货方面,昨日收盘生猪 2701 合约9860元/吨,较前交易日变动-285.00元/吨,幅度-2.81%。",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniweiyt5675985.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_8441690e9718152725d6",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T09:02+08:00",
+   "fetched_at": "2026-10-23T09:46+08:00",
+   "title": "生猪期价失守万元关口 分析称短期上涨空间有限",
+   "summary": "银河期货农产品期货研究员陈界正告诉记者,当前生猪现货市场压力较大,公开数据显示生猪均价仍处在回调阶段,现货价格回落拖累期货价格。近年来,生猪产能提高比较明显,出栏量居高不下,生猪体重维持高位水平,因此整体供应压力开始集中反映,预计猪价未来将持续呈现较大幅度下跌趋势。",
+   "source": "证券日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610233905180622.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_6281a81bef3f99c49843",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T08:59+08:00",
+   "fetched_at": "2026-10-23T09:46+08:00",
+   "title": "农产品 | 南美大豆产量风险加大 关注后期南美天气变化",
+   "summary": "豆粕: 隔夜豆粕依托3250元/吨震荡,10月份美豆收割压力上升,截至2026年10月18日当周,美国大豆收割率为64%,五年均值为65%。",
+   "source": "上海中期期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610233904969353.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_64c2509779e0bc920d54",
    "date": "2026-10-23",
@@ -3860,85 +3938,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9be6a46cf51d49a5c6a9",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T08:28+08:00",
-   "fetched_at": "2026-10-13T09:09+08:00",
-   "title": "农产品 | 生猪:市场供给相对充裕 需求平平",
-   "summary": "【生猪】 生猪:全国生猪均价10.12元每公斤,下跌0.15元。养殖端北方出栏有增有减,南方增量,成交一般。屠企采购顺畅,部分计划完成较快。市场供给相对充裕,需求平平,供大于需持续。",
-   "source": "申银万国期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610133893319589.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2f9c06a17faa0e42cd7e",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T05:46+08:00",
-   "fetched_at": "2026-10-13T09:09+08:00",
-   "title": "CBOT农产品期货主力合约收盘多数上涨,玉米期货涨0.78%",
-   "summary": "当地时间10月12日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数上涨,大豆期货跌0.29%报1288.25美分/蒲式耳,玉米期货涨0.78%报483.50美分/蒲式耳,小麦期货涨0.26%报672.75美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610133893074811.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_567a3fc21d59fad973da",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T02:07+08:00",
-   "fetched_at": "2026-10-13T02:44+08:00",
-   "title": "养殖端集中出栏 9月国内生猪价格有所下滑",
-   "summary": "预计10月份生猪价格或震荡下滑。但11月份生猪市场需求或陆续增加,随着大猪需求好转、价格上涨,标猪价格或得以支撑;此外,养殖户或有压栏增重表现,等待12月份冬至前后出栏,因此11月份供应或短时收窄,猪价不乏上涨可能。",
-   "source": "证券时报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610133893054051.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_6dbc210eea15ecb1b25f",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T02:00+08:00",
-   "fetched_at": "2026-10-13T16:12+08:00",
-   "title": "短期供应压力仍存预计生猪期货价格震荡调整为主|银河期货|仔猪价格|申银万国|猪肉|猪价",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-12/detail-iniuxwik0528399.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价",
-    "仔猪"
    ],
    "relevance_score": 8
   }

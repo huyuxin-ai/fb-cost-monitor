@@ -1,5 +1,83 @@
 [
  {
+  "id": "news_cb26c1df6f8d5e94c99a",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T09:30+08:00",
+  "fetched_at": "2026-10-23T09:46+08:00",
+  "title": "31省市猪价全线下跌 供给过剩压制反弹",
+  "summary": "",
+  "source": "中华网",
+  "type": "价格行情",
+  "url": "https://news.china.com/socialgd/10000169/20261023/49812602.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_cb38a821daceb4305e32",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T09:25+08:00",
+  "fetched_at": "2026-10-23T09:46+08:00",
+  "title": "华泰期货:出栏均重上升,猪价偏弱震荡",
+  "summary": "作者: 薛钧元 生猪观点 市场要闻与重要数据 期货方面,昨日收盘生猪 2701 合约9860元/吨,较前交易日变动-285.00元/吨,幅度-2.81%。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniweiyt5675985.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_8441690e9718152725d6",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T09:02+08:00",
+  "fetched_at": "2026-10-23T09:46+08:00",
+  "title": "生猪期价失守万元关口 分析称短期上涨空间有限",
+  "summary": "银河期货农产品期货研究员陈界正告诉记者,当前生猪现货市场压力较大,公开数据显示生猪均价仍处在回调阶段,现货价格回落拖累期货价格。近年来,生猪产能提高比较明显,出栏量居高不下,生猪体重维持高位水平,因此整体供应压力开始集中反映,预计猪价未来将持续呈现较大幅度下跌趋势。",
+  "source": "证券日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610233905180622.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_6281a81bef3f99c49843",
+  "date": "2026-10-23",
+  "published_at": "2026-10-23T08:59+08:00",
+  "fetched_at": "2026-10-23T09:46+08:00",
+  "title": "农产品 | 南美大豆产量风险加大 关注后期南美天气变化",
+  "summary": "豆粕: 隔夜豆粕依托3250元/吨震荡,10月份美豆收割压力上升,截至2026年10月18日当周,美国大豆收割率为64%,五年均值为65%。",
+  "source": "上海中期期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610233904969353.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_64c2509779e0bc920d54",
   "date": "2026-10-23",
   "published_at": "2026-10-23T06:37+08:00",
@@ -9613,83 +9691,5 @@
    "玉米"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_97f8bb77b2d9adbd437f",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T15:23+08:00",
-  "fetched_at": "2026-09-23T21:27+08:00",
-  "title": "乙二醇需求不足承压回落 PTA成本溢价或将消退",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-23/doc-inisvcpz8482332.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_119b6ed6a0223fc2bab1",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T15:16+08:00",
-  "fetched_at": "2026-09-23T21:27+08:00",
-  "title": "豆粕价格短期区间震荡 菜籽粕到港增多步入旺季",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-23/doc-inisvcpz8482265.shtml",
-  "company": "",
-  "material_ids": [
-   "M",
-   "RM"
-  ],
-  "matched_keywords": [
-   "豆粕",
-   "菜籽粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6180dddc53be700c983b",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T11:43+08:00",
-  "fetched_at": "2026-09-23T15:31+08:00",
-  "title": "【现货】9月23日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260923/c680203427.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c13798c6e5159277ed15",
-  "date": "2026-09-23",
-  "published_at": "2026-09-23T10:27+08:00",
-  "fetched_at": "2026-09-23T15:31+08:00",
-  "title": "本周国内豆粕现货报价上涨",
-  "summary": "昨日国内豆粕期价收盘小幅上涨。市场关注中美领导人会晤及经贸磋商结果,交易情绪偏谨慎,豆粕期价延续窄幅震荡走势,受进口成本等支撑,昨日收盘小幅上涨。",
-  "source": "国家粮食和物资储备局",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609233882253444.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
  }
 ]
