@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-10-24T11:59+08:00",
+ "updated_at": "2026-10-24T21:10+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 5,
   "3TRES3": 1,
   "8world": 1,
-  "IndexBox": 3,
+  "IndexBox": 2,
   "QQ News": 2,
   "finance.sina.com.cn": 4,
   "www.agripost.cn": 1,
@@ -39,6 +39,7 @@
   "广州期货": 1,
   "手机新浪网": 1,
   "搜狐": 19,
+  "搜狐网": 1,
   "新华财经": 5,
   "新浪网": 6,
   "新浪财经": 26,
@@ -62,6 +63,25 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_9eca82bb52741ff6ef3c",
+   "date": "2026-10-24",
+   "published_at": "2026-10-24T16:52+08:00",
+   "fetched_at": "2026-10-24T21:10+08:00",
+   "title": "今日核桃价格一览|10月24日",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1092177057_122014422",
+   "company": "",
+   "material_ids": [
+    "WALNUT"
+   ],
+   "matched_keywords": [
+    "核桃"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_8ec62ddacee3eb32f8f3",
    "date": "2026-10-24",
@@ -3910,25 +3930,6 @@
    "source": "币界网",
    "type": "价格行情",
    "url": "https://www.528btc.com/kx/1151340982.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_94cb4b7170b4828700c3",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T22:30+08:00",
-   "fetched_at": "2026-10-14T00:13+08:00",
-   "title": "美国农业部生猪报告2026年10月13日:购买量参差,协商价格走软 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-hog-report-mixed-purchase-volumes-softer-negotiated-prices/",
    "company": "",
    "material_ids": [
     "LH"

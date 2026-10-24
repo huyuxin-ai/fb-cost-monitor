@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_9eca82bb52741ff6ef3c",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T16:52+08:00",
+  "fetched_at": "2026-10-24T21:10+08:00",
+  "title": "今日核桃价格一览|10月24日",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1092177057_122014422",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_270f03b2e610cfd0518e",
   "date": "2026-10-24",
   "published_at": "2026-10-24T13:54+08:00",
@@ -9673,25 +9692,5 @@
    "菜油"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_7990780eada6929bb30e",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T09:59+08:00",
-  "fetched_at": "2026-09-24T11:49+08:00",
-  "title": "华泰期货:豆一多空拉锯,花生交投平淡",
-  "summary": "来源:华泰期货 作者: 白旭宇 大豆观点 市场分析 期货方面,昨日收盘豆一2611合约5007.00元/吨,较前日变化+21.00元/吨,幅度+0.42%。",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-24/doc-iniswvxm0548408.shtml",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "豆一",
-   "大豆"
-  ],
-  "relevance_score": 12
  }
 ]
