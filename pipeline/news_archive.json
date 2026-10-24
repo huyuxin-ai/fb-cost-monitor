@@ -1,5 +1,25 @@
 [
  {
+  "id": "news_8ec62ddacee3eb32f8f3",
+  "date": "2026-10-24",
+  "published_at": "2026-10-24T09:36+08:00",
+  "fetched_at": "2026-10-24T11:59+08:00",
+  "title": "国家统计局:10月中旬22种产品价格上涨,生猪价格环比下降4.9%",
+  "summary": "其中,液化天然气价格为6749.4元/吨,环比增长9.1%;生猪(外三元)价格为9.8元/千克,环比下降4.9%。",
+  "source": "界面新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610243907058257.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_ea555c3204d18232031d",
   "date": "2026-10-24",
   "published_at": "2026-10-24T07:28+08:00",
@@ -9672,24 +9692,5 @@
    "白糖"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_442238ad0baefe0d4a45",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T09:33+08:00",
-  "fetched_at": "2026-09-24T11:49+08:00",
-  "title": "国家统计局:9月中旬生猪(外三元)价格环比下降2.7%",
-  "summary": "其中生猪(外三元)价格为10.7元/千克,环比下降2.7%。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609243883342092.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
  }
 ]

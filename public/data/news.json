@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T07:55+08:00",
+ "updated_at": "2026-10-24T11:59+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -40,7 +40,7 @@
   "手机新浪网": 1,
   "搜狐": 19,
   "新华财经": 5,
-  "新浪网": 7,
+  "新浪网": 6,
   "新浪财经": 25,
   "时代周报": 2,
   "期货日报": 10,
@@ -48,7 +48,7 @@
   "混沌天成期货": 1,
   "瑞达期货": 2,
   "申银万国期货": 2,
-  "界面新闻": 4,
+  "界面新闻": 5,
   "第一财经": 4,
   "联合早报": 1,
   "茉莉花新闻网": 1,
@@ -62,6 +62,26 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_8ec62ddacee3eb32f8f3",
+   "date": "2026-10-24",
+   "published_at": "2026-10-24T09:36+08:00",
+   "fetched_at": "2026-10-24T11:59+08:00",
+   "title": "国家统计局:10月中旬22种产品价格上涨,生猪价格环比下降4.9%",
+   "summary": "其中,液化天然气价格为6749.4元/吨,环比增长9.1%;生猪(外三元)价格为9.8元/千克,环比下降4.9%。",
+   "source": "界面新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610243907058257.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_ea555c3204d18232031d",
    "date": "2026-10-24",
@@ -3916,25 +3936,6 @@
    "matched_keywords": [
     "棕榈油",
     "mpob"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_44a548cce8d90d3f2cff",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T18:30+08:00",
-   "fetched_at": "2026-10-14T00:13+08:00",
-   "title": "今日核桃价格一览|10月12日",
-   "summary": "",
-   "source": "新浪网",
-   "type": "价格行情",
-   "url": "https://k.sina.com.cn/article_5953466437_162dab0450670beq6e.html",
-   "company": "",
-   "material_ids": [
-    "WALNUT"
-   ],
-   "matched_keywords": [
-    "核桃"
    ],
    "relevance_score": 8
   }
