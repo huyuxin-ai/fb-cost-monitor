@@ -27,7 +27,7 @@
   "华夏时报网": 1,
   "南华期货": 1,
   "南方财经网": 14,
-  "同花顺": 16,
+  "同花顺": 15,
   "同花顺财经": 6,
   "国信期货": 1,
   "国家粮食和物资储备局": 3,
@@ -41,7 +41,7 @@
   "搜狐": 19,
   "新华财经": 5,
   "新浪网": 6,
-  "新浪财经": 25,
+  "新浪财经": 26,
   "时代周报": 2,
   "期货日报": 10,
   "每日经济新闻": 6,
@@ -1190,6 +1190,25 @@
     "仔猪"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_2db132299917957ded4b",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T04:24+08:00",
+   "fetched_at": "2026-10-11T01:41+08:00",
+   "title": "多重因素推动猪价10月以来小幅反弹",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-10-09/detail-iniuqiyt7222100.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_b88b61e9d0a1390e8d09",
@@ -3916,26 +3935,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6b6c870dce124b5f7608",
-   "date": "2026-10-13",
-   "published_at": "2026-10-13T18:42+08:00",
-   "fetched_at": "2026-10-15T15:07+08:00",
-   "title": "MPOB 9月报告解读:库存升至历史高位,棕榈油价格上行承压",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20261013/c680634770.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "mpob"
    ],
    "relevance_score": 8
   }
