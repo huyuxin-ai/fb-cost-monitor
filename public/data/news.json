@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T22:30+08:00",
+ "updated_at": "2026-10-26T02:14+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -35,12 +35,11 @@
   "导油网": 1,
   "广发期货": 1,
   "广州期货": 1,
-  "手机新浪网": 1,
   "搜狐": 19,
   "搜狐网": 2,
   "新华财经": 5,
   "新浪网": 6,
-  "新浪财经": 27,
+  "新浪财经": 28,
   "时代周报": 2,
   "期货日报": 9,
   "每日经济新闻": 6,
@@ -62,6 +61,25 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_3bd2b867ed0256034e17",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T00:00+08:00",
+   "fetched_at": "2026-10-26T02:14+08:00",
+   "title": "10月供应压力仍存,11月猪价受限",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-26/doc-iniwnkhm6075284.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_a4cdca0ce47d84599e75",
    "date": "2026-10-25",
@@ -3918,26 +3936,6 @@
     "豆粕"
    ],
    "relevance_score": 11
-  },
-  {
-   "id": "news_d2926764df613b6239f2",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T08:47+08:00",
-   "fetched_at": "2026-10-18T17:27+08:00",
-   "title": "#蟑螂粉成蛋白粉平替#【蛋白粉“伤肾”争议背后:乳清蛋白成本暴涨蟑螂粉成平替?】#医生回应蛋白粉伤肾争议# #蛋白粉涨价蟑螂粉成平替#近期,42岁的演员向佐在综艺里自曝,早年为了快速增肌,把蛋白粉冲得很浓还长期超量喝,后来医生告诉他肾功能相当于70岁",
-   "summary": "",
-   "source": "手机新浪网",
-   "type": "价格行情",
-   "url": "https://www.sina.cn/news/detail/5353842009181647.html",
-   "company": "",
-   "material_ids": [
-    "WPC34",
-    "WPC80"
-   ],
-   "matched_keywords": [
-    "乳清蛋白"
-   ],
-   "relevance_score": 8
   }
  ]
 }

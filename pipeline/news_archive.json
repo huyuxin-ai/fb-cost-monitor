@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_3bd2b867ed0256034e17",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T00:00+08:00",
+  "fetched_at": "2026-10-26T02:14+08:00",
+  "title": "10月供应压力仍存,11月猪价受限",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-26/doc-iniwnkhm6075284.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a4cdca0ce47d84599e75",
   "date": "2026-10-25",
   "published_at": "2026-10-25T16:25+08:00",
@@ -9670,24 +9689,5 @@
    "猪价"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_d3b5ab161c10f1d8a45e",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T15:12+08:00",
-  "fetched_at": "2026-09-24T17:06+08:00",
-  "title": "白砂糖被果葡糖浆替代?网友吵起来,我们翻了15款饮料的配料表",
-  "summary": "林先平介绍,白砂糖受农产品收成、进口配额影响,价格波动大,果葡糖浆以玉米淀粉为原料供给相对平稳,二者搭配可对冲原料涨价风险,稳定物料成本。风味上,果葡糖浆果糖甜味来得快、清凉感强;白砂糖甜味醇厚回甘足。复配可以形成更均衡的甜味曲线,改善单用某一种糖带来的甜腻或后味单薄问题。",
-  "source": "新京报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609243883667265.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白砂糖"
-  ],
-  "relevance_score": 11
  }
 ]
