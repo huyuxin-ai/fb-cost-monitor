@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T08:05+08:00",
+ "updated_at": "2026-10-25T13:07+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,7 +7,7 @@
   "3TRES3": 1,
   "8world": 1,
   "IndexBox": 2,
-  "QQ News": 2,
+  "QQ News": 3,
   "finance.sina.com.cn": 4,
   "www.agripost.cn": 1,
   "www.caiwennews.com": 1,
@@ -18,7 +18,6 @@
   "中华网": 8,
   "中国产业经济信息网": 1,
   "中国经营报": 1,
-  "中州期货": 1,
   "光大期货": 1,
   "农业农村部": 1,
   "凤凰网": 1,
@@ -43,7 +42,7 @@
   "新浪网": 6,
   "新浪财经": 26,
   "时代周报": 2,
-  "期货日报": 10,
+  "期货日报": 9,
   "每日经济新闻": 6,
   "混沌天成期货": 1,
   "瑞达期货": 2,
@@ -59,9 +58,29 @@
   "证券日报": 1,
   "诗华日报": 1,
   "财联社": 5,
-  "金十数据": 2
+  "金十数据": 2,
+  "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_1830d80c4caeeb621989",
+   "date": "2026-10-25",
+   "published_at": "2026-10-25T10:25+08:00",
+   "fetched_at": "2026-10-25T13:07+08:00",
+   "title": "雪州进口生猪不影响卫生 陈泓缣斥组织胡扯苏丹谕令",
+   "summary": "",
+   "source": "马来西亚东方日报",
+   "type": "供需动态",
+   "url": "https://www.orientaldaily.com.my/news/nation/2026/10/25/857760",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_71a9c43cd0f1e43b343c",
    "date": "2026-10-25",
@@ -817,6 +836,26 @@
     "能繁母猪"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_86ba5b70fc27f3a78a43",
+   "date": "2026-10-22",
+   "published_at": "2026-10-22T11:59+08:00",
+   "fetched_at": "2026-10-25T13:07+08:00",
+   "title": "生猪价格年内2次探底",
+   "summary": "",
+   "source": "QQ News",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20261022A05XVE00",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_c7ca8140ecbe1e0b4c59",
@@ -3896,45 +3935,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_369ae8e12a57b31cfb65",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T08:36+08:00",
-   "fetched_at": "2026-10-14T13:55+08:00",
-   "title": "农产品 | 生猪:现货报价继续下跌盘面价格持续走低",
-   "summary": "3价格方面:参考钢联数据,10月13日河南生猪价格维持在10.08元/公斤,环比(-0.09)元/公斤。 三、市场研判: 单边:基于当前价格和驱动考虑,我们认为多空胜率和赔率都偏低,即期望收益中性偏低,建议投资者观望为主。",
-   "source": "中州期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610143894802180.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_e0e12bae2c77fa7f3410",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T08:02+08:00",
-   "fetched_at": "2026-10-14T13:55+08:00",
-   "title": "下游需求偏弱 PTA宽幅震荡",
-   "summary": "受终端弱需求影响,下游聚酯价格涨幅不及原料,利润压缩,出现明显负反馈。截至10月8日,聚酯综合负荷回落至74%,大幅低于往年同期水平。具体来看,由于亏损持续时间较长,瓶片和短纤的负反馈更为明显:瓶片负荷近1个月持续走低,已跌至57%,短纤负荷大幅下滑至62%。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610143894917457.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
    ],
    "relevance_score": 8
   }

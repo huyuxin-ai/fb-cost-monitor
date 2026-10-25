@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_1830d80c4caeeb621989",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T10:25+08:00",
+  "fetched_at": "2026-10-25T13:07+08:00",
+  "title": "雪州进口生猪不影响卫生 陈泓缣斥组织胡扯苏丹谕令",
+  "summary": "",
+  "source": "马来西亚东方日报",
+  "type": "供需动态",
+  "url": "https://www.orientaldaily.com.my/news/nation/2026/10/25/857760",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_71a9c43cd0f1e43b343c",
   "date": "2026-10-25",
   "published_at": "2026-10-25T06:25+08:00",
@@ -774,6 +793,26 @@
    "能繁母猪"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_86ba5b70fc27f3a78a43",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T11:59+08:00",
+  "fetched_at": "2026-10-25T13:07+08:00",
+  "title": "生猪价格年内2次探底",
+  "summary": "",
+  "source": "QQ News",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20261022A05XVE00",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_c7ca8140ecbe1e0b4c59",
@@ -9650,43 +9689,5 @@
    "猪价"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_ed0e9307b1f9aae64817",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T11:47+08:00",
-  "fetched_at": "2026-09-25T19:41+08:00",
-  "title": "09月24日猪评:旺季遇冷!猪价承压走低,“逢节下跌”魔咒再度上演!",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://cj.sina.com.cn/articles/view/3049150892/b5be59ac00101unci",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a26f55920bf2a38220da",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T11:41+08:00",
-  "fetched_at": "2026-09-24T11:49+08:00",
-  "title": "【现货】9月24日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "news.10jqka.com.cn",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260924/c680248727.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
  }
 ]
