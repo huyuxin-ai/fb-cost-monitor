@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T02:14+08:00",
+ "updated_at": "2026-10-26T07:27+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,10 +7,10 @@
   "3TRES3": 1,
   "8world": 1,
   "IndexBox": 2,
-  "QQ News": 3,
+  "QQ News": 4,
+  "e南洋": 1,
   "finance.sina.com.cn": 4,
   "www.agripost.cn": 1,
-  "www.caiwennews.com": 1,
   "一德期货": 1,
   "上海中期期货": 2,
   "东方财富": 3,
@@ -29,17 +29,17 @@
   "同花顺": 15,
   "同花顺财经": 6,
   "国信期货": 1,
-  "国家粮食和物资储备局": 3,
+  "国家粮食和物资储备局": 2,
   "国投期货": 1,
   "国际金融报": 1,
   "导油网": 1,
   "广发期货": 1,
   "广州期货": 1,
   "搜狐": 19,
-  "搜狐网": 2,
+  "搜狐网": 3,
   "新华财经": 5,
   "新浪网": 6,
-  "新浪财经": 28,
+  "新浪财经": 27,
   "时代周报": 2,
   "期货日报": 9,
   "每日经济新闻": 6,
@@ -47,13 +47,13 @@
   "瑞达期货": 2,
   "申银万国期货": 2,
   "界面新闻": 5,
-  "第一财经": 4,
+  "第一财经": 3,
   "联合早报": 1,
   "茉莉花新闻网": 1,
   "蓝鲸财经": 1,
   "虎嗅网": 2,
   "观点网": 1,
-  "证券之星": 6,
+  "证券之星": 7,
   "证券日报": 1,
   "诗华日报": 1,
   "财联社": 5,
@@ -62,21 +62,60 @@
  },
  "items": [
   {
-   "id": "news_3bd2b867ed0256034e17",
+   "id": "news_8fad794383caac98cdc7",
    "date": "2026-10-26",
-   "published_at": "2026-10-26T00:00+08:00",
-   "fetched_at": "2026-10-26T02:14+08:00",
-   "title": "10月供应压力仍存,11月猪价受限",
+   "published_at": "2026-10-26T06:46+08:00",
+   "fetched_at": "2026-10-26T07:27+08:00",
+   "title": "猪价大降近9%,跌回“姥姥家”!10月26日多地猪价突然上涨,接下来“柳暗花明”?",
    "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-26/doc-iniwnkhm6075284.shtml",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1092559967_120238851",
    "company": "",
    "material_ids": [
     "LH"
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_3bd2b867ed0256034e17",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T00:00+08:00",
+   "fetched_at": "2026-10-26T02:14+08:00",
+   "title": "10月供应压力仍存,11月猪价受限",
+   "summary": "来源:今天生猪价格行情 养殖端现金流承压、对后市行情仍存博弈心态,主动延后出栏与被动压栏现象并存,当前全国生猪出栏均重仍维持在高位...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-26/doc-iniwnkhm6075284.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_7b787e1a49a3afdbc691",
+   "date": "2026-10-25",
+   "published_at": "2026-10-25T17:20+08:00",
+   "fetched_at": "2026-10-26T07:27+08:00",
+   "title": "雪州进口砂拉越生猪引争议 陈泓缣:政策去年已落实",
+   "summary": "",
+   "source": "e南洋",
+   "type": "政策与供应",
+   "url": "https://www.enanyang.my/news/20261025/Nation/1426678",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
    ],
    "relevance_score": 8
   },
@@ -388,6 +427,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_fd31282e073bc4c9de9b",
+   "date": "2026-10-23",
+   "published_at": "2026-10-23T12:16+08:00",
+   "fetched_at": "2026-10-26T07:27+08:00",
+   "title": "供应收紧叠加出口强劲,马棕榈油期货站上4800林吉特_期货评论",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://futures.stockstar.com/IG2026102300020460.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
    ],
    "relevance_score": 8
   },
@@ -1209,6 +1267,27 @@
    "relevance_score": 8
   },
   {
+   "id": "news_6fe903b2999e8ad96f12",
+   "date": "2026-10-21",
+   "published_at": "2026-10-21T13:21+08:00",
+   "fetched_at": "2026-10-26T07:27+08:00",
+   "title": "2026年10月21日大豆豆油价格:东北大豆新粮惜售挺价,豆油普涨",
+   "summary": "",
+   "source": "QQ News",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20261021A07MKA00",
+   "company": "",
+   "material_ids": [
+    "A",
+    "Y"
+   ],
+   "matched_keywords": [
+    "大豆",
+    "豆油"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_4fa9dd569f5be98055f6",
    "date": "2026-10-21",
    "published_at": "2026-10-21T11:51+08:00",
@@ -2001,6 +2080,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d477f6b48c8685a50259",
+   "date": "2026-10-20",
+   "published_at": "2026-10-20T09:09+08:00",
+   "fetched_at": "2026-10-26T07:27+08:00",
+   "title": "【油脂油料】印尼运河水位下降影响棕榈油运输,巴西获得有利天气播种进度加快",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "政策与供应",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-20/doc-inivvsvt5809865.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
    ],
    "relevance_score": 8
   },
@@ -3840,102 +3938,6 @@
     "辅酶q10"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_86ee371f6bd1479bbf00",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T10:30+08:00",
-   "fetched_at": "2026-10-14T13:55+08:00",
-   "title": "优然牧业盘中涨超5%,原奶价格拐点已现,机构推荐底部反转",
-   "summary": "",
-   "source": "www.caiwennews.com",
-   "type": "价格行情",
-   "url": "https://www.caiwennews.com/article/1650213.shtml",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶",
-    "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_d33a3860fc9873dba37c",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T10:29+08:00",
-   "fetched_at": "2026-10-14T13:55+08:00",
-   "title": "本周国内豆粕现货基差报价上涨",
-   "summary": "本周豆粕现货价格小幅波动,受节后补库需求提振,油厂库存下降,基差报价小幅上涨。9月22日,沿海地区43%蛋白豆粕现货报价3260~3480元/吨,较10月8日下跌40元/吨至上涨10元/吨不等;现货基差报价M2701-40~+100元/吨,较10月8日上涨30~50元/吨。",
-   "source": "国家粮食和物资储备局",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610143895207636.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_6ef42694aa8eeefa48e0",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T10:28+08:00",
-   "fetched_at": "2026-10-14T13:55+08:00",
-   "title": "华泰期货:油厂开机回升,豆粕维持震荡",
-   "summary": "作者: 薛钧元 粕类观点 市场要闻与重要数据 期货方面,昨日收盘豆粕2701合约3361元/吨,较前日变动-22元/吨,幅度-0.65%;菜粕2701合约2374元/吨,较前日变动+12元/吨...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-14/doc-iniveefm7232076.shtml",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_44e236fd599046795e45",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T10:27+08:00",
-   "fetched_at": "2026-10-14T13:55+08:00",
-   "title": "华泰期货:三大油脂走势分化,豆油盘面弱势调整",
-   "summary": "作者: 白旭宇 油脂观点 市场分析 期货方面,昨日收盘棕榈油2701合约9625.00元/吨,环比变化-59元,幅度-0.61%;昨日收盘豆油2701合约8949.00元/吨,环比变化-19.00元...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-14/doc-iniveefm7231245.shtml",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_a6de5b986b00427c0e32",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T08:57+08:00",
-   "fetched_at": "2026-10-14T13:55+08:00",
-   "title": "中国银河证券:超级厄尔尼诺已形成 预计近期豆粕等走势偏强",
-   "summary": "中国银河证券研报称,超级厄尔尼诺已形成,展望未来,预计近期豆粕、菜粕、三大油脂、白糖偏强,玉米、生猪、棉花震荡。核心主线是超强厄尔尼诺注入的远期天气升水,叠加美豆\"利空出尽\" 后震荡偏强抬升进口成本。豆粕受利空出尽、国内供应阶段性偏紧及天气升水共振偏强;菜粕跟随豆粕运行。",
-   "source": "第一财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610143894863617.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 11
   }
  ]
 }
