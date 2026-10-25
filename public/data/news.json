@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T21:10+08:00",
+ "updated_at": "2026-10-25T08:05+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -34,12 +34,11 @@
   "国投期货": 1,
   "国际金融报": 1,
   "导油网": 1,
-  "币界网": 1,
   "广发期货": 1,
   "广州期货": 1,
   "手机新浪网": 1,
   "搜狐": 19,
-  "搜狐网": 1,
+  "搜狐网": 2,
   "新华财经": 5,
   "新浪网": 6,
   "新浪财经": 26,
@@ -63,6 +62,25 @@
   "金十数据": 2
  },
  "items": [
+  {
+   "id": "news_71a9c43cd0f1e43b343c",
+   "date": "2026-10-25",
+   "published_at": "2026-10-25T06:25+08:00",
+   "fetched_at": "2026-10-25T08:05+08:00",
+   "title": "10月25日猪价:拦不住!猪价下跌“如火如荼”!月末“枯木逢春”?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1092217722_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_9eca82bb52741ff6ef3c",
    "date": "2026-10-24",
@@ -3917,25 +3935,6 @@
    ],
    "matched_keywords": [
     "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b589254779e1f0e7774d",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T03:50+08:00",
-   "fetched_at": "2026-10-14T05:25+08:00",
-   "title": "ICE计划推出牛和生猪期货合约,挑战芝商所",
-   "summary": "",
-   "source": "币界网",
-   "type": "价格行情",
-   "url": "https://www.528btc.com/kx/1151340982.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 8
   }

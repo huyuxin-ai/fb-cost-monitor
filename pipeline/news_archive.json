@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_71a9c43cd0f1e43b343c",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T06:25+08:00",
+  "fetched_at": "2026-10-25T08:05+08:00",
+  "title": "10月25日猪价:拦不住!猪价下跌“如火如荼”!月末“枯木逢春”?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1092217722_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_9eca82bb52741ff6ef3c",
   "date": "2026-10-24",
   "published_at": "2026-10-24T16:52+08:00",
@@ -9667,29 +9686,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_4e4813753e6f674416bc",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T11:39+08:00",
-  "fetched_at": "2026-09-24T21:40+08:00",
-  "title": "食用油行情 | 菜油领涨豆油稳 棕榈油走弱",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1080327542_121118712",
-  "company": "",
-  "material_ids": [
-   "P",
-   "Y",
-   "OI"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "豆油",
-   "菜油"
   ],
   "relevance_score": 8
  }
