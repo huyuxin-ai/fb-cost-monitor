@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_a4cdca0ce47d84599e75",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T16:25+08:00",
+  "fetched_at": "2026-10-25T22:30+08:00",
+  "title": "终端需求支撑力度有限 本周国内生猪价格震荡下滑",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-24/detail-iniwikcs1972731.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e0d951b29473f942d873",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T13:53+08:00",
+  "fetched_at": "2026-10-25T22:30+08:00",
+  "title": "降血压降血脂哪个辅酶Q10效果最好?双十一辅酶Q10品牌怎么挑,2026十大品牌技术路线与原料溯源",
+  "summary": "",
+  "source": "凤凰网",
+  "type": "供需动态",
+  "url": "https://baby.ifeng.com/c/8xVgUkev4i6",
+  "company": "",
+  "material_ids": [
+   "COQ10"
+  ],
+  "matched_keywords": [
+   "辅酶q10"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_1830d80c4caeeb621989",
   "date": "2026-10-25",
   "published_at": "2026-10-25T10:25+08:00",
@@ -9648,45 +9687,6 @@
   ],
   "matched_keywords": [
    "白砂糖"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_b13a71d4f29a74ffd284",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T12:03+08:00",
-  "fetched_at": "2026-09-24T17:06+08:00",
-  "title": "货架经济学丨果葡糖浆替代白砂糖成本减一半,也得消费者买账",
-  "summary": "上述饮料企业表示,果葡糖浆以玉米等淀粉原料酶法转化,工业化程度高、单价低于蔗糖;从工艺看,它是液态糖浆、溶解好、甜度易调配,适合大规模生产。果葡糖浆在国标中属于淀粉糖,和白砂糖一样仍是含热量的添加糖。",
-  "source": "新京报",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609243883538662.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白砂糖"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_9b33de7bb14b4f3bf5bf",
-  "date": "2026-09-24",
-  "published_at": "2026-09-24T11:54+08:00",
-  "fetched_at": "2026-09-24T17:06+08:00",
-  "title": "高管出走,实控人陷离婚诉讼!西南生猪龙头盘中闪崩,公司回应",
-  "summary": "公司后续经营主线仍将聚焦高质量发展与降本增效,落实现有产能调控相关安排,8月份公司生猪养殖平均成本为11.8元/公斤。 业绩层面,生猪价格下行压力已经体现在神农集团财报之中。",
-  "source": "21世纪经济报道",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609243883536066.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
   ],
   "relevance_score": 11
  }
