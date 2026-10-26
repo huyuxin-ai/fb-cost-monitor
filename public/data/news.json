@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T22:57+08:00",
+ "updated_at": "2026-10-26T23:21+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,6 +8,7 @@
   "8world": 1,
   "IndexBox": 2,
   "QQ News": 4,
+  "Sin Chew Daily": 1,
   "e南洋": 1,
   "finance.sina.com.cn": 4,
   "https://www.agripost.cn/": 1,
@@ -17,7 +18,7 @@
   "东方财富": 3,
   "东方财富Choice数据": 1,
   "东方财富研究中心": 1,
-  "中华网": 9,
+  "中华网": 8,
   "中国经营报": 2,
   "光大期货": 1,
   "农业农村部": 1,
@@ -26,7 +27,7 @@
   "华夏时报": 1,
   "华夏时报网": 1,
   "南华期货": 1,
-  "南方财经网": 12,
+  "南方财经网": 11,
   "同花顺": 14,
   "同花顺财经": 7,
   "国信期货": 1,
@@ -40,7 +41,7 @@
   "搜狐网": 3,
   "新华财经": 5,
   "新浪网": 6,
-  "新浪财经": 28,
+  "新浪财经": 30,
   "时代周报": 2,
   "期货日报": 10,
   "每日经济新闻": 6,
@@ -57,7 +58,7 @@
   "证券之星": 6,
   "证券日报": 1,
   "诗华日报": 1,
-  "财联社": 5,
+  "财联社": 4,
   "金十数据": 2,
   "马来西亚东方日报": 1
  },
@@ -111,6 +112,25 @@
    "source": "https://www.agripost.cn/",
    "type": "价格行情",
    "url": "https://www.agripost.cn/2026/10/26/chinas-pig-industry-unlikely-to-see-another-sustained-price-boom-analyst-says/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1c2c2c677ef98075ca7b",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T18:00+08:00",
+   "fetched_at": "2026-10-26T23:21+08:00",
+   "title": "砂生猪出口收入逾1亿零500万吉 . 张庆信:继续推动现代化增产 - 地方 - 中砂",
+   "summary": "",
+   "source": "Sin Chew Daily",
+   "type": "供需动态",
+   "url": "https://sarawak.sinchew.com.my/news/20261026/sarawak/7998525",
    "company": "",
    "material_ids": [
     "LH"
@@ -199,6 +219,25 @@
    "relevance_score": 8
   },
   {
+   "id": "news_9b04e981be6f116b6fc1",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T10:07+08:00",
+   "fetched_at": "2026-10-26T23:21+08:00",
+   "title": "生意社2026年10月26日涤纶短纤趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-26/doc-iniwpfmz5687317.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_927e46bb7ed41c06f72e",
    "date": "2026-10-26",
    "published_at": "2026-10-26T09:22+08:00",
@@ -216,6 +255,25 @@
     "玉米"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_e332f98692c18b949467",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T09:20+08:00",
+   "fetched_at": "2026-10-26T23:21+08:00",
+   "title": "生意社2026年10月26日PTA趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-26/doc-iniwpfnc2441182.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_8fad794383caac98cdc7",
@@ -3879,65 +3937,6 @@
    ],
    "matched_keywords": [
     "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_a19bac261bd040393e3b",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T18:27+08:00",
-   "fetched_at": "2026-10-14T19:26+08:00",
-   "title": "猪价已至10元“冰点” 超半数猪企前三季仍在增产",
-   "summary": "四季度将迎来消费高峰,邹莹吉预测,11月份生猪市场需求或陆续增加,而随着大猪需求好转、价格上涨,标猪价格或得以支撑;此外,养殖户或有压栏增重表现,等待12月份冬至前后出栏,因此11月份供应或短时收窄,猪价不乏上涨可能。",
-   "source": "财联社",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610143895585961.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_ce003ecaa1bc190a1ec5",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T16:52+08:00",
-   "fetched_at": "2026-10-14T19:26+08:00",
-   "title": "华统股份:9月生猪销售收入2.13亿元,同比下降33.07%;鸡销售收入2030.10万元,同比增长31.57%",
-   "summary": "生猪销售收入同比下降主要因生猪价格较上年同期下行所致;鸡销售数量同比增长主要因鸡出栏量增加所致,鸡销售收入环比增长主要因鸡销售单价上涨所致。",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610143895520255.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_ae3143f2f4d0fd9ccd7d",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T16:36+08:00",
-   "fetched_at": "2026-10-14T19:26+08:00",
-   "title": "跌麻了!猪价下跌“跌猛了” 供需失衡压力大",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://3g.china.com/act/redian/13004758/20261014/49794317.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }

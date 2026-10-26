@@ -58,6 +58,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_1c2c2c677ef98075ca7b",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T18:00+08:00",
+  "fetched_at": "2026-10-26T23:21+08:00",
+  "title": "砂生猪出口收入逾1亿零500万吉 . 张庆信:继续推动现代化增产 - 地方 - 中砂",
+  "summary": "",
+  "source": "Sin Chew Daily",
+  "type": "供需动态",
+  "url": "https://sarawak.sinchew.com.my/news/20261026/sarawak/7998525",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_43a5fb2ecbf2755db441",
   "date": "2026-10-26",
   "published_at": "2026-10-26T17:32+08:00",
@@ -176,6 +195,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_9b04e981be6f116b6fc1",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T10:07+08:00",
+  "fetched_at": "2026-10-26T23:21+08:00",
+  "title": "生意社2026年10月26日涤纶短纤趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-26/doc-iniwpfmz5687317.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_927e46bb7ed41c06f72e",
   "date": "2026-10-26",
   "published_at": "2026-10-26T09:22+08:00",
@@ -193,6 +231,25 @@
    "玉米"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_e332f98692c18b949467",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T09:20+08:00",
+  "fetched_at": "2026-10-26T23:21+08:00",
+  "title": "生意社2026年10月26日PTA趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-26/doc-iniwpfnc2441182.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_8fad794383caac98cdc7",
@@ -9632,64 +9689,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d49d8deca6e1f40463e2",
-  "date": "2026-09-26",
-  "published_at": "2026-09-26T06:21+08:00",
-  "fetched_at": "2026-09-26T07:26+08:00",
-  "title": "I型模制玻璃瓶市场展望至2035年:生物制剂需求驱动增长 - 新闻和统计",
-  "summary": "",
-  "source": "IndexBox",
-  "type": "供需动态",
-  "url": "https://www.indexbox.io/zh-hans/blog/type-i-molded-glass-vials-market-forecast-to-2035-injectable-biologics-demand-drives-expansion/",
-  "company": "",
-  "material_ids": [
-   "FG"
-  ],
-  "matched_keywords": [
-   "玻璃瓶"
-  ],
-  "relevance_score": 9
- },
- {
-  "id": "news_7a00e421567638765d85",
-  "date": "2026-09-26",
-  "published_at": "2026-09-26T00:00+08:00",
-  "fetched_at": "2026-09-26T00:50+08:00",
-  "title": "中秋节日效应失效!生猪供应大于消费,短期猪价震荡偏弱",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-26/doc-initahrt4333896.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_570102e57234827a4fd4",
-  "date": "2026-09-25",
-  "published_at": "2026-09-25T21:25+08:00",
-  "fetched_at": "2026-09-25T22:01+08:00",
-  "title": "生猪基本面偏空未好转,企业能否撑住待见底",
-  "summary": "",
-  "source": "video.sina.com.cn",
-  "type": "供需动态",
-  "url": "https://video.sina.com.cn/p/finance/2026-09-25/detail-iniszvzx4449955.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  }
