@@ -1,5 +1,103 @@
 [
  {
+  "id": "news_f5014ad1d3c89c349a83",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T22:27+08:00",
+  "fetched_at": "2026-10-26T22:57+08:00",
+  "title": "豆粕主力合约日内跌幅达2.00%",
+  "summary": "豆粕主力合约日内跌幅达2.00%,现报3177元/吨。",
+  "source": "东方财富Choice数据",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610263908612978.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_797c85c63de7ff0263d5",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T22:11+08:00",
+  "fetched_at": "2026-10-26T22:57+08:00",
+  "title": "再走长征路|四川喜德:大凉山里跑出生猪产业新动能",
+  "summary": "今年,生猪行业整体承压。景瑞忠表示,行情最低的时候毛猪价格跌至每斤3.8元至4元,企业持续承担亏损压力。",
+  "source": "中国经营报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610263908621542.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_5d052306f6fc2900bb93",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T20:58+08:00",
+  "fetched_at": "2026-10-26T22:57+08:00",
+  "title": "朱增勇:中国生猪产业难以再出现持续性的大幅上涨周期",
+  "summary": "",
+  "source": "https://www.agripost.cn/",
+  "type": "价格行情",
+  "url": "https://www.agripost.cn/2026/10/26/chinas-pig-industry-unlikely-to-see-another-sustained-price-boom-analyst-says/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_43a5fb2ecbf2755db441",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T17:32+08:00",
+  "fetched_at": "2026-10-26T22:57+08:00",
+  "title": "猪价下跌拦不住!月末“枯木逢春”?",
+  "summary": "",
+  "source": "中华网",
+  "type": "价格行情",
+  "url": "https://news.china.com/socialgd/10000169/20261026/49819326.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_78df8b7da3bb6de38a41",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T17:07+08:00",
+  "fetched_at": "2026-10-26T22:57+08:00",
+  "title": "10月第4周生猪和猪肉价格有所下跌",
+  "summary": "据农业农村部对500个县集贸市场和采集点监测,上周(10月第4周,10月19—25日,下同),全国活猪价格为10.71元/公斤,环比跌1.7%;猪肉集贸市场价格为20.59元/公斤,环比跌1.1%。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "http://xianhuo.eastmoney.com/a/202610263908082266.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪肉价格",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_427f3599307b78b4e16d",
   "date": "2026-10-26",
   "published_at": "2026-10-26T15:19+08:00",
@@ -9594,101 +9692,5 @@
    "生猪"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_7b3ee9e9ae9a8fc12fe8",
-  "date": "2026-09-25",
-  "published_at": "2026-09-25T16:34+08:00",
-  "fetched_at": "2026-09-26T20:21+08:00",
-  "title": "USDA 8月月报:美国玉米、小麦供需预期数据-市场参考",
-  "summary": "",
-  "source": "金十数据",
-  "type": "供需动态",
-  "url": "https://xnews.jin10.com/details/227273",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fbac17892c85ec3a0509",
-  "date": "2026-09-25",
-  "published_at": "2026-09-25T14:35+08:00",
-  "fetched_at": "2026-09-25T19:41+08:00",
-  "title": "下跌“势如破竹”!附:9月26日猪价",
-  "summary": "",
-  "source": "sohu.com",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1080817514_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_4f8a6bc2eff5c51fcbc6",
-  "date": "2026-09-25",
-  "published_at": "2026-09-25T11:42+08:00",
-  "fetched_at": "2026-09-25T13:57+08:00",
-  "title": "棕油期货早盘跌2% 本周料转跌",
-  "summary": "",
-  "source": "KLSE Screener",
-  "type": "价格行情",
-  "url": "https://www.klsescreener.com/v2/news/view/1797737/%E6%A3%95%E6%B2%B9%E6%9C%9F%E8%B4%A7%E6%97%A9%E7%9B%98%E8%B7%8C2-%E6%9C%AC%E5%91%A8%E6%96%99%E8%BD%AC%E8%B7%8C",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_69bc267c746c9fa3609b",
-  "date": "2026-09-25",
-  "published_at": "2026-09-25T08:03+08:00",
-  "fetched_at": "2026-09-25T13:57+08:00",
-  "title": "卡纳塔克邦立法者推动提高原奶价格",
-  "summary": "",
-  "source": "Dairy News Today",
-  "type": "价格行情",
-  "url": "https://dairynews.today/cn/news/__5447061.html",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "原奶",
-   "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_bab7432dc2cbe51c4ddb",
-  "date": "2026-09-25",
-  "published_at": "2026-09-25T06:54+08:00",
-  "fetched_at": "2026-09-25T08:42+08:00",
-  "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌0.47%",
-  "summary": "当地时间9月24日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.11%报1316.50美分/蒲式耳,玉米期货跌0.47%报526.50美分/蒲式耳,小麦期货跌0.39%报705.75美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609253884043666.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
  }
 ]
