@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T07:27+08:00",
+ "updated_at": "2026-10-26T15:32+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -9,14 +9,13 @@
   "IndexBox": 2,
   "QQ News": 4,
   "e南洋": 1,
-  "finance.sina.com.cn": 4,
+  "finance.sina.com.cn": 5,
   "www.agripost.cn": 1,
   "一德期货": 1,
   "上海中期期货": 2,
   "东方财富": 3,
   "东方财富研究中心": 1,
   "中华网": 8,
-  "中国产业经济信息网": 1,
   "中国经营报": 1,
   "光大期货": 1,
   "农业农村部": 1,
@@ -26,34 +25,34 @@
   "华夏时报网": 1,
   "南华期货": 1,
   "南方财经网": 14,
-  "同花顺": 15,
-  "同花顺财经": 6,
+  "同花顺": 14,
+  "同花顺财经": 7,
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
-  "国投期货": 1,
+  "国投期货": 2,
   "国际金融报": 1,
   "导油网": 1,
   "广发期货": 1,
   "广州期货": 1,
-  "搜狐": 19,
+  "搜狐": 18,
   "搜狐网": 3,
   "新华财经": 5,
   "新浪网": 6,
-  "新浪财经": 27,
+  "新浪财经": 28,
   "时代周报": 2,
-  "期货日报": 9,
+  "期货日报": 10,
   "每日经济新闻": 6,
   "混沌天成期货": 1,
   "瑞达期货": 2,
   "申银万国期货": 2,
-  "界面新闻": 5,
+  "界面新闻": 4,
   "第一财经": 3,
   "联合早报": 1,
   "茉莉花新闻网": 1,
   "蓝鲸财经": 1,
   "虎嗅网": 2,
   "观点网": 1,
-  "证券之星": 7,
+  "证券之星": 6,
   "证券日报": 1,
   "诗华日报": 1,
   "财联社": 5,
@@ -61,6 +60,84 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_e0ad3e27ea3ef665a547",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T15:16+08:00",
+   "fetched_at": "2026-10-26T15:32+08:00",
+   "title": "再创新低!猪价距离见底还有多远?",
+   "summary": "“具体来看,四季度天气转凉,生猪体重增幅加快,养殖企业对年底消费旺季仍有预期。近期猪价下跌,市场也存在低价销售的抵触情绪,从而导致10月生猪体重仍在增加。”李艺华表示。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610263907928491.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_488a63269c71df48c4da",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T11:44+08:00",
+   "fetched_at": "2026-10-26T15:32+08:00",
+   "title": "【现货】10月26日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261026/c681073108.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_534f00407532489abc26",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T11:33+08:00",
+   "fetched_at": "2026-10-26T15:32+08:00",
+   "title": "华泰期货:供应压力难解,生猪价格延续弱势",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-10-26/detail-iniwpfnc2441014.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_927e46bb7ed41c06f72e",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T09:22+08:00",
+   "fetched_at": "2026-10-26T15:32+08:00",
+   "title": "农产品 | 今年国内玉米结转库存较大 或难以复制去年玉米开秤后的高走幅度",
+   "summary": "但我们也要明确,今年国内玉米结转库存较大,且产量较去年有增加,或难以复制去年玉米开秤后的高走幅度,总体高度难以超过去年。",
+   "source": "国投期货",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202610263907457968.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_8fad794383caac98cdc7",
    "date": "2026-10-26",
@@ -192,6 +269,26 @@
     "LH"
    ],
    "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_f047220c34244bf6ca7d",
+   "date": "2026-10-24",
+   "published_at": "2026-10-24T16:59+08:00",
+   "fetched_at": "2026-10-24T16:48+08:00",
+   "title": "终端需求支撑力度有限 本周国内生猪价格震荡下滑",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-10-24/detail-iniwikcq1242466.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
     "猪价"
    ],
    "relevance_score": 8
@@ -3840,102 +3937,6 @@
    ],
    "matched_keywords": [
     "乳清蛋白"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5062f6b9668772e12ba4",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T13:32+08:00",
-   "fetched_at": "2026-10-14T13:55+08:00",
-   "title": "被罚1.29亿的双汇,如何走出低猪价困境",
-   "summary": "公司将这一结果归因于“生猪及肉类价格低位运行、行业竞争加剧”:肉卖得更多了,单价却更低了。 猪价之低,有具体刻度。2026年一季度全国生猪出栏20026万头、同比增长2.8%,供给持续放量;4月,外三元生猪均价一度跌至8.68元/公斤,创2015年以来最低。",
-   "source": "界面新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610143895304061.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_290a14c48ee3194351ad",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T12:55+08:00",
-   "fetched_at": "2026-10-14T23:56+08:00",
-   "title": "2026年10月14日全国主要批发市场腰果价格行情_综合资讯",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://futures.stockstar.com/IG2026101400018468.shtml",
-   "company": "",
-   "material_ids": [
-    "CASHEW"
-   ],
-   "matched_keywords": [
-    "腰果"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e49d6b459a30ed6ed1be",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T11:49+08:00",
-   "fetched_at": "2026-10-14T19:26+08:00",
-   "title": "猪价环比连续三个月上涨,9月同比下跌10%|快讯",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1087555428_116062",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_cf5f17fcc9b112678070",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T11:48+08:00",
-   "fetched_at": "2026-10-14T13:55+08:00",
-   "title": "【现货】10月14日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261014/c680673343.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e7638fd7bca4bf3e65f3",
-   "date": "2026-10-14",
-   "published_at": "2026-10-14T11:43+08:00",
-   "fetched_at": "2026-10-16T05:04+08:00",
-   "title": "破解辅酶Q10工艺难题,多特倍斯以微生物发酵重塑全球膳食原料格局- 健康",
-   "summary": "",
-   "source": "中国产业经济信息网",
-   "type": "供需动态",
-   "url": "https://www.cinic.org.cn/hy/yy/1656843.html",
-   "company": "",
-   "material_ids": [
-    "COQ10"
-   ],
-   "matched_keywords": [
-    "辅酶q10"
    ],
    "relevance_score": 8
   }
