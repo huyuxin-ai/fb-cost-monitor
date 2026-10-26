@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T23:21+08:00",
+ "updated_at": "2026-10-27T04:24+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -41,10 +41,11 @@
   "搜狐网": 3,
   "新华财经": 5,
   "新浪网": 6,
-  "新浪财经": 30,
+  "新浪财经": 29,
   "时代周报": 2,
   "期货日报": 10,
   "每日经济新闻": 6,
+  "汇通网": 1,
   "混沌天成期货": 1,
   "瑞达期货": 2,
   "申银万国期货": 2,
@@ -63,6 +64,25 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_ae6e4c70fa2dec6c7f7f",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T01:11+08:00",
+   "fetched_at": "2026-10-27T04:24+08:00",
+   "title": "巴西大选冲击雷亚尔 大豆、咖啡和糖价齐跌",
+   "summary": "巴西总统卢拉意外胜选打击该国货币,提升这个农产品贸易大国的出口前景,主要农产品价格随之下跌。 卢拉赢得第四个总统任期,令投资者大感意外。",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwqtpe2315157.shtml",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 7
+  },
   {
    "id": "news_f5014ad1d3c89c349a83",
    "date": "2026-10-26",
@@ -118,6 +138,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7b8b76c56bb7b2f98e2f",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T19:15+08:00",
+   "fetched_at": "2026-10-27T04:24+08:00",
+   "title": "棕榈油市场分析:出口税豁免预期降温,马棕承压回落",
+   "summary": "",
+   "source": "汇通网",
+   "type": "价格行情",
+   "url": "https://news.fx678.com/202610261915422288.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
    ],
    "relevance_score": 8
   },
@@ -3901,44 +3940,6 @@
     "大豆"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_326c6c366c7ee7c8bd01",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T05:30+08:00",
-   "fetched_at": "2026-10-16T05:04+08:00",
-   "title": "PX装置检修库存偏紧 PTA短期价格偏强运行",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-14/detail-inivcxxr7890175.d.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c276f79170ca90b11902",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T04:53+08:00",
-   "fetched_at": "2026-10-15T20:47+08:00",
-   "title": "华泰期货:三大油脂走势分化,豆油盘面弱势调整",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-14/detail-iniveefm7231245.d.html",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
-   ],
-   "relevance_score": 8
   }
  ]
 }
