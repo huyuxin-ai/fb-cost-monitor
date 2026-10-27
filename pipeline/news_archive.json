@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_b61a95aa79995ea743ed",
+  "date": "2026-10-27",
+  "published_at": "2026-10-27T06:29+08:00",
+  "fetched_at": "2026-10-27T08:00+08:00",
+  "title": "10月27日猪价:一片绿!猪价下跌“无休止”,接下来跌破“前低”?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1093003749_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_ae6e4c70fa2dec6c7f7f",
   "date": "2026-10-27",
   "published_at": "2026-10-27T01:11+08:00",
@@ -9670,25 +9689,6 @@
   ],
   "matched_keywords": [
    "腰果"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_4db1840bb65fcd906d36",
-  "date": "2026-09-26",
-  "published_at": "2026-09-26T14:04+08:00",
-  "fetched_at": "2026-09-26T15:14+08:00",
-  "title": "下跌“如火如荼”!附:9月27日猪价",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1081102982_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }
