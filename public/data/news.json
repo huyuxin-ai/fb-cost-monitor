@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T18:48+08:00",
+ "updated_at": "2026-10-27T22:46+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -34,12 +34,12 @@
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
-  "国际金融报": 1,
+  "国际金融报": 2,
   "导油网": 1,
   "广发期货": 1,
   "广州期货": 1,
   "手机新浪网": 1,
-  "搜狐": 16,
+  "搜狐": 15,
   "搜狐网": 5,
   "新华财经": 5,
   "新浪网": 6,
@@ -56,9 +56,9 @@
   "联合早报": 1,
   "茉莉花新闻网": 1,
   "蓝鲸财经": 1,
-  "虎嗅网": 2,
+  "虎嗅网": 1,
   "观点网": 1,
-  "证券之星": 6,
+  "证券之星": 7,
   "证券日报": 1,
   "诗华日报": 1,
   "财联社": 5,
@@ -67,6 +67,25 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_8194b1d615e49166a386",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T22:15+08:00",
+   "fetched_at": "2026-10-27T22:46+08:00",
+   "title": "鳀鱼涨价了,劲仔小鱼越卖越薄利",
+   "summary": "劲仔核心大单品“深海小鱼”的原料为鳀鱼,公司在半年度业绩说明会上解释过,公司主要原材料鳀鱼受渔船海洋野捕油价上涨、气候变化引起的渔汛波动等影响,采购价格有所上涨,目前正通过积极拓展多元化海外供应渠道、加强战略采购、优化产品结构及精细化管理等措施降本增效。",
+   "source": "国际金融报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610273910536782.html",
+   "company": "",
+   "material_ids": [
+    "ANCHOVY"
+   ],
+   "matched_keywords": [
+    "鳀鱼"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_60f64e6c8c3053d8cb8c",
    "date": "2026-10-27",
@@ -142,6 +161,25 @@
     "玉米"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_72a3cb549a1056b5d483",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T15:31+08:00",
+   "fetched_at": "2026-10-27T22:46+08:00",
+   "title": "10月27日PTA期货收盘上涨0.09%,报6644元_综合资讯",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://futures.stockstar.com/RB2026102700024143.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_10873df12660c7fd5762",
@@ -3904,46 +3942,6 @@
     "玻璃瓶"
    ],
    "relevance_score": 9
-  },
-  {
-   "id": "news_f3b8cc3626e3aa4fc821",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T18:06+08:00",
-   "fetched_at": "2026-10-15T20:47+08:00",
-   "title": "生猪价格跌破10元/公斤 上市猪企9月量增价减收入下滑",
-   "summary": "",
-   "source": "虎嗅网",
-   "type": "价格行情",
-   "url": "https://www.huxiu.com/article/4897786.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7dc4ad9381b4d1bfb5cf",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T17:06+08:00",
-   "fetched_at": "2026-10-15T20:47+08:00",
-   "title": "生猪 | 看懂生猪供需—四季度猪价三段波动,难上成本线",
-   "summary": "",
-   "source": "搜狐",
-   "type": "供需动态",
-   "url": "https://m.sohu.com/a/1088171882_122014422/?pvid=000115_3w_a",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }

@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_8194b1d615e49166a386",
+  "date": "2026-10-27",
+  "published_at": "2026-10-27T22:15+08:00",
+  "fetched_at": "2026-10-27T22:46+08:00",
+  "title": "鳀鱼涨价了,劲仔小鱼越卖越薄利",
+  "summary": "劲仔核心大单品“深海小鱼”的原料为鳀鱼,公司在半年度业绩说明会上解释过,公司主要原材料鳀鱼受渔船海洋野捕油价上涨、气候变化引起的渔汛波动等影响,采购价格有所上涨,目前正通过积极拓展多元化海外供应渠道、加强战略采购、优化产品结构及精细化管理等措施降本增效。",
+  "source": "国际金融报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610273910536782.html",
+  "company": "",
+  "material_ids": [
+   "ANCHOVY"
+  ],
+  "matched_keywords": [
+   "鳀鱼"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_60f64e6c8c3053d8cb8c",
   "date": "2026-10-27",
   "published_at": "2026-10-27T17:22+08:00",
@@ -74,6 +93,25 @@
    "玉米"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_72a3cb549a1056b5d483",
+  "date": "2026-10-27",
+  "published_at": "2026-10-27T15:31+08:00",
+  "fetched_at": "2026-10-27T22:46+08:00",
+  "title": "10月27日PTA期货收盘上涨0.09%,报6644元_综合资讯",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://futures.stockstar.com/RB2026102700024143.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_10873df12660c7fd5762",
@@ -9644,45 +9682,5 @@
    "猪价"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_e67b0e9411e1e8a326f3",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T09:50+08:00",
-  "fetched_at": "2026-09-28T12:25+08:00",
-  "title": "假期集团散户同步出栏 生猪价格承压偏弱运行",
-  "summary": "(来源:信达期货) 研报正文 资讯:9 月 21 日,牧原股份于互动易答复投资者,力争9月底将能繁母猪存栏降至 300 万头以下;9 月 23 日企业亮相农民丰收节...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwim9706532.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价",
-   "能繁母猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_52edcc5833118a125ff4",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T09:46+08:00",
-  "fetched_at": "2026-09-28T19:09+08:00",
-  "title": "PTA供需呈现多空拉扯 价格高位宽幅震荡运行",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwif8747929.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
  }
 ]
