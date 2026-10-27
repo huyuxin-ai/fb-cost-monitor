@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T13:24+08:00",
+ "updated_at": "2026-10-27T18:48+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -19,7 +19,7 @@
   "东方财富": 3,
   "东方财富Choice数据": 2,
   "东方财富研究中心": 1,
-  "中华网": 7,
+  "中华网": 6,
   "中国经营报": 2,
   "光大期货": 1,
   "农业农村部": 1,
@@ -38,6 +38,7 @@
   "导油网": 1,
   "广发期货": 1,
   "广州期货": 1,
+  "手机新浪网": 1,
   "搜狐": 16,
   "搜狐网": 5,
   "新华财经": 5,
@@ -60,12 +61,107 @@
   "证券之星": 6,
   "证券日报": 1,
   "诗华日报": 1,
-  "财联社": 4,
+  "财联社": 5,
   "迈科期货": 1,
-  "金十数据": 2,
+  "金十数据": 1,
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_60f64e6c8c3053d8cb8c",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T17:22+08:00",
+   "fetched_at": "2026-10-27T18:48+08:00",
+   "title": "大商所:调整生猪期货LH2703和LH2705合约交易保证金水平",
+   "summary": "大商所公告,根据《大连商品交易所风险管理办法》,经研究决定:自2026年10月30日(星期五)结算时起,生猪期货LH2703和LH2705合约交易保证金水平由8%调整为10%。",
+   "source": "第一财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610273909984875.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_37c962056e1148e65a75",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T17:21+08:00",
+   "fetched_at": "2026-10-27T18:48+08:00",
+   "title": "大商所调整生猪期货LH2701合约交易限额",
+   "summary": "大商所公告,经研究决定,自2026年10月29日交易时起,非期货公司会员或者客户在生猪期货LH2701合约上单日开仓量不得超过500手,在生猪期货其他合约上单日开仓量不得超过1000手。该单日开仓量是指非期货公司会员或者客户当日在生猪期货单个合约上的买开仓数量与卖开仓数量之和。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610273910019436.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_3442a215b8132e2727d0",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T16:44+08:00",
+   "fetched_at": "2026-10-27T18:48+08:00",
+   "title": "恒逸石化:预计PTA产品有望逐步去库,供需格局将逐步改善",
+   "summary": "对于PET产品,目前涤纶长丝及聚酯瓶片的产能投放周期基本收尾,需求仍保持高速增长,PET行业的市场集中度将持续得到优化,带动今后几年产业链景气度回升。",
+   "source": "南方财经网",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202610273909915556.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_29ec44365f4be44f2d14",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T15:40+08:00",
+   "fetched_at": "2026-10-27T18:48+08:00",
+   "title": "玉米主力合约收涨0.32%",
+   "summary": "南财智讯10月27日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.32%,收盘报2217.0元/吨,日内资金流出1055.98万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610273909807791.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_10873df12660c7fd5762",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T15:00+08:00",
+   "fetched_at": "2026-10-27T18:48+08:00",
+   "title": "PSY提升对冲产能去化,需求旺季增幅或不及预期,年末猪价涨幅受限",
+   "summary": "",
+   "source": "手机新浪网",
+   "type": "供需动态",
+   "url": "https://k.sina.com.cn/article_5953190046_162d6789e06703vi1s.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_7668cb20e988eba00a7e",
    "date": "2026-10-27",
@@ -3845,101 +3941,6 @@
    ],
    "matched_keywords": [
     "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_07bfc93b844c05f44f6e",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T15:46+08:00",
-   "fetched_at": "2026-10-15T20:47+08:00",
-   "title": "玉米主力合约收跌0.23%",
-   "summary": "南财智讯10月15日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.23%,收盘报2183.0元/吨,日内资金流出2.92亿元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610153896905744.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_371a9027f97ff0a01d4b",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T15:44+08:00",
-   "fetched_at": "2026-10-15T20:47+08:00",
-   "title": "生猪主力合约收跌1.04%",
-   "summary": "南财智讯10月15日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.04%,收盘报10455.0元/吨,日内资金流出1.2亿元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610153896926645.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_916133566277470fd4d5",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T14:47+08:00",
-   "fetched_at": "2026-10-15T15:07+08:00",
-   "title": "厄尔尼诺致棕榈油市场不确定性增加 产量影响引关注",
-   "summary": "",
-   "source": "中华网",
-   "type": "供需动态",
-   "url": "https://news.china.com/socialgd/10000169/20261015/49796124.html",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_49c19d28331fc2b75af8",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T14:39+08:00",
-   "fetched_at": "2026-10-18T08:10+08:00",
-   "title": "USDA 9月月报:美国玉米、小麦供需预期数据-市场参考",
-   "summary": "",
-   "source": "金十数据",
-   "type": "供需动态",
-   "url": "https://xnews.jin10.com/details/229914",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_30a4d492f760652c2564",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T14:37+08:00",
-   "fetched_at": "2026-10-15T20:47+08:00",
-   "title": "光大期货:供应压力持续 猪价创新低",
-   "summary": "",
-   "source": "第一财经",
-   "type": "价格行情",
-   "url": "https://www.yicai.com/video/103394894.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
     "猪价"
    ],
    "relevance_score": 8
