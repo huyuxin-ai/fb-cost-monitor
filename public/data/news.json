@@ -1,13 +1,14 @@
 {
- "updated_at": "2026-10-27T08:00+08:00",
+ "updated_at": "2026-10-27T13:24+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
-  "21世纪经济报道": 5,
+  "21世纪经济报道": 4,
+  "21财经": 1,
   "3TRES3": 1,
   "8world": 1,
   "IndexBox": 2,
-  "QQ News": 4,
+  "QQ News": 3,
   "Sin Chew Daily": 1,
   "e南洋": 1,
   "finance.sina.com.cn": 4,
@@ -16,9 +17,9 @@
   "一德期货": 1,
   "上海中期期货": 2,
   "东方财富": 3,
-  "东方财富Choice数据": 1,
+  "东方财富Choice数据": 2,
   "东方财富研究中心": 1,
-  "中华网": 8,
+  "中华网": 7,
   "中国经营报": 2,
   "光大期货": 1,
   "农业农村部": 1,
@@ -28,20 +29,20 @@
   "华夏时报网": 1,
   "南华期货": 1,
   "南方财经网": 11,
-  "同花顺": 14,
-  "同花顺财经": 7,
+  "同花顺": 13,
+  "同花顺财经": 8,
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
-  "国投期货": 2,
+  "国投期货": 1,
   "国际金融报": 1,
   "导油网": 1,
   "广发期货": 1,
   "广州期货": 1,
-  "搜狐": 17,
-  "搜狐网": 4,
+  "搜狐": 16,
+  "搜狐网": 5,
   "新华财经": 5,
   "新浪网": 6,
-  "新浪财经": 29,
+  "新浪财经": 30,
   "时代周报": 2,
   "期货日报": 10,
   "每日经济新闻": 5,
@@ -60,20 +61,21 @@
   "证券日报": 1,
   "诗华日报": 1,
   "财联社": 4,
+  "迈科期货": 1,
   "金十数据": 2,
   "马来西亚东方日报": 1
  },
  "items": [
   {
-   "id": "news_b61a95aa79995ea743ed",
+   "id": "news_7668cb20e988eba00a7e",
    "date": "2026-10-27",
-   "published_at": "2026-10-27T06:29+08:00",
-   "fetched_at": "2026-10-27T08:00+08:00",
-   "title": "10月27日猪价:一片绿!猪价下跌“无休止”,接下来跌破“前低”?",
+   "published_at": "2026-10-27T12:34+08:00",
+   "fetched_at": "2026-10-27T13:24+08:00",
+   "title": "三季度猪价低位磨底 四季度价格依旧难涨",
    "summary": "",
    "source": "搜狐网",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1093003749_120238851",
+   "url": "https://www.sohu.com/a/1093295813_122014422",
    "company": "",
    "material_ids": [
     "LH"
@@ -82,6 +84,103 @@
     "猪价"
    ],
    "relevance_score": 8
+  },
+  {
+   "id": "news_1f23b3f8059cb62ce6b1",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T11:47+08:00",
+   "fetched_at": "2026-10-27T13:24+08:00",
+   "title": "【现货】10月27日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261027/c681123908.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_cb00a90732daa84feca6",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T11:04+08:00",
+   "fetched_at": "2026-10-27T13:24+08:00",
+   "title": "下游聚酯利润修复 PTA估值支撑显现",
+   "summary": "利润方面,PTA加工费从10月初的800元/吨以上回落至400元/吨左右,上游PX利润也同步走弱。与此同时,上游原料价格回落带动下游利润大幅修复,目前长丝、短纤、瓶片等各类聚酯产品盈利均有明显改善。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610273909448435.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_2ef846b8d5daf02e60d7",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T11:00+08:00",
+   "fetched_at": "2026-10-27T13:24+08:00",
+   "title": "生猪期货主力合约直线拉升涨幅扩大至2%",
+   "summary": "生猪期货主力合约直线拉升涨幅扩大至2%,报9920元/吨,此前一度跌超2%。",
+   "source": "东方财富Choice数据",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610273909446726.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_836e61ff62746ebd30ca",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T11:00+08:00",
+   "fetched_at": "2026-10-27T13:24+08:00",
+   "title": "能繁母猪存栏同比降10.7%且去化加速,生猪与肉牛供给步入收缩期",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1093256203_121157270",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "能繁母猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7508d65f41e2e7fe68c0",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T09:18+08:00",
+   "fetched_at": "2026-10-27T13:24+08:00",
+   "title": "农产品 | 巴西货币雷亚尔走弱 隔夜原糖价格大幅回落",
+   "summary": "政策底方面关注中储粮收购的启动时点、开秤价和轮换粮投放节奏。震荡运行 白糖 巴西货币雷亚尔走弱,隔夜原糖价格大幅回落。目前国际原糖高价,糖厂积极套保对价格上方空间形成压制。随着北半球供应增加,供应端逐渐宽松。国内结转库存偏高与新糖上市施压,糖价交投重心下移。",
+   "source": "迈科期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610273909167352.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "原糖",
+    "白糖"
+   ],
+   "relevance_score": 12
   },
   {
    "id": "news_ae6e4c70fa2dec6c7f7f",
@@ -142,6 +241,26 @@
    "relevance_score": 11
   },
   {
+   "id": "news_90cbefe10ea9ea6fe396",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T22:04+08:00",
+   "fetched_at": "2026-10-27T13:24+08:00",
+   "title": "生猪 | PSY提升对冲产能去化,年末猪价或涨幅受限",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/roll/2026-10-26/doc-iniwqpfi9147209.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_5d052306f6fc2900bb93",
    "date": "2026-10-26",
    "published_at": "2026-10-26T20:58+08:00",
@@ -195,6 +314,26 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1fd47f69b7b08ea5ef19",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T17:41+08:00",
+   "fetched_at": "2026-10-26T22:57+08:00",
+   "title": "农业农村部:10月第4周生猪和猪肉价格有所下跌",
+   "summary": "",
+   "source": "21财经",
+   "type": "价格行情",
+   "url": "https://www.21jingji.com/article/20261026/herald/8e689c6d00c607d53152f67532860f68.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪肉价格"
    ],
    "relevance_score": 8
   },
@@ -3796,142 +3935,6 @@
    "source": "第一财经",
    "type": "价格行情",
    "url": "https://www.yicai.com/video/103394894.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5938acaa52b2176993a4",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T13:22+08:00",
-   "fetched_at": "2026-10-15T15:07+08:00",
-   "title": "猪价已至10元“冰点” 超半数猪企前三季仍在增产 产能去化效果微弱",
-   "summary": "",
-   "source": "中华网",
-   "type": "供需动态",
-   "url": "https://news.china.com/socialgd/10000169/20261015/49795786.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_04bcd452f8cd0caeae15",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T11:29+08:00",
-   "fetched_at": "2026-10-15T15:07+08:00",
-   "title": "养殖业概念盘中走弱,9月国内生猪市场价格整体延续下行走势丨异动情报",
-   "summary": "财信证券研报指出,2026年白羽肉鸡行业供给端仍处宽松格局,全年肉鸡产量预计前低后高、整体仍增长,但消费刺激政策落地及猪价上行带来的鸡猪替代效应将逐步显现,预计2026年白羽鸡价格整体略好于2025年;圣农发展作为全产业链一体化龙头,有望凭借自研种源成本优势持续释放盈利弹性。",
-   "source": "21世纪经济报道",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610153896648086.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_1d8a6dd05ce60ef16e28",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T10:48+08:00",
-   "fetched_at": "2026-10-15T15:07+08:00",
-   "title": "【现货】10月15日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261015/c680721130.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_308163b3b411423ad7b5",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T09:49+08:00",
-   "fetched_at": "2026-10-18T17:27+08:00",
-   "title": "2026年10月15日大豆豆油价格:东北惜售把价格顶上去 豆油全线小跌",
-   "summary": "",
-   "source": "QQ News",
-   "type": "价格行情",
-   "url": "https://news.qq.com/rain/a/20261015A045SD00",
-   "company": "",
-   "material_ids": [
-    "A",
-    "Y"
-   ],
-   "matched_keywords": [
-    "大豆",
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8cef0a806b6dae81813e",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T09:16+08:00",
-   "fetched_at": "2026-10-15T09:41+08:00",
-   "title": "农产品 | 棕榈油:美国通胀数据高于预期 加剧市场担忧情绪",
-   "summary": "大豆盘面压榨毛利润表现较差,后续关注压榨利润修复路径对国内油粕价格走势的指引。棕榈油短期供需面仍呈现偏宽松,偏高的库存仍对价格形成压制,而厄尔尼诺现象主要影响明年产量下降的预期,预期层面的兑现还需要时间去验证,关注现实和预期反复博弈。",
-   "source": "国投期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610153896274875.html",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_f6dc9caebd3aefd696cb",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T08:27+08:00",
-   "fetched_at": "2026-10-15T15:07+08:00",
-   "title": "PTA供需走弱约束反弹空间 短期价格受成本主导",
-   "summary": "分产品来看,除涤纶工业丝盈利尚可外,涤纶短纤亏损500元/吨,长丝产品大多处于盈亏平衡线附近,企业主动增产意愿不足。终端织造环节开工率偏低,加弹、织造业开工率分别为57%、54%,秋冬季订单增量有限,外需偏弱格局未变,仅国内刚需采购对需求形成托底作用。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610153896860246.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_3caf7a0bdcd96781084f",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T07:15+08:00",
-   "fetched_at": "2026-10-16T16:50+08:00",
-   "title": "10月15日猪价:3涨13跌!猪价下跌“180°大变”,接下来否极泰来?",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://www.sohu.com/a/1087785097_120238851",
    "company": "",
    "material_ids": [
     "LH"
