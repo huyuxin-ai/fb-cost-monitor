@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T22:46+08:00",
+ "updated_at": "2026-10-28T04:50+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -67,6 +67,25 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_099c01fb5bd9e1732fa1",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T00:30+08:00",
+   "fetched_at": "2026-10-28T04:50+08:00",
+   "title": "美国农业部晨间生猪报告2026年10月27日:采购量、胴体价格与各州数据 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-morning-hog-report-for-october-27-2026-mixed-purchase-volumes-and-carcass-pricing/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_8194b1d615e49166a386",
    "date": "2026-10-27",
@@ -3923,25 +3942,6 @@
     "核桃"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_881f9bf9c2635ddc8617",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T18:06+08:00",
-   "fetched_at": "2026-10-15T20:47+08:00",
-   "title": "模制玻璃瓶平台市场展望2035:生物制品需求驱动增长 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "供需动态",
-   "url": "https://www.indexbox.io/zh-hans/blog/molded-glass-vial-platform-market-forecast-to-2035-growth-driven-by-biologics-and-cell-therapy-demand/",
-   "company": "",
-   "material_ids": [
-    "FG"
-   ],
-   "matched_keywords": [
-    "玻璃瓶"
-   ],
-   "relevance_score": 9
   }
  ]
 }
