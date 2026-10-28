@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T08:18+08:00",
+ "updated_at": "2026-10-28T14:05+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,48 +8,46 @@
   "3TRES3": 1,
   "8world": 1,
   "IndexBox": 2,
-  "QQ News": 3,
+  "QQ News": 2,
   "Sin Chew Daily": 1,
   "e南洋": 1,
   "finance.sina.com.cn": 5,
   "https://www.agripost.cn/": 1,
   "www.agripost.cn": 1,
-  "一德期货": 1,
+  "一德期货": 2,
   "上海中期期货": 2,
   "东方财富": 3,
   "东方财富Choice数据": 2,
   "东方财富研究中心": 1,
+  "东海期货": 1,
   "中华网": 6,
   "中国经营报": 2,
   "光大期货": 1,
   "农业农村部": 1,
   "凤凰网": 2,
-  "创元期货": 1,
-  "华夏时报": 1,
   "南华期货": 1,
   "南方财经网": 11,
   "同花顺": 13,
-  "同花顺财经": 9,
-  "国信期货": 1,
+  "同花顺财经": 10,
+  "国信期货": 2,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
   "国际金融报": 2,
   "导油网": 1,
   "广发期货": 1,
-  "广州期货": 1,
-  "手机新浪网": 1,
+  "手机新浪网": 2,
   "搜狐": 14,
   "搜狐网": 5,
   "新华财经": 5,
   "新浪网": 6,
-  "新浪财经": 31,
+  "新浪财经": 30,
   "时代周报": 2,
-  "期货日报": 10,
-  "每日经济新闻": 4,
+  "期货日报": 11,
+  "每日经济新闻": 5,
   "汇通网": 1,
   "混沌天成期货": 1,
-  "瑞达期货": 2,
-  "申银万国期货": 2,
+  "瑞达期货": 1,
+  "申银万国期货": 1,
   "界面新闻": 4,
   "第一财经": 3,
   "联合早报": 1,
@@ -66,6 +64,159 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_37df05938d273ef79252",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T12:39+08:00",
+   "fetched_at": "2026-10-28T14:05+08:00",
+   "title": "三季度猪价低位磨底 四季度价格依旧难涨?",
+   "summary": "",
+   "source": "手机新浪网",
+   "type": "价格行情",
+   "url": "https://k.sina.com.cn/article_5952915705_162d248f906703rthm.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d8e3593713bad94b1564",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T11:41+08:00",
+   "fetched_at": "2026-10-28T14:05+08:00",
+   "title": "【现货】10月28日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261028/c681177124.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b8f511d41e7db4563d39",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T10:04+08:00",
+   "fetched_at": "2026-10-28T14:05+08:00",
+   "title": "农产品 | 巴西雷亚尔雷亚尔趋软 打击市场对美国大豆出口需求",
+   "summary": "国内方面,10月大豆到港量仍处季节性偏高水平,油厂压榨节奏难以显著放缓,豆粕产出端压力具有持续性。需求端饲料企业采购以按需随采、刚需为主,物理库存天数虽有小幅回升,但终端追高动力不足。预计短期内豆粕现货价格随盘继续偏弱震荡。",
+   "source": "东海期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610283911349456.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_83fe5b1dd912766b2127",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T09:43+08:00",
+   "fetched_at": "2026-10-28T14:05+08:00",
+   "title": "农产品 | 空头止盈离场 生猪期货反弹",
+   "summary": "生猪 空头止盈离场,期货强势反弹 周二,生猪期货反弹,主力LH2701涨幅2.52%,暂报9975元。现货方面,根据我的农产品网数据,全国外三元生猪出栏均价为9.23元/公斤,较昨日下跌0.05元/公斤。",
+   "source": "国信期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610283911232351.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_a249d11260f686447dfa",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T09:34+08:00",
+   "fetched_at": "2026-10-28T14:05+08:00",
+   "title": "农产品 | 生猪行业处于被动累库局面 近端供应压力仍存",
+   "summary": "生猪: 猪e数据显示10月26日全国外三元均价9.29元/kg,较昨日跌0.04元/kg,猪价持续探底,养殖端抵触降价情绪较强,月末头部猪企出栏计划接近完成,尝试缩量拉涨,叠加气温转凉与二育零星入场,猪价跌幅收窄,但目前体重仍在高位,行业处于被动累库局面,近端供应压力仍存。",
+   "source": "一德期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610283911167686.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_5efa9ddf8dfaf89b3541",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T08:56+08:00",
+   "fetched_at": "2026-10-28T14:05+08:00",
+   "title": "生意社2026年10月28日PTA趋势分析:明确上涨",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-28/doc-iniwttsf9719310.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_04c7332e9aa8e1e00fd0",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T08:20+08:00",
+   "fetched_at": "2026-10-28T14:05+08:00",
+   "title": "政策托底信号明确 玉米下探空间有限",
+   "summary": "进出口分析 2026/2027年度中国玉米进口预测值为600万吨,较上年度有所回升,但整体仍处于配额以内,进口量可控。当前进口玉米完税成本为2250-2400元/吨,已高于国产玉米,直接进口利润转负,进口套利窗口未打开。",
+   "source": "期货日报",
+   "type": "政策与供应",
+   "url": "https://finance.eastmoney.com/a/202610283910911510.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_b1223299a1c89cc34ad0",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T07:22+08:00",
+   "fetched_at": "2026-10-28T14:05+08:00",
+   "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌1.10%",
+   "summary": "当地时间10月27日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.74%报1243.25美分/蒲式耳,玉米期货跌1.10%报450.00美分/蒲式耳,小麦期货跌0.81%报611.00美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610283910918148.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_88b3d3fcc4905aaff606",
    "date": "2026-10-28",
@@ -3781,165 +3932,6 @@
     "生猪"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_166fdc848db9f001f215",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T10:10+08:00",
-   "fetched_at": "2026-10-17T07:19+08:00",
-   "title": "2026年10月16日大豆豆油价格:东北惜售、南方新豆收尾?",
-   "summary": "",
-   "source": "QQ News",
-   "type": "价格行情",
-   "url": "https://news.qq.com/rain/a/20261016A04H1800?ptag=ima",
-   "company": "",
-   "material_ids": [
-    "A",
-    "Y"
-   ],
-   "matched_keywords": [
-    "大豆",
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_656f1ac6daa5b9ee9edb",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T09:34+08:00",
-   "fetched_at": "2026-10-16T11:44+08:00",
-   "title": "【油脂油料】马来10月棕榈油出口环比大增,NOPA9月大豆压榨下滑超预期",
-   "summary": "来源:中粮期货研究中心 榨利日期:根据DCE2026-10-16开盘价计算 10月15日,巴西大豆2027年2-8月CNF升贴水报价为155美分/蒲式耳、123美分/蒲式耳、114美分/蒲式耳...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-16/doc-inivksmu1424926.shtml",
-   "company": "",
-   "material_ids": [
-    "P",
-    "A"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "大豆"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_b7e992bc7ce3a0304720",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T09:05+08:00",
-   "fetched_at": "2026-10-16T11:44+08:00",
-   "title": "能化 | PTA:供需格局转弱成本主导",
-   "summary": "综合来看,近期PTA盘面呈现成本驱动下的偏强运行格局,核心支撑来自中东地缘扰动推升原油价格中枢,叠加PX海内外装置集中检修带来的原料端供应收紧,同时行业前期深度去库后绝对库存处于低位,现货基差维持高位形成价格托底。",
-   "source": "广州期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610163897702375.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_7c5d1fed8a464a8025c4",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T09:05+08:00",
-   "fetched_at": "2026-10-16T11:44+08:00",
-   "title": "仔猪价格持续下降引关注 旺季备货不及预期 猪价磨底还要多久?",
-   "summary": "存栏量的回升恰巧印证了去化尚未真正兑现到存栏端,存栏量的高位徘徊甚至回升是压制猪价反弹的核心矛盾之一。 随着生猪价格持续波动,市场对后续需要关注的因素格外关注。对此,侯晓瑞表示,首先是短期内需要关注出栏节奏。",
-   "source": "华夏时报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610163898084115.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "仔猪",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2ca8240936ad83281620",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T09:00+08:00",
-   "fetched_at": "2026-10-16T11:44+08:00",
-   "title": "开盘|国内期货主力合约跌多涨少 棕榈油、纯苯跌近2%",
-   "summary": "2026年10月16日,早盘开盘,国内期货主力合约跌多涨少。棕榈油、纯苯跌近2%,燃料油、沪镍、苯乙烯(EB)、甲醇、液化石油气(LPG)、苹果、乙二醇(EG)、塑料跌超1%。",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-16/doc-inivkncp7101189.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2c2114363c8d79251aef",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T08:57+08:00",
-   "fetched_at": "2026-10-16T11:44+08:00",
-   "title": "农产品 | 玉米:北港粮价止跌企稳 东华北产区粮价弱势",
-   "summary": "玉米: 昨日玉米主力01合约收报2211元/吨,跌5元,弱现实难以支撑强预期;锦州港干粮 15 水 690 容重以上主流收购价2145-2150元/吨,蛇口港二等粮价格 2280-2300 元/吨,港口报价反弹驱动不足。",
-   "source": "创元期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610163897646642.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_0ee9f464e34ec66153d4",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T08:50+08:00",
-   "fetched_at": "2026-10-16T11:44+08:00",
-   "title": "农产品 | 棕榈油:10月1-10日马来西亚棕榈油产量环比增加2.08%",
-   "summary": "白糖 洲际交易所(ICE)原糖期货周四上涨,因主要产区巴西和欧洲,以及其他国家糖产量下降。ICE交投最活跃的3月原糖期货收涨0.29美分或1.39%,结算价报每磅21.13美分。国内市场:南方甘蔗糖开机时间仍影响供应端,当前陈糖库存高企,与新榨季增产形成双重压制。",
-   "source": "瑞达期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610163897606266.html",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_bec9512bbe4e32ca8eba",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T08:42+08:00",
-   "fetched_at": "2026-10-16T11:44+08:00",
-   "title": "农产品 | 生猪:南北方出栏量增减互现 成交一般",
-   "summary": "辽宁谨慎观望;山东卖猪增多,担心大猪价格回落;江西、湖南零星补栏,多数观望;两广低价略有增量但未持续,疫情区域出栏节奏不一。预计短期猪价延续震荡偏弱调整。 【棉花】 棉花:郑棉主力夜盘震荡走势、整体偏弱运行。",
-   "source": "申银万国期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610163897603043.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 11
   }
  ]
 }

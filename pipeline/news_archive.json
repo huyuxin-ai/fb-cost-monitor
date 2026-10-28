@@ -1,5 +1,158 @@
 [
  {
+  "id": "news_37df05938d273ef79252",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T12:39+08:00",
+  "fetched_at": "2026-10-28T14:05+08:00",
+  "title": "三季度猪价低位磨底 四季度价格依旧难涨?",
+  "summary": "",
+  "source": "手机新浪网",
+  "type": "价格行情",
+  "url": "https://k.sina.com.cn/article_5952915705_162d248f906703rthm.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d8e3593713bad94b1564",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T11:41+08:00",
+  "fetched_at": "2026-10-28T14:05+08:00",
+  "title": "【现货】10月28日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261028/c681177124.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b8f511d41e7db4563d39",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T10:04+08:00",
+  "fetched_at": "2026-10-28T14:05+08:00",
+  "title": "农产品 | 巴西雷亚尔雷亚尔趋软 打击市场对美国大豆出口需求",
+  "summary": "国内方面,10月大豆到港量仍处季节性偏高水平,油厂压榨节奏难以显著放缓,豆粕产出端压力具有持续性。需求端饲料企业采购以按需随采、刚需为主,物理库存天数虽有小幅回升,但终端追高动力不足。预计短期内豆粕现货价格随盘继续偏弱震荡。",
+  "source": "东海期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610283911349456.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_83fe5b1dd912766b2127",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T09:43+08:00",
+  "fetched_at": "2026-10-28T14:05+08:00",
+  "title": "农产品 | 空头止盈离场 生猪期货反弹",
+  "summary": "生猪 空头止盈离场,期货强势反弹 周二,生猪期货反弹,主力LH2701涨幅2.52%,暂报9975元。现货方面,根据我的农产品网数据,全国外三元生猪出栏均价为9.23元/公斤,较昨日下跌0.05元/公斤。",
+  "source": "国信期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610283911232351.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a249d11260f686447dfa",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T09:34+08:00",
+  "fetched_at": "2026-10-28T14:05+08:00",
+  "title": "农产品 | 生猪行业处于被动累库局面 近端供应压力仍存",
+  "summary": "生猪: 猪e数据显示10月26日全国外三元均价9.29元/kg,较昨日跌0.04元/kg,猪价持续探底,养殖端抵触降价情绪较强,月末头部猪企出栏计划接近完成,尝试缩量拉涨,叠加气温转凉与二育零星入场,猪价跌幅收窄,但目前体重仍在高位,行业处于被动累库局面,近端供应压力仍存。",
+  "source": "一德期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610283911167686.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_5efa9ddf8dfaf89b3541",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T08:56+08:00",
+  "fetched_at": "2026-10-28T14:05+08:00",
+  "title": "生意社2026年10月28日PTA趋势分析:明确上涨",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-28/doc-iniwttsf9719310.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_04c7332e9aa8e1e00fd0",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T08:20+08:00",
+  "fetched_at": "2026-10-28T14:05+08:00",
+  "title": "政策托底信号明确 玉米下探空间有限",
+  "summary": "进出口分析 2026/2027年度中国玉米进口预测值为600万吨,较上年度有所回升,但整体仍处于配额以内,进口量可控。当前进口玉米完税成本为2250-2400元/吨,已高于国产玉米,直接进口利润转负,进口套利窗口未打开。",
+  "source": "期货日报",
+  "type": "政策与供应",
+  "url": "https://finance.eastmoney.com/a/202610283910911510.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_b1223299a1c89cc34ad0",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T07:22+08:00",
+  "fetched_at": "2026-10-28T14:05+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌1.10%",
+  "summary": "当地时间10月27日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.74%报1243.25美分/蒲式耳,玉米期货跌1.10%报450.00美分/蒲式耳,小麦期货跌0.81%报611.00美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610283910918148.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_88b3d3fcc4905aaff606",
   "date": "2026-10-28",
   "published_at": "2026-10-28T06:50+08:00",
@@ -9522,161 +9675,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fb6ce845d8fb040573a7",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T15:41+08:00",
-  "fetched_at": "2026-09-28T19:09+08:00",
-  "title": "生猪主力合约收跌4.01%",
-  "summary": "南财智讯9月28日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌4.01%,收盘报10295.0元/吨,日内资金流出5.61亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609283885195333.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_a848a6df93b3306f6ebe",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T15:41+08:00",
-  "fetched_at": "2026-09-28T19:09+08:00",
-  "title": "玉米主力合约收涨0.14%",
-  "summary": "南财智讯9月28日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.14%,收盘报2180.0元/吨,日内资金流出7298.72万元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609283885192273.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_7242330d58e26f9d2e58",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T15:40+08:00",
-  "fetched_at": "2026-09-29T00:53+08:00",
-  "title": "供需面持续转弱 预计PTA期货价格跟随成本波动",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initkpfa2879693.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b017406315cd70f1ea90",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T15:15+08:00",
-  "fetched_at": "2026-09-28T19:09+08:00",
-  "title": "光大期货0928热点追踪:双节备货落空叠加出栏踩踏,生猪跌超3%",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initkhxe2949860.shtml?cre=tianyi&loc=28&mod=pchp&r=0&rfunc=95&tj=cxvertical_pc_hp&tr=12",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fef377d1d46eaa2df537",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T14:40+08:00",
-  "fetched_at": "2026-09-28T19:09+08:00",
-  "title": "9月中旬美联储加息落地 短期棕榈油价格出现调整",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initkhwz8618999.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_dd6f0eeb23079d0bf1d4",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T12:09+08:00",
-  "fetched_at": "2026-09-28T12:25+08:00",
-  "title": "逆势拉升!猪肉概念早间翻红 生猪产能加速去化",
-  "summary": "节奏上,国庆后至10月中旬市场呈现短期“供强需弱”格局,猪价仍存在震荡偏弱压力;10月下旬起,伴随阶段性供应压力出清,二次育肥补库启动、旺季消费预期逐步落地,需求端持续回暖,有望带动生猪行情重心稳步抬升,四季度整体行情将由弱转强,但受限于供应高位,预计上方空间整体有限。",
-  "source": "东方财富研究中心",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609283885050742.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_4cc91a85d37c4e911d9b",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T11:35+08:00",
-  "fetched_at": "2026-09-28T12:25+08:00",
-  "title": "猪价持续下探,猪周期拐点还有多远 | 立方观察",
-  "summary": "今年5月,农业农村部将全国能繁母猪正常保有量目标进一步下调至3750万头左右,并强调对生猪产能进行常态化精准调控。政策目标的变化,本身也说明行业产能已经进入需要进一步优化的阶段。但需要看到,产能去化不是猪价反转的同义词。",
-  "source": "大河财立方",
-  "type": "政策与供应",
-  "url": "https://finance.eastmoney.com/a/202609283885049091.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪",
-   "能繁母猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_46440f0998f569dec29c",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T11:19+08:00",
-  "fetched_at": "2026-09-28T07:52+08:00",
-  "title": "“美中加强农业合作是双赢之举” ——访美国大豆出口协会首席执行官苏健",
-  "summary": "他表示,美中两国在全球农业生产、消费和贸易中均占据重要地位,双方加强协调与合作能降低全球粮食供应链的波动,减少粮食价格上涨对脆弱经济体的冲击。 在农业科研领域,苏健认为美中同样拥有广阔的合作空间。",
-  "source": "人民日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609283884558877.html",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆"
   ],
   "relevance_score": 8
  }
