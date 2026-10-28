@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_a3b62f0b64363bf5d3d3",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T00:00+08:00",
+  "fetched_at": "2026-10-29T02:59+08:00",
+  "title": "10月生猪屠宰量同环比双降,11月需求缓升或带动环比小增",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-29/doc-iniwvftn3141799.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_cfd14a79155b5ca970f2",
   "date": "2026-10-28",
   "published_at": "2026-10-28T21:40+08:00",
@@ -15,6 +34,26 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f6e62d6b502a9e7ebe7d",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T20:11+08:00",
+  "fetched_at": "2026-10-29T02:59+08:00",
+  "title": "新华指数监测:本期永平核桃新季购销升温 核桃仁、青皮果、鲜果价格上行",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/bond/2026-10-28/doc-iniwuvct9405056.shtml?froms=ggmp",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃仁",
+   "核桃"
   ],
   "relevance_score": 8
  },
@@ -232,6 +271,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_707cb4370af8ca1372b3",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T09:21+08:00",
+  "fetched_at": "2026-10-29T02:59+08:00",
+  "title": "生意社2026年10月28日涤纶短纤趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-28/doc-iniwttsf9727129.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_5efa9ddf8dfaf89b3541",
   "date": "2026-10-28",
   "published_at": "2026-10-28T08:56+08:00",
@@ -317,6 +375,25 @@
   "source": "搜狐网",
   "type": "价格行情",
   "url": "https://www.sohu.com/a/1093511110_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d63d212b9eeb75d132a7",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T05:24+08:00",
+  "fetched_at": "2026-10-29T02:59+08:00",
+  "title": "再创新低!猪价距离见底还有多远?",
+  "summary": "",
+  "source": "东方财富",
+  "type": "供需动态",
+  "url": "https://wap.eastmoney.com/a/202610263907928491.html",
   "company": "",
   "material_ids": [
    "LH"
@@ -1655,6 +1732,25 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e3b9d892326e9f5bbcd6",
+  "date": "2026-10-22",
+  "published_at": "2026-10-22T16:00+08:00",
+  "fetched_at": "2026-10-29T02:59+08:00",
+  "title": "下行期仍在增产,生猪养殖行业陷入“囚徒困境”",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/5675440730/152485a5a020028c9w",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
   ],
   "relevance_score": 8
  },
@@ -9579,101 +9675,5 @@
    "大豆"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_f6086065e8bc33672b79",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T04:11+08:00",
-  "fetched_at": "2026-09-29T22:57+08:00",
-  "title": "假期集团散户同步出栏 生猪价格承压偏弱运行",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-28/detail-initiwim9706532.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2f7e3a3ff9a2195249c8",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T03:54+08:00",
-  "fetched_at": "2026-09-29T12:55+08:00",
-  "title": "逆势拉升!猪肉概念早间翻红 生猪产能加速去化",
-  "summary": "",
-  "source": "东方财富",
-  "type": "供需动态",
-  "url": "https://wap.eastmoney.com/a/202609283885050742.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ecac199bd8e1074d5f13",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T00:50+08:00",
-  "fetched_at": "2026-09-29T00:53+08:00",
-  "title": "生猪期货跌3.4%,猪肉股却在涨:两个市场两段时间",
-  "summary": "",
-  "source": "video.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://video.sina.com.cn/p/finance/2026-09-28/detail-initktnz9738670.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0ba605f00be00c7e4063",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T00:00+08:00",
-  "fetched_at": "2026-09-29T07:45+08:00",
-  "title": "节后猪价能否迎来反转反弹?紧盯国庆备货",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-09-29/doc-initmear8313548.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1eb6ced4105fcf1a508f",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T22:44+08:00",
-  "fetched_at": "2026-09-29T00:53+08:00",
-  "title": "生意社:成本推涨 9月涤纶短纤价格站上年内高位",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-28/doc-initkxux9701755.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
  }
 ]
