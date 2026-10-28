@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T04:50+08:00",
+ "updated_at": "2026-10-28T08:18+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -11,7 +11,7 @@
   "QQ News": 3,
   "Sin Chew Daily": 1,
   "e南洋": 1,
-  "finance.sina.com.cn": 4,
+  "finance.sina.com.cn": 5,
   "https://www.agripost.cn/": 1,
   "www.agripost.cn": 1,
   "一德期货": 1,
@@ -26,11 +26,10 @@
   "凤凰网": 2,
   "创元期货": 1,
   "华夏时报": 1,
-  "华夏时报网": 1,
   "南华期货": 1,
   "南方财经网": 11,
   "同花顺": 13,
-  "同花顺财经": 8,
+  "同花顺财经": 9,
   "国信期货": 1,
   "国家粮食和物资储备局": 2,
   "国投期货": 1,
@@ -39,14 +38,14 @@
   "广发期货": 1,
   "广州期货": 1,
   "手机新浪网": 1,
-  "搜狐": 15,
+  "搜狐": 14,
   "搜狐网": 5,
   "新华财经": 5,
   "新浪网": 6,
-  "新浪财经": 30,
+  "新浪财经": 31,
   "时代周报": 2,
   "期货日报": 10,
-  "每日经济新闻": 5,
+  "每日经济新闻": 4,
   "汇通网": 1,
   "混沌天成期货": 1,
   "瑞达期货": 2,
@@ -67,6 +66,44 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_88b3d3fcc4905aaff606",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T06:50+08:00",
+   "fetched_at": "2026-10-28T08:18+08:00",
+   "title": "10月28日猪价:跌猛了!猪价“滑坡”下跌,下跌逻辑找到!“地板线”是多少?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://www.sohu.com/a/1093511110_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e8138fd2228520cb5d28",
+   "date": "2026-10-28",
+   "published_at": "2026-10-28T01:37+08:00",
+   "fetched_at": "2026-10-28T08:18+08:00",
+   "title": "大商所调整生猪期货LH2701合约交易限额",
+   "summary": "",
+   "source": "finance.sina.com.cn",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-10-27/detail-iniwsfqu7022969.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_099c01fb5bd9e1732fa1",
    "date": "2026-10-28",
@@ -334,6 +371,25 @@
     "白糖"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_ff3773820228a331b71d",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T03:10+08:00",
+   "fetched_at": "2026-10-28T08:18+08:00",
+   "title": "PSY提升对冲产能去化,年末猪价或涨幅受限",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "供需动态",
+   "url": "https://m.10jqka.com.cn/20261026/c681105754.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_ae6e4c70fa2dec6c7f7f",
@@ -723,6 +779,26 @@
    "relevance_score": 8
   },
   {
+   "id": "news_19e0b91f22d0fcb0d5a0",
+   "date": "2026-10-25",
+   "published_at": "2026-10-25T12:12+08:00",
+   "fetched_at": "2026-10-25T08:05+08:00",
+   "title": "10月25日猪价再探底!生猪出栏量、出栏均重同步上涨,行业磨底延续",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101bjpc?cre=picnextw&cref=cj&loc=2&mod=picg&r=0&rfunc=33&tj=cxvertical_wap_picnextw_picg",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_1830d80c4caeeb621989",
    "date": "2026-10-25",
    "published_at": "2026-10-25T10:25+08:00",
@@ -738,25 +814,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_71a9c43cd0f1e43b343c",
-   "date": "2026-10-25",
-   "published_at": "2026-10-25T06:25+08:00",
-   "fetched_at": "2026-10-25T08:05+08:00",
-   "title": "10月25日猪价:拦不住!猪价下跌“如火如荼”!月末“枯木逢春”?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1092217722_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   },
@@ -3883,65 +3940,6 @@
     "猪价"
    ],
    "relevance_score": 11
-  },
-  {
-   "id": "news_e563c46ec429d94aeadd",
-   "date": "2026-10-16",
-   "published_at": "2026-10-16T05:38+08:00",
-   "fetched_at": "2026-10-16T07:45+08:00",
-   "title": "芝加哥大豆期货跌1%",
-   "summary": "周四(10月15日)纽约尾盘,CBOT玉米期货跌0.52%,报4.7825美元/蒲式耳。CBOT小麦期货跌0.57%,报6.6925美元/蒲式耳。CBOT大豆期货跌1%,报12.6425美元/蒲式耳,豆粕期货跌1.29%,豆油期货涨0.18%。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610163897352460.html",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_f233342080c70f9affbe",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T21:38+08:00",
-   "fetched_at": "2026-10-16T01:40+08:00",
-   "title": "仔猪价格持续下降引关注,旺季备货不及预期,猪价磨底还要多久?|大宗风云",
-   "summary": "存栏量的回升恰巧印证了去化尚未真正兑现到存栏端,存栏量的高位徘徊甚至回升是压制猪价反弹的核心矛盾之一。 随着生猪价格持续波动,市场对后续需要关注的因素格外关注。对此,侯晓瑞表示,首先是短期内需要关注出栏节奏。",
-   "source": "华夏时报网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610153897238935.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "仔猪",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_c4757f827124d4f6cd54",
-   "date": "2026-10-15",
-   "published_at": "2026-10-15T18:12+08:00",
-   "fetched_at": "2026-10-16T07:45+08:00",
-   "title": "今日核桃价格一览|10月15日",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1088205154_122014422/?pvid=000115_3w_a",
-   "company": "",
-   "material_ids": [
-    "WALNUT"
-   ],
-   "matched_keywords": [
-    "核桃"
-   ],
-   "relevance_score": 8
   }
  ]
 }

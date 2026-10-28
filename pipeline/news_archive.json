@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_88b3d3fcc4905aaff606",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T06:50+08:00",
+  "fetched_at": "2026-10-28T08:18+08:00",
+  "title": "10月28日猪价:跌猛了!猪价“滑坡”下跌,下跌逻辑找到!“地板线”是多少?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://www.sohu.com/a/1093511110_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e8138fd2228520cb5d28",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T01:37+08:00",
+  "fetched_at": "2026-10-28T08:18+08:00",
+  "title": "大商所调整生猪期货LH2701合约交易限额",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-10-27/detail-iniwsfqu7022969.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_099c01fb5bd9e1732fa1",
   "date": "2026-10-28",
   "published_at": "2026-10-28T00:30+08:00",
@@ -266,6 +304,25 @@
    "白糖"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_ff3773820228a331b71d",
+  "date": "2026-10-27",
+  "published_at": "2026-10-27T03:10+08:00",
+  "fetched_at": "2026-10-28T08:18+08:00",
+  "title": "PSY提升对冲产能去化,年末猪价或涨幅受限",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "供需动态",
+  "url": "https://m.10jqka.com.cn/20261026/c681105754.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_ae6e4c70fa2dec6c7f7f",
@@ -674,6 +731,26 @@
   "relevance_score": 8
  },
  {
+  "id": "news_19e0b91f22d0fcb0d5a0",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T12:12+08:00",
+  "fetched_at": "2026-10-25T08:05+08:00",
+  "title": "10月25日猪价再探底!生猪出栏量、出栏均重同步上涨,行业磨底延续",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101bjpc?cre=picnextw&cref=cj&loc=2&mod=picg&r=0&rfunc=33&tj=cxvertical_wap_picnextw_picg",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_1830d80c4caeeb621989",
   "date": "2026-10-25",
   "published_at": "2026-10-25T10:25+08:00",
@@ -689,25 +766,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_71a9c43cd0f1e43b343c",
-  "date": "2026-10-25",
-  "published_at": "2026-10-25T06:25+08:00",
-  "fetched_at": "2026-10-25T08:05+08:00",
-  "title": "10月25日猪价:拦不住!猪价下跌“如火如荼”!月末“枯木逢春”?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1092217722_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  },
@@ -9621,65 +9679,5 @@
    "大豆"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_0742335537f1d13bfa04",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T10:34+08:00",
-  "fetched_at": "2026-09-28T12:25+08:00",
-  "title": "卓创资讯:产能去化周期或延续,2027年猪价或谨慎偏乐观",
-  "summary": "而结合卓创资讯对母猪基数、产效等数据的评估,2027年生猪出栏总量或介于2025年与2026年之间,月供需比或逐步下滑,二季度后降幅或走阔。基于对年出栏总量以及猪肉消费量的数据预测评估,2027年生猪年均价或维持谨慎偏乐观,年均价或在12.0—12.5元/公斤。",
-  "source": "南方财经网",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609283884979341.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_a835e4ba94f73deef32f",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T10:32+08:00",
-  "fetched_at": "2026-10-03T02:36+08:00",
-  "title": "2026年9月28日大豆豆油价格:新粮陆续上市,农户惜售挺价",
-  "summary": "",
-  "source": "腾讯新闻",
-  "type": "价格行情",
-  "url": "https://news.qq.com/rain/a/20260928A047XX00",
-  "company": "",
-  "material_ids": [
-   "A",
-   "Y"
-  ],
-  "matched_keywords": [
-   "大豆",
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0a390a89aecbfe95f767",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T10:25+08:00",
-  "fetched_at": "2026-09-28T12:25+08:00",
-  "title": "【季报】玉米:供应压力将释放 四季度玉米先抑后稳",
-  "summary": "此外,轮换收购力度、生猪产能去化节奏、麦玉价差变化均为关键变量,若养殖利润修复带动饲企补库,或将带来阶段性反弹行情。 【套利】 玉米淀粉-玉米:观望",
-  "source": "国元期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609283884927742.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
  }
 ]
