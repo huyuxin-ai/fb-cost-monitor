@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_cfd14a79155b5ca970f2",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T21:40+08:00",
+  "fetched_at": "2026-10-28T04:50+08:00",
+  "title": "美国农业部生猪报告2026年10月28日:协商采购量下降,胴体价格走低 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-negotiated-purchases-fall-to-10934-head-on-october-28-2026/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_47f9b59b0d4ea0a71238",
   "date": "2026-10-28",
   "published_at": "2026-10-28T16:25+08:00",
@@ -317,25 +336,6 @@
   "source": "finance.sina.com.cn",
   "type": "价格行情",
   "url": "https://finance.sina.cn/2026-10-27/detail-iniwsfqu7022969.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_099c01fb5bd9e1732fa1",
-  "date": "2026-10-28",
-  "published_at": "2026-10-28T00:30+08:00",
-  "fetched_at": "2026-10-28T04:50+08:00",
-  "title": "美国农业部晨间生猪报告2026年10月27日:采购量、胴体价格与各州数据 - 新闻和统计",
-  "summary": "",
-  "source": "IndexBox",
-  "type": "价格行情",
-  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-morning-hog-report-for-october-27-2026-mixed-purchase-volumes-and-carcass-pricing/",
   "company": "",
   "material_ids": [
    "LH"
@@ -797,6 +797,25 @@
   "source": "中华网",
   "type": "价格行情",
   "url": "https://news.china.com/socialgd/10000169/20261026/49819326.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e7d4ffa4d742a8cc9b80",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T16:00+08:00",
+  "fetched_at": "2026-10-28T23:17+08:00",
+  "title": "跌麻了,猪价下跌“如火如荼”!附:10月27日猪价",
+  "summary": "",
+  "source": "手机网易网",
+  "type": "价格行情",
+  "url": "https://www.163.com/dy/article/LA60LKHA0512JUR9.html",
   "company": "",
   "material_ids": [
    "LH"
@@ -9654,25 +9673,6 @@
   ],
   "matched_keywords": [
    "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f69df224e096eade3d67",
-  "date": "2026-09-28",
-  "published_at": "2026-09-28T19:25+08:00",
-  "fetched_at": "2026-09-29T00:53+08:00",
-  "title": "7.39亿头猪!2026年生猪出栏量预测增长,32%散户将继续减产!",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "供需动态",
-  "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101aycq",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  }
