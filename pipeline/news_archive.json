@@ -1,5 +1,103 @@
 [
  {
+  "id": "news_59186ba0c62b72dec549",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T21:24+08:00",
+  "fetched_at": "2026-10-29T23:22+08:00",
+  "title": "牧原股份高管:明年供需关系对生猪价格形成支撑,猪价或较今年上升",
+  "summary": "今年生猪养殖业亏损持续时间和亏损深度均超出行业预期。对于2027年猪价走势,10月29日晚间,牧原股份(002714.SZ)高管在2026年三季报交流会上表示,明年猪价难以准确判断。由于今年生猪养殖业持续亏损,市场对明年抱有一定预期。",
+  "source": "时代周报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610293914850130.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_6207496f7e071cf80278",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T20:48+08:00",
+  "fetched_at": "2026-10-29T23:22+08:00",
+  "title": "猪价持续低迷叠加补税 傲农生物前三季度亏损超3亿元 | 财报解读",
+  "summary": "公司在财报中表示,主要系本期生猪出栏量增加、生猪价格持续低迷,叠加补缴税款及滞纳金影响,且本期确认的重整收益较上年同期大幅减少所致。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610293914778371.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_a5ea7c22762e650e4204",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T20:37+08:00",
+  "fetched_at": "2026-10-29T23:22+08:00",
+  "title": "财报解读|猪价又破10元,10家上市猪企前三季度已亏200亿元",
+  "summary": "生猪价格大幅下降,是行业深陷亏损的直接原因。记者从业内了解到,近一年以来,生猪行业产能过剩,在供过于求的局面下,今年二季度生猪价格创下10余年新低,持续低迷的价格击穿了生猪养殖企业的成本线。 不过,根据国家统计局的数据,三季度生猪价格出现阶段性回升,整体位于10元/公斤上方。",
+  "source": "第一财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610293914774582.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_27c1a22a6e02e01f7943",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T19:09+08:00",
+  "fetched_at": "2026-10-29T23:22+08:00",
+  "title": "威尔士全国农民联盟:成本上涨抵消奶价回升收益,部分奶农售价低于成本",
+  "summary": "",
+  "source": "Dairynews.today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/nfu_cymru_rising_costs_squeeze_welsh_dairy_margins_despite_recovering_milk_prices_6376484.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_a906fbb2befc209c9606",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T17:00+08:00",
+  "fetched_at": "2026-10-29T23:22+08:00",
+  "title": "【现货】10月29日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261029/c681229388.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a4b2dcdd8bf1b29f7d4e",
   "date": "2026-10-29",
   "published_at": "2026-10-29T16:56+08:00",
@@ -133,6 +231,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_3901f0fc36495ca7781f",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T10:11+08:00",
+  "fetched_at": "2026-10-29T23:22+08:00",
+  "title": "国信证券:《2026年三季报点评:生猪成本稳步下降,肉牛业务有望成为第二增长曲线:华统股份(002840.SZ)》",
+  "summary": "",
+  "source": "发现报告",
+  "type": "供需动态",
+  "url": "https://www.fxbaogao.com/detail/5816600",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_52554a952d3f330d1b51",
   "date": "2026-10-29",
   "published_at": "2026-10-29T09:25+08:00",
@@ -151,6 +268,26 @@
    "生猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_2d741319872880b8add1",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T03:34+08:00",
+  "fetched_at": "2026-10-29T23:22+08:00",
+  "title": "仙乐健康:拟联合全球鱼油藻油头部企业成立全球Omega-3供应保障战略联盟",
+  "summary": "",
+  "source": "东方财富",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610293913665967.html",
+  "company": "",
+  "material_ids": [
+   "FISHOIL"
+  ],
+  "matched_keywords": [
+   "鱼油",
+   "omega-3"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_a3b62f0b64363bf5d3d3",
@@ -709,6 +846,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_b5a286b69f2ecfaec038",
+  "date": "2026-10-27",
+  "published_at": "2026-10-27T14:25+08:00",
+  "fetched_at": "2026-10-29T23:22+08:00",
+  "title": "增强盘面价格代表性!大商所调整生猪期货交割发票类型",
+  "summary": "",
+  "source": "手机新浪网",
+  "type": "价格行情",
+  "url": "https://k.sina.com.cn/article_1043320390_3e2fce4600102hm2c.html?subch=futures",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_7668cb20e988eba00a7e",
   "date": "2026-10-27",
   "published_at": "2026-10-27T12:34+08:00",
@@ -1228,6 +1384,25 @@
    "生猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_5a5e771243811d155898",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T19:23+08:00",
+  "fetched_at": "2026-10-29T23:22+08:00",
+  "title": "农林牧渔行业周报:猪价持续走弱,关注行业资金压力",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://wap.stockstar.com/detail/JC2026102500009987",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_7b787e1a49a3afdbc691",
@@ -9495,182 +9670,5 @@
    "生猪"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_6e6f73d633361a85d970",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T11:05+08:00",
-  "fetched_at": "2026-09-30T05:20+08:00",
-  "title": "生意社:成本推涨 9月涤纶短纤价格站上年内高位",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260928/c680335698.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_78db3342bfd7a228f38f",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T10:48+08:00",
-  "fetched_at": "2026-09-29T12:55+08:00",
-  "title": "农业农村部:常态化实施产能精准调控,指导头部企业带头调减生猪产能",
-  "summary": "农业农村部新闻发言人、发展规划司司长陈邦勋表示,进入到下半年,生猪供需形势持续改善,价格有波动,但总体是回升的,目前猪价已稳定在每公斤11元以上。生猪生产既关系老百姓的一日三餐,也关系养殖场户的收入生计。",
-  "source": "澎湃新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609293886287913.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_133e24c648b2d74f7c78",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T10:47+08:00",
-  "fetched_at": "2026-09-29T12:55+08:00",
-  "title": "农业农村部:生猪供需形势持续改善",
-  "summary": "9月29日,农业农村部新闻发言人、发展规划司司长陈邦勋在国新办新闻发布会上表示,进入下半年,生猪供需形势持续改善,价格有波动但总体回升,目前生猪价格已稳定在每公斤11元以上。",
-  "source": "第一财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609293886291688.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_8a6878e02ac9e5aa256c",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T10:34+08:00",
-  "fetched_at": "2026-09-29T12:55+08:00",
-  "title": "华泰期货:生猪期货昨日出现大幅下跌,还要寻底?",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-29/doc-initnfqh2532566.shtml?cre=tianyi&loc=22&mod=pchp&r=0&rfunc=25&tj=cxvertical_pc_hp&tr=12",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7c7d4fb4b6c7a87528f4",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T10:30+08:00",
-  "fetched_at": "2026-10-01T15:42+08:00",
-  "title": "2026年9月29日大豆豆油价格:新粮上市,购销分化",
-  "summary": "",
-  "source": "QQ News",
-  "type": "价格行情",
-  "url": "https://news.qq.com/rain/a/20260929A04IEX00?ptag=ima",
-  "company": "",
-  "material_ids": [
-   "A",
-   "Y"
-  ],
-  "matched_keywords": [
-   "大豆",
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_bc337f8621e3d605e14b",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T09:51+08:00",
-  "fetched_at": "2026-10-02T21:00+08:00",
-  "title": "豆粕供需改善预期发酵 内外盘价格维持高位运行",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-28/detail-initiwim9657549.d.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9ed94f0cfdc25e64284f",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T09:48+08:00",
-  "fetched_at": "2026-09-29T19:11+08:00",
-  "title": "生意社2026年9月29日涤纶短纤趋势分析:震荡",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-29/doc-initmzhp3104675.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_efa4978fc9efc310194e",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T09:46+08:00",
-  "fetched_at": "2026-09-29T12:55+08:00",
-  "title": "上周国内大豆、豆粕商业库存均上升",
-  "summary": "监测显示,9月25日,全国主要油厂进口大豆库存873万吨,周环比上升4万吨,月环比上升32万吨,同比上升103万吨,较过去三年均值上升247万吨;豆粕库存124万吨,周环比上升11万吨,月环比上升12万吨,同比上升7万吨,较过去三年同期均值上升16万吨。",
-  "source": "国家粮食和物资储备局",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609293886169551.html",
-  "company": "",
-  "material_ids": [
-   "M",
-   "A"
-  ],
-  "matched_keywords": [
-   "豆粕",
-   "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_3fdb5551df5a61ee505e",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T09:43+08:00",
-  "fetched_at": "2026-09-29T12:55+08:00",
-  "title": "重回5元时代!旺季不旺,节后猪价持续走弱!",
-  "summary": "",
-  "source": "video.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://video.sina.com.cn/p/finance/2026-09-29/detail-initmzhp3098029.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  }
 ]
