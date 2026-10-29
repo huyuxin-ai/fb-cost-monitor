@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T00:43+08:00",
+ "updated_at": "2026-10-30T05:38+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,6 +10,7 @@
   "IndexBox": 3,
   "QQ News": 2,
   "Sin Chew Daily": 1,
+  "ThePaper.cn": 1,
   "e南洋": 1,
   "finance.sina.com.cn": 6,
   "https://www.agripost.cn/": 1,
@@ -25,7 +26,7 @@
   "中国经营报": 2,
   "光大期货": 1,
   "农业农村部": 1,
-  "凤凰网": 2,
+  "凤凰网": 1,
   "南方财经网": 11,
   "发现报告": 1,
   "同花顺": 11,
@@ -33,7 +34,7 @@
   "国信期货": 2,
   "国家粮食和物资储备局": 1,
   "国投期货": 1,
-  "国际金融报": 2,
+  "国际金融报": 1,
   "导油网": 1,
   "广发期货": 2,
   "手机新浪网": 5,
@@ -59,11 +60,30 @@
   "证券之星": 4,
   "证券日报": 1,
   "诗华日报": 1,
-  "财联社": 5,
+  "财联社": 6,
   "迈科期货": 1,
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_9a44f006fb73324c2d01",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T04:02+08:00",
+   "fetched_at": "2026-10-30T05:38+08:00",
+   "title": "大豆、稀土与乙醇:卢拉连任如何影响巴西大宗商品产业?",
+   "summary": "在中东地区冲突背景下,化肥和柴油价格高企,巴西大豆和玉米种植者正同时面临农产品价格低迷和生产成本上升的压力。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610303915103192.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_2d921408b673dbd8b76d",
    "date": "2026-10-30",
@@ -163,6 +183,25 @@
    "relevance_score": 12
   },
   {
+   "id": "news_3e78ee46de33dbad623e",
+   "date": "2026-10-29",
+   "published_at": "2026-10-29T20:58+08:00",
+   "fetched_at": "2026-10-30T05:38+08:00",
+   "title": "生意社:10月PTA价格创近四年新高 呈“N”型走势",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-29/doc-iniwxekq2708565.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_6207496f7e071cf80278",
    "date": "2026-10-29",
    "published_at": "2026-10-29T20:48+08:00",
@@ -218,6 +257,25 @@
    ],
    "matched_keywords": [
     "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2c0a54f3f7598faba50c",
+   "date": "2026-10-29",
+   "published_at": "2026-10-29T17:39+08:00",
+   "fetched_at": "2026-10-30T05:38+08:00",
+   "title": "全国能繁母猪存栏3602万头,供给收缩影响或将在2027年显现",
+   "summary": "",
+   "source": "ThePaper.cn",
+   "type": "供需动态",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34363032",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "能繁母猪"
    ],
    "relevance_score": 8
   },
@@ -3871,63 +3929,6 @@
    "source": "时代周报",
    "type": "价格行情",
    "url": "https://finance.eastmoney.com/a/202610193900124124.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_7f31c07e85d4384d2a51",
-   "date": "2026-10-19",
-   "published_at": "2026-10-19T17:55+08:00",
-   "fetched_at": "2026-10-20T05:40+08:00",
-   "title": "11.11狂欢节抢先囤货,辅酶Q10哪个牌子效果最好?辅酶Q10十大品牌深度梳理原料形态与生物利用度三重门",
-   "summary": "",
-   "source": "凤凰网",
-   "type": "供需动态",
-   "url": "https://baby.ifeng.com/c/8xLzO55qB5y",
-   "company": "",
-   "material_ids": [
-    "COQ10"
-   ],
-   "matched_keywords": [
-    "辅酶q10"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2752bca18dbf1381cbee",
-   "date": "2026-10-19",
-   "published_at": "2026-10-19T17:21+08:00",
-   "fetched_at": "2026-10-20T05:40+08:00",
-   "title": "止跌翻红!南北多地跟涨,生猪市场迎来阶段性回暖!",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101vf34",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9a57140c41c645e4a41a",
-   "date": "2026-10-19",
-   "published_at": "2026-10-19T17:09+08:00",
-   "fetched_at": "2026-10-20T00:10+08:00",
-   "title": "维护盘面价格代表性,大商所调整生猪期货交割发票类型",
-   "summary": "在现货流通环节,生猪现货贸易发票既包括生猪养殖企业开具的自产自销农产品普票,又包括生猪贸易企业开具的一般纳税人专票和其他类型发票,不同发票类型的买方可抵扣税额不同,因此可能对期货盘面价格产生扰动。",
-   "source": "国际金融报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610193900170484.html",
    "company": "",
    "material_ids": [
     "LH"

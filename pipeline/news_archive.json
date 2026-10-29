@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_9a44f006fb73324c2d01",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T04:02+08:00",
+  "fetched_at": "2026-10-30T05:38+08:00",
+  "title": "大豆、稀土与乙醇:卢拉连任如何影响巴西大宗商品产业?",
+  "summary": "在中东地区冲突背景下,化肥和柴油价格高企,巴西大豆和玉米种植者正同时面临农产品价格低迷和生产成本上升的压力。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610303915103192.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_2d921408b673dbd8b76d",
   "date": "2026-10-30",
   "published_at": "2026-10-30T00:25+08:00",
@@ -98,6 +117,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_3e78ee46de33dbad623e",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T20:58+08:00",
+  "fetched_at": "2026-10-30T05:38+08:00",
+  "title": "生意社:10月PTA价格创近四年新高 呈“N”型走势",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-29/doc-iniwxekq2708565.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_6207496f7e071cf80278",
   "date": "2026-10-29",
   "published_at": "2026-10-29T20:48+08:00",
@@ -153,6 +191,25 @@
   ],
   "matched_keywords": [
    "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2c0a54f3f7598faba50c",
+  "date": "2026-10-29",
+  "published_at": "2026-10-29T17:39+08:00",
+  "fetched_at": "2026-10-30T05:38+08:00",
+  "title": "全国能繁母猪存栏3602万头,供给收缩影响或将在2027年显现",
+  "summary": "",
+  "source": "ThePaper.cn",
+  "type": "供需动态",
+  "url": "https://www.thepaper.cn/newsDetail_forward_34363032",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "能繁母猪"
   ],
   "relevance_score": 8
  },
@@ -9606,66 +9663,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2464565b3cd5adb247a4",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T15:44+08:00",
-  "fetched_at": "2026-09-29T19:11+08:00",
-  "title": "生猪主力合约收涨1.54%",
-  "summary": "南财智讯9月29日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨1.54%,收盘报10560.0元/吨,日内资金流出8.37亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609293886456274.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_08a9903955882a8be45f",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T15:24+08:00",
-  "fetched_at": "2026-09-29T19:11+08:00",
-  "title": "巩固猪价回升向好态势,农业农村部最新发声",
-  "summary": "随着生猪产能综合调控效果初步显现,生猪价格总体回升的态势有望延续。 农业农村部新闻发言人、发展规划司司长陈邦勋29日在国务院新闻办发布会上表示,生猪生产既关系老百姓的一日三餐,也关系养殖场户的收入生计。",
-  "source": "第一财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609293886444719.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_920cab79d28e1f7c9c10",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T15:17+08:00",
-  "fetched_at": "2026-09-29T19:11+08:00",
-  "title": "【收评】豆油日内下跌0.09% 机构称油脂延续弱势,棕榈油领跌",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20260929/c680358112.shtml",
-  "company": "",
-  "material_ids": [
-   "P",
-   "Y"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "豆油"
   ],
   "relevance_score": 8
  }
