@@ -1,13 +1,12 @@
 {
- "updated_at": "2026-10-30T09:42+08:00",
+ "updated_at": "2026-10-30T16:17+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "21财经": 1,
-  "8world": 1,
   "Dairynews.today": 1,
-  "IndexBox": 3,
+  "IndexBox": 2,
   "QQ News": 2,
   "Sin Chew Daily": 1,
   "ThePaper.cn": 1,
@@ -24,13 +23,13 @@
   "东海期货": 1,
   "中华网": 5,
   "中国经营报": 2,
-  "光大期货": 1,
+  "光大期货": 2,
   "农业农村部": 1,
   "凤凰网": 1,
   "南方财经网": 11,
   "发现报告": 1,
   "同花顺": 11,
-  "同花顺财经": 11,
+  "同花顺财经": 12,
   "国信期货": 2,
   "国家粮食和物资储备局": 1,
   "国投期货": 1,
@@ -43,12 +42,13 @@
   "搜狐网": 8,
   "新华财经": 3,
   "新浪网": 3,
-  "新浪财经": 34,
-  "时代周报": 2,
+  "新浪财经": 32,
+  "时代周报": 3,
   "期货日报": 11,
-  "每日经济新闻": 7,
+  "每日经济新闻": 6,
   "汇通网": 1,
   "混沌天成期货": 1,
+  "澎湃新闻": 1,
   "瑞达期货": 2,
   "申银万国期货": 1,
   "界面新闻": 3,
@@ -60,11 +60,126 @@
   "证券之星": 4,
   "证券日报": 1,
   "诗华日报": 1,
-  "财联社": 6,
+  "财联社": 7,
   "迈科期货": 1,
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_a54bfb69eedd2888fb3b",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T15:34+08:00",
+   "fetched_at": "2026-10-30T16:17+08:00",
+   "title": "农业农村部:要指导养殖场户科学制定生产计划 落实好生猪产能常态化精准调控各项要求",
+   "summary": "要指导养殖场户科学制定生产计划,督促履行数据报送义务,落实好生猪产能常态化精准调控各项要求。会议还针对应对超强厄尔尼诺,提升畜牧业防灾减灾救灾能力等提出明确要求。",
+   "source": "财联社",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202610303916427995.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_a3563e9e69d80493ae7b",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T12:50+08:00",
+   "fetched_at": "2026-10-30T16:17+08:00",
+   "title": "猪价下跌,河南“猪王”月均亏10亿!牧原股份:明年供需关系或支撑猪价上升",
+   "summary": "不过,包括牧原股份在内的众多上市猪企当前仍处于深度亏损阶段,并且从目前来看,猪价仍未出现明显上涨趋势。 10月29日,牧原股份高管在业绩交流会上表示,明年猪价难以准确判断。由于今年生猪养殖业持续亏损,市场对明年抱有一定预期。",
+   "source": "时代周报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610303916131284.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_2aef4124fbfc9794d028",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T12:10+08:00",
+   "fetched_at": "2026-10-30T16:17+08:00",
+   "title": "牧原股份:前三季屠宰肉食业务整体盈利2亿多元,生猪养殖完全成本略低于11.5元/公斤",
+   "summary": "牧原股份表示,在生猪养殖业务方面,2026年1-9月,公司销售商品猪5873万头。年初至今,公司生产指标稳步改善,生猪养殖完全成本逐季下降,9月已降至略低于11.5元/公斤。",
+   "source": "澎湃新闻",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202610303916095741.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_3bcb5734e12092c03ed8",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T11:45+08:00",
+   "fetched_at": "2026-10-30T16:17+08:00",
+   "title": "【现货】10月30日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261030/c681281255.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_491e97c46814bf24fd37",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T09:51+08:00",
+   "fetched_at": "2026-10-30T16:17+08:00",
+   "title": "华泰期货:养殖场出栏稳定,猪价延续弱势",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-30/doc-iniwyfvy5622023.shtml?cre=tianyi&loc=31&mod=pchp&r=0&rfunc=69&tj=cxvertical_pc_hp&tr=12",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_251766f1acb554efa59a",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T09:43+08:00",
+   "fetched_at": "2026-10-30T16:17+08:00",
+   "title": "农产品 | 白糖仍维持丰产预期 短期期价缺少驱动",
+   "summary": "现货市场依然宽松,豆粕库存处于高位。生猪价格低迷,市场对远期需求有担忧。盘面继续消化进口成本回落和高库存的压力,后市继续关注大豆成本以及豆粕需求的预期,关注资金动态。 油脂: 周四,BMD棕榈油跌至三周低位,因相关油脂走低以及担忧库存增加。",
+   "source": "光大期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610303915684185.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "白糖"
+   ],
+   "relevance_score": 7
+  },
   {
    "id": "news_f6963fd3c5e7e35fb316",
    "date": "2026-10-30",
@@ -3818,121 +3933,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_65b1971134f461131c40",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T05:45+08:00",
-   "fetched_at": "2026-10-20T08:57+08:00",
-   "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌1.58%",
-   "summary": "当地时间10月19日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.65%报1253.00美分/蒲式耳,玉米期货跌1.58%报466.75美分/蒲式耳,小麦期货跌0.68%报656.00美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203900337410.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_66742685ab5dbf9b0bc6",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T05:35+08:00",
-   "fetched_at": "2026-10-20T08:57+08:00",
-   "title": "旺季氛围兑现不足 预计PTA期货价格弱势震荡为主",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-19/detail-inivtynm7594882.d.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_480a9081f74a5d402012",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T00:04+08:00",
-   "fetched_at": "2026-10-20T21:44+08:00",
-   "title": "这轮反弹“昙花一现”,生猪价格再次转跌!",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivuvsc6023175.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_a95d13dde7c0245b110e",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T00:00+08:00",
-   "fetched_at": "2026-10-20T08:57+08:00",
-   "title": "猪价骤然“升温”,上涨来了?",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivuvsf6752268.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_4d62d9387c80208d5234",
-   "date": "2026-10-19",
-   "published_at": "2026-10-19T23:40+08:00",
-   "fetched_at": "2026-10-20T00:10+08:00",
-   "title": "美国农业部生猪周报:采购量、价格与体重分布 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-weekly-national-direct-swine-report-purchase-volumes-and-prices-for-week-ending-october-17-2026/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9a4b302501d2ec81e9f8",
-   "date": "2026-10-19",
-   "published_at": "2026-10-19T22:44+08:00",
-   "fetched_at": "2026-10-23T15:11+08:00",
-   "title": "供应商涉及印尼林火 亚洲纸浆纸品接获绿色标签限制通知",
-   "summary": "",
-   "source": "8world",
-   "type": "供需动态",
-   "url": "https://www.8world.com/singapore/haze-asia-pulp-paper-singapore-environment-council-3314541",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆"
    ],
    "relevance_score": 8
   }

@@ -1,5 +1,120 @@
 [
  {
+  "id": "news_a54bfb69eedd2888fb3b",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T15:34+08:00",
+  "fetched_at": "2026-10-30T16:17+08:00",
+  "title": "农业农村部:要指导养殖场户科学制定生产计划 落实好生猪产能常态化精准调控各项要求",
+  "summary": "要指导养殖场户科学制定生产计划,督促履行数据报送义务,落实好生猪产能常态化精准调控各项要求。会议还针对应对超强厄尔尼诺,提升畜牧业防灾减灾救灾能力等提出明确要求。",
+  "source": "财联社",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610303916427995.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a3563e9e69d80493ae7b",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T12:50+08:00",
+  "fetched_at": "2026-10-30T16:17+08:00",
+  "title": "猪价下跌,河南“猪王”月均亏10亿!牧原股份:明年供需关系或支撑猪价上升",
+  "summary": "不过,包括牧原股份在内的众多上市猪企当前仍处于深度亏损阶段,并且从目前来看,猪价仍未出现明显上涨趋势。 10月29日,牧原股份高管在业绩交流会上表示,明年猪价难以准确判断。由于今年生猪养殖业持续亏损,市场对明年抱有一定预期。",
+  "source": "时代周报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610303916131284.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2aef4124fbfc9794d028",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T12:10+08:00",
+  "fetched_at": "2026-10-30T16:17+08:00",
+  "title": "牧原股份:前三季屠宰肉食业务整体盈利2亿多元,生猪养殖完全成本略低于11.5元/公斤",
+  "summary": "牧原股份表示,在生猪养殖业务方面,2026年1-9月,公司销售商品猪5873万头。年初至今,公司生产指标稳步改善,生猪养殖完全成本逐季下降,9月已降至略低于11.5元/公斤。",
+  "source": "澎湃新闻",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610303916095741.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_3bcb5734e12092c03ed8",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T11:45+08:00",
+  "fetched_at": "2026-10-30T16:17+08:00",
+  "title": "【现货】10月30日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261030/c681281255.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_491e97c46814bf24fd37",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T09:51+08:00",
+  "fetched_at": "2026-10-30T16:17+08:00",
+  "title": "华泰期货:养殖场出栏稳定,猪价延续弱势",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-30/doc-iniwyfvy5622023.shtml?cre=tianyi&loc=31&mod=pchp&r=0&rfunc=69&tj=cxvertical_pc_hp&tr=12",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_251766f1acb554efa59a",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T09:43+08:00",
+  "fetched_at": "2026-10-30T16:17+08:00",
+  "title": "农产品 | 白糖仍维持丰产预期 短期期价缺少驱动",
+  "summary": "现货市场依然宽松,豆粕库存处于高位。生猪价格低迷,市场对远期需求有担忧。盘面继续消化进口成本回落和高库存的压力,后市继续关注大豆成本以及豆粕需求的预期,关注资金动态。 油脂: 周四,BMD棕榈油跌至三周低位,因相关油脂走低以及担忧库存增加。",
+  "source": "光大期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610303915684185.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖"
+  ],
+  "relevance_score": 7
+ },
+ {
   "id": "news_f6963fd3c5e7e35fb316",
   "date": "2026-10-30",
   "published_at": "2026-10-30T09:15+08:00",
@@ -9545,123 +9660,6 @@
   "matched_keywords": [
    "鱼油",
    "omega-3"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2cfd09d89d4b63491cb7",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T22:04+08:00",
-  "fetched_at": "2026-09-30T05:20+08:00",
-  "title": "降本空间有限 生猪养殖企业如何穿越周期?",
-  "summary": "9月28日,新希望发布公告称,拟在2026至2027年度开展大宗商品套期保值业务,套期保值保证金最高占用额度不超过33亿元,通过期货、期权工具对冲原料与生猪价格波动风险。 从多家生猪养殖企业披露的数据来看,行业竞争的底层逻辑已经改变,现金流承压成为企业普遍面临的难题。",
-  "source": "期货日报网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609293886837124.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_0d1eb54e77c7292990fa",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T21:39+08:00",
-  "fetched_at": "2026-09-29T22:57+08:00",
-  "title": "南非将其2026年玉米产量预估上调0.7%",
-  "summary": "南非将其2026年玉米产量预估上调0.7%。",
-  "source": "财联社",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609293886726982.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_faa1578e8048dea50257",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T21:00+08:00",
-  "fetched_at": "2026-09-29T22:57+08:00",
-  "title": "国内商品期货夜盘开盘涨跌不一,豆一涨1.36%",
-  "summary": "9月29日,国内商品期货夜盘开盘涨跌不一,豆一涨1.36%,pvc涨1.06%,菜粕涨0.66%,豆粕涨0.57%,原油跌3.77%,燃油跌3.12%,乙二醇跌2.34%。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609293886766614.html",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "豆一"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_84a24cbfc508a2244e7c",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T20:37+08:00",
-  "fetched_at": "2026-09-29T22:57+08:00",
-  "title": "“金九”旺季不旺 9月份生猪价格持续探底",
-  "summary": "对于四季度生猪行情走势,曲国娜表示,四季度生猪价格预计呈“前弱后强、重心温和抬升”走势,但供应高位压制下,反弹空间有限,全季度行业仍难恢复盈利。",
-  "source": "证券日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609293886659312.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_5ee91953a2a61b25dc3b",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T18:31+08:00",
-  "fetched_at": "2026-09-30T00:57+08:00",
-  "title": "机构:“双节”需求不及预期,生猪价格震荡偏弱",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1082354334_121157270",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_8346272e95601231edcb",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T17:43+08:00",
-  "fetched_at": "2026-09-29T19:11+08:00",
-  "title": "农业农村部陈邦勋:生猪供需形势持续改善 价格总体回升",
-  "summary": "",
-  "source": "证券时报网",
-  "type": "价格行情",
-  "url": "https://www.stcn.com/live/video-detail/25858.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  }
