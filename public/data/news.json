@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T23:10+08:00",
+ "updated_at": "2026-10-31T03:59+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,7 +7,7 @@
   "21财经": 1,
   "DairyNews.today": 1,
   "Dairynews.today": 1,
-  "IndexBox": 2,
+  "IndexBox": 3,
   "QQ News": 2,
   "Sin Chew Daily": 1,
   "ThePaper.cn": 1,
@@ -27,7 +27,7 @@
   "光大期货": 2,
   "农业农村部": 1,
   "凤凰网": 1,
-  "南方财经网": 11,
+  "南方财经网": 12,
   "发现报告": 1,
   "同花顺": 11,
   "同花顺财经": 12,
@@ -41,11 +41,11 @@
   "手机网易网": 1,
   "搜狐": 9,
   "搜狐网": 8,
-  "新华财经": 3,
+  "新华财经": 2,
   "新浪网": 3,
   "新浪财经": 34,
   "时代周报": 3,
-  "期货日报": 8,
+  "期货日报": 7,
   "每日经济新闻": 6,
   "汇通网": 1,
   "混沌天成期货": 1,
@@ -66,6 +66,26 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_6e48f967ba75d4d2379b",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T23:20+08:00",
+   "fetched_at": "2026-10-31T03:59+08:00",
+   "title": "美国农业部2026年10月30日生猪价格:协商交易价每100磅64.88美元 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-hog-prior-day-report-weighted-average-net-prices-for-october-30-2026/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_621409263ca72c8f269f",
    "date": "2026-10-30",
@@ -123,6 +143,25 @@
     "猪价"
    ],
    "relevance_score": 8
+  },
+  {
+   "id": "news_06594e58c40947e51a6a",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T15:42+08:00",
+   "fetched_at": "2026-10-31T03:59+08:00",
+   "title": "玉米主力合约收跌0.09%",
+   "summary": "南财智讯10月30日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.09%,收盘报2221.0元/吨,日内资金流入189.62万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610303917276472.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
   },
   {
    "id": "news_a54bfb69eedd2888fb3b",
@@ -3896,45 +3935,6 @@
     "白糖"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_bfa3d7b0bb09028f2859",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T08:45+08:00",
-   "fetched_at": "2026-10-20T08:57+08:00",
-   "title": "生猪期价遭遇“膝斩”,后市如何走?",
-   "summary": "朱迪认为,若无大型企业爆雷、大面积疫病这类“黑天鹅”事件,猪价大概率以磨底为主,下探空间有限。但生猪存量供应处于高位,即使集团养殖企业阶段性缩量、二次育肥吸引资金入场驱动猪价反弹,猪价上行空间也相对有限。 吴昊同样认为,四季度生猪市场供给压力仍存。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203900597865.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_1316653d1f2d6bdf0e3e",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T08:40+08:00",
-   "fetched_at": "2026-10-20T08:57+08:00",
-   "title": "截至2026年10月16日 巴西2026/2027年度一茬玉米播种率为36% 上周为33.5%",
-   "summary": "巴西2025/2026年度二茬玉米收割率为100.0%,上周为100.0%,去年同期为100%,五年均值为100.0%。",
-   "source": "新华财经",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610203900595468.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
   }
  ]
 }
