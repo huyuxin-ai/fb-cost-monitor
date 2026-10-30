@@ -1,10 +1,11 @@
 {
- "updated_at": "2026-10-30T16:17+08:00",
+ "updated_at": "2026-10-30T23:10+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "21财经": 1,
+  "DairyNews.today": 1,
   "Dairynews.today": 1,
   "IndexBox": 2,
   "QQ News": 2,
@@ -17,7 +18,7 @@
   "一德期货": 2,
   "七禾网": 1,
   "上海中期期货": 1,
-  "东方财富": 5,
+  "东方财富": 4,
   "东方财富Choice数据": 2,
   "东方财富研究中心": 1,
   "东海期货": 1,
@@ -42,13 +43,13 @@
   "搜狐网": 8,
   "新华财经": 3,
   "新浪网": 3,
-  "新浪财经": 32,
+  "新浪财经": 34,
   "时代周报": 3,
-  "期货日报": 11,
+  "期货日报": 8,
   "每日经济新闻": 6,
   "汇通网": 1,
   "混沌天成期货": 1,
-  "澎湃新闻": 1,
+  "澎湃新闻": 2,
   "瑞达期货": 2,
   "申银万国期货": 1,
   "界面新闻": 3,
@@ -65,6 +66,64 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_621409263ca72c8f269f",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T20:37+08:00",
+   "fetched_at": "2026-10-30T23:10+08:00",
+   "title": "猪价低位运行,牧原温氏新希望三大上市猪企前三季度全部亏损",
+   "summary": "温氏股份表示,主产品肉猪价格大幅下跌,公司养猪业务出现大额亏损。 新希望表示,前三季度归母净利同比大幅下降,主要系生猪销售价格下降导致猪产业亏损。 牧原股份表示,今年以来,生猪价格低位运行,行业整体处于周期底部。",
+   "source": "澎湃新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610303916956216.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_a94d82a82e4489c4855e",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T19:38+08:00",
+   "fetched_at": "2026-10-30T23:10+08:00",
+   "title": "印度脱脂奶粉出口价格上涨25%,干旱加剧原奶供应压力",
+   "summary": "",
+   "source": "DairyNews.today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/india_s_smp_export_prices_rise_25_as_drought_strains_milk_supply_8339086.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_3b6d2e5c5091eb68396a",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T17:47+08:00",
+   "fetched_at": "2026-10-30T23:10+08:00",
+   "title": "“猪王”9个月亏损93亿!猪价下跌,哪些餐饮迎来利好?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1095011138_120289228",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_a54bfb69eedd2888fb3b",
    "date": "2026-10-30",
@@ -181,6 +240,25 @@
    "relevance_score": 7
   },
   {
+   "id": "news_c464a2f123bde45db69c",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T09:34+08:00",
+   "fetched_at": "2026-10-30T23:10+08:00",
+   "title": "生意社2026年10月30日涤纶短纤趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-30/doc-iniwyfwf4802822.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_f6963fd3c5e7e35fb316",
    "date": "2026-10-30",
    "published_at": "2026-10-30T09:15+08:00",
@@ -200,21 +278,21 @@
    "relevance_score": 8
   },
   {
-   "id": "news_8db136e9111bfec7da74",
+   "id": "news_ad8e1990b79d17f2069a",
    "date": "2026-10-30",
-   "published_at": "2026-10-30T06:24+08:00",
-   "fetched_at": "2026-10-30T09:42+08:00",
-   "title": "猪价“断崖”下跌,均价逼近4.5元/斤,接下来“枯木逢春”?",
+   "published_at": "2026-10-30T09:13+08:00",
+   "fetched_at": "2026-10-30T23:10+08:00",
+   "title": "生意社2026年10月30日PTA趋势分析:震荡",
    "summary": "",
-   "source": "搜狐网",
+   "source": "新浪财经",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1094539109_120238851",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-30/doc-iniwyfwa2361396.shtml",
    "company": "",
    "material_ids": [
-    "LH"
+    "TA"
    ],
    "matched_keywords": [
-    "猪价"
+    "pta"
    ],
    "relevance_score": 8
   },
@@ -3857,84 +3935,6 @@
     "玉米"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_83686ead6d47a9a12e46",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T08:37+08:00",
-   "fetched_at": "2026-10-20T08:57+08:00",
-   "title": "PTA成本逻辑主导行情",
-   "summary": "过去5年,中国织机大规模投产,坯布产能增长,局部地区出现库存积压,因此在3—4月原料价格跳涨2000~3000元/吨的背景下,坯布价格仅上涨500~1000元/吨。在“现买现做”陷入亏损的情况下,企业选择下调开机率消化存货,因此二季度负反馈效应尤为明显。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203900593892.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5c68c8864fd2a0c5d0cb",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T08:30+08:00",
-   "fetched_at": "2026-10-20T08:57+08:00",
-   "title": "白糖回调空间有限 关注后市供应节奏",
-   "summary": "配额外加工糖进口成本倒挂 国际糖价走强而国内糖价上涨滞后,内外价差扩大,当前配额外原糖进口成本出现倒挂。据市场机构测算,截至10月14日,配额外巴西糖进口加工估算价为6483元/吨,较郑糖主力合约收盘价高出1000元/吨以上,加工端深度亏损,配额外进口窗口实质关闭。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203900592565.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白糖",
-    "原糖",
-    "郑糖"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_c3f61844577f68801843",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T08:26+08:00",
-   "fetched_at": "2026-10-20T08:57+08:00",
-   "title": "成本托底与供给宽松拉锯 豆粕“进退两难”",
-   "summary": "下游生猪养殖亏损抑制饲料企业补库积极性,饲料企业以刚需采购为主,现货成交清淡,基差维持贴水状态。短期豆粕价格在进口成本支撑与现实供给压力之间博弈,后续需关注生猪养殖利润对饲料需求的传导,以及南美天气变化对进口成本和供给节奏的进一步影响。(作者单位:宝城期货)",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203900591422.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_c56afaedfa351a3a1723",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T07:50+08:00",
-   "fetched_at": "2026-10-20T08:57+08:00",
-   "title": "以色列总理下令:推翻伊朗政权!全线下跌!生猪期价遭遇“膝斩”",
-   "summary": "",
-   "source": "东方财富",
-   "type": "价格行情",
-   "url": "https://emwap.eastmoney.com/a/202610203900422157.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
   }
  ]
 }

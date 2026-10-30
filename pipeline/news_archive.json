@@ -1,5 +1,63 @@
 [
  {
+  "id": "news_621409263ca72c8f269f",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T20:37+08:00",
+  "fetched_at": "2026-10-30T23:10+08:00",
+  "title": "猪价低位运行,牧原温氏新希望三大上市猪企前三季度全部亏损",
+  "summary": "温氏股份表示,主产品肉猪价格大幅下跌,公司养猪业务出现大额亏损。 新希望表示,前三季度归母净利同比大幅下降,主要系生猪销售价格下降导致猪产业亏损。 牧原股份表示,今年以来,生猪价格低位运行,行业整体处于周期底部。",
+  "source": "澎湃新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610303916956216.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_a94d82a82e4489c4855e",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T19:38+08:00",
+  "fetched_at": "2026-10-30T23:10+08:00",
+  "title": "印度脱脂奶粉出口价格上涨25%,干旱加剧原奶供应压力",
+  "summary": "",
+  "source": "DairyNews.today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/india_s_smp_export_prices_rise_25_as_drought_strains_milk_supply_8339086.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_3b6d2e5c5091eb68396a",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T17:47+08:00",
+  "fetched_at": "2026-10-30T23:10+08:00",
+  "title": "“猪王”9个月亏损93亿!猪价下跌,哪些餐饮迎来利好?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1095011138_120289228",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a54bfb69eedd2888fb3b",
   "date": "2026-10-30",
   "published_at": "2026-10-30T15:34+08:00",
@@ -115,6 +173,25 @@
   "relevance_score": 7
  },
  {
+  "id": "news_c464a2f123bde45db69c",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T09:34+08:00",
+  "fetched_at": "2026-10-30T23:10+08:00",
+  "title": "生意社2026年10月30日涤纶短纤趋势分析:震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-30/doc-iniwyfwf4802822.shtml",
+  "company": "",
+  "material_ids": [
+   "PF"
+  ],
+  "matched_keywords": [
+   "涤纶短纤"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_f6963fd3c5e7e35fb316",
   "date": "2026-10-30",
   "published_at": "2026-10-30T09:15+08:00",
@@ -134,21 +211,21 @@
   "relevance_score": 8
  },
  {
-  "id": "news_8db136e9111bfec7da74",
+  "id": "news_ad8e1990b79d17f2069a",
   "date": "2026-10-30",
-  "published_at": "2026-10-30T06:24+08:00",
-  "fetched_at": "2026-10-30T09:42+08:00",
-  "title": "猪价“断崖”下跌,均价逼近4.5元/斤,接下来“枯木逢春”?",
+  "published_at": "2026-10-30T09:13+08:00",
+  "fetched_at": "2026-10-30T23:10+08:00",
+  "title": "生意社2026年10月30日PTA趋势分析:震荡",
   "summary": "",
-  "source": "搜狐网",
+  "source": "新浪财经",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1094539109_120238851",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-30/doc-iniwyfwa2361396.shtml",
   "company": "",
   "material_ids": [
-   "LH"
+   "TA"
   ],
   "matched_keywords": [
-   "猪价"
+   "pta"
   ],
   "relevance_score": 8
  },
@@ -9582,84 +9659,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_31a24539354b7c6d724b",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T06:54+08:00",
-  "fetched_at": "2026-09-30T08:40+08:00",
-  "title": "农业农村部:把农业建成现代化大产业 持续加强生猪产能调控",
-  "summary": "下一步,农业农村部将继续动态监测市场供需情况,指导养殖场户合理安排生产节奏,顺时顺势出栏,巩固猪价回升向好的态势,努力避免大起大落,推动生猪产业平稳有序发展。 一方面是继续调产能,引导供需更加适配。",
-  "source": "中国证券报",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609303886884428.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_9aa2490c9518aef00983",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T05:59+08:00",
-  "fetched_at": "2026-09-30T08:40+08:00",
-  "title": "秋粮面积预计稳中有增,玉米增加较多 全力夺取粮食丰收到手(权威发布·开局起步“十五五”)",
-  "summary": "在品种结构上,稳定口粮,增加玉米、大豆等生产,多渠道扩大食用油供给。在品质结构上,引导农民种好粮,提升优质率。 耕地是粮食生产的命根子。",
-  "source": "人民日报",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202609303886872954.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_2229ee6f80036b8a828a",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T05:52+08:00",
-  "fetched_at": "2026-09-30T08:40+08:00",
-  "title": "CBOT农产品期货主力合约收盘多数上涨,大豆期货涨0.74%",
-  "summary": "当地时间9月29日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数上涨,大豆期货涨0.74%报1297.75美分/蒲式耳,玉米期货跌0.14%报522.25美分/蒲式耳,小麦期货涨0.65%报693.25美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609303886871620.html",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_6150a925231b44b5b6bf",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T01:26+08:00",
-  "fetched_at": "2026-10-01T06:29+08:00",
-  "title": "鱼油市场2035年预测:水产饲料与omega-3需求驱动增长 - 新闻和统计",
-  "summary": "",
-  "source": "IndexBox",
-  "type": "供需动态",
-  "url": "https://www.indexbox.io/zh-hans/blog/fish-oil-market-to-accelerate-toward-2035-driven-by-aquafeed-and-omega-3-supplement-demand/",
-  "company": "",
-  "material_ids": [
-   "FISHOIL"
-  ],
-  "matched_keywords": [
-   "鱼油",
-   "omega-3"
   ],
   "relevance_score": 8
  }
