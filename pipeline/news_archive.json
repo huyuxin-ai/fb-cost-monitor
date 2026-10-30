@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_aacd1b2a36ca9139789c",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T06:30+08:00",
+  "fetched_at": "2026-10-31T07:38+08:00",
+  "title": "10月31日猪价:坐滑梯!猪价下跌11.5%,10月“无休止”下跌,11月“转机”将至?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1095070962_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_6e48f967ba75d4d2379b",
   "date": "2026-10-30",
   "published_at": "2026-10-30T23:20+08:00",
@@ -9641,25 +9660,6 @@
   "matched_keywords": [
    "白糖",
    "郑糖"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_4d845abad383b0f1a122",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T08:58+08:00",
-  "fetched_at": "2026-09-30T14:23+08:00",
-  "title": "生意社2026年9月30日PTA趋势分析:震荡",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-30/doc-initqeff7190116.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
   ],
   "relevance_score": 8
  }
