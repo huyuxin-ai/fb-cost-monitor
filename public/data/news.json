@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T05:38+08:00",
+ "updated_at": "2026-10-30T09:42+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -22,7 +22,7 @@
   "东方财富Choice数据": 2,
   "东方财富研究中心": 1,
   "东海期货": 1,
-  "中华网": 4,
+  "中华网": 5,
   "中国经营报": 2,
   "光大期货": 1,
   "农业农村部": 1,
@@ -40,13 +40,13 @@
   "手机新浪网": 5,
   "手机网易网": 1,
   "搜狐": 9,
-  "搜狐网": 7,
-  "新华财经": 4,
+  "搜狐网": 8,
+  "新华财经": 3,
   "新浪网": 3,
-  "新浪财经": 35,
-  "时代周报": 3,
+  "新浪财经": 34,
+  "时代周报": 2,
   "期货日报": 11,
-  "每日经济新闻": 6,
+  "每日经济新闻": 7,
   "汇通网": 1,
   "混沌天成期货": 1,
   "瑞达期货": 2,
@@ -65,6 +65,63 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_f6963fd3c5e7e35fb316",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T09:15+08:00",
+   "fetched_at": "2026-10-30T09:42+08:00",
+   "title": "猪价“失控”下跌 9元/公斤稳不住?周期反噬来临",
+   "summary": "",
+   "source": "中华网",
+   "type": "价格行情",
+   "url": "https://news.china.com/socialgd/10000169/20261030/49827909.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_8db136e9111bfec7da74",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T06:24+08:00",
+   "fetched_at": "2026-10-30T09:42+08:00",
+   "title": "猪价“断崖”下跌,均价逼近4.5元/斤,接下来“枯木逢春”?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1094539109_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_c6ca08d26e7552b2bb28",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T06:15+08:00",
+   "fetched_at": "2026-10-30T09:42+08:00",
+   "title": "CBOT农产品期货主力合约收盘多数下跌,大豆期货跌0.28%",
+   "summary": "当地时间10月29日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货跌0.28%报1234.50美分/蒲式耳,玉米期货跌0.11%报451.25美分/蒲式耳,小麦期货涨0.71%报603.25美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610303915134345.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_9a44f006fb73324c2d01",
    "date": "2026-10-30",
@@ -3878,65 +3935,6 @@
     "纸浆"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_2c89af870a9cba501a68",
-   "date": "2026-10-19",
-   "published_at": "2026-10-19T21:00+08:00",
-   "fetched_at": "2026-10-20T00:10+08:00",
-   "title": "前三季度四川生猪出栏4635.6万头 同比增长1.5%",
-   "summary": "前三季度,四川生猪出栏4635.6万头,同比增长1.5%,其中,三季度出栏1518.2万头,同比增长2.1%;猪肉产量390.8万吨,同比增长5.0%,其中,三季度猪肉产量134.6万吨,同比增长4.8%。三季度末,四川生猪存栏4046.0万头,同比增长4.6%。",
-   "source": "新华财经",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610193900130654.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_a1773e1fd5cdb9ae11c0",
-   "date": "2026-10-19",
-   "published_at": "2026-10-19T19:00+08:00",
-   "fetched_at": "2026-10-20T00:10+08:00",
-   "title": "2026年10月全球小麦、玉米、稻米、大豆和油菜籽供需形势分析",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-19/doc-inivueuh0996117.shtml",
-   "company": "",
-   "material_ids": [
-    "C",
-    "A"
-   ],
-   "matched_keywords": [
-    "玉米",
-    "大豆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_65166ace0706baa357d2",
-   "date": "2026-10-19",
-   "published_at": "2026-10-19T18:04+08:00",
-   "fetched_at": "2026-10-20T00:10+08:00",
-   "title": "大商所调整生猪期货交割发票,分为自产自销农产品普票和一般纳税人专票",
-   "summary": "近日,大连商品交易所(下称“大商所”)发布《关于修改〈大连商品交易所生猪期货业务细则〉的公告》,调整了生猪期货交割发票类型的相关规定,新的发票要求适用于LH2611及以后合约。",
-   "source": "时代周报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610193900124124.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
   }
  ]
 }

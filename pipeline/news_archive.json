@@ -1,5 +1,62 @@
 [
  {
+  "id": "news_f6963fd3c5e7e35fb316",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T09:15+08:00",
+  "fetched_at": "2026-10-30T09:42+08:00",
+  "title": "猪价“失控”下跌 9元/公斤稳不住?周期反噬来临",
+  "summary": "",
+  "source": "中华网",
+  "type": "价格行情",
+  "url": "https://news.china.com/socialgd/10000169/20261030/49827909.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_8db136e9111bfec7da74",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T06:24+08:00",
+  "fetched_at": "2026-10-30T09:42+08:00",
+  "title": "猪价“断崖”下跌,均价逼近4.5元/斤,接下来“枯木逢春”?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1094539109_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c6ca08d26e7552b2bb28",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T06:15+08:00",
+  "fetched_at": "2026-10-30T09:42+08:00",
+  "title": "CBOT农产品期货主力合约收盘多数下跌,大豆期货跌0.28%",
+  "summary": "当地时间10月29日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货跌0.28%报1234.50美分/蒲式耳,玉米期货跌0.11%报451.25美分/蒲式耳,小麦期货涨0.71%报603.25美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610303915134345.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_9a44f006fb73324c2d01",
   "date": "2026-10-30",
   "published_at": "2026-10-30T04:02+08:00",
@@ -9605,64 +9662,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_43647c02414984464f94",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T16:57+08:00",
-  "fetched_at": "2026-09-29T19:11+08:00",
-  "title": "【财经分析】奶价迎阶段性回暖 奶业将步入存量博弈时代",
-  "summary": "陶理想表示,在欧美市场,乳制品消费结构中液态奶仅占四成,六成原料用于生产奶酪、功能性蛋白制品;而我国消费仍以液态奶为主,乳清蛋白、酪蛋白等高附加值原料进口依存度超过90%,这既是产业短板,也是未来奶业最重要的增量赛道。",
-  "source": "新华财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609293886511124.html",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f6a4d9e57e9f91e1a860",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T16:52+08:00",
-  "fetched_at": "2026-09-29T19:11+08:00",
-  "title": "生猪:节日效应弱化 供应释压猪价显弱",
-  "summary": "大地期货研究院 观点小结 核心观点:震荡偏弱 节日供需双增,但市场承接表现差强人意,量增价弱佐证当前仍为供应释压主导。存量库存国庆预计继续释放消化...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/2026-09-29/doc-initnsei2934168.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7e568b1a400b11b6f847",
-  "date": "2026-09-29",
-  "published_at": "2026-09-29T16:37+08:00",
-  "fetched_at": "2026-09-29T19:11+08:00",
-  "title": "跌猛了,猪价下跌“势如破竹”!供应过剩加剧",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://3g.china.com/act/redian/13004758/20260929/49771442.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }
