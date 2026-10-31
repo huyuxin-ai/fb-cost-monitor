@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_fcf8e77b98823588ad47",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T07:26+08:00",
+  "fetched_at": "2026-10-31T12:42+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌0.83%",
+  "summary": "当地时间10月30日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.06%报1234.00美分/蒲式耳,玉米期货跌0.83%报447.50美分/蒲式耳,小麦期货跌0.08%报603.25美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610313917457541.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_aacd1b2a36ca9139789c",
   "date": "2026-10-31",
   "published_at": "2026-10-31T06:30+08:00",
@@ -15,6 +34,25 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0e1b45ef2bced05eece3",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T02:12+08:00",
+  "fetched_at": "2026-10-31T12:42+08:00",
+  "title": "PX-PTA-MEG:成本仍偏强,供应出现预期差",
+  "summary": "",
+  "source": "手机新浪网",
+  "type": "供需动态",
+  "url": "http://k.sina.com.cn/article_5953189932_162d6782c067052ezc.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
   ],
   "relevance_score": 8
  },
@@ -9621,45 +9659,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9725c7cc35b7ec9d2e97",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T09:31+08:00",
-  "fetched_at": "2026-09-30T14:23+08:00",
-  "title": "农产品 | 长假期临近 减仓过节 预计短期棕榈油偏弱震荡运行",
-  "summary": "豆粕菜粕 交投清淡,连粕偏弱震荡 周二,豆粕01合约收跌0.80%,报3359元/吨;广东豆粕现货跌20收于3300元/吨;菜粕01合约收跌1.24%,报2308元/吨;广西菜粕现货跌20收于2480元/吨;CBOT美豆11月合约涨10收于1297.75美分/蒲式耳。",
-  "source": "铜冠金源期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609303887340551.html",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_000575e18df5329c46cd",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T09:03+08:00",
-  "fetched_at": "2026-09-30T14:23+08:00",
-  "title": "农产品 | 白糖:郑糖延续宽幅震荡 短期走势难以形成趋势",
-  "summary": "供应端,两湖新粮上市,基层农户挺价惜售;东北早熟新粮上市价格较高,贸易商惜售意愿偏强,共同支撑市场看涨预期。黑龙江新豆上市量继续增加,普通豆震荡偏弱、高蛋白坚挺;国储大规模托市未落地,底部靠拍卖溢价与惜售支撑。需求端,下游用户适量开展节前备货,对行情形成一定支撑。",
-  "source": "南华期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609303887212027.html",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "白糖",
-   "郑糖"
   ],
   "relevance_score": 8
  }
