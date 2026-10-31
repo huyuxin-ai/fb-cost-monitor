@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_02d1ff148def6d31d667",
+  "date": "2026-11-01",
+  "published_at": "2026-11-01T06:22+08:00",
+  "fetched_at": "2026-11-01T07:10+08:00",
+  "title": "猪价大降18.2%,金九银十“超理性”下跌,11月“插翅”上涨?附:11月1日猪价",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1095470158_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_ced12bbb9a422699896b",
   "date": "2026-11-01",
   "published_at": "2026-11-01T00:00+08:00",
@@ -96,6 +115,25 @@
    "生猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_545cfe7256dbef681a16",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T11:35+08:00",
+  "fetched_at": "2026-11-01T07:10+08:00",
+  "title": "再创新低!猪价距离见底还有多远?",
+  "summary": "",
+  "source": "东方财富",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202610263908677454.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_fcf8e77b98823588ad47",
@@ -979,6 +1017,26 @@
   "matched_keywords": [
    "核桃仁",
    "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b133e0747813b40879aa",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T18:51+08:00",
+  "fetched_at": "2026-11-01T07:10+08:00",
+  "title": "10月28日生猪价格:持续下探!消费旺季即将来临,猪价能否托底?",
+  "summary": "",
+  "source": "QQ News",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20261028A0BZEF00",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
   ],
   "relevance_score": 8
  },
@@ -9601,63 +9659,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f45c2374d061596f5141",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T15:42+08:00",
-  "fetched_at": "2026-09-30T20:54+08:00",
-  "title": "生猪主力合约收涨1.76%",
-  "summary": "南财智讯9月30日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨1.76%,收盘报10680.0元/吨,日内资金流入2.93亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609303887707588.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_9c491e3c3ef1d3856ea4",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T15:42+08:00",
-  "fetched_at": "2026-09-30T20:54+08:00",
-  "title": "玉米主力合约收涨0.09%",
-  "summary": "南财智讯9月30日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.09%,收盘报2187.0元/吨,日内资金流出2.29亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609303887688894.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_8cf32b71f892b9c52293",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T15:06+08:00",
-  "fetched_at": "2026-10-05T06:27+08:00",
-  "title": "全球库存10年最低 玉米后市不必太悲观",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "供需动态",
-  "url": "https://mt.sohu.com/a/1082727555_121118712",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
   ],
   "relevance_score": 8
  }
