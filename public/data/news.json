@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T12:42+08:00",
+ "updated_at": "2026-10-31T18:46+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,7 +8,7 @@
   "DairyNews.today": 1,
   "Dairynews.today": 1,
   "IndexBox": 3,
-  "QQ News": 2,
+  "QQ News": 3,
   "Sin Chew Daily": 1,
   "ThePaper.cn": 1,
   "e南洋": 1,
@@ -36,20 +36,21 @@
   "国投期货": 1,
   "国际金融报": 1,
   "导油网": 1,
-  "广发期货": 2,
+  "广发期货": 1,
   "手机新浪网": 5,
   "手机网易网": 1,
   "搜狐": 9,
   "搜狐网": 9,
   "新华财经": 2,
-  "新浪网": 3,
+  "新浪网": 2,
   "新浪财经": 33,
   "时代周报": 3,
+  "时代财经": 1,
   "期货日报": 7,
   "每日经济新闻": 7,
   "汇通网": 1,
-  "澎湃新闻": 2,
-  "瑞达期货": 2,
+  "澎湃新闻": 3,
+  "瑞达期货": 1,
   "申银万国期货": 1,
   "界面新闻": 3,
   "第一财经": 4,
@@ -65,6 +66,47 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_534bce52174297f146b0",
+   "date": "2026-10-31",
+   "published_at": "2026-10-31T17:37+08:00",
+   "fetched_at": "2026-10-31T18:46+08:00",
+   "title": "猪价磨底,上市猪企合计亏损257亿!新希望26亿定增“蓄力”,资产负债率逆势下降",
+   "summary": "农业农村部数据显示,2026年1~9月,全国生猪出厂价格从13.10元/公斤降至11.05元/公斤;全国批发市场白条猪价格从18.18元/公斤降至16.33元/公斤;仔猪价格从24.99元/公斤降至20.51元/公斤。价格下行叠加供给宽松,养猪业再度陷入全行业亏损。",
+   "source": "时代财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610313917617531.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪",
+    "仔猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_72c98da63eccdb94ae6b",
+   "date": "2026-10-31",
+   "published_at": "2026-10-31T14:36+08:00",
+   "fetched_at": "2026-10-31T18:46+08:00",
+   "title": "价格周报|养殖端出栏节奏加快 本周猪价继续下滑",
+   "summary": "本周国内生猪价格呈持续下行走势,周均价环比下跌。据中国养猪网的数据,10月30日,生猪(外三元)价格为9.19元/公斤,与上周五(10月23日)的9.66元/公斤相比,下降4.9%。",
+   "source": "澎湃新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202610313917594951.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_fcf8e77b98823588ad47",
    "date": "2026-10-31",
@@ -100,6 +142,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_819869a9b0cd1e614a58",
+   "date": "2026-10-31",
+   "published_at": "2026-10-31T00:08+08:00",
+   "fetched_at": "2026-10-31T18:46+08:00",
+   "title": "产能去化假象:生猪行业的预期陷阱与 2027 拐点",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-31/doc-iniwztxh5307596.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
    ],
    "relevance_score": 8
   },
@@ -1407,6 +1468,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_af91159314bc96bece70",
+   "date": "2026-10-27",
+   "published_at": "2026-10-27T14:18+08:00",
+   "fetched_at": "2026-10-31T18:46+08:00",
+   "title": "跌跌不休,猪价下跌“势如破竹”!附:10月28日猪价",
+   "summary": "",
+   "source": "QQ News",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20261027A080AU00",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -3853,85 +3933,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_cecf3ad564d76a00898f",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T09:54+08:00",
-   "fetched_at": "2026-10-20T13:52+08:00",
-   "title": "涨势昙花一现?供需宽松,10月底生猪行情持续磨底?|猪价|全国|动态",
-   "summary": "",
-   "source": "新浪网",
-   "type": "供需动态",
-   "url": "https://video.sina.com.cn/p/finance/2026-10-20/detail-inivvsvt5803048.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1c11fa8da14042e39e5c",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T09:24+08:00",
-   "fetched_at": "2026-10-20T13:52+08:00",
-   "title": "能化 | 年内PTA供需格局转好 短期PTA价格预计跟随原油价格波动",
-   "summary": "短期瓶片开工率持平,当前生产毛利135左右,加工利润增加,短期瓶片价格预计跟随原料价格波动。 原木 原木价格主力合约收跌至829元/m3,现货端,辐射松原木山东地区报价830元/m3,+0;江苏地区现货价格810元/m3,-10;进口CFR报价在132美元/m3,+2。",
-   "source": "瑞达期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203900808127.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_639dfdb6dda0063f0efb",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T09:21+08:00",
-   "fetched_at": "2026-10-20T13:52+08:00",
-   "title": "农产品 | 豆粕基差承压 菜粕下行空间有限",
-   "summary": "【玉米】 逻辑东北降雨致收割延后,基层价趋稳,中储粮收购托底,短期偏弱但大跌风险小;华北新粮收割结束品质较好,玉米稳中有涨但反弹受限;南方销区偏弱盘整。",
-   "source": "广发期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203900800518.html",
-   "company": "",
-   "material_ids": [
-    "M",
-    "RM"
-   ],
-   "matched_keywords": [
-    "豆粕",
-    "菜粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_43433d7b5cd2728a034d",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T09:21+08:00",
-   "fetched_at": "2026-10-20T13:52+08:00",
-   "title": "猪价又破10元!期货\"膝斩\"暴跌64%创历史新低,收储今天启动!",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/2553858574/9838ca0e02001fjyg",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }

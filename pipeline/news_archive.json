@@ -1,5 +1,46 @@
 [
  {
+  "id": "news_534bce52174297f146b0",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T17:37+08:00",
+  "fetched_at": "2026-10-31T18:46+08:00",
+  "title": "猪价磨底,上市猪企合计亏损257亿!新希望26亿定增“蓄力”,资产负债率逆势下降",
+  "summary": "农业农村部数据显示,2026年1~9月,全国生猪出厂价格从13.10元/公斤降至11.05元/公斤;全国批发市场白条猪价格从18.18元/公斤降至16.33元/公斤;仔猪价格从24.99元/公斤降至20.51元/公斤。价格下行叠加供给宽松,养猪业再度陷入全行业亏损。",
+  "source": "时代财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610313917617531.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪",
+   "仔猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_72c98da63eccdb94ae6b",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T14:36+08:00",
+  "fetched_at": "2026-10-31T18:46+08:00",
+  "title": "价格周报|养殖端出栏节奏加快 本周猪价继续下滑",
+  "summary": "本周国内生猪价格呈持续下行走势,周均价环比下跌。据中国养猪网的数据,10月30日,生猪(外三元)价格为9.19元/公斤,与上周五(10月23日)的9.66元/公斤相比,下降4.9%。",
+  "source": "澎湃新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202610313917594951.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_fcf8e77b98823588ad47",
   "date": "2026-10-31",
   "published_at": "2026-10-31T07:26+08:00",
@@ -53,6 +94,25 @@
   ],
   "matched_keywords": [
    "pta"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_819869a9b0cd1e614a58",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T00:08+08:00",
+  "fetched_at": "2026-10-31T18:46+08:00",
+  "title": "产能去化假象:生猪行业的预期陷阱与 2027 拐点",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-31/doc-iniwztxh5307596.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
   ],
   "relevance_score": 8
  },
@@ -1398,6 +1458,25 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_af91159314bc96bece70",
+  "date": "2026-10-27",
+  "published_at": "2026-10-27T14:18+08:00",
+  "fetched_at": "2026-10-31T18:46+08:00",
+  "title": "跌跌不休,猪价下跌“势如破竹”!附:10月28日猪价",
+  "summary": "",
+  "source": "QQ News",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20261027A080AU00",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
@@ -9582,83 +9661,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_da849af7c7a68c18477a",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T11:10+08:00",
-  "fetched_at": "2026-09-30T14:23+08:00",
-  "title": "华泰期货:豆一上行空间受限,花生盘面承压下行",
-  "summary": "来源:华泰期货 作者: 白旭宇 大豆观点 市场分析 期货方面,昨日收盘豆一2611合约5204.00元/吨,较前日变化+87.00元/吨,幅度+1.70%。",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-30/doc-initqkpc7124707.shtml",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "豆一",
-   "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_b7ddf090af8acf753107",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T11:09+08:00",
-  "fetched_at": "2026-09-30T14:23+08:00",
-  "title": "09月30日猪评:猪价弱势运行,国庆备货未启,短期低位震荡难改",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101utcu",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_efbc6d7ac418147a1455",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T11:06+08:00",
-  "fetched_at": "2026-09-30T14:23+08:00",
-  "title": "华泰期货:巴西播种顺利,豆粕延续震荡",
-  "summary": "来源:华泰期货 作者: 薛钧元 粕类观点 市场要闻与重要数据 期货方面,昨日收盘豆粕2701合约3359元/吨,较前日变动-4元/吨,幅度-0.12%;菜粕2611合约2278元/吨...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-30/doc-initqkpm2282254.shtml",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_eee9146e213000a15edc",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T10:48+08:00",
-  "fetched_at": "2026-10-01T06:29+08:00",
-  "title": "农业农村部:生猪供需形势持续改善",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "供需动态",
-  "url": "https://finance.sina.cn/2026-09-29/detail-initnfqm2998894.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  }
