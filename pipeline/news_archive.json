@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_f11cc8a680b38fc7b1f4",
+  "date": "2026-10-31",
+  "published_at": "2026-10-31T20:55+08:00",
+  "fetched_at": "2026-10-31T23:58+08:00",
+  "title": "欧盟原奶收购价下跌19.7%,收奶量增长3%",
+  "summary": "",
+  "source": "Dairynews.today",
+  "type": "价格行情",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0Njb2VZcVdvd1ZnbEdwSmtHV1Q5OFVEZlM4a2U2ejZsWFI4V0V4bWhialU0X0d0eVh1VnN3Sk9SX2w3dlBSb2wxM2N2a0EwaFJVQjRaakk0WkRzR3pfVTRqVWl2aHVJeHVTUmpUb2VCVFhvV2J5RnJ0WFFoWnA5bUFjTm1KWEpwTkFvT3NfMzg5ZnpMVUpkN01BX1c?oc=5",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_534bce52174297f146b0",
   "date": "2026-10-31",
   "published_at": "2026-10-31T17:37+08:00",
@@ -1061,6 +1080,26 @@
   "relevance_score": 8
  },
  {
+  "id": "news_2d91aacc46ec25245190",
+  "date": "2026-10-28",
+  "published_at": "2026-10-28T12:34+08:00",
+  "fetched_at": "2026-10-31T23:58+08:00",
+  "title": "仙乐健康:拟联合全球鱼油藻油头部企业成立全球Omega-3供应保障战略联盟",
+  "summary": "",
+  "source": "东方财富",
+  "type": "供需动态",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EdTFOUENnaDNta18tSHlObU51UmNzeFg5QUFOc2FjNnNBQmpZbXZPaFlZcVhWajZraDJsTGwwbWx2Wk1henE1SU1wOFRua0xOY21mNko2MEE5RnBfZXdyQ2VSVzQ?oc=5",
+  "company": "",
+  "material_ids": [
+   "FISHOIL"
+  ],
+  "matched_keywords": [
+   "鱼油",
+   "omega-3"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_d8e3593713bad94b1564",
   "date": "2026-10-28",
   "published_at": "2026-10-28T11:41+08:00",
@@ -2000,6 +2039,46 @@
    "生猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_806b2d0d4af82bea6da2",
+  "date": "2026-10-26",
+  "published_at": "2026-10-26T00:00+08:00",
+  "fetched_at": "2026-10-31T23:58+08:00",
+  "title": "出口需求支撑价格 棕油期货延续涨势",
+  "summary": "",
+  "source": "e南洋",
+  "type": "价格行情",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlMFNEdTFtZnZqOV9GQm9MMzFZbWJMUzcydzZtLTBXN09UVHZrM2pRYjdPOHpoN2xnamNHYXlRWTY0UUNNN25KdjhzSG5GM21NS2czaGx0T2p3ODZsZk1xLXNfQQ?oc=5",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7ebeb5883542c5df14cf",
+  "date": "2026-10-25",
+  "published_at": "2026-10-25T21:10+08:00",
+  "fetched_at": "2026-10-31T23:58+08:00",
+  "title": "厄尔尼诺气候热度提升影响 豆粕棕榈油震荡偏强运行",
+  "summary": "",
+  "source": "finance.sina.com.cn",
+  "type": "价格行情",
+  "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOT2ViUWtpX2RMS0tObGZsNUljQzh4d01XLWJrYThwUG5sNlFpSzFRVnRySjdzbWFuZXlGSlpxUHJ0WjFuOERPRkN5UF9lZkVHUjczZVZUYkQtR1NRMU1BazNLbUxPdk5GWWNKVlVjTXFGQkQ0N2V2MVVkQkRtbmx5ZzN6cTJTLWpzZlVxbE5acUYyWmtIemlWek9LQ3VEcllPZWRvWG92cnNfTDNyNFBWeDJQWDNBUE9McUVldUJKRWtMQ1FPTzk5bTVUcGVvdjNyeWU0eFV4M3dqNHJGUW4yU3FZSFRsbGJDQ3lrSm1nbkpqdVpidkJhVFlvVHhaSjhfRUhTdjRPSnY1YktjeUlxUmgta1M4eTdHQll6a0phcGZ2c2FmZ2M5ekdxYmZNNlhDZFJhRw?oc=5",
+  "company": "",
+  "material_ids": [
+   "P",
+   "M"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "豆粕"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_5a5e771243811d155898",
@@ -9582,85 +9661,6 @@
   ],
   "matched_keywords": [
    "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_93fe803745a1d4ed0a6c",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T15:00+08:00",
-  "fetched_at": "2026-09-27T20:53+08:00",
-  "title": "PTA期货报价",
-  "summary": "",
-  "source": "东方财富",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/pta.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9e2dda0a59ef17320c4c",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T14:53+08:00",
-  "fetched_at": "2026-10-06T18:39+08:00",
-  "title": "2026年9月30日大豆豆油价格:新豆零星上市挺价惜售 豆油全线走弱",
-  "summary": "",
-  "source": "qq.com",
-  "type": "价格行情",
-  "url": "https://news.qq.com/rain/a/20260930A0747G00?ptag=ima",
-  "company": "",
-  "material_ids": [
-   "A",
-   "Y"
-  ],
-  "matched_keywords": [
-   "大豆",
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_260b2f63f15b71a501e6",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T14:01+08:00",
-  "fetched_at": "2026-09-30T14:23+08:00",
-  "title": "里昂:中国乳业原奶价格上行周期启动龙头重夺液态奶市占率_市场分析",
-  "summary": "",
-  "source": "中金在线",
-  "type": "价格行情",
-  "url": "http://hkstock.cnfol.com/shichangfenxi/20260930/32385232.shtml",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "原奶",
-   "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a120b477b90f6e69bbd0",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T11:46+08:00",
-  "fetched_at": "2026-09-30T14:23+08:00",
-  "title": "【现货】9月30日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20260930/c680397789.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
   ],
   "relevance_score": 8
  }
