@@ -1,6 +1,44 @@
 [
  {
-  "id": "news_f11cc8a680b38fc7b1f4",
+  "id": "news_ced12bbb9a422699896b",
+  "date": "2026-11-01",
+  "published_at": "2026-11-01T00:00+08:00",
+  "fetched_at": "2026-11-01T03:52+08:00",
+  "title": "10 月猪价一路跳水,“银十” 变 “黑十月”!11 月能反弹吗?",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-01/doc-inixcwwp3655053.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7752d7f3240f15fb7d9b",
+  "date": "2026-11-01",
+  "published_at": "2026-11-01T00:00+08:00",
+  "fetched_at": "2026-11-01T03:52+08:00",
+  "title": "暖冬预期搅局腌腊季,大猪供应充裕下,年底猪价涨幅或受限",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-01/doc-inixcwwk1431253.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_28c0682ee9ded6b5716e",
   "date": "2026-10-31",
   "published_at": "2026-10-31T20:55+08:00",
   "fetched_at": "2026-10-31T23:58+08:00",
@@ -8,7 +46,7 @@
   "summary": "",
   "source": "Dairynews.today",
   "type": "价格行情",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0Njb2VZcVdvd1ZnbEdwSmtHV1Q5OFVEZlM4a2U2ejZsWFI4V0V4bWhialU0X0d0eVh1VnN3Sk9SX2w3dlBSb2wxM2N2a0EwaFJVQjRaakk0WkRzR3pfVTRqVWl2aHVJeHVTUmpUb2VCVFhvV2J5RnJ0WFFoWnA5bUFjTm1KWEpwTkFvT3NfMzg5ZnpMVUpkN01BX1c?oc=5",
+  "url": "https://dairynews.today/cn/news/eu_milk_prices_fall_19_7_as_milk_collection_rises_3_6576503.html",
   "company": "",
   "material_ids": [
    "RAW_MILK"
@@ -1080,26 +1118,6 @@
   "relevance_score": 8
  },
  {
-  "id": "news_2d91aacc46ec25245190",
-  "date": "2026-10-28",
-  "published_at": "2026-10-28T12:34+08:00",
-  "fetched_at": "2026-10-31T23:58+08:00",
-  "title": "仙乐健康:拟联合全球鱼油藻油头部企业成立全球Omega-3供应保障战略联盟",
-  "summary": "",
-  "source": "东方财富",
-  "type": "供需动态",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EdTFOUENnaDNta18tSHlObU51UmNzeFg5QUFOc2FjNnNBQmpZbXZPaFlZcVhWajZraDJsTGwwbWx2Wk1henE1SU1wOFRua0xOY21mNko2MEE5RnBfZXdyQ2VSVzQ?oc=5",
-  "company": "",
-  "material_ids": [
-   "FISHOIL"
-  ],
-  "matched_keywords": [
-   "鱼油",
-   "omega-3"
-  ],
-  "relevance_score": 8
- },
- {
   "id": "news_d8e3593713bad94b1564",
   "date": "2026-10-28",
   "published_at": "2026-10-28T11:41+08:00",
@@ -2041,7 +2059,7 @@
   "relevance_score": 12
  },
  {
-  "id": "news_806b2d0d4af82bea6da2",
+  "id": "news_b1994deecbb9f866874b",
   "date": "2026-10-26",
   "published_at": "2026-10-26T00:00+08:00",
   "fetched_at": "2026-10-31T23:58+08:00",
@@ -2049,34 +2067,13 @@
   "summary": "",
   "source": "e南洋",
   "type": "价格行情",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlMFNEdTFtZnZqOV9GQm9MMzFZbWJMUzcydzZtLTBXN09UVHZrM2pRYjdPOHpoN2xnamNHYXlRWTY0UUNNN25KdjhzSG5GM21NS2czaGx0T2p3ODZsZk1xLXNfQQ?oc=5",
+  "url": "https://www.enanyang.my/news/20261026/Finance/1425927",
   "company": "",
   "material_ids": [
    "P"
   ],
   "matched_keywords": [
    "棕油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7ebeb5883542c5df14cf",
-  "date": "2026-10-25",
-  "published_at": "2026-10-25T21:10+08:00",
-  "fetched_at": "2026-10-31T23:58+08:00",
-  "title": "厄尔尼诺气候热度提升影响 豆粕棕榈油震荡偏强运行",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOT2ViUWtpX2RMS0tObGZsNUljQzh4d01XLWJrYThwUG5sNlFpSzFRVnRySjdzbWFuZXlGSlpxUHJ0WjFuOERPRkN5UF9lZkVHUjczZVZUYkQtR1NRMU1BazNLbUxPdk5GWWNKVlVjTXFGQkQ0N2V2MVVkQkRtbmx5ZzN6cTJTLWpzZlVxbE5acUYyWmtIemlWek9LQ3VEcllPZWRvWG92cnNfTDNyNFBWeDJQWDNBUE9McUVldUJKRWtMQ1FPTzk5bTVUcGVvdjNyeWU0eFV4M3dqNHJGUW4yU3FZSFRsbGJDQ3lrSm1nbkpqdVpidkJhVFlvVHhaSjhfRUhTdjRPSnY1YktjeUlxUmgta1M4eTdHQll6a0phcGZ2c2FmZ2M5ekdxYmZNNlhDZFJhRw?oc=5",
-  "company": "",
-  "material_ids": [
-   "P",
-   "M"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "豆粕"
   ],
   "relevance_score": 8
  },

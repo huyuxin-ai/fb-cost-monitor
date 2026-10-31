@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-10-31T18:46+08:00",
+ "updated_at": "2026-11-01T03:52+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "21财经": 1,
   "DairyNews.today": 1,
-  "Dairynews.today": 1,
+  "Dairynews.today": 2,
   "IndexBox": 3,
   "QQ News": 3,
   "Sin Chew Daily": 1,
   "ThePaper.cn": 1,
-  "e南洋": 1,
+  "e南洋": 2,
   "finance.sina.com.cn": 6,
   "https://www.agripost.cn/": 1,
   "www.agripost.cn": 1,
@@ -29,7 +29,7 @@
   "凤凰网": 1,
   "南方财经网": 12,
   "发现报告": 1,
-  "同花顺": 11,
+  "同花顺": 8,
   "同花顺财经": 12,
   "国信期货": 2,
   "国家粮食和物资储备局": 1,
@@ -39,11 +39,11 @@
   "广发期货": 1,
   "手机新浪网": 5,
   "手机网易网": 1,
-  "搜狐": 9,
+  "搜狐": 8,
   "搜狐网": 9,
   "新华财经": 2,
   "新浪网": 2,
-  "新浪财经": 33,
+  "新浪财经": 35,
   "时代周报": 3,
   "时代财经": 1,
   "期货日报": 7,
@@ -66,6 +66,63 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_ced12bbb9a422699896b",
+   "date": "2026-11-01",
+   "published_at": "2026-11-01T00:00+08:00",
+   "fetched_at": "2026-11-01T03:52+08:00",
+   "title": "10 月猪价一路跳水,“银十” 变 “黑十月”!11 月能反弹吗?",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-01/doc-inixcwwp3655053.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7752d7f3240f15fb7d9b",
+   "date": "2026-11-01",
+   "published_at": "2026-11-01T00:00+08:00",
+   "fetched_at": "2026-11-01T03:52+08:00",
+   "title": "暖冬预期搅局腌腊季,大猪供应充裕下,年底猪价涨幅或受限",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-01/doc-inixcwwk1431253.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_28c0682ee9ded6b5716e",
+   "date": "2026-10-31",
+   "published_at": "2026-10-31T20:55+08:00",
+   "fetched_at": "2026-10-31T23:58+08:00",
+   "title": "欧盟原奶收购价下跌19.7%,收奶量增长3%",
+   "summary": "",
+   "source": "Dairynews.today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/eu_milk_prices_fall_19_7_as_milk_collection_rises_3_6576503.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_534bce52174297f146b0",
    "date": "2026-10-31",
@@ -1974,6 +2031,25 @@
    "relevance_score": 12
   },
   {
+   "id": "news_b1994deecbb9f866874b",
+   "date": "2026-10-26",
+   "published_at": "2026-10-26T00:00+08:00",
+   "fetched_at": "2026-10-31T23:58+08:00",
+   "title": "出口需求支撑价格 棕油期货延续涨势",
+   "summary": "",
+   "source": "e南洋",
+   "type": "价格行情",
+   "url": "https://www.enanyang.my/news/20261026/Finance/1425927",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕油"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_5a5e771243811d155898",
    "date": "2026-10-25",
    "published_at": "2026-10-25T19:23+08:00",
@@ -3856,83 +3932,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_3427a3d307232f7fb04c",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T12:13+08:00",
-   "fetched_at": "2026-10-20T19:07+08:00",
-   "title": "原奶价格同比连跌53个月后转正,奶农扭亏了吗?",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1090101013_121332524",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶",
-    "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_130418f6a8ee827e707b",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T11:44+08:00",
-   "fetched_at": "2026-10-20T13:52+08:00",
-   "title": "【现货】10月20日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261020/c680871672.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fc34cc58116ee8f16dfb",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T10:23+08:00",
-   "fetched_at": "2026-10-20T13:52+08:00",
-   "title": "生意社2026年10月20日豆油趋势分析:震荡",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20261020/c680868399.shtml",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fd6f9f8fb8304421ca5d",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T10:03+08:00",
-   "fetched_at": "2026-10-20T13:52+08:00",
-   "title": "生意社2026年10月20日棕榈油趋势分析:震荡",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20261020/c680867285.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   }
