@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T17:37+08:00",
+ "updated_at": "2026-11-02T00:38+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -9,7 +9,8 @@
   "Dairynews.today": 2,
   "IndexBox": 3,
   "QQ News": 4,
-  "Sin Chew Daily": 1,
+  "Shangbao Indonesia": 1,
+  "Sin Chew Daily": 2,
   "ThePaper.cn": 1,
   "e南洋": 2,
   "finance.sina.com.cn": 6,
@@ -20,7 +21,6 @@
   "上海中期期货": 1,
   "东方财富": 4,
   "东方财富Choice数据": 2,
-  "东方财富研究中心": 1,
   "东海期货": 1,
   "中华网": 5,
   "中国经营报": 2,
@@ -29,7 +29,7 @@
   "凤凰网": 1,
   "南方财经网": 12,
   "发现报告": 1,
-  "同花顺": 7,
+  "同花顺": 3,
   "同花顺财经": 12,
   "国信期货": 2,
   "国家粮食和物资储备局": 1,
@@ -43,7 +43,7 @@
   "搜狐网": 10,
   "新华财经": 2,
   "新浪网": 2,
-  "新浪财经": 34,
+  "新浪财经": 36,
   "时代周报": 3,
   "时代财经": 1,
   "期货日报": 7,
@@ -58,7 +58,7 @@
   "蓝鲸财经": 1,
   "虎嗅网": 1,
   "观点网": 1,
-  "证券之星": 5,
+  "证券之星": 6,
   "证券日报": 1,
   "诗华日报": 1,
   "财联社": 7,
@@ -66,6 +66,101 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_88a2b2c8e38eac0bce56",
+   "date": "2026-11-02",
+   "published_at": "2026-11-02T00:00+08:00",
+   "fetched_at": "2026-11-02T00:38+08:00",
+   "title": "腌腊季开秤,猪价能“借风”反弹吗?",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-02/doc-inixhhcq7575738.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7c050c658cdbaa6ba4d1",
+   "date": "2026-11-02",
+   "published_at": "2026-11-02T00:00+08:00",
+   "fetched_at": "2026-11-02T00:38+08:00",
+   "title": "猪价跌不动了?南涨北稳,散户别盲目赌反弹",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-02/doc-inixhhcp0799715.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_befbfe4db28ce05528bb",
+   "date": "2026-11-01",
+   "published_at": "2026-11-01T18:17+08:00",
+   "fetched_at": "2026-11-02T00:38+08:00",
+   "title": "农林牧渔行业周报:散奶价格持续走强,重视牧场布局机会_行业研究_研报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://stock.stockstar.com/JC2026110100009860.shtml",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_66c829176fc2fabbfc69",
+   "date": "2026-11-01",
+   "published_at": "2026-11-01T18:04+08:00",
+   "fetched_at": "2026-11-02T00:38+08:00",
+   "title": "印尼11月毛棕榈油出口计税参考价下调6.07%",
+   "summary": "",
+   "source": "Shangbao Indonesia",
+   "type": "供需动态",
+   "url": "https://www.shangbaoindonesia.com/read/2026/11/01/economy-1793531092",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_f17242c0aefba905495a",
+   "date": "2026-11-01",
+   "published_at": "2026-11-01T16:38+08:00",
+   "fetched_at": "2026-11-02T00:38+08:00",
+   "title": "陈泓缣:非穆重要蛋白质来源 勿种族化生猪供应 - 国内 - 全国综合",
+   "summary": "",
+   "source": "Sin Chew Daily",
+   "type": "供需动态",
+   "url": "https://www.sinchew.com.my/news/20261101/nation/8021970",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_69880b9a0d28f33e1c41",
    "date": "2026-11-01",
@@ -3832,107 +3927,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c2a3a984b052a26eb258",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T15:38+08:00",
-   "fetched_at": "2026-10-20T19:07+08:00",
-   "title": "【收评】豆油日内上涨0.28% 机构称油脂冲高回落,棕榈油表现强于豆油",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20261020/c680877811.shtml",
-   "company": "",
-   "material_ids": [
-    "P",
-    "Y"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6cf5e3bcca966a1705d6",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T15:38+08:00",
-   "fetched_at": "2026-10-20T19:07+08:00",
-   "title": "【期权排行榜】热门商品期权合约涨幅TOP10:生猪2611沽9400大涨1200.0%勇夺榜首",
-   "summary": "",
-   "source": "同花顺",
-   "type": "供需动态",
-   "url": "https://m.10jqka.com.cn/20261020/c680877961.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_0a11dcaf6ec107644176",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T15:38+08:00",
-   "fetched_at": "2026-10-20T21:44+08:00",
-   "title": "【收评】生猪日内下跌3.15% 机构称生猪短期或继续承压运行",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20261020/c680877951.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1e717004c6baa815adfd",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T15:25+08:00",
-   "fetched_at": "2026-10-20T19:07+08:00",
-   "title": "【收评】菜油日内下跌0.29% 机构称油脂冲高回落,棕榈油表现强于豆油",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20261020/c680877905.shtml",
-   "company": "",
-   "material_ids": [
-    "P",
-    "Y",
-    "OI"
-   ],
-   "matched_keywords": [
-    "棕榈油",
-    "豆油",
-    "菜油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_21cf28f3a41692253cc3",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T15:20+08:00",
-   "fetched_at": "2026-10-20T19:07+08:00",
-   "title": "期市收评 | 商品期货多数下跌 菜粕跌幅居前",
-   "summary": "(Mysteel) 农产品期货 生猪:截至10月14日,全国生猪出场价格为10.45元/公斤,较9月30日下跌2.43%;主要批发市场玉米价格为2.38元/公斤,较9月30日下跌0.83%;猪粮比价为4.39,较9月30日下跌1.57%。",
-   "source": "东方财富研究中心",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203901286449.html",
-   "company": "",
-   "material_ids": [
-    "RM"
-   ],
-   "matched_keywords": [
-    "菜粕"
    ],
    "relevance_score": 8
   }
