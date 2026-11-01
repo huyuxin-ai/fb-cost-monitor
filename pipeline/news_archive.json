@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_69880b9a0d28f33e1c41",
+  "date": "2026-11-01",
+  "published_at": "2026-11-01T12:55+08:00",
+  "fetched_at": "2026-11-01T17:37+08:00",
+  "title": "2026年11月1日全国主要批发市场腰果价格行情_综合资讯",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://futures.stockstar.com/IG2026110100002721.shtml",
+  "company": "",
+  "material_ids": [
+   "CASHEW"
+  ],
+  "matched_keywords": [
+   "腰果"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_02d1ff148def6d31d667",
   "date": "2026-11-01",
   "published_at": "2026-11-01T06:22+08:00",
@@ -9640,25 +9659,6 @@
   ],
   "matched_keywords": [
    "原奶"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_4ecf8f98fb4677301c46",
-  "date": "2026-09-30",
-  "published_at": "2026-09-30T15:49+08:00",
-  "fetched_at": "2026-09-30T20:54+08:00",
-  "title": "2026.10.1-最新猪价(火力全开,猪价“开挂”上涨!)",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1082743381_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }
