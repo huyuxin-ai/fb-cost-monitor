@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-02T15:27+08:00",
+ "updated_at": "2026-11-03T01:23+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "21财经": 1,
   "DairyNews.today": 1,
-  "Dairynews.today": 3,
+  "Dairynews.today": 4,
   "IndexBox": 4,
   "QQ News": 4,
   "Shangbao Indonesia": 1,
@@ -27,7 +27,7 @@
   "光大期货": 2,
   "凤凰网": 1,
   "南华期货": 1,
-  "南方财经网": 10,
+  "南方财经网": 12,
   "发现报告": 2,
   "同花顺": 2,
   "同花顺财经": 13,
@@ -37,17 +37,17 @@
   "国际金融报": 1,
   "导油网": 1,
   "广发期货": 1,
-  "手机新浪网": 5,
+  "手机新浪网": 6,
   "手机网易网": 1,
   "搜狐": 7,
   "搜狐网": 11,
-  "新华财经": 2,
+  "新华财经": 1,
   "新浪网": 2,
-  "新浪财经": 35,
+  "新浪财经": 33,
   "时代周报": 3,
   "时代财经": 1,
   "期货日报": 7,
-  "每日经济新闻": 7,
+  "每日经济新闻": 6,
   "汇通网": 1,
   "澎湃新闻": 3,
   "瑞达期货": 1,
@@ -56,14 +56,108 @@
   "第一财经": 5,
   "茉莉花新闻网": 1,
   "蓝鲸财经": 1,
-  "证券之星": 6,
+  "证券之星": 7,
   "证券日报": 1,
-  "诗华日报": 1,
   "财联社": 7,
   "迈科期货": 1,
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_410ca7618638a64fd90d",
+   "date": "2026-11-02",
+   "published_at": "2026-11-02T15:54+08:00",
+   "fetched_at": "2026-11-03T01:23+08:00",
+   "title": "三季度官方生猪生产、价格、进出口数据",
+   "summary": "",
+   "source": "手机新浪网",
+   "type": "价格行情",
+   "url": "https://k.sina.com.cn/article_5952915720_162d24908067053po4.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b27aa9179c5533c6774f",
+   "date": "2026-11-02",
+   "published_at": "2026-11-02T15:42+08:00",
+   "fetched_at": "2026-11-03T01:23+08:00",
+   "title": "生猪主力合约收跌0.31%",
+   "summary": "南财智讯11月2日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.31%,收盘报9500.0元/吨,日内资金流入3251.23万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611023918706322.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_6b8de5594390bdfe3565",
+   "date": "2026-11-02",
+   "published_at": "2026-11-02T15:41+08:00",
+   "fetched_at": "2026-11-03T01:23+08:00",
+   "title": "玉米主力合约收涨0.81%",
+   "summary": "南财智讯11月2日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.81%,收盘报2234.0元/吨,日内资金流入4856.28万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611023918707616.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_3b320772ab3b8499ceb4",
+   "date": "2026-11-02",
+   "published_at": "2026-11-02T15:35+08:00",
+   "fetched_at": "2026-11-03T01:23+08:00",
+   "title": "威斯康星州奶农:投入成本上涨超过官方奶价承受范围",
+   "summary": "",
+   "source": "Dairynews.today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/wisconsin_dairy_farmer_rising_input_costs_outpace_usda_milk_prices_2680134.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7f6425daf398db33d546",
+   "date": "2026-11-02",
+   "published_at": "2026-11-02T15:31+08:00",
+   "fetched_at": "2026-11-03T01:23+08:00",
+   "title": "11月2日生猪期货收盘下跌0.31%,报9500元_综合资讯",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://futures.stockstar.com/RB2026110200017407.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_14bd4c9c57295c6f0dbb",
    "date": "2026-11-02",
@@ -142,6 +236,25 @@
     "猪价"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_e584e8cb7e795594213f",
+   "date": "2026-11-02",
+   "published_at": "2026-11-02T08:59+08:00",
+   "fetched_at": "2026-11-03T01:23+08:00",
+   "title": "下游旺季需求兑现不足 PTA上行空间将逐步收窄",
+   "summary": "具体来看,涤纶长丝POY、FDY、DTY维持小幅盈利状态;涤纶短纤由深度亏损修复至盈亏平衡附近;瓶片盈利修复明显,但企业主动增产意愿不足。织造环节开工率同样偏低。秋冬订单增量有限,外需偏弱格局未改,内需虽阶段性回升,但难以形成持续性拉动。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611023919144845.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_e4ec0a90fdcc2752dd20",
@@ -3813,121 +3926,6 @@
     "纸浆"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_c308f01910ba89431261",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T21:00+08:00",
-   "fetched_at": "2026-10-20T21:44+08:00",
-   "title": "生猪期价跌破1万元/吨 交易所提示风险",
-   "summary": "如果四季度行业延续亏损,行业或进入超量去库阶段,预计2027年二季度后行业供给水平将逐步下降,届时猪价有望迎来修复。",
-   "source": "期货日报",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610203901537868.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_dd63e9fef75f9d0f5bd9",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T19:37+08:00",
-   "fetched_at": "2026-10-20T21:44+08:00",
-   "title": "近期生猪品种价格波动较大 大商所发布市场风险提示函",
-   "summary": "10月20日,据大商所公告,近期生猪品种价格波动较大。请各会员单位切实加强投资者教育和风险防范工作,提醒投资者理性参与,合规交易。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203901484233.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_a98b6dbc67f95bdc7a50",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T19:26+08:00",
-   "fetched_at": "2026-10-20T21:44+08:00",
-   "title": "今年出口近11万只生猪 养猪业为砂带来1.58亿收入",
-   "summary": "",
-   "source": "诗华日报",
-   "type": "供需动态",
-   "url": "https://news.seehua.com/post/1586893/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_ea2438ca0c4294a7eec4",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T18:30+08:00",
-   "fetched_at": "2026-10-20T23:46+08:00",
-   "title": "供应持续宽松,菜籽粕跌超3%",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivwpzf7688630.shtml",
-   "company": "",
-   "material_ids": [
-    "RM"
-   ],
-   "matched_keywords": [
-    "菜籽粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_79f4c40f8b51467f75d8",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T17:54+08:00",
-   "fetched_at": "2026-10-23T21:41+08:00",
-   "title": "专题报告丨豆粕:美豆收割持续推进,丰产格局下豆粕震荡偏弱格局延续",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivwith0997258.shtml",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f3367b210551bc7dd363",
-   "date": "2026-10-20",
-   "published_at": "2026-10-20T17:22+08:00",
-   "fetched_at": "2026-10-20T23:46+08:00",
-   "title": "商品日报(10月20日):集运欧线大跌 菜粕增仓下行",
-   "summary": "此外,虽然目前豆菜粕价差再次走扩至1000元/吨附近,菜粕之于豆粕的需求替代似有受阻,但当下二者库存水平分化,后续进口大豆到港及压榨居高不下,二者累库程度或将进一步拉开差距,价差仍有再次缩窄空间。",
-   "source": "新华财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610203901607748.html",
-   "company": "",
-   "material_ids": [
-    "RM"
-   ],
-   "matched_keywords": [
-    "菜粕"
-   ],
-   "relevance_score": 12
   }
  ]
 }

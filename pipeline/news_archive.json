@@ -1,5 +1,121 @@
 [
  {
+  "id": "news_fa4610808e57df22dc50",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T18:00+08:00",
+  "fetched_at": "2026-11-03T01:23+08:00",
+  "title": "10月第5周生猪和猪肉价格有所下跌",
+  "summary": "据农业农村部对500个县集贸市场和采集点监测,上周(10月第5周,10月26日—11月1日,下同),全国活猪价格为10.41元/公斤,环比跌2.8%;猪肉集贸市场价格为20.35元/公斤,环比跌1.2%。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "http://xianhuo.eastmoney.com/a/202611023918836792.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪肉价格",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_410ca7618638a64fd90d",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T15:54+08:00",
+  "fetched_at": "2026-11-03T01:23+08:00",
+  "title": "三季度官方生猪生产、价格、进出口数据",
+  "summary": "",
+  "source": "手机新浪网",
+  "type": "价格行情",
+  "url": "https://k.sina.com.cn/article_5952915720_162d24908067053po4.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b27aa9179c5533c6774f",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T15:42+08:00",
+  "fetched_at": "2026-11-03T01:23+08:00",
+  "title": "生猪主力合约收跌0.31%",
+  "summary": "南财智讯11月2日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.31%,收盘报9500.0元/吨,日内资金流入3251.23万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611023918706322.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_6b8de5594390bdfe3565",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T15:41+08:00",
+  "fetched_at": "2026-11-03T01:23+08:00",
+  "title": "玉米主力合约收涨0.81%",
+  "summary": "南财智讯11月2日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.81%,收盘报2234.0元/吨,日内资金流入4856.28万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611023918707616.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_3b320772ab3b8499ceb4",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T15:35+08:00",
+  "fetched_at": "2026-11-03T01:23+08:00",
+  "title": "威斯康星州奶农:投入成本上涨超过官方奶价承受范围",
+  "summary": "",
+  "source": "Dairynews.today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/wisconsin_dairy_farmer_rising_input_costs_outpace_usda_milk_prices_2680134.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7f6425daf398db33d546",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T15:31+08:00",
+  "fetched_at": "2026-11-03T01:23+08:00",
+  "title": "11月2日生猪期货收盘下跌0.31%,报9500元_综合资讯",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://futures.stockstar.com/RB2026110200017407.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_14bd4c9c57295c6f0dbb",
   "date": "2026-11-02",
   "published_at": "2026-11-02T13:13+08:00",
@@ -77,6 +193,25 @@
    "猪价"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_e584e8cb7e795594213f",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T08:59+08:00",
+  "fetched_at": "2026-11-03T01:23+08:00",
+  "title": "下游旺季需求兑现不足 PTA上行空间将逐步收窄",
+  "summary": "具体来看,涤纶长丝POY、FDY、DTY维持小幅盈利状态;涤纶短纤由深度亏损修复至盈亏平衡附近;瓶片盈利修复明显,但企业主动增产意愿不足。织造环节开工率同样偏低。秋冬订单增量有限,外需偏弱格局未改,内需虽阶段性回升,但难以形成持续性拉动。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611023919144845.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_e4ec0a90fdcc2752dd20",
@@ -9525,140 +9660,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_12942ec2f70c09cf8a46",
-  "date": "2026-10-02",
-  "published_at": "2026-10-02T10:17+08:00",
-  "fetched_at": "2026-10-02T14:00+08:00",
-  "title": "猪肉价格又到关键路口?9月起,猪肉价格或将重演2015年的历史",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1083308911_122572428",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪肉价格"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_93accf687767be0b3745",
-  "date": "2026-10-02",
-  "published_at": "2026-10-02T08:02+08:00",
-  "fetched_at": "2026-10-02T14:00+08:00",
-  "title": "奶价上涨,但供应恢复可能抑制涨幅",
-  "summary": "",
-  "source": "dairynews.today",
-  "type": "价格行情",
-  "url": "https://dairynews.today/cn/news/__9932344.html",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6f929b3eba50f78adcff",
-  "date": "2026-10-02",
-  "published_at": "2026-10-02T00:00+08:00",
-  "fetched_at": "2026-10-02T14:00+08:00",
-  "title": "上涨!2026.10.2生猪市场信息交流",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-02/doc-inittzpz7942250.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0b92d089849c612e09ec",
-  "date": "2026-10-02",
-  "published_at": "2026-10-02T00:00+08:00",
-  "fetched_at": "2026-10-02T14:00+08:00",
-  "title": "今年,全国秋粮面积预计稳中有增,特别是高产作物玉米增加较多。目前,已开始大面积收获,进度过三成,快于去年同期。如果后期气象条件总体正常,有望再获丰收。",
-  "summary": "",
-  "source": "央视新闻",
-  "type": "供需动态",
-  "url": "https://news.cctv.com/2026/10/02/ARTIIsxXmuBJCBBUWV2HxVlO261002.shtml",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a589510a77a6cc8db148",
-  "date": "2026-10-01",
-  "published_at": "2026-10-01T21:30+08:00",
-  "fetched_at": "2026-10-01T23:13+08:00",
-  "title": "美国农业部生猪报告2026年10月1日:采购量涨跌互现,胴体价格 - 新闻和统计",
-  "summary": "",
-  "source": "IndexBox",
-  "type": "价格行情",
-  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-october-1-2026-purchase-volumes-and-pricing/",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5ab05dca9e3533e404f2",
-  "date": "2026-10-01",
-  "published_at": "2026-10-01T19:46+08:00",
-  "fetched_at": "2026-10-01T23:13+08:00",
-  "title": "马棕油跌至11周低点:出口疲软与产量攀升主导短期情绪_外汇动态报道",
-  "summary": "",
-  "source": "汇通网 Fx678",
-  "type": "供需动态",
-  "url": "https://www.fx678.com/202610011946562288.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕油",
-   "马棕油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_53aa67942b4a9e76182d",
-  "date": "2026-10-01",
-  "published_at": "2026-10-01T18:16+08:00",
-  "fetched_at": "2026-10-05T09:09+08:00",
-  "title": "高温催逼产区集中售粮,三季度玉米行情或持续走弱-市场参考",
-  "summary": "",
-  "source": "金十数据",
-  "type": "价格行情",
-  "url": "https://xnews.jin10.com/details/225798",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
   ],
   "relevance_score": 8
  }
