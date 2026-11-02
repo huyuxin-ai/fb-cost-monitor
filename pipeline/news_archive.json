@@ -1,5 +1,103 @@
 [
  {
+  "id": "news_14bd4c9c57295c6f0dbb",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T13:13+08:00",
+  "fetched_at": "2026-11-02T15:27+08:00",
+  "title": "原奶价格下跌53个月后转正 乳业盈利点生变 深加工能否破局?",
+  "summary": "值得关注的是,原奶价格在下跌53个月后已首度转正。农业农村部9月供需月报显示,奶业主产省生鲜乳收购价每公斤3.08元,同比上涨1.7%,这意味着乳企过去三年靠“便宜原奶换利润”的路径开始失效。未来,新的挑战或许将进一步考验各家奶企的运营能力。",
+  "source": "第一财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611023918484459.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶",
+   "奶价",
+   "生鲜乳"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_90067c4e6f7ca5a6d8d9",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T10:44+08:00",
+  "fetched_at": "2026-11-02T15:27+08:00",
+  "title": "【现货】11月2日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261102/c681345857.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_69329548ff8d130d8a77",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T10:20+08:00",
+  "fetched_at": "2026-11-02T15:27+08:00",
+  "title": "我国进口近月船期巴西大豆盘面压榨利润小幅下降",
+  "summary": "上周,受CBOT大豆期价走势偏弱、国内供需宽松、市场情绪整体偏空等影响,国内豆油、豆粕期价震荡下跌,我国进口近月船期巴西大豆盘面压榨利润小幅下降。10月30日,我国进口巴西12月船期大豆盘面压榨利润-243元/吨,较上周同期小幅下降17元/吨。",
+  "source": "国家粮食和物资储备局",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611023918163888.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_1ecff5d60cd5fc076eda",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T09:12+08:00",
+  "fetched_at": "2026-11-02T15:27+08:00",
+  "title": "农产品 | 生猪:期货深跌背离 猪价低位修复待确认",
+  "summary": "【农副软商品】 生猪:期货深跌背离,猪价低位修复待确认 【期货盘面】 上一交易日(10月30日),生猪主力合约 LH2701 收于 9510 元/吨,较前一交易日下跌120 元/吨,跌幅达 1.25%;近月合约 LH2611 收于 8530 元/吨,下跌 535 元/吨,跌幅达",
+  "source": "南华期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611023917874834.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_e4ec0a90fdcc2752dd20",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T06:15+08:00",
+  "fetched_at": "2026-11-02T08:34+08:00",
+  "title": "11月2日猪价:9跌5涨!猪价下跌“突变”,接下来“插翅”上涨?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1095786954_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_f9fc168ae9104e0e4ae1",
   "date": "2026-11-02",
   "published_at": "2026-11-02T05:09+08:00",
@@ -15,25 +113,6 @@
   ],
   "matched_keywords": [
    "原奶"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2bbcc7b196a234659c80",
-  "date": "2026-11-02",
-  "published_at": "2026-11-02T04:58+08:00",
-  "fetched_at": "2026-11-02T08:34+08:00",
-  "title": "11月2日猪价:跌了不起!猪价下跌“无休止”,蓄势上涨?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1095786746_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  },
@@ -72,6 +151,26 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0adcc7af01e601b6600c",
+  "date": "2026-11-01",
+  "published_at": "2026-11-01T19:28+08:00",
+  "fetched_at": "2026-11-02T15:27+08:00",
+  "title": "开源证券:《农林牧渔行业周报:猪价低位承压,养殖亏损加深,新生仔猪回落释放远期改善信号》",
+  "summary": "",
+  "source": "发现报告",
+  "type": "价格行情",
+  "url": "https://www.fxbaogao.com/detail/5833510",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "仔猪"
   ],
   "relevance_score": 8
  },
@@ -9560,101 +9659,6 @@
   ],
   "matched_keywords": [
    "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_cd1c9037b324a876d985",
-  "date": "2026-10-01",
-  "published_at": "2026-10-01T09:06+08:00",
-  "fetched_at": "2026-10-01T15:42+08:00",
-  "title": "纯牛奶过剩,饮用奶用原奶减量2.6万吨...“原奶配额”谈判达成协议- 阿视亚经济",
-  "summary": "",
-  "source": "아시아경제",
-  "type": "政策与供应",
-  "url": "https://www.asiae.co.kr/cn/article/2026100110025844649",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "原奶"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_832a9ff684e8109999f1",
-  "date": "2026-10-01",
-  "published_at": "2026-10-01T07:39+08:00",
-  "fetched_at": "2026-09-30T20:54+08:00",
-  "title": "本周国内豆油现货报价下跌",
-  "summary": "",
-  "source": "东方财富",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609303887518034.html",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ee415fefd8ec540c3162",
-  "date": "2026-10-01",
-  "published_at": "2026-10-01T07:24+08:00",
-  "fetched_at": "2026-10-01T09:28+08:00",
-  "title": "CBOT农产品期货主力合约收盘全线下跌 玉米期货跌3.98%",
-  "summary": "当地时间9月30日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.29%报1294.00美分/蒲式耳,玉米期货跌3.98%报501.25美分/蒲式耳,小麦期货跌2.53%报675.25美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610013888015518.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_bde76ed7efa66642776c",
-  "date": "2026-10-01",
-  "published_at": "2026-10-01T07:10+08:00",
-  "fetched_at": "2026-10-01T06:29+08:00",
-  "title": "10月1日猪价:涨涨涨!猪价“180°大变”,接下来“开挂”上涨?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1082867000_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6cc10cd1474fb36dd71c",
-  "date": "2026-10-01",
-  "published_at": "2026-10-01T03:55+08:00",
-  "fetched_at": "2026-10-01T09:28+08:00",
-  "title": "印度尼西亚贸易部宣布 将10月毛棕榈油(CPO)参考价格定为每公吨1042.15美元",
-  "summary": "",
-  "source": "东方财富",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202609303887844844.html",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
   ],
   "relevance_score": 8
  }
