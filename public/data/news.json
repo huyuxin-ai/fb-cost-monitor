@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-03T14:32+08:00",
+ "updated_at": "2026-11-03T22:54+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
-  "21世纪经济报道": 3,
+  "21世纪经济报道": 4,
   "21财经": 1,
   "DairyNews.today": 1,
-  "Dairynews.today": 4,
+  "Dairynews.today": 5,
   "IndexBox": 5,
   "QQ News": 3,
   "Shangbao Indonesia": 1,
@@ -19,18 +19,18 @@
   "一德期货": 1,
   "七禾网": 1,
   "上海中期期货": 1,
-  "东方财富": 4,
+  "东方财富": 5,
   "东方财富Choice数据": 3,
   "东海期货": 1,
-  "中华网": 4,
+  "中华网": 3,
   "中国经营报": 2,
   "光大期货": 3,
   "凤凰网": 1,
   "南华期货": 1,
-  "南方财经网": 12,
+  "南方财经网": 11,
   "发现报告": 2,
   "同花顺": 3,
-  "同花顺财经": 13,
+  "同花顺财经": 12,
   "国信期货": 1,
   "国家粮食和物资储备局": 4,
   "国投期货": 1,
@@ -41,7 +41,7 @@
   "手机网易网": 1,
   "搜狐": 5,
   "搜狐网": 12,
-  "新华财经": 1,
+  "新华财经": 3,
   "新浪网": 1,
   "新浪财经": 34,
   "时代周报": 3,
@@ -52,17 +52,134 @@
   "澎湃新闻": 3,
   "瑞达期货": 1,
   "申银万国期货": 1,
-  "界面新闻": 3,
+  "界面新闻": 2,
   "第一财经": 5,
   "英为财情 Investing.com": 1,
   "蓝鲸财经": 1,
-  "证券之星": 7,
+  "证券之星": 8,
   "证券日报": 1,
-  "财联社": 7,
+  "财联社": 5,
   "迈科期货": 1,
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_a6f691632f667bf6fec3",
+   "date": "2026-11-03",
+   "published_at": "2026-11-03T18:15+08:00",
+   "fetched_at": "2026-11-03T22:54+08:00",
+   "title": "逆势拉升!猪肉股集体上涨 生猪养殖拐点将至?",
+   "summary": "",
+   "source": "东方财富",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611033920347115.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_4ea26f9fffdc11152355",
+   "date": "2026-11-03",
+   "published_at": "2026-11-03T18:06+08:00",
+   "fetched_at": "2026-11-03T22:54+08:00",
+   "title": "Arla半年净利润升至2.13亿欧元,原奶价格下降",
+   "summary": "",
+   "source": "Dairynews.today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/arla_s_half_year_profit_rises_to_213_million_as_milk_prices_fall_6461587.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_6f211e6fff2ca5787db8",
+   "date": "2026-11-03",
+   "published_at": "2026-11-03T17:40+08:00",
+   "fetched_at": "2026-11-03T22:54+08:00",
+   "title": "商品日报(11月3日):地缘溢价回落SC原油重挫逾6% 生猪续创新低",
+   "summary": "总的来看,国投期货表示,目前原料价格有所上涨,钢厂生产利润尚可,控量发货,社库维持去化,现货市场供需双弱。下游需求端表现低迷。后市关注钢厂排产、原料价格变化。预期后市不锈钢震荡运行。 玻璃主力合约3日收涨1.38%,为第六个交易日反弹。",
+   "source": "新华财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611033920568390.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 7
+  },
+  {
+   "id": "news_77366133c288d851823c",
+   "date": "2026-11-03",
+   "published_at": "2026-11-03T17:00+08:00",
+   "fetched_at": "2026-11-03T22:54+08:00",
+   "title": "【新华财经调查】国产大豆现货价格结构性分化 期货市场三方承压",
+   "summary": "齐齐哈尔市梅里斯区郝氏家庭农场负责人郝成财表示,其农场1万亩高蛋白大豆蛋白含量突破40%,收购价显著高于市场均价,溢价优势明显;反观周边低蛋白地块粮源,收购报价偏低、市场认可度较弱。 下游头部企业收购策略进一步巩固优质粮源溢价格局。",
+   "source": "新华财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611033920569885.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "国产大豆",
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_ba779f1023dd95a8e86e",
+   "date": "2026-11-03",
+   "published_at": "2026-11-03T14:29+08:00",
+   "fetched_at": "2026-11-03T22:54+08:00",
+   "title": "公司信息更新报告:猪价下行与资产减值拖累业绩,行业产能去化孕育周期转机_公司研究_研报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://stock.stockstar.com/JC2026110300029688.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7950d0016e3dfed803fd",
+   "date": "2026-11-03",
+   "published_at": "2026-11-03T14:28+08:00",
+   "fetched_at": "2026-11-03T22:54+08:00",
+   "title": "Q3乳制品业绩边际向好,原奶周期反转向好趋势正在兑现丨盘中雷达",
+   "summary": "原奶价格筑底企稳,供给端奶牛存栏持续去化,深加工产能释放增加原奶消耗量,原奶价格处于逐步回升阶段,牧场资产减值计提压力减小,业绩弹性更大。 一、原奶周期向好反转兑现,机构看好乳业反转年 乳制品产业链分为上游牧场、中游加工和下游销售三个环节,当前核心变量在于原奶价格。",
+   "source": "21世纪经济报道",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611033920158823.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_b7c9effd5e83f256d6b9",
    "date": "2026-11-03",
@@ -3811,122 +3928,6 @@
     "生猪"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_0cdd6aa819371562bd25",
-   "date": "2026-10-21",
-   "published_at": "2026-10-21T17:57+08:00",
-   "fetched_at": "2026-10-21T21:05+08:00",
-   "title": "温氏股份:前三季度净亏损49.61亿元 主产品肉猪价格大幅下跌",
-   "summary": "业绩变动主要系主产品肉猪价格大幅下跌,公司养猪业务出现大额亏损所致。注:公司Q3净利润亏损5.96亿,Q2净利润-32.96亿,据此计算,Q3净利润环比持续亏损。",
-   "source": "财联社",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610213902737127.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_1bb45a88e9be12205ede",
-   "date": "2026-10-21",
-   "published_at": "2026-10-21T16:55+08:00",
-   "fetched_at": "2026-10-21T21:05+08:00",
-   "title": "能繁母猪跌破调控基准线、猪肉股集体爆发 超长猪周期“见底”了吗?",
-   "summary": "饲料成本占生猪养殖完全成本约60%,配方中玉米约占70%、豆粕约占15%。温氏股份相关人员表示,近期饲料原料价格波动较大,整体呈“玉米偏弱、豆粕偏强”的分化走势,公司预计下半年及2027年核心饲料原料价格呈区间震荡走势,玉米与豆粕走势继续分化。",
-   "source": "财联社",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610213902689797.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "能繁母猪",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2860d851c84a6b5df2ce",
-   "date": "2026-10-21",
-   "published_at": "2026-10-21T15:48+08:00",
-   "fetched_at": "2026-10-21T21:05+08:00",
-   "title": "10月21日猪价:跌猛了 供需失衡加剧",
-   "summary": "",
-   "source": "中华网",
-   "type": "供需动态",
-   "url": "https://news.china.com/socialgd/10000169/20261021/49807984.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8f00ebd8adaaa6feb03a",
-   "date": "2026-10-21",
-   "published_at": "2026-10-21T15:43+08:00",
-   "fetched_at": "2026-10-21T21:05+08:00",
-   "title": "玉米主力合约收跌0.14%",
-   "summary": "南财智讯10月21日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.14%,收盘报2186.0元/吨,日内资金流入1.36亿元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610213902624882.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_4894eed4ba9232ddf634",
-   "date": "2026-10-21",
-   "published_at": "2026-10-21T15:24+08:00",
-   "fetched_at": "2026-10-21T21:05+08:00",
-   "title": "【收评】生猪日内上涨0.35% 机构称短期生猪反弹承压,下方空间收窄",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://m.10jqka.com.cn/20261021/c680925398.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c92406b2ac301c10d482",
-   "date": "2026-10-21",
-   "published_at": "2026-10-21T14:06+08:00",
-   "fetched_at": "2026-10-21T15:15+08:00",
-   "title": "生猪存栏同比降2.6%、能繁去化降幅扩大4.2个百分点,产能拐点信号强化",
-   "summary": "从价格端看,猪价仍处磨底区域但已现企稳迹象:农业农村部监测显示,10月第2周全国活猪平均价格11.07元/公斤,环比小幅回落0.5%,同比仍低14.2%;中国养猪网数据显示,10月16日全国生猪(外三元)报9.88元/公斤,在跌破10元关口后暂未进一步下探。",
-   "source": "界面新闻",
-   "type": "价格行情",
-   "url": "https://stock.eastmoney.com/a/202610213902544540.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
   }
  ]
 }

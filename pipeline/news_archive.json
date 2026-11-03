@@ -1,5 +1,122 @@
 [
  {
+  "id": "news_a6f691632f667bf6fec3",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T18:15+08:00",
+  "fetched_at": "2026-11-03T22:54+08:00",
+  "title": "逆势拉升!猪肉股集体上涨 生猪养殖拐点将至?",
+  "summary": "",
+  "source": "东方财富",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611033920347115.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_4ea26f9fffdc11152355",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T18:06+08:00",
+  "fetched_at": "2026-11-03T22:54+08:00",
+  "title": "Arla半年净利润升至2.13亿欧元,原奶价格下降",
+  "summary": "",
+  "source": "Dairynews.today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/arla_s_half_year_profit_rises_to_213_million_as_milk_prices_fall_6461587.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶",
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6f211e6fff2ca5787db8",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T17:40+08:00",
+  "fetched_at": "2026-11-03T22:54+08:00",
+  "title": "商品日报(11月3日):地缘溢价回落SC原油重挫逾6% 生猪续创新低",
+  "summary": "总的来看,国投期货表示,目前原料价格有所上涨,钢厂生产利润尚可,控量发货,社库维持去化,现货市场供需双弱。下游需求端表现低迷。后市关注钢厂排产、原料价格变化。预期后市不锈钢震荡运行。 玻璃主力合约3日收涨1.38%,为第六个交易日反弹。",
+  "source": "新华财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611033920568390.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 7
+ },
+ {
+  "id": "news_77366133c288d851823c",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T17:00+08:00",
+  "fetched_at": "2026-11-03T22:54+08:00",
+  "title": "【新华财经调查】国产大豆现货价格结构性分化 期货市场三方承压",
+  "summary": "齐齐哈尔市梅里斯区郝氏家庭农场负责人郝成财表示,其农场1万亩高蛋白大豆蛋白含量突破40%,收购价显著高于市场均价,溢价优势明显;反观周边低蛋白地块粮源,收购报价偏低、市场认可度较弱。 下游头部企业收购策略进一步巩固优质粮源溢价格局。",
+  "source": "新华财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611033920569885.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "国产大豆",
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_ba779f1023dd95a8e86e",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T14:29+08:00",
+  "fetched_at": "2026-11-03T22:54+08:00",
+  "title": "公司信息更新报告:猪价下行与资产减值拖累业绩,行业产能去化孕育周期转机_公司研究_研报",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://stock.stockstar.com/JC2026110300029688.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7950d0016e3dfed803fd",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T14:28+08:00",
+  "fetched_at": "2026-11-03T22:54+08:00",
+  "title": "Q3乳制品业绩边际向好,原奶周期反转向好趋势正在兑现丨盘中雷达",
+  "summary": "原奶价格筑底企稳,供给端奶牛存栏持续去化,深加工产能释放增加原奶消耗量,原奶价格处于逐步回升阶段,牧场资产减值计提压力减小,业绩弹性更大。 一、原奶周期向好反转兑现,机构看好乳业反转年 乳制品产业链分为上游牧场、中游加工和下游销售三个环节,当前核心变量在于原奶价格。",
+  "source": "21世纪经济报道",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611033920158823.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶",
+   "奶价"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_b7c9effd5e83f256d6b9",
   "date": "2026-11-03",
   "published_at": "2026-11-03T14:20+08:00",
@@ -9546,121 +9663,6 @@
    "LH"
   ],
   "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7ec5ca67ed03b43cbfb1",
-  "date": "2026-10-07",
-  "published_at": "2026-10-07T04:51+08:00",
-  "fetched_at": "2026-10-08T08:48+08:00",
-  "title": "管制玻璃瓶市场展望2035:生物制剂需求与即用型转型驱动增长 - 新闻和统计",
-  "summary": "",
-  "source": "IndexBox",
-  "type": "供需动态",
-  "url": "https://www.indexbox.io/zh-hans/blog/tubular-glass-vials-market-forecast-to-2035-growth-driven-by-biologics-and-rtu-adoption/",
-  "company": "",
-  "material_ids": [
-   "FG"
-  ],
-  "matched_keywords": [
-   "玻璃瓶"
-  ],
-  "relevance_score": 9
- },
- {
-  "id": "news_d5a3702f66131a2b3f24",
-  "date": "2026-10-07",
-  "published_at": "2026-10-07T04:44+08:00",
-  "fetched_at": "2026-10-06T01:17+08:00",
-  "title": "3大消息来袭,猪价连夜拉涨,这波反弹能持续多久?",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-06/detail-iniuezxt2477601.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2f1ede8ada911d88152e",
-  "date": "2026-10-06",
-  "published_at": "2026-10-06T16:52+08:00",
-  "fetched_at": "2026-10-06T18:39+08:00",
-  "title": "今日核桃价格一览|10月6日",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1084508655_122014422",
-  "company": "",
-  "material_ids": [
-   "WALNUT"
-  ],
-  "matched_keywords": [
-   "核桃"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_83b11f57ec421ae5ad31",
-  "date": "2026-10-06",
-  "published_at": "2026-10-06T14:44+08:00",
-  "fetched_at": "2026-10-06T18:39+08:00",
-  "title": "高歌猛进,猪价季节性上涨“拐点”兑现?附:10月7日猪价",
-  "summary": "",
-  "source": "sohu.com",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1084476815_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d313c7b3d64b62deca4b",
-  "date": "2026-10-06",
-  "published_at": "2026-10-06T00:37+08:00",
-  "fetched_at": "2026-10-06T00:55+08:00",
-  "title": "假期利好加持,全国猪价小幅上行",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-06/detail-iniuezxv4078702.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_01d65ca814977b45b899",
-  "date": "2026-10-06",
-  "published_at": "2026-10-06T00:27+08:00",
-  "fetched_at": "2026-10-06T23:22+08:00",
-  "title": "猪价再次上涨!2026.10.6生猪市场信息交流",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-06/doc-iniuezxv9395832.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
    "猪价"
   ],
   "relevance_score": 8
