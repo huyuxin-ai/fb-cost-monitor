@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_d1193f069d4697e5cf83",
+  "date": "2026-11-04",
+  "published_at": "2026-11-04T02:00+08:00",
+  "fetched_at": "2026-11-04T04:49+08:00",
+  "title": "美国农业部2026年11月3日早间生猪报告:生猪采购量与胴体价格 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-morning-hog-report-for-november-3-2026-mixed-purchase-volumes-and-regional-carcass-pricing/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_16dfe8e148448ba105a7",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T23:00+08:00",
+  "fetched_at": "2026-11-04T04:49+08:00",
+  "title": "美国农业部生猪报告2026年11月3日:采购量涨跌互现,协商交易价格走软 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-mixed-purchase-volumes-and-softer-negotiated-prices/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a6f691632f667bf6fec3",
   "date": "2026-11-03",
   "published_at": "2026-11-03T18:15+08:00",
@@ -136,15 +174,15 @@
   "relevance_score": 12
  },
  {
-  "id": "news_813f2b9185d75a328a4b",
+  "id": "news_c4cd33aec3564ebc9603",
   "date": "2026-11-03",
-  "published_at": "2026-11-03T14:13+08:00",
+  "published_at": "2026-11-03T14:19+08:00",
   "fetched_at": "2026-11-03T14:32+08:00",
-  "title": "徽商期货生猪及饲料产业链风险管理培训会在合肥成功举办",
+  "title": "产融聚力 破局生猪周期风险---徽商期货生猪及饲料产业链风险管理培训会在合肥成功举办",
   "summary": "",
-  "source": "新浪财经",
+  "source": "搜狐网",
   "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/roll/2026-11-03/doc-inixmsvy6756696.shtml",
+  "url": "https://m.sohu.com/a/1096559932_639898",
   "company": "",
   "material_ids": [
    "LH"
@@ -270,25 +308,6 @@
    "大豆"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_03c21e7fafd1b5b8b2d9",
-  "date": "2026-11-03",
-  "published_at": "2026-11-03T05:39+08:00",
-  "fetched_at": "2026-11-03T07:59+08:00",
-  "title": "11月3日猪价:跌翻了!猪价“失控”下跌,11月季节性上涨“落空”?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1096241145_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_9f30ddfc7a45adf194a2",
@@ -9647,24 +9666,5 @@
    "食糖"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_bc143b4145d16bcf05dc",
-  "date": "2026-10-07",
-  "published_at": "2026-10-07T07:16+08:00",
-  "fetched_at": "2026-10-07T05:48+08:00",
-  "title": "10月7日猪价:持续回暖!猪价上涨“拦不住”,集团减量、二育入场,接下来“飘红”到月底?",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1084546370_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  }
 ]
