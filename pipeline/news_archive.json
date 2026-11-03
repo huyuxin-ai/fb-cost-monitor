@@ -1,5 +1,141 @@
 [
  {
+  "id": "news_b7c9effd5e83f256d6b9",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T14:20+08:00",
+  "fetched_at": "2026-11-03T14:32+08:00",
+  "title": "生猪期货主力合约日内跌超4%",
+  "summary": "生猪期货主力合约日内跌超4%,现报9150元/吨。",
+  "source": "东方财富Choice数据",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611033920153840.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_61e8441d17eb5538d3e4",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T14:06+08:00",
+  "fetched_at": "2026-11-03T14:32+08:00",
+  "title": "产融聚力破局生猪周期风险——徽商期货生猪及饲料产业链风险管理培训会在合肥成功举办_公司新闻",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://finance.stockstar.com/SS2026110300023942.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d72f929db092217363a4",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T11:42+08:00",
+  "fetched_at": "2026-11-03T14:32+08:00",
+  "title": "【现货】11月3日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261103/c681394400.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_a924b7bfd44c503eea14",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T09:49+08:00",
+  "fetched_at": "2026-11-03T14:32+08:00",
+  "title": "上周国内大豆商业库存下降豆粕上升",
+  "summary": "监测显示,10月30日,全国主要油厂进口大豆库存783万吨,周环比下降39万吨,月环比下降51万吨,同比上升68万吨,较过去三年均值上升188万吨;豆粕库存134万吨,周环比上升8万吨,月环比上升7万吨,同比上升35万吨,较过去三年同期均值上升49万吨。",
+  "source": "国家粮食和物资储备局",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202611033919771187.html",
+  "company": "",
+  "material_ids": [
+   "M",
+   "A"
+  ],
+  "matched_keywords": [
+   "豆粕",
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2ddf43b7d32800b266af",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T09:48+08:00",
+  "fetched_at": "2026-11-03T14:32+08:00",
+  "title": "预计11月底油厂豆粕库存升至145万吨左右",
+  "summary": "10月下半月油厂开机率快速恢复,月底豆粕库存回升至130万吨以上高位。预计11月油厂保持高开机率运转,全月大豆压榨量在900万吨左右,豆粕产出较多,加上下游养殖行业亏损严重,饲料厂随采随用为主,豆粕需求有限,预计月底库存小幅上升至145万吨。",
+  "source": "国家粮食和物资储备局",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202611033919769082.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_6107320cbd26c94b7039",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T09:20+08:00",
+  "fetched_at": "2026-11-03T14:32+08:00",
+  "title": "农产品 | 猪价承压调整 强预期弱现实格局不变",
+  "summary": "国内方面,蛋白粕震荡运行,跟随进口成本走低。现货市场依然宽松,豆粕库存处于高位。生猪价格低迷,市场对远期需求有担忧。盘面继续消化进口成本回落和高库存的压力,后市继续关注大豆成本以及豆粕需求的预期,关注资金动态。",
+  "source": "光大期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611033919646940.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_66278797debc48876e44",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T06:11+08:00",
+  "fetched_at": "2026-11-03T14:32+08:00",
+  "title": "纸浆蛋托市场展望2035:家禽需求与塑料禁令推动增长 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "供需动态",
+  "url": "https://www.indexbox.io/zh-hans/blog/paper-pulp-egg-tray-market-forecast-to-2035-growth-driven-by-poultry-demand-and-plastic-packaging-bans/",
+  "company": "",
+  "material_ids": [
+   "SP"
+  ],
+  "matched_keywords": [
+   "纸浆"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_9b7cc6f727224bc861d2",
   "date": "2026-11-03",
   "published_at": "2026-11-03T05:41+08:00",
@@ -59,6 +195,26 @@
   "relevance_score": 8
  },
  {
+  "id": "news_49ad8992c91c440d2267",
+  "date": "2026-11-03",
+  "published_at": "2026-11-03T00:00+08:00",
+  "fetched_at": "2026-11-03T14:32+08:00",
+  "title": "能繁母猪持续去化与现货背离:生猪周期时滞、出清结构与2027年景气推演",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-03/doc-inixkmap0304025.shtml?froms=ggmp",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "能繁母猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_fa4610808e57df22dc50",
   "date": "2026-11-02",
   "published_at": "2026-11-02T18:00+08:00",
@@ -78,6 +234,25 @@
    "猪价"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_8e0b3017c1f600cd56f4",
+  "date": "2026-11-02",
+  "published_at": "2026-11-02T16:46+08:00",
+  "fetched_at": "2026-11-03T14:32+08:00",
+  "title": "五篇大文章| 确山首单生猪“保险+期货”赔付落地——中国太保产险驻马店中支以“三心”服务守护养殖收益",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/roll/2026-11-02/doc-inixiuew7214642.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_410ca7618638a64fd90d",
@@ -9487,180 +9662,6 @@
   "matched_keywords": [
    "生猪",
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_59b2905da7e0f869ee43",
-  "date": "2026-10-05",
-  "published_at": "2026-10-05T15:56+08:00",
-  "fetched_at": "2026-10-10T14:14+08:00",
-  "title": "马来西亚9月棕榈油库存料创历史新高 价格承压下行",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniueeuf9670520.shtml?froms=ggmp",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a3c83b9ea4506b5f63cd",
-  "date": "2026-10-05",
-  "published_at": "2026-10-05T14:45+08:00",
-  "fetched_at": "2026-10-05T15:31+08:00",
-  "title": "生猪市场供给周期拐点何时到来?",
-  "summary": "随着现货价格回调,二次育肥意愿再起,再次对猪价形成支撑,8月初,生猪现货价格再度出现反弹。8月底,猪价再度走弱。中秋、国庆节前需求对现货价格的利多较为有限,供给充足仍对猪价施压。9月,生猪现货价格延续走弱。 南华期货认为,前三季度,生猪市场深陷供强需弱的困局。",
-  "source": "澎湃新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610053888624947.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_2e863bf6243e1c474979",
-  "date": "2026-10-05",
-  "published_at": "2026-10-05T08:25+08:00",
-  "fetched_at": "2026-10-05T09:09+08:00",
-  "title": "【券商聚焦】中信建投:9月西北华北多地散奶价格上涨明显,肉奶共振推动原奶周期向好_滚动新闻_财经",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://wap.stockstar.com/detail/IG2026100500000049",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "原奶",
-   "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c14a3ec8362372e3b5e1",
-  "date": "2026-10-05",
-  "published_at": "2026-10-05T07:11+08:00",
-  "fetched_at": "2026-10-05T09:09+08:00",
-  "title": "10月5日猪价:4涨13跌!猪价“滑坡”下跌,国庆后猪价跌回“原价”?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1083996085_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_057ea131869fffbbe2da",
-  "date": "2026-10-04",
-  "published_at": "2026-10-04T13:06+08:00",
-  "fetched_at": "2026-10-06T00:55+08:00",
-  "title": "10月04日猪评:风向突变!节日效应减弱,生猪价格止涨回落!",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://cj.sina.cn/articles/view/3049150892/b5be59ac00101uxoq",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_821db2ff56fca0ecaf77",
-  "date": "2026-10-04",
-  "published_at": "2026-10-04T11:06+08:00",
-  "fetched_at": "2026-10-04T07:35+08:00",
-  "title": "10月4日猪价终结三连涨!供需承压,未来将震荡偏弱运行",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101b31e",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6be2070947ba61106152",
-  "date": "2026-10-03",
-  "published_at": "2026-10-03T16:35+08:00",
-  "fetched_at": "2026-10-04T01:31+08:00",
-  "title": "一夜降温,猪价下跌“卷土重来”!附:10月4日猪价",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1083689861_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_02bb3d09ecb72691a6b5",
-  "date": "2026-10-03",
-  "published_at": "2026-10-03T12:55+08:00",
-  "fetched_at": "2026-10-06T23:22+08:00",
-  "title": "2026年10月3日全国主要批发市场腰果价格行情_综合资讯",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://futures.stockstar.com/IG2026100300000603.shtml",
-  "company": "",
-  "material_ids": [
-   "CASHEW"
-  ],
-  "matched_keywords": [
-   "腰果"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_dd79e9c4f465e88c4bd6",
-  "date": "2026-10-02",
-  "published_at": "2026-10-02T16:51+08:00",
-  "fetched_at": "2026-10-03T02:36+08:00",
-  "title": "今日核桃价格一览|10月2日",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1083426108_122014422",
-  "company": "",
-  "material_ids": [
-   "WALNUT"
-  ],
-  "matched_keywords": [
-   "核桃"
   ],
   "relevance_score": 8
  }
