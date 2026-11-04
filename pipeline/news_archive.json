@@ -1,5 +1,63 @@
 [
  {
+  "id": "news_9f24c810224cf3afae52",
+  "date": "2026-11-04",
+  "published_at": "2026-11-04T08:43+08:00",
+  "fetched_at": "2026-11-04T09:06+08:00",
+  "title": "【豆系观察】豆一:供给预期与流通现实的博弈",
+  "summary": "来源:CFC商品策略研究 作者 | 中信建投期货 研究发展部 刘昊 本报告完成时间 | 2026年11月3日 期货交易咨询业务资格:证监许可〔2011〕1461号...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-04/doc-inixprpe1680025.shtml",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "豆一"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c060957794abccb05404",
+  "date": "2026-11-04",
+  "published_at": "2026-11-04T08:36+08:00",
+  "fetched_at": "2026-11-04T09:06+08:00",
+  "title": "农产品 | 生猪:多重利空压制 盘面再杀升水",
+  "summary": "需求端,11月3日涌益样本日宰量156,067头,环比+2,446头;150—170kg大肥与标猪价差0.67元/公斤,环比-0.03元/公斤。 总的来说,当前市场全面利空:现货价格跌破 9 元关口,生猪均重有所抬升,11 月计划出栏量环比增长。",
+  "source": "混沌天成期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611043920934572.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_36e9456c2791a9c66614",
+  "date": "2026-11-04",
+  "published_at": "2026-11-04T05:49+08:00",
+  "fetched_at": "2026-11-04T09:06+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌1.51%",
+  "summary": "当地时间11月3日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.27%报1213.50美分/蒲式耳,玉米期货跌1.51%报441.50美分/蒲式耳,小麦期货跌1.28%报598.75美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611043920690413.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_d1193f069d4697e5cf83",
   "date": "2026-11-04",
   "published_at": "2026-11-04T02:00+08:00",
@@ -9607,63 +9665,6 @@
   ],
   "matched_keywords": [
    "菜粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_582c279d0027536c62fd",
-  "date": "2026-10-07",
-  "published_at": "2026-10-07T16:31+08:00",
-  "fetched_at": "2026-10-07T23:18+08:00",
-  "title": "今日核桃价格一览|10月7日",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1084776982_122014422",
-  "company": "",
-  "material_ids": [
-   "WALNUT"
-  ],
-  "matched_keywords": [
-   "核桃"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_be280ef6a0e1d2904455",
-  "date": "2026-10-07",
-  "published_at": "2026-10-07T16:29+08:00",
-  "fetched_at": "2026-10-07T23:18+08:00",
-  "title": "猪价跌近三成还能承受 槟猪农最怕猪瘟随进口肉再袭 | 北马 | 地方",
-  "summary": "",
-  "source": "马来西亚东方日报",
-  "type": "供需动态",
-  "url": "https://www.orientaldaily.com.my/news/north/2026/10/07/853203",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_02bb46d6dbaf54a3213d",
-  "date": "2026-10-07",
-  "published_at": "2026-10-07T08:21+08:00",
-  "fetched_at": "2026-10-07T09:15+08:00",
-  "title": "美国农业部海外农业局:印度食糖产量预计低于3000万吨",
-  "summary": "美国农业部海外农业局(FAS)在一份报告中称,本月开启的2026-27榨季,印度食糖产量预计为2950万吨。 该数值低于美国农业部此前3360万吨的官方预估。",
-  "source": "新浪财经",
-  "type": "供需动态",
-  "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat5011833.shtml",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "食糖"
   ],
   "relevance_score": 12
  }
