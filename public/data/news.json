@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T00:38+08:00",
+ "updated_at": "2026-11-06T07:47+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -46,11 +46,11 @@
   "搜狐": 2,
   "搜狐网": 13,
   "新华财经": 2,
-  "新浪财经": 34,
+  "新浪财经": 33,
   "时代周报": 2,
   "时代财经": 1,
   "期货日报": 5,
-  "每日经济新闻": 8,
+  "每日经济新闻": 9,
   "汇通网": 1,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
@@ -66,6 +66,25 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_06cf5b25750215ab477e",
+   "date": "2026-11-06",
+   "published_at": "2026-11-06T05:48+08:00",
+   "fetched_at": "2026-11-06T07:47+08:00",
+   "title": "芝加哥大豆期货跌1.2%",
+   "summary": "CBOT大豆期货跌1.20%,报11.8975美元/蒲式耳;豆粕期货跌0.38%,豆油期货跌2.05%。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611063923947313.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_a4e274a6d492975e82c8",
    "date": "2026-11-05",
@@ -3908,26 +3927,6 @@
     "猪价"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_cb38a821daceb4305e32",
-   "date": "2026-10-23",
-   "published_at": "2026-10-23T09:25+08:00",
-   "fetched_at": "2026-10-23T09:46+08:00",
-   "title": "华泰期货:出栏均重上升,猪价偏弱震荡",
-   "summary": "作者: 薛钧元 生猪观点 市场要闻与重要数据 期货方面,昨日收盘生猪 2701 合约9860元/吨,较前交易日变动-285.00元/吨,幅度-2.81%。",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniweiyt5675985.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
   }
  ]
 }

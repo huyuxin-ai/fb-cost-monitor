@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_06cf5b25750215ab477e",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T05:48+08:00",
+  "fetched_at": "2026-11-06T07:47+08:00",
+  "title": "芝加哥大豆期货跌1.2%",
+  "summary": "CBOT大豆期货跌1.20%,报11.8975美元/蒲式耳;豆粕期货跌0.38%,豆油期货跌2.05%。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611063923947313.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_a4e274a6d492975e82c8",
   "date": "2026-11-05",
   "published_at": "2026-11-05T20:58+08:00",
@@ -9643,26 +9662,6 @@
   "source": "央广财经",
   "type": "价格行情",
   "url": "https://finance.eastmoney.com/a/202610093891214943.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_9d0efc5fbeed134e7a3c",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T09:38+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "国家统计局:9月下旬生猪价格环比跌3.7%",
-  "summary": "具体看,农产品方面,生猪(外三元)本期价格为10.3元/千克,环比下跌3.7%;玉米(黄玉米二等)本期吨价2166.3元,环比下跌2%;豆粕(粗蛋白含量≥43%)本期吨价3371.1元,环比下跌0.1%。",
-  "source": "中新经纬",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610093891201982.html",
   "company": "",
   "material_ids": [
    "LH"
