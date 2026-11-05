@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T10:41+08:00",
+ "updated_at": "2026-11-05T18:30+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,6 +7,7 @@
   "21财经": 1,
   "DairyNews.today": 1,
   "Dairynews.today": 6,
+  "IDNFinancials": 1,
   "IndexBox": 7,
   "QQ News": 2,
   "Shangbao Indonesia": 1,
@@ -14,7 +15,7 @@
   "ThePaper.cn": 1,
   "e南洋": 2,
   "finance.sina.com.cn": 3,
-  "https://www.agripost.cn/": 1,
+  "https://www.agripost.cn/": 2,
   "www.agripost.cn": 1,
   "一德期货": 1,
   "七禾网": 1,
@@ -29,10 +30,10 @@
   "光大期货": 2,
   "凤凰网": 1,
   "南华期货": 1,
-  "南方财经网": 12,
+  "南方财经网": 14,
   "发现报告": 2,
   "同花顺": 3,
-  "同花顺财经": 10,
+  "同花顺财经": 11,
   "国信期货": 1,
   "国家粮食和物资储备局": 5,
   "国投期货": 1,
@@ -42,14 +43,14 @@
   "广发期货": 1,
   "手机新浪网": 7,
   "手机网易网": 1,
-  "搜狐": 4,
-  "搜狐网": 12,
-  "新华财经": 3,
-  "新浪财经": 37,
+  "搜狐": 3,
+  "搜狐网": 13,
+  "新华财经": 2,
+  "新浪财经": 34,
   "时代周报": 2,
   "时代财经": 1,
   "期货日报": 5,
-  "每日经济新闻": 9,
+  "每日经济新闻": 8,
   "汇通网": 1,
   "深圳商报·读创": 1,
   "混沌天成期货": 1,
@@ -65,6 +66,120 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_2509ab8d3b8bd73ae6b3",
+   "date": "2026-11-05",
+   "published_at": "2026-11-05T16:31+08:00",
+   "fetched_at": "2026-11-05T18:30+08:00",
+   "title": "猪价持续磨底,嘉吉助养殖户把教保料从“成本项”挪进“投资项”",
+   "summary": "",
+   "source": "https://www.agripost.cn/",
+   "type": "供需动态",
+   "url": "https://www.agripost.cn/2026/11/05/cargill-launches-alpha-grow-piglet-nutrition-solution-in-china/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_839c1419d956264895ce",
+   "date": "2026-11-05",
+   "published_at": "2026-11-05T16:21+08:00",
+   "fetched_at": "2026-11-05T18:30+08:00",
+   "title": "大北农:公司生猪成本逐年呈下降趋势",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1097602046_115377",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_4bb0eaa8fd3fbbda3de7",
+   "date": "2026-11-05",
+   "published_at": "2026-11-05T16:00+08:00",
+   "fetched_at": "2026-11-05T18:30+08:00",
+   "title": "印度尼西亚希望直接出口毛棕榈油以提高销售价值",
+   "summary": "",
+   "source": "IDNFinancials",
+   "type": "供需动态",
+   "url": "https://www.idnfinancials.com/cn/news/71304/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E5%B8%8C%E6%9C%9B%E7%9B%B4%E6%8E%A5%E5%87%BA%E5%8F%A3%E6%AF%9B%E6%A3%95%E6%A6%88%E6%B2%B9%E4%BB%A5%E6%8F%90%E9%AB%98%E9%94%80%E5%94%AE%E4%BB%B7%E5%80%BC",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e4fb3a9fd432f3bf591d",
+   "date": "2026-11-05",
+   "published_at": "2026-11-05T15:42+08:00",
+   "fetched_at": "2026-11-05T18:30+08:00",
+   "title": "生猪主力合约收跌0.82%",
+   "summary": "南财智讯11月5日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.82%,收盘报9115.0元/吨,日内资金流入1.75亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611053923498994.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_2de5de976f20a669f9af",
+   "date": "2026-11-05",
+   "published_at": "2026-11-05T15:42+08:00",
+   "fetched_at": "2026-11-05T18:30+08:00",
+   "title": "玉米主力合约收涨0.4%",
+   "summary": "南财智讯11月5日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.4%,收盘报2233.0元/吨,日内资金流出4837.58万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611053923499987.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_7bb9dcba65b823d8bba9",
+   "date": "2026-11-05",
+   "published_at": "2026-11-05T12:00+08:00",
+   "fetched_at": "2026-11-05T18:30+08:00",
+   "title": "【现货】11月5日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261105/c681495403.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_2fad0a44f808a9f5dad2",
    "date": "2026-11-05",
@@ -3811,122 +3926,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_669415fe1d6a8db57c11",
-   "date": "2026-10-23",
-   "published_at": "2026-10-23T05:46+08:00",
-   "fetched_at": "2026-10-23T07:02+08:00",
-   "title": "芝加哥玉米期货跌超0.6%",
-   "summary": "周四(10月22日)纽约尾盘,CBOT玉米期货跌0.65%,报4.6025美元/蒲式耳。CBOT小麦期货跌0.56%,报6.2475美元/蒲式耳。CBOT大豆期货涨0.54%,报12.6525美元/蒲式耳,豆粕期货跌0.26%,豆油期货涨1.15%。ICE原糖期货跌1.56%。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610233904670069.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_a1ba8507bb3254a975da",
-   "date": "2026-10-22",
-   "published_at": "2026-10-22T21:39+08:00",
-   "fetched_at": "2026-10-22T23:33+08:00",
-   "title": "供应压力短期难解 生猪期货连创新低",
-   "summary": "新华财经北京10月22日电(左元)近期生猪价格表现疲弱,生猪期货加速下跌。22日截至收盘,生猪期货主力合约2701跌超2%,报9860元/吨,继续刷新1月合约上市以来新低。近月11月合约更是大跌超3%,报9225元/吨,距离9000元大关仅一步之遥。",
-   "source": "新华财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610223904485825.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_367abe906e0af4edc317",
-   "date": "2026-10-22",
-   "published_at": "2026-10-22T21:05+08:00",
-   "fetched_at": "2026-10-22T21:59+08:00",
-   "title": "生意社:成本支撑减弱需求拖累 涤纶短纤价格冲高回落",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-22/doc-iniwchpc5162332.shtml",
-   "company": "",
-   "material_ids": [
-    "PF"
-   ],
-   "matched_keywords": [
-    "涤纶短纤"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_82a7909e68b29f98b6f8",
-   "date": "2026-10-22",
-   "published_at": "2026-10-22T19:17+08:00",
-   "fetched_at": "2026-10-22T21:59+08:00",
-   "title": "生意社:成本支撑与需求疲软博弈 PTA价格冲高回落",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-22/doc-iniwcafi5924819.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_71077c66978248c6e69e",
-   "date": "2026-10-22",
-   "published_at": "2026-10-22T18:12+08:00",
-   "fetched_at": "2026-10-22T18:28+08:00",
-   "title": "今日核桃价格一览|10月22日",
-   "summary": "",
-   "source": "搜狐",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1091277266_122014422",
-   "company": "",
-   "material_ids": [
-    "WALNUT"
-   ],
-   "matched_keywords": [
-    "核桃"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_3e4e0829f364e780641a",
-   "date": "2026-10-22",
-   "published_at": "2026-10-22T16:48+08:00",
-   "fetched_at": "2026-10-22T18:28+08:00",
-   "title": "新华指数监测:永平核桃新季上市行情分化,核桃仁、干果价格指数走弱,青皮果、鲜果价格指数走强",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/bond/2026-10-22/doc-iniwavxi5190968.shtml",
-   "company": "",
-   "material_ids": [
-    "WALNUT"
-   ],
-   "matched_keywords": [
-    "核桃仁",
-    "核桃"
    ],
    "relevance_score": 8
   }

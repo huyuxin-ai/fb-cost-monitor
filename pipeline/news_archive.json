@@ -1,5 +1,138 @@
 [
  {
+  "id": "news_45df708e50b0a7ca2d2e",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T17:00+08:00",
+  "fetched_at": "2026-11-05T18:30+08:00",
+  "title": "大北农(002385.SZ):公司生猪成本逐年呈下降趋势,主要来自效率提升、健康改善与高产母猪的引入",
+  "summary": "",
+  "source": "中金在线",
+  "type": "供需动态",
+  "url": "http://sc.stock.cnfol.com/gushizhibo/20261105/32416628.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2509ab8d3b8bd73ae6b3",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T16:31+08:00",
+  "fetched_at": "2026-11-05T18:30+08:00",
+  "title": "猪价持续磨底,嘉吉助养殖户把教保料从“成本项”挪进“投资项”",
+  "summary": "",
+  "source": "https://www.agripost.cn/",
+  "type": "供需动态",
+  "url": "https://www.agripost.cn/2026/11/05/cargill-launches-alpha-grow-piglet-nutrition-solution-in-china/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_839c1419d956264895ce",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T16:21+08:00",
+  "fetched_at": "2026-11-05T18:30+08:00",
+  "title": "大北农:公司生猪成本逐年呈下降趋势",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1097602046_115377",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_4bb0eaa8fd3fbbda3de7",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T16:00+08:00",
+  "fetched_at": "2026-11-05T18:30+08:00",
+  "title": "印度尼西亚希望直接出口毛棕榈油以提高销售价值",
+  "summary": "",
+  "source": "IDNFinancials",
+  "type": "供需动态",
+  "url": "https://www.idnfinancials.com/cn/news/71304/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E5%B8%8C%E6%9C%9B%E7%9B%B4%E6%8E%A5%E5%87%BA%E5%8F%A3%E6%AF%9B%E6%A3%95%E6%A6%88%E6%B2%B9%E4%BB%A5%E6%8F%90%E9%AB%98%E9%94%80%E5%94%AE%E4%BB%B7%E5%80%BC",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e4fb3a9fd432f3bf591d",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T15:42+08:00",
+  "fetched_at": "2026-11-05T18:30+08:00",
+  "title": "生猪主力合约收跌0.82%",
+  "summary": "南财智讯11月5日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.82%,收盘报9115.0元/吨,日内资金流入1.75亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611053923498994.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_2de5de976f20a669f9af",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T15:42+08:00",
+  "fetched_at": "2026-11-05T18:30+08:00",
+  "title": "玉米主力合约收涨0.4%",
+  "summary": "南财智讯11月5日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.4%,收盘报2233.0元/吨,日内资金流出4837.58万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611053923499987.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_7bb9dcba65b823d8bba9",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T12:00+08:00",
+  "fetched_at": "2026-11-05T18:30+08:00",
+  "title": "【现货】11月5日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261105/c681495403.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_2fad0a44f808a9f5dad2",
   "date": "2026-11-05",
   "published_at": "2026-11-05T09:18+08:00",
@@ -9531,141 +9664,6 @@
   "source": "中华网",
   "type": "价格行情",
   "url": "https://news.china.com/socialgd/10000169/20261009/49783276.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f328c9689f5081a25a04",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T07:38+08:00",
-  "fetched_at": "2026-10-09T09:02+08:00",
-  "title": "10月9日猪价:跌翻了,猪价承压节后跌势不止!接下来“跌绿”到月底?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1085244266_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0e0101022031cfcdf3e7",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T05:56+08:00",
-  "fetched_at": "2026-10-09T09:02+08:00",
-  "title": "CBOT农产品期货主力合约收盘全线下跌,大豆期货跌0.85%",
-  "summary": "当地时间10月8日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.85%报1286.50美分/蒲式耳,玉米期货跌0.45%报499.75美分/蒲式耳,小麦期货跌0.44%报683.50美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610093890062120.html",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_73034bb6e264a0a000aa",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T00:10+08:00",
-  "fetched_at": "2026-10-09T04:33+08:00",
-  "title": "多重因素推动猪价10月以来小幅反弹",
-  "summary": "近期,全国生猪市场呈现“低位回暖”态势。自9月30日生猪价格创下近三个月低点后,中国养猪网数据显示,截至10月8日,生猪(外三元)价格报10.3元/公斤,生猪(内三元)价格报10.63元/公斤,分别较国庆假期前上涨约0.24%、0.2%,且多地猪肉价格也较节前出现小幅反弹。",
-  "source": "证券日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610093890031452.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪",
-   "猪肉价格"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_095af335e6e1b2c6fb4d",
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T23:18+08:00",
-  "fetched_at": "2026-10-08T08:48+08:00",
-  "title": "猪价上涨存在压栏,短暂市场或呈现“僵持”局面|国庆假期|养殖户|猪企|猪肉|出栏",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-08/detail-iniumqcw5656178.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_806c615a3b211da6c17e",
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T20:18+08:00",
-  "fetched_at": "2026-10-08T22:47+08:00",
-  "title": "克明食品:2026年9月生猪销售简报",
-  "summary": "2026年1-9月累计销售生猪56.76万头,较去年同期增长36.25%;累计销售收入41703.86万元,较去年同期下降3.32%。销售数量同比上升主要系产能释放所致。",
-  "source": "证券日报",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610083889854930.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_306b02018c83abab6c25",
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T19:02+08:00",
-  "fetched_at": "2026-10-09T04:33+08:00",
-  "title": "乌克兰原奶收购价月涨九角,内需与出口共同推高行情| Mezha",
-  "summary": "",
-  "source": "mezha.net",
-  "type": "供需动态",
-  "url": "https://mezha.net/ch/news/f7c30133_ukraine-s_raw_milk/",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "原奶"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_d7b5fbca833f0191156e",
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T16:33+08:00",
-  "fetched_at": "2026-10-08T08:48+08:00",
-  "title": "10月8日猪价:180°大变!猪价下跌“猛抬头”!节后“报复性”下跌?供需博弈持续",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://3g.china.com/act/redian/13004758/20261008/49782904.html",
   "company": "",
   "material_ids": [
    "LH"
