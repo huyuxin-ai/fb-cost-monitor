@@ -1,5 +1,45 @@
 [
  {
+  "id": "news_2fad0a44f808a9f5dad2",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T09:18+08:00",
+  "fetched_at": "2026-11-05T10:41+08:00",
+  "title": "优质核桃仁逆势走强,带壳通货持续低位运行",
+  "summary": "",
+  "source": "国际果蔬报道",
+  "type": "价格行情",
+  "url": "https://m.guojiguoshu.com/article/11428",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃仁",
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6969a3f3d48fa21688f0",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T09:07+08:00",
+  "fetched_at": "2026-11-05T10:41+08:00",
+  "title": "农产品 | 生猪:现货报价继续偏弱 短期关注标肥价差",
+  "summary": "3价格方面:参考钢联数据,11月4日河南生猪价格维持在8.88元/公斤,环比(-0.05)元/公斤。 三、市场研判: 单边:参照钢联、涌益数据,11月生猪计划出栏环比小幅增加,供应端压力依然存在。近端需要关注标肥价差及均重,以此评估当前出栏节奏。",
+  "source": "中州期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611053922753343.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_f95e6c5c8063d7655777",
   "date": "2026-11-05",
   "published_at": "2026-11-05T05:25+08:00",
@@ -9634,43 +9674,5 @@
    "猪价"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_e5f5acb0c847a98f6c42",
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T16:24+08:00",
-  "fetched_at": "2026-10-08T22:47+08:00",
-  "title": "克明食品:兴疆牧歌9月销售生猪收入4146.59万元",
-  "summary": "2026年1—9月,兴疆牧歌累计销售生猪56.76万头,较去年同期增长36.25%;累计销售收入4.17亿元,较去年同期下降3.32%。2026年9月生猪销售数量及1—9月累计销售数量同比上升主要系产能释放。",
-  "source": "第一财经",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610083889653473.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_571ccdea4c46dd9ed956",
-  "date": "2026-10-08",
-  "published_at": "2026-10-08T16:21+08:00",
-  "fetched_at": "2026-10-08T22:47+08:00",
-  "title": "克明食品:子公司9月生猪销量同比增54.63%",
-  "summary": "2026年1-9月,兴疆牧歌累计销售生猪56.76万头,较去年同期增长36.25%;累计销售收入4.17亿元,较去年同期下降3.32%。 公告中提到,2026年9月生猪销售数量及1-9月累计销售数量同比上升主要系产能释放所致。",
-  "source": "财中社",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610083889652979.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
  }
 ]

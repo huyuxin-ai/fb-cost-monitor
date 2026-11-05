@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T06:04+08:00",
+ "updated_at": "2026-11-05T10:41+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -13,7 +13,7 @@
   "Sin Chew Daily": 2,
   "ThePaper.cn": 1,
   "e南洋": 2,
-  "finance.sina.com.cn": 4,
+  "finance.sina.com.cn": 3,
   "https://www.agripost.cn/": 1,
   "www.agripost.cn": 1,
   "一德期货": 1,
@@ -24,6 +24,7 @@
   "东海期货": 1,
   "中华网": 4,
   "中国经营报": 1,
+  "中州期货": 1,
   "中新经纬": 1,
   "光大期货": 2,
   "凤凰网": 1,
@@ -35,12 +36,13 @@
   "国信期货": 1,
   "国家粮食和物资储备局": 5,
   "国投期货": 1,
+  "国际果蔬报道": 1,
   "国际金融报": 1,
   "导油网": 1,
   "广发期货": 1,
   "手机新浪网": 7,
   "手机网易网": 1,
-  "搜狐": 5,
+  "搜狐": 4,
   "搜狐网": 12,
   "新华财经": 3,
   "新浪财经": 37,
@@ -63,6 +65,46 @@
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_2fad0a44f808a9f5dad2",
+   "date": "2026-11-05",
+   "published_at": "2026-11-05T09:18+08:00",
+   "fetched_at": "2026-11-05T10:41+08:00",
+   "title": "优质核桃仁逆势走强,带壳通货持续低位运行",
+   "summary": "",
+   "source": "国际果蔬报道",
+   "type": "价格行情",
+   "url": "https://m.guojiguoshu.com/article/11428",
+   "company": "",
+   "material_ids": [
+    "WALNUT"
+   ],
+   "matched_keywords": [
+    "核桃仁",
+    "核桃"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_6969a3f3d48fa21688f0",
+   "date": "2026-11-05",
+   "published_at": "2026-11-05T09:07+08:00",
+   "fetched_at": "2026-11-05T10:41+08:00",
+   "title": "农产品 | 生猪:现货报价继续偏弱 短期关注标肥价差",
+   "summary": "3价格方面:参考钢联数据,11月4日河南生猪价格维持在8.88元/公斤,环比(-0.05)元/公斤。 三、市场研判: 单边:参照钢联、涌益数据,11月生猪计划出栏环比小幅增加,供应端压力依然存在。近端需要关注标肥价差及均重,以此评估当前出栏节奏。",
+   "source": "中州期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611053922753343.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_f95e6c5c8063d7655777",
    "date": "2026-11-05",
@@ -3885,44 +3927,6 @@
    "matched_keywords": [
     "核桃仁",
     "核桃"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_77dfe8ca688973e82f07",
-   "date": "2026-10-22",
-   "published_at": "2026-10-22T16:04+08:00",
-   "fetched_at": "2026-10-22T18:28+08:00",
-   "title": "母猪少了,猪价却创八年新低:猪周期\"见底\"的三个错位",
-   "summary": "",
-   "source": "搜狐",
-   "type": "供需动态",
-   "url": "https://m.sohu.com/a/1091221670_116132",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e3b9d892326e9f5bbcd6",
-   "date": "2026-10-22",
-   "published_at": "2026-10-22T16:00+08:00",
-   "fetched_at": "2026-10-29T02:59+08:00",
-   "title": "下行期仍在增产,生猪养殖行业陷入“囚徒困境”",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/5675440730/152485a5a020028c9w",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 8
   }
