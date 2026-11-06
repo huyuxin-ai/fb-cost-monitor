@@ -1,5 +1,83 @@
 [
  {
+  "id": "news_8b135376bcb5cd9e2670",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T21:10+08:00",
+  "fetched_at": "2026-11-06T21:55+08:00",
+  "title": "生猪:出栏体重继续增长 整体供应偏宽松",
+  "summary": "短期猪价仍偏弱运行为主,期货各合约基差继续修复,目前升水幅度有限,跟随现货波动为主。(本内容及观点仅供参考,不构成任何投资建议)",
+  "source": "一德期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611063925073719.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_d17fe468073dc539c676",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T20:34+08:00",
+  "fetched_at": "2026-11-06T21:55+08:00",
+  "title": "天域生物10月生猪销售量增长22% 销售收入下降26%",
+  "summary": "截至10月末,公司生猪存栏18.60万头,环比下降4.54%,同比上升8.64%。 据了解,今年以来,生猪价格大幅下跌,给公司经营造成了极大压力。",
+  "source": "上海证券报·中国证券网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611063925050439.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_07b5ca1df5463c469bae",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T18:17+08:00",
+  "fetched_at": "2026-11-06T21:55+08:00",
+  "title": "3天2板万向德农:国内玉米种子行业整体处于去库存周期 市场呈现供大于求的态势",
+  "summary": "当前,国内玉米种子行业整体处于去库存周期,市场呈现供大于求的态势,行业竞争加剧导致玉米种子销售价格承压,公司玉米种子业务毛利率亦出现下滑。",
+  "source": "财联社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611063924933756.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_96b7db15a194e19482e6",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T15:41+08:00",
+  "fetched_at": "2026-11-06T21:55+08:00",
+  "title": "玉米主力合约收跌0.22%",
+  "summary": "南财智讯11月6日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.22%,收盘报2227.0元/吨,日内资金流出6526.49万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611063924814817.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_647b0ca693b006011b72",
   "date": "2026-11-06",
   "published_at": "2026-11-06T10:29+08:00",
@@ -77,6 +155,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_fd66c27e65c3b575579a",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T07:00+08:00",
+  "fetched_at": "2026-11-06T13:42+08:00",
+  "title": "11月6日猪价:跌惨了!猪价下跌“如火如荼”,接下来“底线”是多少?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1097695179_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_06cf5b25750215ab477e",
   "date": "2026-11-06",
   "published_at": "2026-11-06T05:48+08:00",
@@ -94,25 +191,6 @@
    "大豆"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_655746b567d4ef4a1222",
-  "date": "2026-11-06",
-  "published_at": "2026-11-06T05:00+08:00",
-  "fetched_at": "2026-11-06T13:42+08:00",
-  "title": "11月6日猪价:跌麻了!猪价下跌“拦不住”,均价跌至4.37元/斤!后市如何,超跌大涨?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1097693878_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_a4e274a6d492975e82c8",
@@ -9590,83 +9668,5 @@
    "生猪"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_532f9526b2ba7a88ede3",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T16:53+08:00",
-  "fetched_at": "2026-10-15T04:04+08:00",
-  "title": "双十一预售开启丨养护血管哪个牌子辅酶q10最好?2026辅酶Q10专业选购参考,从原料形态剂量到十大品牌口碑完整梳理",
-  "summary": "",
-  "source": "凤凰网",
-  "type": "供需动态",
-  "url": "https://baby.ifeng.com/c/8x5KL0rnEZl",
-  "company": "",
-  "material_ids": [
-   "COQ10"
-  ],
-  "matched_keywords": [
-   "辅酶q10"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_55f7b62f87db6cabee80",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T16:31+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "全国生猪价格较国庆假期前小幅反弹|猪肉价格|国庆节|生猪市场|三元|数据",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/stock/estate/2026-10-09/detail-iniuqqhm4051680.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价",
-   "猪肉价格"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fdc72cf06ae893695fb3",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T15:26+08:00",
-  "fetched_at": "2026-10-09T23:04+08:00",
-  "title": "国内供应宽松 豆粕期货仍有下行压力",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-09/doc-iniurmnk1032726.shtml",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7a77b0d22aba9661105f",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T15:15+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "印尼棕榈油协会预计2026年毛棕榈油产量为5370万吨,2027年产量为5170万吨",
-  "summary": "印尼棕榈油协会预计2026年毛棕榈油产量为5370万吨,2027年产量为5170万吨。",
-  "source": "财联社",
-  "type": "供需动态",
-  "url": "http://xianhuo.eastmoney.com/a/202610093891236459.html",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 12
  }
 ]
