@@ -1,5 +1,82 @@
 [
  {
+  "id": "news_647b0ca693b006011b72",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T10:29+08:00",
+  "fetched_at": "2026-11-06T13:42+08:00",
+  "title": "本周菜籽粕现货价格小幅下跌",
+  "summary": "本周,受ICE油菜籽期价下跌、CBOT大豆及豆粕走势偏弱等影响,国内菜籽粕期价整体呈震荡下行趋势,昨日资金回补意愿增加小幅反弹。11月5日,郑商所菜籽粕主力合约收盘报价2210元/吨,较前一交易日上涨42元/吨或1.94%,但较上周同期下跌20元/吨或0.90%。",
+  "source": "国家粮食和物资储备局",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611063924620271.html",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜籽粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_f76338064b7370500fdd",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T09:16+08:00",
+  "fetched_at": "2026-11-06T13:42+08:00",
+  "title": "农产品 | 玉米短期具备阶段性偏强运行基础",
+  "summary": "宏观方面,年内加息预期升温,美元偏强进一步压制商品估值,蛋白粕价格或承压。 玉米 【行情资讯】 (1)11月4日,玉米C2701合约开盘报2228元/吨,最终收于2227元/吨,较前一交易日下降3元/吨,跌幅约0.13%。",
+  "source": "五矿期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611063924383863.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_d06f068dda8ec2ce75a0",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T08:39+08:00",
+  "fetched_at": "2026-11-06T13:42+08:00",
+  "title": "农产品 | 当前生猪价格虽已深陷极度疲弱的底部区间 但供强需弱尚未发生根本改变",
+  "summary": "与此同时,受替代蛋白类产品消费分流效应持续增强,以及冻品库存长期维持高位的双重影响,终端消费承接能力进一步受到抑制。策略方面:当前生猪价格虽已深陷极度疲弱的底部区间,但供强需弱尚未发生根本改变。因此,在研判生猪价格趋势时,应坚持审慎分析立场,对价格底部反转的可能性保持充分警惕。",
+  "source": "正信期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611063924198095.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_e1e35f650bbe80ddf098",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T08:31+08:00",
+  "fetched_at": "2026-11-06T13:42+08:00",
+  "title": "玉米阶段性供应压力或有所缓解 短期价格震荡偏强运行",
+  "summary": "玉米阶段性供应压力或有所缓解,短期价格震荡偏强运行,后续重点关注1-5月差变化、下游补库持续性及天气改善后的新粮上量节奏。",
+  "source": "五矿期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611063924193835.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_06cf5b25750215ab477e",
   "date": "2026-11-06",
   "published_at": "2026-11-06T05:48+08:00",
@@ -17,6 +94,25 @@
    "大豆"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_655746b567d4ef4a1222",
+  "date": "2026-11-06",
+  "published_at": "2026-11-06T05:00+08:00",
+  "fetched_at": "2026-11-06T13:42+08:00",
+  "title": "11月6日猪价:跌麻了!猪价下跌“拦不住”,均价跌至4.37元/斤!后市如何,超跌大涨?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1097693878_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_a4e274a6d492975e82c8",
@@ -1682,6 +1778,25 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_cea6efacd99eb6f4b08d",
+  "date": "2026-10-30",
+  "published_at": "2026-10-30T17:44+08:00",
+  "fetched_at": "2026-11-06T13:42+08:00",
+  "title": "11.11心脑血管养护辅酶Q10怎么选?还原型泛醇十大品牌梯队与抢先加购清单,在原料、技术、剂型和市场验证全维度考察",
+  "summary": "",
+  "source": "凤凰网",
+  "type": "供需动态",
+  "url": "https://baby.ifeng.com/c/8xeFvtUMMQZ",
+  "company": "",
+  "material_ids": [
+   "COQ10"
+  ],
+  "matched_keywords": [
+   "辅酶q10"
   ],
   "relevance_score": 8
  },
@@ -9551,124 +9666,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_f2d1b6ab9d79b6b6e1dd",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T13:53+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "期糖冲高突遭抛售!极端天气连番轰炸,全球食糖供应链将迎超级风暴?",
-  "summary": "来源:金十数据 据报道,原糖在触及19个月新高后,受短期获利了结盘打压出现回落。然而,随着巴西恶劣天气导致供应前景趋紧,其核心基本面依然保持建设性。",
-  "source": "新浪财经",
-  "type": "政策与供应",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-09/doc-iniurfep7820492.shtml",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "食糖",
-   "原糖"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_a365741210b5219ca6a7",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T11:46+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "【现货】10月9日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20261009/c680513899.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9562d3123b505751daca",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T11:32+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "10月9日全国生猪价格一览 市场震荡调整",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://news.china.com/socialgd/10000169/20261009/49784294.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ebfdd130e34490920297",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T10:41+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "港股异动丨乳制品股普涨,蒙牛涨2.5%,飞鹤涨1.7%,里昂、银河齐看好原奶价格复苏",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-09/doc-iniuquqf7271400.shtml",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "原奶",
-   "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_60f051208811b265d6f4",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T09:58+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "生意社2026年10月9日涤纶短纤趋势分析:明确上涨",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-09/doc-iniuquqp7042672.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_bc97c6aa29426a50d57a",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T09:52+08:00",
-  "fetched_at": "2026-10-09T15:49+08:00",
-  "title": "国家统计局发布9月下旬生产资料价格监测数据 外三元生猪价格环比降3.7%",
-  "summary": "其中,外三元生猪当期报价为10.3元/千克,环比下降3.7%。(央广财经)",
-  "source": "央广财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610093891214943.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
   ],
   "relevance_score": 12
  }

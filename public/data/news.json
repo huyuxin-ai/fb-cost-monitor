@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T07:47+08:00",
+ "updated_at": "2026-11-06T13:42+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -22,17 +22,18 @@
   "东方财富": 4,
   "东方财富Choice数据": 3,
   "东海期货": 1,
-  "中华网": 4,
+  "中华网": 3,
   "中国经营报": 1,
   "中国金融信息网": 1,
   "中州期货": 1,
   "中新经纬": 1,
+  "五矿期货": 2,
   "光大期货": 2,
-  "凤凰网": 1,
+  "凤凰网": 2,
   "南华期货": 1,
   "南方财经网": 14,
   "发现报告": 2,
-  "同花顺": 3,
+  "同花顺": 2,
   "同花顺财经": 11,
   "国信期货": 1,
   "国家粮食和物资储备局": 5,
@@ -44,12 +45,13 @@
   "手机新浪网": 7,
   "手机网易网": 1,
   "搜狐": 2,
-  "搜狐网": 13,
+  "搜狐网": 14,
   "新华财经": 2,
-  "新浪财经": 33,
+  "新浪财经": 32,
   "时代周报": 2,
   "时代财经": 1,
   "期货日报": 5,
+  "正信期货": 1,
   "每日经济新闻": 9,
   "汇通网": 1,
   "深圳商报·读创": 1,
@@ -57,15 +59,92 @@
   "澎湃新闻": 4,
   "瑞达期货": 1,
   "界面新闻": 1,
-  "第一财经": 4,
+  "第一财经": 3,
   "英为财情 Investing.com": 1,
-  "证券之星": 8,
+  "证券之星": 7,
   "证券日报": 1,
   "财联社": 5,
   "迈科期货": 1,
   "马来西亚东方日报": 1
  },
  "items": [
+  {
+   "id": "news_647b0ca693b006011b72",
+   "date": "2026-11-06",
+   "published_at": "2026-11-06T10:29+08:00",
+   "fetched_at": "2026-11-06T13:42+08:00",
+   "title": "本周菜籽粕现货价格小幅下跌",
+   "summary": "本周,受ICE油菜籽期价下跌、CBOT大豆及豆粕走势偏弱等影响,国内菜籽粕期价整体呈震荡下行趋势,昨日资金回补意愿增加小幅反弹。11月5日,郑商所菜籽粕主力合约收盘报价2210元/吨,较前一交易日上涨42元/吨或1.94%,但较上周同期下跌20元/吨或0.90%。",
+   "source": "国家粮食和物资储备局",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611063924620271.html",
+   "company": "",
+   "material_ids": [
+    "RM"
+   ],
+   "matched_keywords": [
+    "菜籽粕"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_f76338064b7370500fdd",
+   "date": "2026-11-06",
+   "published_at": "2026-11-06T09:16+08:00",
+   "fetched_at": "2026-11-06T13:42+08:00",
+   "title": "农产品 | 玉米短期具备阶段性偏强运行基础",
+   "summary": "宏观方面,年内加息预期升温,美元偏强进一步压制商品估值,蛋白粕价格或承压。 玉米 【行情资讯】 (1)11月4日,玉米C2701合约开盘报2228元/吨,最终收于2227元/吨,较前一交易日下降3元/吨,跌幅约0.13%。",
+   "source": "五矿期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611063924383863.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_d06f068dda8ec2ce75a0",
+   "date": "2026-11-06",
+   "published_at": "2026-11-06T08:39+08:00",
+   "fetched_at": "2026-11-06T13:42+08:00",
+   "title": "农产品 | 当前生猪价格虽已深陷极度疲弱的底部区间 但供强需弱尚未发生根本改变",
+   "summary": "与此同时,受替代蛋白类产品消费分流效应持续增强,以及冻品库存长期维持高位的双重影响,终端消费承接能力进一步受到抑制。策略方面:当前生猪价格虽已深陷极度疲弱的底部区间,但供强需弱尚未发生根本改变。因此,在研判生猪价格趋势时,应坚持审慎分析立场,对价格底部反转的可能性保持充分警惕。",
+   "source": "正信期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611063924198095.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_e1e35f650bbe80ddf098",
+   "date": "2026-11-06",
+   "published_at": "2026-11-06T08:31+08:00",
+   "fetched_at": "2026-11-06T13:42+08:00",
+   "title": "玉米阶段性供应压力或有所缓解 短期价格震荡偏强运行",
+   "summary": "玉米阶段性供应压力或有所缓解,短期价格震荡偏强运行,后续重点关注1-5月差变化、下游补库持续性及天气改善后的新粮上量节奏。",
+   "source": "五矿期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611063924193835.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_06cf5b25750215ab477e",
    "date": "2026-11-06",
@@ -84,6 +163,25 @@
     "大豆"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_655746b567d4ef4a1222",
+   "date": "2026-11-06",
+   "published_at": "2026-11-06T05:00+08:00",
+   "fetched_at": "2026-11-06T13:42+08:00",
+   "title": "11月6日猪价:跌麻了!猪价下跌“拦不住”,均价跌至4.37元/斤!后市如何,超跌大涨?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1097693878_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_a4e274a6d492975e82c8",
@@ -1690,6 +1788,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_cea6efacd99eb6f4b08d",
+   "date": "2026-10-30",
+   "published_at": "2026-10-30T17:44+08:00",
+   "fetched_at": "2026-11-06T13:42+08:00",
+   "title": "11.11心脑血管养护辅酶Q10怎么选?还原型泛醇十大品牌梯队与抢先加购清单,在原料、技术、剂型和市场验证全维度考察",
+   "summary": "",
+   "source": "凤凰网",
+   "type": "供需动态",
+   "url": "https://baby.ifeng.com/c/8xeFvtUMMQZ",
+   "company": "",
+   "material_ids": [
+    "COQ10"
+   ],
+   "matched_keywords": [
+    "辅酶q10"
    ],
    "relevance_score": 8
   },
@@ -3811,120 +3928,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_aa9ce30cc7be4b81745f",
-   "date": "2026-10-23",
-   "published_at": "2026-10-23T14:31+08:00",
-   "fetched_at": "2026-10-23T15:11+08:00",
-   "title": "供需宽松格局下 生猪期现货屡创新低|期货周刊",
-   "summary": "",
-   "source": "第一财经",
-   "type": "价格行情",
-   "url": "https://www.yicai.com/video/103406325.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fd31282e073bc4c9de9b",
-   "date": "2026-10-23",
-   "published_at": "2026-10-23T12:16+08:00",
-   "fetched_at": "2026-10-26T07:27+08:00",
-   "title": "供应收紧叠加出口强劲,马棕榈油期货站上4800林吉特_期货评论",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://futures.stockstar.com/IG2026102300020460.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_eb14962f27ac89bb27cf",
-   "date": "2026-10-23",
-   "published_at": "2026-10-23T11:44+08:00",
-   "fetched_at": "2026-10-23T15:11+08:00",
-   "title": "【现货】10月23日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261023/c681013975.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_643ca7338fb2519088cb",
-   "date": "2026-10-23",
-   "published_at": "2026-10-23T10:26+08:00",
-   "fetched_at": "2026-10-23T15:11+08:00",
-   "title": "本周国内豆粕期价整体呈震荡下跌走势",
-   "summary": "昨日国内豆粕期价收盘略微上涨。受美国大豆收获进展顺利、CBOT大豆期价走势偏弱等影响,本周国内豆粕期价整体呈震荡下跌走势,昨日收盘略微上涨,反弹幅度有限。",
-   "source": "国家粮食和物资储备局",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610233905470375.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_df39bbc02ef77d0952df",
-   "date": "2026-10-23",
-   "published_at": "2026-10-23T10:20+08:00",
-   "fetched_at": "2026-10-23T15:11+08:00",
-   "title": "生意社2026年10月23日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-23/doc-iniweqhr5595096.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_cb26c1df6f8d5e94c99a",
-   "date": "2026-10-23",
-   "published_at": "2026-10-23T09:30+08:00",
-   "fetched_at": "2026-10-23T09:46+08:00",
-   "title": "31省市猪价全线下跌 供给过剩压制反弹",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://news.china.com/socialgd/10000169/20261023/49812602.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }
