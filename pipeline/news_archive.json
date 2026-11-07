@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_5f26bae8dedb1e855fbe",
+  "date": "2026-11-07",
+  "published_at": "2026-11-07T07:01+08:00",
+  "fetched_at": "2026-11-07T08:13+08:00",
+  "title": "CBOT农产品期货主力合约收盘多数上涨,大豆期货涨0.53%",
+  "summary": "当地时间11月6日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数上涨,大豆期货涨0.53%报1194.50美分/蒲式耳,玉米期货涨0.51%报442.25美分/蒲式耳,小麦期货跌1.46%报590.50美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611073925275771.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_cdfa42e229f4cffb20da",
+  "date": "2026-11-07",
+  "published_at": "2026-11-07T05:30+08:00",
+  "fetched_at": "2026-11-07T08:13+08:00",
+  "title": "美国农业部饲料原料价格走势分化:乙醇、豆油、DDGS、小麦次粉周报 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-weekly-feedstuff-reports-mixed-pricing-across-energy-by-product-and-feed-markets-for-week-ending-nov-6-2026/",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_907dea2caac76597b2c8",
   "date": "2026-11-06",
   "published_at": "2026-11-06T21:44+08:00",
@@ -9627,46 +9665,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9292dcfc986b93b3ab7e",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T19:24+08:00",
-  "fetched_at": "2026-10-09T23:04+08:00",
-  "title": "果葡糖浆不是水果做的 果葡糖浆价格仅白砂糖一半",
-  "summary": "专家介绍,白砂糖主要成分为蔗糖,取自甘蔗、甜菜;果葡糖浆原料是玉米淀粉、木薯淀粉,并非水果制作。越来越多食品开始添加果葡糖浆,主要是从成本考虑:“同等重量,果葡糖浆的价格约是白砂糖的一半;同等甜度,果葡糖浆每吨价格比白砂糖便宜2000多元。”",
-  "source": "央视财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610093891393020.html",
-  "company": "",
-  "material_ids": [
-   "SR",
-   "SP"
-  ],
-  "matched_keywords": [
-   "白砂糖",
-   "浆价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_c77b60b52d036d6839f6",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T17:52+08:00",
-  "fetched_at": "2026-10-09T23:04+08:00",
-  "title": "猪价节后下跌,10月供需双增 市场窄幅拉锯",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://news.china.com/socialgd/10000169/20261009/49785214.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }
