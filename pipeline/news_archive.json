@@ -1,5 +1,83 @@
 [
  {
+  "id": "news_1b522117397cda993bc9",
+  "date": "2026-11-07",
+  "published_at": "2026-11-07T14:06+08:00",
+  "fetched_at": "2026-11-07T14:25+08:00",
+  "title": "价格周报|需求端跟进不足 猪价跌破9元/公斤",
+  "summary": "未来一周生猪均价或环比下滑。未来第二周及第三周多数时段生猪市场供应量或较为充沛,但需求提升幅度或较小,供大于求,猪价仍然有下滑可能;第三周后半段市场需求或陆续增加,且生猪出栏速度或略放缓,猪价有止跌微涨可能。",
+  "source": "澎湃新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611073925494843.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2a43dab801990ec408c0",
+  "date": "2026-11-07",
+  "published_at": "2026-11-07T10:40+08:00",
+  "fetched_at": "2026-11-07T14:25+08:00",
+  "title": "直击进博会|ADM连续七年参展进博会,围绕进口大豆和谷物等签约320亿元",
+  "summary": "11月7日消息,第九届中国国际进口博览会(以下简称“进博会”)于11月5日至10日在上海举办。全球农业、食品与营养企业ADM连续第七年参展。",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwnya8221230.shtml",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_bcc378629351b14989bc",
+  "date": "2026-11-07",
+  "published_at": "2026-11-07T08:09+08:00",
+  "fetched_at": "2026-11-07T14:25+08:00",
+  "title": "生猪期货价格持续震荡下行 两个月跌近三成",
+  "summary": "10月份国内生猪价格超预期回落,养殖端毛猪出栏持续深亏,企业成本及现金流压力不断累积;其次,产能调减政策持续影响,加之月内北方气温不断下降后,区域疫病防控难度不断增大。",
+  "source": "证券时报网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611073925450548.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2241737ee1ea7124ec7c",
+  "date": "2026-11-07",
+  "published_at": "2026-11-07T07:36+08:00",
+  "fetched_at": "2026-11-07T14:25+08:00",
+  "title": "生猪期货价格两月跌近三成 行业深亏局面难改",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://stock.stockstar.com/IG2026110700009771.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_5f26bae8dedb1e855fbe",
   "date": "2026-11-07",
   "published_at": "2026-11-07T07:01+08:00",
@@ -17,6 +95,25 @@
    "大豆"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_4932ae5f2cf8289f9037",
+  "date": "2026-11-07",
+  "published_at": "2026-11-07T06:04+08:00",
+  "fetched_at": "2026-11-07T14:25+08:00",
+  "title": "11月7日猪价:跌跌不休!猪价“失控”下跌,11月“底线”是多少?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1098187618_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_cdfa42e229f4cffb20da",
@@ -400,6 +497,25 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6e0bcbc945d1eb5c0dc4",
+  "date": "2026-11-05",
+  "published_at": "2026-11-05T15:12+08:00",
+  "fetched_at": "2026-11-07T14:25+08:00",
+  "title": "美国WPC 80价格跌至每磅9.20美元,蛋白质需求仍强劲",
+  "summary": "",
+  "source": "Dairynews.today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/us_wpc_80_falls_to_9_20_lb_as_protein_demand_stays_strong_1886196.html",
+  "company": "",
+  "material_ids": [
+   "WPC80"
+  ],
+  "matched_keywords": [
+   "wpc 80"
   ],
   "relevance_score": 8
  },
@@ -9551,120 +9667,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5cf23edff3e8ccb273ed",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T07:10+08:00",
-  "fetched_at": "2026-10-10T08:13+08:00",
-  "title": "CBOT农产品期货主力合约收盘多数下跌,玉米期货跌3.95%",
-  "summary": "当地时间10月9日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货涨0.37%报1292.25美分/蒲式耳,玉米期货跌3.95%报480.50美分/蒲式耳,小麦期货跌1.83%报670.75美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610103891650031.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_e71cc8d910a21b1b8501",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T07:03+08:00",
-  "fetched_at": "2026-10-10T08:13+08:00",
-  "title": "美国农业部预计期末大豆库存3.15亿蒲式耳",
-  "summary": "观点网讯:10月9日,美国农业部预计期末大豆库存3.15亿蒲式耳,分析师预期3.0880亿蒲式耳,USDA之前预计3.10亿蒲式耳。",
-  "source": "新浪财经",
-  "type": "供需动态",
-  "url": "https://finance.sina.com.cn/stock/estate/integration/2026-10-10/doc-iniustfr2340351.shtml",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_c4be6759afcc3cbedd40",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T00:13+08:00",
-  "fetched_at": "2026-10-10T04:14+08:00",
-  "title": "美玉米期货在USDA上调作物产量预测后下跌4.8%",
-  "summary": "美玉米期货在USDA上调作物产量预测后下跌4.8%。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610103891601279.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_8825da99a6368ff3eacc",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T22:25+08:00",
-  "fetched_at": "2026-10-08T15:06+08:00",
-  "title": "大幅反弹条件不足,短期生猪市场以弱势震荡为主",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-08/detail-iniumqct7932899.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_83fbfeaf2ab4d1fe158c",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T20:44+08:00",
-  "fetched_at": "2026-10-13T09:09+08:00",
-  "title": "棕榈油承压回落,出口关税豁免落空后市场重新审视供需_国际原油市场",
-  "summary": "",
-  "source": "黄金网",
-  "type": "价格行情",
-  "url": "http://gold.cnfol.com/guojiyuanyousc/20261009/32392123.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5aafa9df278685ed51b4",
-  "date": "2026-10-09",
-  "published_at": "2026-10-09T20:31+08:00",
-  "fetched_at": "2026-10-09T23:04+08:00",
-  "title": "棕榈油承压回落,出口关税豁免落空后市场重新审视供需_外汇动态报道",
-  "summary": "",
-  "source": "汇通网 Fx678",
-  "type": "价格行情",
-  "url": "https://www.fx678.com/202610092031002289.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
   ],
   "relevance_score": 8
  }
