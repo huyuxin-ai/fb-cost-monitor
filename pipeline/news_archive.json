@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_1caa2b158d8696c0c89e",
+  "date": "2026-11-08",
+  "published_at": "2026-11-08T15:15+08:00",
+  "fetched_at": "2026-11-08T16:43+08:00",
+  "title": "生猪价格暴跌,导致养猪户面临亏损。",
+  "summary": "",
+  "source": "Vietnam.vn",
+  "type": "价格行情",
+  "url": "https://www.vietnam.vn/zh-cn/lon-hoi-rot-gia-nguoi-chan-nuoi-doi-mat-voi-thua-lo",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d7f2e26235e478d3b438",
+  "date": "2026-11-08",
+  "published_at": "2026-11-08T10:07+08:00",
+  "fetched_at": "2026-11-08T16:43+08:00",
+  "title": "农林牧渔行业点评报告:生猪养殖亏损拖累业绩,关注产能去化进度及天气催化_行业研究_研报",
+  "summary": "",
+  "source": "证券之星",
+  "type": "政策与供应",
+  "url": "https://stock.stockstar.com/JC2026110800001750.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_1b522117397cda993bc9",
   "date": "2026-11-07",
   "published_at": "2026-11-07T14:06+08:00",
@@ -9629,44 +9668,6 @@
   ],
   "matched_keywords": [
    "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_75c4be865688ddb44dd5",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T09:07+08:00",
-  "fetched_at": "2026-10-10T14:14+08:00",
-  "title": "生意社2026年10月10日PTA趋势分析:震荡",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-10/doc-iniusxpp2247936.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0f607faf5849299b4fea",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T07:47+08:00",
-  "fetched_at": "2026-10-10T08:13+08:00",
-  "title": "10月10日猪价:突然升温,多地猪价“雷霆”上涨!新一轮“涨价潮”来了?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1085679029_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }

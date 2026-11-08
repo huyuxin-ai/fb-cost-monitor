@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T14:25+08:00",
+ "updated_at": "2026-11-08T16:43+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -13,6 +13,7 @@
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 2,
   "ThePaper.cn": 1,
+  "Vietnam.vn": 1,
   "e南洋": 2,
   "finance.sina.com.cn": 3,
   "https://www.agripost.cn/": 2,
@@ -29,7 +30,7 @@
   "中新经纬": 1,
   "五矿期货": 2,
   "光大期货": 2,
-  "凤凰网": 2,
+  "凤凰网": 1,
   "南华期货": 1,
   "南方财经网": 14,
   "发现报告": 2,
@@ -45,7 +46,7 @@
   "手机网易网": 1,
   "搜狐网": 14,
   "新华财经": 2,
-  "新浪财经": 32,
+  "新浪财经": 31,
   "时代周报": 2,
   "时代财经": 1,
   "期货日报": 5,
@@ -58,13 +59,52 @@
   "瑞达期货": 1,
   "第一财经": 3,
   "英为财情 Investing.com": 1,
-  "证券之星": 8,
+  "证券之星": 9,
   "证券日报": 1,
   "证券时报网": 2,
   "财联社": 5,
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_1caa2b158d8696c0c89e",
+   "date": "2026-11-08",
+   "published_at": "2026-11-08T15:15+08:00",
+   "fetched_at": "2026-11-08T16:43+08:00",
+   "title": "生猪价格暴跌,导致养猪户面临亏损。",
+   "summary": "",
+   "source": "Vietnam.vn",
+   "type": "价格行情",
+   "url": "https://www.vietnam.vn/zh-cn/lon-hoi-rot-gia-nguoi-chan-nuoi-doi-mat-voi-thua-lo",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d7f2e26235e478d3b438",
+   "date": "2026-11-08",
+   "published_at": "2026-11-08T10:07+08:00",
+   "fetched_at": "2026-11-08T16:43+08:00",
+   "title": "农林牧渔行业点评报告:生猪养殖亏损拖累业绩,关注产能去化进度及天气催化_行业研究_研报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "政策与供应",
+   "url": "https://stock.stockstar.com/JC2026110800001750.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_1b522117397cda993bc9",
    "date": "2026-11-07",
@@ -3877,45 +3917,6 @@
    "source": "新浪财经",
    "type": "价格行情",
    "url": "https://finance.sina.cn/2026-10-24/detail-iniwikcs1972731.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e0d951b29473f942d873",
-   "date": "2026-10-25",
-   "published_at": "2026-10-25T13:53+08:00",
-   "fetched_at": "2026-10-25T22:30+08:00",
-   "title": "降血压降血脂哪个辅酶Q10效果最好?双十一辅酶Q10品牌怎么挑,2026十大品牌技术路线与原料溯源",
-   "summary": "",
-   "source": "凤凰网",
-   "type": "供需动态",
-   "url": "https://baby.ifeng.com/c/8xVgUkev4i6",
-   "company": "",
-   "material_ids": [
-    "COQ10"
-   ],
-   "matched_keywords": [
-    "辅酶q10"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_19e0b91f22d0fcb0d5a0",
-   "date": "2026-10-25",
-   "published_at": "2026-10-25T12:12+08:00",
-   "fetched_at": "2026-10-25T08:05+08:00",
-   "title": "10月25日猪价再探底!生猪出栏量、出栏均重同步上涨,行业磨底延续",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/6652117697/18c7f42c100101bjpc?cre=picnextw&cref=cj&loc=2&mod=picg&r=0&rfunc=33&tj=cxvertical_wap_picnextw_picg",
    "company": "",
    "material_ids": [
     "LH"
