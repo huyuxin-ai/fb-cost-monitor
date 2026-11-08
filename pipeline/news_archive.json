@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_befe3a7292462f314792",
+  "date": "2026-11-08",
+  "published_at": "2026-11-08T18:45+08:00",
+  "fetched_at": "2026-11-08T23:51+08:00",
+  "title": "农林牧渔行业周报:猪价下跌导致深亏,行业产能去化有望加速_行业研究_研报",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://stock.stockstar.com/JC2026110800007892.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_1caa2b158d8696c0c89e",
   "date": "2026-11-08",
   "published_at": "2026-11-08T15:15+08:00",
@@ -9649,25 +9668,6 @@
   ],
   "matched_keywords": [
    "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9bce2dd219a09e070a7e",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T09:29+08:00",
-  "fetched_at": "2026-10-10T14:14+08:00",
-  "title": "生意社2026年10月10日涤纶短纤趋势分析:震荡",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-10/doc-iniusxpp6210546.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
   ],
   "relevance_score": 8
  }
