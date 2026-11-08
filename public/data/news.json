@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T23:51+08:00",
+ "updated_at": "2026-11-09T04:16+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -14,7 +14,7 @@
   "Sin Chew Daily": 2,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
-  "e南洋": 2,
+  "e南洋": 1,
   "finance.sina.com.cn": 3,
   "https://www.agripost.cn/": 2,
   "一德期货": 2,
@@ -59,7 +59,7 @@
   "瑞达期货": 1,
   "第一财经": 3,
   "英为财情 Investing.com": 1,
-  "证券之星": 10,
+  "证券之星": 11,
   "证券日报": 1,
   "证券时报网": 2,
   "财联社": 5,
@@ -76,6 +76,25 @@
    "source": "证券之星",
    "type": "价格行情",
    "url": "https://stock.stockstar.com/JC2026110800007892.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_7179b9f63deb965a1317",
+   "date": "2026-11-08",
+   "published_at": "2026-11-08T15:46+08:00",
+   "fetched_at": "2026-11-09T04:16+08:00",
+   "title": "农林牧渔行业周报:猪价下行拖累养殖盈利,10月产能去化边际提速_行业研究_研报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://stock.stockstar.com/JC2026110800002887.shtml",
    "company": "",
    "material_ids": [
     "LH"
@@ -3904,25 +3923,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7b787e1a49a3afdbc691",
-   "date": "2026-10-25",
-   "published_at": "2026-10-25T17:20+08:00",
-   "fetched_at": "2026-10-26T07:27+08:00",
-   "title": "雪州进口砂拉越生猪引争议 陈泓缣:政策去年已落实",
-   "summary": "",
-   "source": "e南洋",
-   "type": "政策与供应",
-   "url": "https://www.enanyang.my/news/20261025/Nation/1426678",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 8
   }

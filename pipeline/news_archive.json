@@ -19,6 +19,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_7179b9f63deb965a1317",
+  "date": "2026-11-08",
+  "published_at": "2026-11-08T15:46+08:00",
+  "fetched_at": "2026-11-09T04:16+08:00",
+  "title": "农林牧渔行业周报:猪价下行拖累养殖盈利,10月产能去化边际提速_行业研究_研报",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://stock.stockstar.com/JC2026110800002887.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_1caa2b158d8696c0c89e",
   "date": "2026-11-08",
   "published_at": "2026-11-08T15:15+08:00",
@@ -9649,25 +9668,6 @@
   ],
   "matched_keywords": [
    "核桃"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ea8c5b326c0f4c0d0e26",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T09:46+08:00",
-  "fetched_at": "2026-10-11T05:19+08:00",
-  "title": "需求增量有限压制原纸 纸浆供给收缩静待旺季",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "供需动态",
-  "url": "https://m.sohu.com/a/1085831077_122014422/?pvid=000115_3w_a",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
   ],
   "relevance_score": 8
  }
