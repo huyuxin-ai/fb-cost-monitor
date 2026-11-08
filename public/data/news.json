@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T04:16+08:00",
+ "updated_at": "2026-11-09T07:55+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -44,7 +44,7 @@
   "广发期货": 1,
   "手机新浪网": 7,
   "手机网易网": 1,
-  "搜狐网": 14,
+  "搜狐网": 15,
   "新华财经": 2,
   "新浪财经": 30,
   "时代周报": 2,
@@ -59,13 +59,32 @@
   "瑞达期货": 1,
   "第一财经": 3,
   "英为财情 Investing.com": 1,
-  "证券之星": 11,
+  "证券之星": 10,
   "证券日报": 1,
   "证券时报网": 2,
   "财联社": 5,
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_56ff1bb2039aefdb1704",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T06:00+08:00",
+   "fetched_at": "2026-11-09T07:55+08:00",
+   "title": "11月9日猪价:跌猛了!猪价“滑坡”下跌,腌腊旺季在即,蓄势待涨?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1098855515_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_befe3a7292462f314792",
    "date": "2026-11-08",
@@ -3904,25 +3923,6 @@
    ],
    "matched_keywords": [
     "棕油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5a5e771243811d155898",
-   "date": "2026-10-25",
-   "published_at": "2026-10-25T19:23+08:00",
-   "fetched_at": "2026-10-29T23:22+08:00",
-   "title": "农林牧渔行业周报:猪价持续走弱,关注行业资金压力",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://wap.stockstar.com/detail/JC2026102500009987",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
    ],
    "relevance_score": 8
   }
