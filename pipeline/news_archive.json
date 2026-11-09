@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_06a1810cecd0c79a31c4",
+  "date": "2026-11-09",
+  "published_at": "2026-11-09T11:03+08:00",
+  "fetched_at": "2026-11-09T13:28+08:00",
+  "title": "华泰期货:宏观扰动不止,原糖跌跌不休",
+  "summary": "来源:华泰期货 作者: 李馨 白糖观点 市场要闻与重要数据 期货方面,截止本周五,白糖2701合约收盘价5215元/吨,环比下跌48元/吨,跌幅0.91%。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-09/doc-iniyazee6649493.shtml",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "原糖",
+   "白糖"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_07b2a8d4010e8b72e4b5",
+  "date": "2026-11-09",
+  "published_at": "2026-11-09T10:57+08:00",
+  "fetched_at": "2026-11-09T13:28+08:00",
+  "title": "华泰期货:关注美农报告调整,豆粕价格宽幅震荡",
+  "summary": "来源:华泰期货 作者: 薛钧元 粕类市场要闻与重要数据 期货方面,上周末收盘豆粕2701合约3079元/吨,环比下跌104元/吨,跌幅3.27%;上周末收盘菜粕2701合约2200元/吨...",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-09/doc-iniyazee6645023.shtml",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_56ff1bb2039aefdb1704",
   "date": "2026-11-09",
   "published_at": "2026-11-09T06:00+08:00",
@@ -34,6 +73,25 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2206de214ca304ede834",
+  "date": "2026-11-08",
+  "published_at": "2026-11-08T17:44+08:00",
+  "fetched_at": "2026-11-09T13:28+08:00",
+  "title": "【现货】11月9日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261109/c681599548.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
   ],
   "relevance_score": 8
  },
@@ -9613,62 +9671,5 @@
    "玉米"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_e53f5425b4e7ca1a6d72",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T12:45+08:00",
-  "fetched_at": "2026-10-11T01:41+08:00",
-  "title": "猪价“跌跌不止”背后:集团增量、二育观望、冻品32%,10月还有救吗?|出栏|母猪|散户|反弹|价格",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-10/detail-iniusakc7727766.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_4036427ab031a3e1ec48",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T12:35+08:00",
-  "fetched_at": "2026-10-10T14:14+08:00",
-  "title": "美玉米期货盘中突然大跌!“多头猝不及防”!一则消息引发?",
-  "summary": "大家好,来关注下玉米期货。 当地时间10月9日,美国农业部将本年度玉米产量预估上调至约160亿蒲式耳,较上月增加1%。 这一结果与彭博调查分析师预测的157.3亿蒲式耳相比偏高,与大多数分析师此前预期的下调产量形成鲜明反差。",
-  "source": "期货日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610103891882846.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_2a59829e2fcf13f989af",
-  "date": "2026-10-10",
-  "published_at": "2026-10-10T11:42+08:00",
-  "fetched_at": "2026-10-10T14:14+08:00",
-  "title": "【现货】10月10日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20261010/c680548581.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
  }
 ]
