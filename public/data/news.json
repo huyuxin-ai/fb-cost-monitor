@@ -1,10 +1,9 @@
 {
- "updated_at": "2026-11-10T02:59+08:00",
+ "updated_at": "2026-11-10T07:31+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 2,
-  "21财经": 1,
   "DairyNews.today": 1,
   "Dairynews.today": 7,
   "IDNFinancials": 1,
@@ -43,7 +42,7 @@
   "国际金融报": 1,
   "广发期货": 1,
   "手机新浪网": 7,
-  "搜狐网": 14,
+  "搜狐网": 15,
   "新华财经": 2,
   "新浪财经": 29,
   "时代周报": 2,
@@ -67,6 +66,25 @@
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_49b3971172547f2152cf",
+   "date": "2026-11-10",
+   "published_at": "2026-11-10T06:49+08:00",
+   "fetched_at": "2026-11-10T07:31+08:00",
+   "title": "11月10日猪价:枯木逢春,猪价“倔强”上涨!接下来“超跌大涨”?",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1099283648_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_fccd7dc58eb2d3c0ee77",
    "date": "2026-11-10",
@@ -3907,26 +3925,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1fd47f69b7b08ea5ef19",
-   "date": "2026-10-26",
-   "published_at": "2026-10-26T17:41+08:00",
-   "fetched_at": "2026-10-26T22:57+08:00",
-   "title": "农业农村部:10月第4周生猪和猪肉价格有所下跌",
-   "summary": "",
-   "source": "21财经",
-   "type": "价格行情",
-   "url": "https://www.21jingji.com/article/20261026/herald/8e689c6d00c607d53152f67532860f68.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪肉价格"
    ],
    "relevance_score": 8
   }

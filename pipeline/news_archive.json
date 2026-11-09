@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_49b3971172547f2152cf",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T06:49+08:00",
+  "fetched_at": "2026-11-10T07:31+08:00",
+  "title": "11月10日猪价:枯木逢春,猪价“倔强”上涨!接下来“超跌大涨”?",
+  "summary": "",
+  "source": "搜狐网",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1099283648_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_fccd7dc58eb2d3c0ee77",
   "date": "2026-11-10",
   "published_at": "2026-11-10T01:10+08:00",
@@ -9650,25 +9669,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_deccf18ac67970e40a3c",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T00:00+08:00",
-  "fetched_at": "2026-10-11T01:41+08:00",
-  "title": "猪价还在磨底!四季度有一波反弹,但别当成大行情来了",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-11/doc-iniuumqy0579870.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }
