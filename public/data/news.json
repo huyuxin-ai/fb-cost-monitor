@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T13:28+08:00",
+ "updated_at": "2026-11-09T22:14+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -14,15 +14,17 @@
   "Sin Chew Daily": 2,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
-  "finance.sina.com.cn": 3,
+  "finance.sina.com.cn": 2,
   "https://www.agripost.cn/": 2,
   "一德期货": 2,
   "七禾网": 1,
   "上海证券报·中国证券网": 1,
+  "上观新闻": 1,
   "东方财富": 4,
   "东方财富Choice数据": 3,
   "东海期货": 1,
   "中华网": 3,
+  "中国新闻网": 1,
   "中国经营报": 1,
   "中国金融信息网": 1,
   "中州期货": 1,
@@ -31,13 +33,12 @@
   "光大期货": 2,
   "凤凰网": 1,
   "南华期货": 1,
-  "南方财经网": 14,
+  "南方财经网": 15,
   "发现报告": 2,
   "同花顺": 3,
   "同花顺财经": 9,
   "国信期货": 1,
   "国家粮食和物资储备局": 5,
-  "国投期货": 1,
   "国际果蔬报道": 1,
   "国际金融报": 1,
   "广发期货": 1,
@@ -45,7 +46,7 @@
   "手机网易网": 1,
   "搜狐网": 14,
   "新华财经": 2,
-  "新浪财经": 31,
+  "新浪财经": 29,
   "时代周报": 2,
   "时代财经": 1,
   "期货日报": 5,
@@ -58,6 +59,7 @@
   "瑞达期货": 1,
   "第一财经": 3,
   "英为财情 Investing.com": 1,
+  "观点网": 1,
   "证券之星": 10,
   "证券日报": 1,
   "证券时报网": 2,
@@ -65,6 +67,103 @@
   "迈科期货": 1
  },
  "items": [
+  {
+   "id": "news_0cd7496d7e4441503a96",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T20:56+08:00",
+   "fetched_at": "2026-11-09T22:14+08:00",
+   "title": "金新农:10月生猪销售收入2985.26万元,同比下降78.96%",
+   "summary": "2026年1-10月,公司累计生猪销量130.32万头,累计生猪销售收入8.98亿元。公司生猪销售收入同比下降,主要系公司根据经营计划调整出栏,商品猪出栏量同比下降,同时仔猪和商品猪销售价格同比下降。",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611093926497213.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "仔猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_c67bfdf1b846bb8af115",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T20:35+08:00",
+   "fetched_at": "2026-11-09T22:14+08:00",
+   "title": "大豆牛肉来了,芝麻高粱也来了!“巴西粮仓”在进博打开农贸新版图",
+   "summary": "位于农食产品展区的展台前,巴西牛肉煎制香气不断,试吃、品鉴和商务洽谈交替进行,芝麻、高粱、特色豆类等新兴品类与大豆、玉米、牛肉等传统优势产品共同亮相,展现出马托格罗索州从单一农产品出口向多元品类、产业链合作拓展的新趋势。 这是马托格罗索州连续第四次以独立展台形式参加进博会。",
+   "source": "上观新闻",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202611093926485271.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_c91b646abae46bfe45b5",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T17:31+08:00",
+   "fetched_at": "2026-11-09T22:14+08:00",
+   "title": "11月第1周生猪和猪肉价格有所下跌",
+   "summary": "",
+   "source": "中国新闻网",
+   "type": "价格行情",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728946.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b62d7f42c80c9039508a",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T17:26+08:00",
+   "fetched_at": "2026-11-09T22:14+08:00",
+   "title": "光大期货:生猪期货连续第二日反弹 主力合约盘中涨近3%",
+   "summary": "",
+   "source": "观点网",
+   "type": "价格行情",
+   "url": "https://www.guandian.cn/article/20261109/625051.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2206de214ca304ede834",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T17:01+08:00",
+   "fetched_at": "2026-11-09T13:28+08:00",
+   "title": "【现货】11月9日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261109/c681599548.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_06a1810cecd0c79a31c4",
    "date": "2026-11-09",
@@ -105,15 +204,15 @@
    "relevance_score": 12
   },
   {
-   "id": "news_56ff1bb2039aefdb1704",
+   "id": "news_53ac1ceede4a1adaaabc",
    "date": "2026-11-09",
-   "published_at": "2026-11-09T06:00+08:00",
+   "published_at": "2026-11-09T06:26+08:00",
    "fetched_at": "2026-11-09T07:55+08:00",
-   "title": "11月9日猪价:跌猛了!猪价“滑坡”下跌,腌腊旺季在即,蓄势待涨?",
+   "title": "11月9日猪价:跌跌不休!猪价下跌“拦不住”!集团增量出栏,上涨“拐点”何时到?",
    "summary": "",
    "source": "搜狐网",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1098855515_120238851",
+   "url": "https://m.sohu.com/a/1098855744_120238851",
    "company": "",
    "material_ids": [
     "LH"
@@ -139,25 +238,6 @@
    ],
    "matched_keywords": [
     "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2206de214ca304ede834",
-   "date": "2026-11-08",
-   "published_at": "2026-11-08T17:44+08:00",
-   "fetched_at": "2026-11-09T13:28+08:00",
-   "title": "【现货】11月9日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261109/c681599548.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   },
@@ -3845,83 +3925,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_534f00407532489abc26",
-   "date": "2026-10-26",
-   "published_at": "2026-10-26T11:33+08:00",
-   "fetched_at": "2026-10-26T15:32+08:00",
-   "title": "华泰期货:供应压力难解,生猪价格延续弱势",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-26/detail-iniwpfnc2441014.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9b04e981be6f116b6fc1",
-   "date": "2026-10-26",
-   "published_at": "2026-10-26T10:07+08:00",
-   "fetched_at": "2026-10-26T23:21+08:00",
-   "title": "生意社2026年10月26日涤纶短纤趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-26/doc-iniwpfmz5687317.shtml",
-   "company": "",
-   "material_ids": [
-    "PF"
-   ],
-   "matched_keywords": [
-    "涤纶短纤"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_927e46bb7ed41c06f72e",
-   "date": "2026-10-26",
-   "published_at": "2026-10-26T09:22+08:00",
-   "fetched_at": "2026-10-26T15:32+08:00",
-   "title": "农产品 | 今年国内玉米结转库存较大 或难以复制去年玉米开秤后的高走幅度",
-   "summary": "但我们也要明确,今年国内玉米结转库存较大,且产量较去年有增加,或难以复制去年玉米开秤后的高走幅度,总体高度难以超过去年。",
-   "source": "国投期货",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610263907457968.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_e332f98692c18b949467",
-   "date": "2026-10-26",
-   "published_at": "2026-10-26T09:20+08:00",
-   "fetched_at": "2026-10-26T23:21+08:00",
-   "title": "生意社2026年10月26日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-26/doc-iniwpfnc2441182.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
    ],
    "relevance_score": 8
   }
