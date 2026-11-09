@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T22:14+08:00",
+ "updated_at": "2026-11-10T02:59+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,7 +8,7 @@
   "DairyNews.today": 1,
   "Dairynews.today": 7,
   "IDNFinancials": 1,
-  "IndexBox": 8,
+  "IndexBox": 10,
   "QQ News": 2,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 2,
@@ -23,7 +23,7 @@
   "东方财富": 4,
   "东方财富Choice数据": 3,
   "东海期货": 1,
-  "中华网": 3,
+  "中华网": 2,
   "中国新闻网": 1,
   "中国经营报": 1,
   "中国金融信息网": 1,
@@ -33,31 +33,31 @@
   "光大期货": 2,
   "凤凰网": 1,
   "南华期货": 1,
-  "南方财经网": 15,
+  "南方财经网": 14,
   "发现报告": 2,
   "同花顺": 3,
-  "同花顺财经": 9,
+  "同花顺财经": 8,
   "国信期货": 1,
   "国家粮食和物资储备局": 5,
   "国际果蔬报道": 1,
   "国际金融报": 1,
   "广发期货": 1,
   "手机新浪网": 7,
-  "手机网易网": 1,
   "搜狐网": 14,
   "新华财经": 2,
   "新浪财经": 29,
   "时代周报": 2,
   "时代财经": 1,
-  "期货日报": 5,
+  "期货日报": 4,
   "正信期货": 1,
   "每日经济新闻": 9,
   "汇通网": 1,
-  "深圳商报·读创": 1,
+  "深圳商报·读创": 2,
   "混沌天成期货": 1,
   "澎湃新闻": 5,
   "瑞达期货": 1,
-  "第一财经": 3,
+  "第一财经": 4,
+  "网易新闻客户端": 1,
   "英为财情 Investing.com": 1,
   "观点网": 1,
   "证券之星": 10,
@@ -68,15 +68,35 @@
  },
  "items": [
   {
-   "id": "news_0cd7496d7e4441503a96",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T20:56+08:00",
-   "fetched_at": "2026-11-09T22:14+08:00",
-   "title": "金新农:10月生猪销售收入2985.26万元,同比下降78.96%",
-   "summary": "2026年1-10月,公司累计生猪销量130.32万头,累计生猪销售收入8.98亿元。公司生猪销售收入同比下降,主要系公司根据经营计划调整出栏,商品猪出栏量同比下降,同时仔猪和商品猪销售价格同比下降。",
-   "source": "南方财经网",
+   "id": "news_fccd7dc58eb2d3c0ee77",
+   "date": "2026-11-10",
+   "published_at": "2026-11-10T01:10+08:00",
+   "fetched_at": "2026-11-10T02:59+08:00",
+   "title": "美国农业部生猪价格报告:按采购类型划分的加权平均净价(2026年11月9日) - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
    "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611093926497213.html",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-hog-prior-day-net-price-distribution-report-released-november-9-2026/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9c25327f04ad679a4ade",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T23:29+08:00",
+   "fetched_at": "2026-11-09T22:14+08:00",
+   "title": "商品猪出栏量下降 金新农10月生猪销量同比下降53.46% 销售收入下滑近八成",
+   "summary": "生猪销售收入为2985.26万元,同比下降78.96%,环比下降43.70%。 公告指出,生猪销售收入的下降主要是由于公司根据经营计划调整出栏,商品猪出栏量同比下降,同时仔猪和商品猪销售价格也同比下降。",
+   "source": "深圳商报·读创",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611093926601432.html",
    "company": "",
    "material_ids": [
     "LH"
@@ -86,6 +106,45 @@
     "仔猪"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_2ae8523d63a2fd0ab222",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T22:22+08:00",
+   "fetched_at": "2026-11-10T02:59+08:00",
+   "title": "猪价创10年新低 资金博弈周期拐点",
+   "summary": "进入11月,四季度传统消费旺季并未带来价格回暖,生猪价格下跌不止,11月9日的全国外三元生猪均价已回落至8.63元/公斤,创出年内及最近十年新低,养殖全行业深度亏损。",
+   "source": "第一财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611093926567660.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_0462e03a5a18cca96847",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T22:20+08:00",
+   "fetched_at": "2026-11-10T02:59+08:00",
+   "title": "美国农业部2026年11月9日生猪报告:采购量、价格与各州数据 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-mixed-purchase-volumes-on-november-9-2026/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_c67bfdf1b846bb8af115",
@@ -107,6 +166,26 @@
    "relevance_score": 11
   },
   {
+   "id": "news_67bc8df79e828fe44db2",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T19:56+08:00",
+   "fetched_at": "2026-11-10T02:59+08:00",
+   "title": "生猪期货小幅反弹短期猪价或延续弱势调整",
+   "summary": "",
+   "source": "网易新闻客户端",
+   "type": "价格行情",
+   "url": "https://c.m.163.com/news/a/LBAN2J5O0512B07B.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_c91b646abae46bfe45b5",
    "date": "2026-11-09",
    "published_at": "2026-11-09T17:31+08:00",
@@ -123,6 +202,25 @@
    "matched_keywords": [
     "生猪",
     "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_417118fb6b95fc2ee3b5",
+   "date": "2026-11-09",
+   "published_at": "2026-11-09T17:31+08:00",
+   "fetched_at": "2026-11-10T02:59+08:00",
+   "title": "机构:猪价加速下行,养殖亏损持续扩大",
+   "summary": "",
+   "source": "搜狐网",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1099232438_121157270",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -202,25 +300,6 @@
     "豆粕"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_53ac1ceede4a1adaaabc",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T06:26+08:00",
-   "fetched_at": "2026-11-09T07:55+08:00",
-   "title": "11月9日猪价:跌跌不休!猪价下跌“拦不住”!集团增量出栏,上涨“拐点”何时到?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1098855744_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_befe3a7292462f314792",
@@ -3848,83 +3927,6 @@
    "matched_keywords": [
     "生猪",
     "猪肉价格"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_43a5fb2ecbf2755db441",
-   "date": "2026-10-26",
-   "published_at": "2026-10-26T17:32+08:00",
-   "fetched_at": "2026-10-26T22:57+08:00",
-   "title": "猪价下跌拦不住!月末“枯木逢春”?",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://news.china.com/socialgd/10000169/20261026/49819326.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e7d4ffa4d742a8cc9b80",
-   "date": "2026-10-26",
-   "published_at": "2026-10-26T16:00+08:00",
-   "fetched_at": "2026-10-28T23:17+08:00",
-   "title": "跌麻了,猪价下跌“如火如荼”!附:10月27日猪价",
-   "summary": "",
-   "source": "手机网易网",
-   "type": "价格行情",
-   "url": "https://www.163.com/dy/article/LA60LKHA0512JUR9.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e0ad3e27ea3ef665a547",
-   "date": "2026-10-26",
-   "published_at": "2026-10-26T15:16+08:00",
-   "fetched_at": "2026-10-26T15:32+08:00",
-   "title": "再创新低!猪价距离见底还有多远?",
-   "summary": "“具体来看,四季度天气转凉,生猪体重增幅加快,养殖企业对年底消费旺季仍有预期。近期猪价下跌,市场也存在低价销售的抵触情绪,从而导致10月生猪体重仍在增加。”李艺华表示。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610263907928491.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_488a63269c71df48c4da",
-   "date": "2026-10-26",
-   "published_at": "2026-10-26T11:44+08:00",
-   "fetched_at": "2026-10-26T15:32+08:00",
-   "title": "【现货】10月26日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261026/c681073108.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   }
