@@ -1,5 +1,123 @@
 [
  {
+  "id": "news_c38a318fcdb347e5796c",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T22:10+08:00",
+  "fetched_at": "2026-11-10T02:59+08:00",
+  "title": "美国农业部2026年11月10日生猪报告:采购量涨跌互现,胴体价格出炉 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-for-november-10-2026-shows-mixed-purchase-volumes/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_cd3f56b0c7753f702596",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T19:49+08:00",
+  "fetched_at": "2026-11-10T23:28+08:00",
+  "title": "养殖股、生猪期货突然“抢跑”!市场有新情况?",
+  "summary": "10月出栏生猪对应的是数月前仔猪育肥成本,而猪价在10月已跌至行业现金成本线之下,价格同比近三成的跌幅直接侵蚀了销售收入。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611103927488138.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价",
+   "仔猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_5b369b90e6149173e94e",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T19:15+08:00",
+  "fetched_at": "2026-11-10T23:28+08:00",
+  "title": "农业农村部:本月将2025/26年度中国大豆进口量上调至11162万吨",
+  "summary": "新季大豆收获已基本结束,大豆蛋白含量较常年偏高,品质总体较好。自开秤以来,国产大豆收购价格明显高于去年同期水平,农户普遍持豆待涨,销售意愿较低;加工企业采购积极性不高,市场观望情绪浓厚,购销进度偏慢。",
+  "source": "农业农村部",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611103927455467.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆",
+   "国产大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a1abdb6787d4893c8b3f",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T18:37+08:00",
+  "fetched_at": "2026-11-10T23:28+08:00",
+  "title": "猪价创近十年新低 光伏巨头通威却一边巨亏118亿 一边14亿入主猪企 意欲何为?",
+  "summary": "单看第三季度,天邦食品亏损已收窄至1.15亿元,较二季度8.35亿元的亏损环比减亏7.2亿元,主要系当季度国内生猪价格环比反弹。 不过,四季度猪价的反弹没有延续。",
+  "source": "新财富杂志",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611103927437575.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_ea731440a42617ab230c",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T15:42+08:00",
+  "fetched_at": "2026-11-10T23:28+08:00",
+  "title": "玉米主力合约收跌1.88%",
+  "summary": "21财经11月10日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌1.88%,收盘报2195.0元/吨,日内资金流出5532.48万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611103927299880.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_3d32a56046eaabe13cde",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T13:46+08:00",
+  "fetched_at": "2026-11-10T23:28+08:00",
+  "title": "棕榈油:高库存压制未解,价格跌超15%_期市动态",
+  "summary": "",
+  "source": "中金在线",
+  "type": "价格行情",
+  "url": "http://futures.cnfol.com/qishidongtai/20261110/32419951.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_4e399ec1111483fbba81",
   "date": "2026-11-10",
   "published_at": "2026-11-10T13:25+08:00",
@@ -131,26 +249,6 @@
    "LH"
   ],
   "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fccd7dc58eb2d3c0ee77",
-  "date": "2026-11-10",
-  "published_at": "2026-11-10T01:10+08:00",
-  "fetched_at": "2026-11-10T02:59+08:00",
-  "title": "美国农业部生猪价格报告:按采购类型划分的加权平均净价(2026年11月9日) - 新闻和统计",
-  "summary": "",
-  "source": "IndexBox",
-  "type": "价格行情",
-  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-hog-prior-day-net-price-distribution-report-released-november-9-2026/",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
    "猪价"
   ],
   "relevance_score": 8
@@ -9575,102 +9673,6 @@
   ],
   "matched_keywords": [
    "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b0e1931ee8c9fb0f104d",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T02:16+08:00",
-  "fetched_at": "2026-10-12T02:20+08:00",
-  "title": "期货+场外期权组合发力 纸浆企业实现库存主动管理",
-  "summary": "项目还建立常态化的数据服务体系,向企业持续提供市场专项日报,覆盖库存、基差、隐含波动率等核心监测指标;每周出具情景分析报告,推演不同价格情景下组合策略损益表现,同步给出行权价上移、头寸移仓、仓位增减等实操建议。",
-  "source": "证券时报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610123892136278.html",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_dd549e15950bcb8fab05",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T23:43+08:00",
-  "fetched_at": "2026-10-12T02:20+08:00",
-  "title": "生猪养殖企业相继发布前三季度销售数据",
-  "summary": "上海钢联生猪行业分析师王红焱在接受《证券日报》记者采访时介绍,今年上半年,猪价相对平稳,多数养殖企业维持盈利或微利,随着下半年猪价震荡下行,行业整体进入盈亏平衡线附近,成本控制较好的企业尚能维持,成本偏高的已出现亏损。",
-  "source": "证券日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610113892129671.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_386ab2cdbc520b48c196",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T20:01+08:00",
-  "fetched_at": "2026-10-12T02:20+08:00",
-  "title": "农林牧渔行业周报:生猪产能持续去化,牛肉价格持续新高_行业研究_研报",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://stock.stockstar.com/JC2026101100008879.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7116c1003734837b0036",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T17:30+08:00",
-  "fetched_at": "2026-10-12T09:35+08:00",
-  "title": "机构:超强厄尔尼诺正式形成,生猪供给压力下产能持续收缩",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "供需动态",
-  "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuvxsh0604843.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_53f77794fb81b9ae661b",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T17:12+08:00",
-  "fetched_at": "2026-10-11T21:18+08:00",
-  "title": "今日核桃价格一览|10月11日",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1086376688_122014422",
-  "company": "",
-  "material_ids": [
-   "WALNUT"
-  ],
-  "matched_keywords": [
-   "核桃"
   ],
   "relevance_score": 8
  }

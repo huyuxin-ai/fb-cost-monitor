@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T14:32+08:00",
+ "updated_at": "2026-11-10T23:28+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -30,24 +30,26 @@
   "中新经纬": 1,
   "五矿期货": 3,
   "光大期货": 2,
+  "农业农村部": 1,
   "凤凰网": 1,
   "南华期货": 1,
-  "南方财经网": 14,
+  "南方财经网": 15,
   "发现报告": 2,
   "同花顺": 4,
-  "同花顺财经": 8,
+  "同花顺财经": 7,
   "国信期货": 1,
   "国家粮食和物资储备局": 6,
   "国际果蔬报道": 1,
   "国际金融报": 1,
   "广发期货": 1,
   "手机新浪网": 7,
-  "搜狐网": 15,
+  "搜狐网": 14,
   "新华财经": 2,
-  "新浪财经": 29,
+  "新浪财经": 28,
+  "新财富杂志": 1,
   "时代周报": 2,
   "时代财经": 1,
-  "期货日报": 4,
+  "期货日报": 5,
   "正信期货": 1,
   "每日经济新闻": 9,
   "深圳商报·读创": 2,
@@ -61,10 +63,108 @@
   "证券之星": 10,
   "证券日报": 1,
   "证券时报网": 2,
-  "财联社": 5,
-  "迈科期货": 1
+  "财联社": 5
  },
  "items": [
+  {
+   "id": "news_c38a318fcdb347e5796c",
+   "date": "2026-11-10",
+   "published_at": "2026-11-10T22:10+08:00",
+   "fetched_at": "2026-11-10T02:59+08:00",
+   "title": "美国农业部2026年11月10日生猪报告:采购量涨跌互现,胴体价格出炉 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-for-november-10-2026-shows-mixed-purchase-volumes/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_cd3f56b0c7753f702596",
+   "date": "2026-11-10",
+   "published_at": "2026-11-10T19:49+08:00",
+   "fetched_at": "2026-11-10T23:28+08:00",
+   "title": "养殖股、生猪期货突然“抢跑”!市场有新情况?",
+   "summary": "10月出栏生猪对应的是数月前仔猪育肥成本,而猪价在10月已跌至行业现金成本线之下,价格同比近三成的跌幅直接侵蚀了销售收入。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611103927488138.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价",
+    "仔猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_5b369b90e6149173e94e",
+   "date": "2026-11-10",
+   "published_at": "2026-11-10T19:15+08:00",
+   "fetched_at": "2026-11-10T23:28+08:00",
+   "title": "农业农村部:本月将2025/26年度中国大豆进口量上调至11162万吨",
+   "summary": "新季大豆收获已基本结束,大豆蛋白含量较常年偏高,品质总体较好。自开秤以来,国产大豆收购价格明显高于去年同期水平,农户普遍持豆待涨,销售意愿较低;加工企业采购积极性不高,市场观望情绪浓厚,购销进度偏慢。",
+   "source": "农业农村部",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611103927455467.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆",
+    "国产大豆"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_a1abdb6787d4893c8b3f",
+   "date": "2026-11-10",
+   "published_at": "2026-11-10T18:37+08:00",
+   "fetched_at": "2026-11-10T23:28+08:00",
+   "title": "猪价创近十年新低 光伏巨头通威却一边巨亏118亿 一边14亿入主猪企 意欲何为?",
+   "summary": "单看第三季度,天邦食品亏损已收窄至1.15亿元,较二季度8.35亿元的亏损环比减亏7.2亿元,主要系当季度国内生猪价格环比反弹。 不过,四季度猪价的反弹没有延续。",
+   "source": "新财富杂志",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611103927437575.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_ea731440a42617ab230c",
+   "date": "2026-11-10",
+   "published_at": "2026-11-10T15:42+08:00",
+   "fetched_at": "2026-11-10T23:28+08:00",
+   "title": "玉米主力合约收跌1.88%",
+   "summary": "21财经11月10日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌1.88%,收盘报2195.0元/吨,日内资金流出5532.48万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611103927299880.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_4e399ec1111483fbba81",
    "date": "2026-11-10",
@@ -197,26 +297,6 @@
     "LH"
    ],
    "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_fccd7dc58eb2d3c0ee77",
-   "date": "2026-11-10",
-   "published_at": "2026-11-10T01:10+08:00",
-   "fetched_at": "2026-11-10T02:59+08:00",
-   "title": "美国农业部生猪价格报告:按采购类型划分的加权平均净价(2026年11月9日) - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-hog-prior-day-net-price-distribution-report-released-november-9-2026/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
     "猪价"
    ],
    "relevance_score": 8
@@ -3849,84 +3929,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_836e61ff62746ebd30ca",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T11:00+08:00",
-   "fetched_at": "2026-10-27T13:24+08:00",
-   "title": "能繁母猪存栏同比降10.7%且去化加速,生猪与肉牛供给步入收缩期",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "供需动态",
-   "url": "https://m.sohu.com/a/1093256203_121157270",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "能繁母猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7508d65f41e2e7fe68c0",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T09:18+08:00",
-   "fetched_at": "2026-10-27T13:24+08:00",
-   "title": "农产品 | 巴西货币雷亚尔走弱 隔夜原糖价格大幅回落",
-   "summary": "政策底方面关注中储粮收购的启动时点、开秤价和轮换粮投放节奏。震荡运行 白糖 巴西货币雷亚尔走弱,隔夜原糖价格大幅回落。目前国际原糖高价,糖厂积极套保对价格上方空间形成压制。随着北半球供应增加,供应端逐渐宽松。国内结转库存偏高与新糖上市施压,糖价交投重心下移。",
-   "source": "迈科期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610273909167352.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "原糖",
-    "白糖"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_ff3773820228a331b71d",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T03:10+08:00",
-   "fetched_at": "2026-10-28T08:18+08:00",
-   "title": "PSY提升对冲产能去化,年末猪价或涨幅受限",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "供需动态",
-   "url": "https://m.10jqka.com.cn/20261026/c681105754.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_ae6e4c70fa2dec6c7f7f",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T01:11+08:00",
-   "fetched_at": "2026-10-27T04:24+08:00",
-   "title": "巴西大选冲击雷亚尔 大豆、咖啡和糖价齐跌",
-   "summary": "巴西总统卢拉意外胜选打击该国货币,提升这个农产品贸易大国的出口前景,主要农产品价格随之下跌。 卢拉赢得第四个总统任期,令投资者大感意外。",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwqtpe2315157.shtml",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 7
   }
  ]
 }
