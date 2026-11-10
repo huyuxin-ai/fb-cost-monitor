@@ -1,5 +1,122 @@
 [
  {
+  "id": "news_4e399ec1111483fbba81",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T13:25+08:00",
+  "fetched_at": "2026-11-10T14:32+08:00",
+  "title": "【市场聚焦】生猪:近期的关注点",
+  "summary": "来源:中粮期货研究中心 供应压力仍未解决 从三方数据披露的出栏计划来看,11月集团企业计划出栏继续增量,从数据来看仍然利空。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-10/doc-iniyfqsy5944431.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e0939909f3fe7ffb9e98",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T11:43+08:00",
+  "fetched_at": "2026-11-10T14:32+08:00",
+  "title": "【现货】11月10日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261110/c681645223.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_bf6b927371666aa8cbf9",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T10:03+08:00",
+  "fetched_at": "2026-11-10T14:32+08:00",
+  "title": "预计11月底油厂豆粕库存小幅升至140万吨左右",
+  "summary": "当前下游养殖行业亏损严重,饲料厂刚需采购为主,豆粕需求有限,预计月底库存小幅上升至140万吨左右,月环比小幅上升约5万吨,同比上升约20万吨。",
+  "source": "国家粮食和物资储备局",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202611103927135976.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2b3d8f9b5c86843a4b8f",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T09:54+08:00",
+  "fetched_at": "2026-11-10T14:32+08:00",
+  "title": "热点 | 上市猪企10月出栏分化 生猪盘面小幅高开",
+  "summary": "现货方面,据第一财经消息,进入11月,四季度传统消费旺季并未带来价格回暖,生猪价格下跌不止,11月9日的全国外三元生猪均价已回落至8.63元/公斤,创出年内及最近十年新低,养殖全行业深度亏损。",
+  "source": "东方财富研究中心",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611103927127436.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_4044e73e7263160158d9",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T08:43+08:00",
+  "fetched_at": "2026-11-10T14:32+08:00",
+  "title": "农产品 | 进口大豆阶段性供应仍较充足 豆粕高库存继续限制反弹空间",
+  "summary": "3、巴西国家商品供应公司(Conab)预计巴西2025/26榨季产糖量为4,420万吨,同比增长0.1%;预计甘蔗乙醇产量同比下降6.9%至273.3亿升;预计甘蔗和玉米的乙醇总产量同比增长0.8%至375亿升。",
+  "source": "混沌天成期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611103926903830.html",
+  "company": "",
+  "material_ids": [
+   "M",
+   "A"
+  ],
+  "matched_keywords": [
+   "豆粕",
+   "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e241400cd1b1cab13750",
+  "date": "2026-11-10",
+  "published_at": "2026-11-10T08:35+08:00",
+  "fetched_at": "2026-11-10T14:32+08:00",
+  "title": "农产品 | 印度和泰国新榨季大幅减产的可能性较大 原糖仍有向上空间",
+  "summary": "另一方面,USDA维持美国和巴西增产预估,蛋白粕价格或持续承压。 (分析师:杨泽元,交易咨询号:Z0019233) 玉米 【行情资讯】 (1)11月9日,玉米C2701合约开盘报2230元/吨,最终收于2237元/吨,较前一交易日上涨10元/吨,涨幅约0.45%。",
+  "source": "五矿期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611103926902396.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "原糖"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_49b3971172547f2152cf",
   "date": "2026-11-10",
   "published_at": "2026-11-10T06:49+08:00",
@@ -9554,121 +9671,6 @@
   ],
   "matched_keywords": [
    "核桃"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e308c18edcdfb6ca0626",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T16:11+08:00",
-  "fetched_at": "2026-10-11T21:18+08:00",
-  "title": "纸浆:纸浆震荡运行2026.10.11",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1086362893_122014422",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f9816cf23c3c539c8cd7",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T14:19+08:00",
-  "fetched_at": "2026-10-11T21:18+08:00",
-  "title": "USDA维持新年度大豆油生物燃料需求预测",
-  "summary": "",
-  "source": "搜狐",
-  "type": "供需动态",
-  "url": "https://m.sohu.com/a/1086331846_121119270",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油",
-   "大豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2eb93553a14453f6cd26",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T08:44+08:00",
-  "fetched_at": "2026-10-12T09:35+08:00",
-  "title": "期货+场外期权组合发力 纸浆企业实现库存主动管理",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-12/detail-iniuwuvt5465720.d.html",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b6d3a9d36801ae8bc8de",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T07:46+08:00",
-  "fetched_at": "2026-10-11T08:21+08:00",
-  "title": "10月11日猪价:好消息!猪价上涨“卷土重来”,季节性“拐点”兑现?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1086101902_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7965007d779cb1672dcd",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T06:18+08:00",
-  "fetched_at": "2026-10-11T14:13+08:00",
-  "title": "生意社2026年10月10日涤纶短纤趋势分析:震荡",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261010/c680547012.shtml",
-  "company": "",
-  "material_ids": [
-   "PF"
-  ],
-  "matched_keywords": [
-   "涤纶短纤"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a9d056df905a53fea5e6",
-  "date": "2026-10-11",
-  "published_at": "2026-10-11T00:07+08:00",
-  "fetched_at": "2026-10-11T14:13+08:00",
-  "title": "上涨!2026.10.11生猪市场信息交流",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-11/doc-iniuumqz7350390.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  }
