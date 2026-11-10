@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T23:28+08:00",
+ "updated_at": "2026-11-11T05:23+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -18,9 +18,9 @@
   "一德期货": 2,
   "七禾网": 1,
   "上海证券报·中国证券网": 1,
-  "上观新闻": 1,
-  "东方财富": 4,
-  "东方财富Choice数据": 2,
+  "上观新闻": 2,
+  "东方财富": 5,
+  "东方财富Choice数据": 1,
   "东方财富研究中心": 1,
   "东海期货": 1,
   "中华网": 2,
@@ -49,7 +49,7 @@
   "新财富杂志": 1,
   "时代周报": 2,
   "时代财经": 1,
-  "期货日报": 5,
+  "期货日报": 4,
   "正信期货": 1,
   "每日经济新闻": 9,
   "深圳商报·读创": 2,
@@ -66,6 +66,25 @@
   "财联社": 5
  },
  "items": [
+  {
+   "id": "news_f5d05b623c05333a2466",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T00:00+08:00",
+   "fetched_at": "2026-11-11T05:23+08:00",
+   "title": "这种微量元素影响玉米水稻产量,中国科学家最新发现填补教科书空白",
+   "summary": "原来,在玉米的生长点和籽粒中,镍是作物利用尿素的关键“零件”——镍不够,尿素不能正常代谢,后续氨基酸、蛋白质形成就会受影响,从而影响玉米生长和种子萌发。",
+   "source": "上观新闻",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202611113927701093.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_c38a318fcdb347e5796c",
    "date": "2026-11-10",
@@ -145,6 +164,25 @@
     "生猪"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_0adaf8aec2d278000e39",
+   "date": "2026-11-10",
+   "published_at": "2026-11-10T16:03+08:00",
+   "fetched_at": "2026-11-11T05:23+08:00",
+   "title": "10月第5周生猪定点屠宰企业生猪收购和白条肉出厂价格情况",
+   "summary": "",
+   "source": "东方财富",
+   "type": "价格行情",
+   "url": "https://emwap.eastmoney.com/a/202611103927302778.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_ea731440a42617ab230c",
@@ -3891,44 +3929,6 @@
     "棕榈油"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_cb00a90732daa84feca6",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T11:04+08:00",
-   "fetched_at": "2026-10-27T13:24+08:00",
-   "title": "下游聚酯利润修复 PTA估值支撑显现",
-   "summary": "利润方面,PTA加工费从10月初的800元/吨以上回落至400元/吨左右,上游PX利润也同步走弱。与此同时,上游原料价格回落带动下游利润大幅修复,目前长丝、短纤、瓶片等各类聚酯产品盈利均有明显改善。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610273909448435.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_2ef846b8d5daf02e60d7",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T11:00+08:00",
-   "fetched_at": "2026-10-27T13:24+08:00",
-   "title": "生猪期货主力合约直线拉升涨幅扩大至2%",
-   "summary": "生猪期货主力合约直线拉升涨幅扩大至2%,报9920元/吨,此前一度跌超2%。",
-   "source": "东方财富Choice数据",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610273909446726.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
   }
  ]
 }
