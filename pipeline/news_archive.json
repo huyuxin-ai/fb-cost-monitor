@@ -1,5 +1,45 @@
 [
  {
+  "id": "news_8a833e3a6761d333238f",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T21:14+08:00",
+  "fetched_at": "2026-11-12T00:26+08:00",
+  "title": "生猪价格已跌破4元/斤 25家猪企亏损超200亿元",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1100274917_481016",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_8a02b72b24eb9471a72d",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T17:23+08:00",
+  "fetched_at": "2026-11-12T00:26+08:00",
+  "title": "华统股份:10月生猪销售收入同比降42.93% 鸡销售收入增31.47%",
+  "summary": "生猪销售数量的同比下降主要由于生猪出栏量减少,而销售收入同比变动则是由于生猪价格下行所致。 在鸡销售方面,公司10月份鸡销售数量为139.16万只,环比下降29.5%,同比上涨75.28%。鸡销售收入为1545万元,环比下降23.91%,同比上涨31.47%。",
+  "source": "财中社",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611113928477752.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_ee9b19fbfb391dc1c6c5",
   "date": "2026-11-11",
   "published_at": "2026-11-11T15:56+08:00",
@@ -210,6 +250,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_1d338e8d0ed2ca8366d7",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T09:51+08:00",
+  "fetched_at": "2026-11-12T00:26+08:00",
+  "title": "Mysteel解读:2026年11月份世界玉米供需情况分析",
+  "summary": "",
+  "source": "钢铁网",
+  "type": "供需动态",
+  "url": "https://news.mysteel.com/a/26111109/B7002DFF2E3C5547.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_76cbf752246d11ceff74",
   "date": "2026-11-11",
   "published_at": "2026-11-11T09:00+08:00",
@@ -326,25 +385,6 @@
    "大豆"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_318f85ef81f8e2aa511e",
-  "date": "2026-11-11",
-  "published_at": "2026-11-11T06:43+08:00",
-  "fetched_at": "2026-11-11T09:23+08:00",
-  "title": "11月11日猪价:好消息!猪价大降29.2%创近10年新低后,接下来“报复性”上涨?",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1099773260_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_40a508905bf3ee7a8153",
@@ -9635,45 +9675,5 @@
    "玉米"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_d8a034290190e35ebc45",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T20:35+08:00",
-  "fetched_at": "2026-10-13T02:07+08:00",
-  "title": "10月第2周生猪和猪肉价格有所下跌",
-  "summary": "据农业农村部对500个县集贸市场和采集点监测,上周(10月第2周,10月5—11日,下同),全国活猪价格为11.07元/公斤,环比跌0.5%;猪肉集贸市场价格为20.98元/公斤,环比跌0.4%。",
-  "source": "农业农村部",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610123892874490.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪肉价格",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_8fc366fdf99010cfa724",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T20:35+08:00",
-  "fetched_at": "2026-10-13T09:09+08:00",
-  "title": "豆一突破性上涨 供需面是否支持继续上行?",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1086852859_122014422",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "豆一"
-  ],
-  "relevance_score": 8
  }
 ]
