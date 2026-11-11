@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T05:23+08:00",
+ "updated_at": "2026-11-11T09:23+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,9 +8,10 @@
   "Dairynews.today": 7,
   "IDNFinancials": 1,
   "IndexBox": 10,
-  "QQ News": 2,
+  "QQ News": 1,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 1,
+  "Sohu": 1,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "finance.sina.com.cn": 2,
@@ -19,6 +20,7 @@
   "七禾网": 1,
   "上海证券报·中国证券网": 1,
   "上观新闻": 2,
+  "东吴期货": 1,
   "东方财富": 5,
   "东方财富Choice数据": 1,
   "东方财富研究中心": 1,
@@ -33,39 +35,196 @@
   "农业农村部": 1,
   "凤凰网": 1,
   "南华期货": 1,
-  "南方财经网": 15,
+  "南方财经网": 13,
   "发现报告": 2,
   "同花顺": 4,
-  "同花顺财经": 7,
+  "同花顺财经": 6,
   "国信期货": 1,
   "国家粮食和物资储备局": 6,
   "国际果蔬报道": 1,
   "国际金融报": 1,
   "广发期货": 1,
-  "手机新浪网": 7,
-  "搜狐网": 14,
+  "手机新浪网": 5,
+  "搜狐网": 13,
   "新华财经": 2,
-  "新浪财经": 28,
+  "新浪财经": 30,
   "新财富杂志": 1,
   "时代周报": 2,
   "时代财经": 1,
   "期货日报": 4,
   "正信期货": 1,
-  "每日经济新闻": 9,
+  "每日经济新闻": 10,
   "深圳商报·读创": 2,
   "混沌天成期货": 2,
   "澎湃新闻": 5,
-  "瑞达期货": 1,
+  "瑞达期货": 2,
+  "申银万国期货": 1,
   "第一财经": 4,
   "网易新闻客户端": 1,
   "英为财情 Investing.com": 1,
   "观点网": 1,
-  "证券之星": 10,
+  "证券之星": 9,
   "证券日报": 1,
   "证券时报网": 2,
-  "财联社": 5
+  "财联社": 6
  },
  "items": [
+  {
+   "id": "news_76cbf752246d11ceff74",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T09:00+08:00",
+   "fetched_at": "2026-11-11T09:23+08:00",
+   "title": "开盘|国内期货主力合约跌多涨少 豆粕、豆二涨超2%",
+   "summary": "2026年11月11日,早盘开盘,国内期货主力合约跌多涨少,铸造铝、沪银跌超3%,沪铝、沪金、合成橡胶跌超2%,铂跌近2%,碳酸锂、低硫燃料油(LU)跌超1%。",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-11/doc-iniyiiah2190297.shtml",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e8b857c03f8ed7ac445a",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T08:56+08:00",
+   "fetched_at": "2026-11-11T09:23+08:00",
+   "title": "能化 | 预计纸浆价格维持低位震荡格局 继续关注后期累库节奏",
+   "summary": "天然橡胶 东南亚主产国处于旺产阶段,但胶水、杯胶原料释放节奏不及季节性预期;国内云南产区原料价格稳中小涨,产区降雨,部分小幅走高,各个加工厂报价偏乱,各片区采购价格存差异;海南产区雨水扰动持续,割胶作业开展不畅,岛内原料生产释放节奏阶段性放缓,受订单、利润等因素支撑,当地加工厂对原料维持加价收购态势",
+   "source": "瑞达期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611113928037731.html",
+   "company": "",
+   "material_ids": [
+    "SP"
+   ],
+   "matched_keywords": [
+    "纸浆",
+    "浆价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e09b56f8beb7db8e6042",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T08:54+08:00",
+   "fetched_at": "2026-11-11T09:23+08:00",
+   "title": "农产品 | 短期国际原糖回调与国内新糖上市形成双重压力",
+   "summary": "整体来看,短期国际原糖回调与国内新糖上市形成双重压力,但巴西减产及进口成本仍提供一定支撑。后续重点观察原糖18美分关口、印度实际产量及国内新糖报价变化。 生猪:现货9.3。出栏情绪不一,部分顺势出栏,部分则有惜售情绪,压栏观望等价。",
+   "source": "东吴期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611113928027375.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "原糖"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_35ea957ed3f9955db828",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T08:48+08:00",
+   "fetched_at": "2026-11-11T09:23+08:00",
+   "title": "农产品 | 报告显示马棕累库低于预期 棕榈油价格受到一定提振",
+   "summary": "目前印度政府近期宣布停止采购以食糖及主要甘蔗原料生产的乙醇,预计新榨季甘蔗制乙醇量将大幅减少以缓解白糖的供应缺口,后期要关注压榨数据明朗之后印度和泰国糖产兑现情况。国内基本面弱于外盘,高库存拖累盘面,叠加新榨季国产糖仍有增产预期,内外价差逻辑偏弱。短期郑糖盘整为主。",
+   "source": "申银万国期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611113927998195.html",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_82342f1d883a08ec67c8",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T08:18+08:00",
+   "fetched_at": "2026-11-11T09:23+08:00",
+   "title": "华泰证券:猪价二次探底推动产能去化再加速",
+   "summary": "供给高位、需求弱承接,猪价二次探底 截至11月9日,涌益全国生猪均价8.6元/公斤,跌破4月低点8.7元/公斤(本轮周期前次低点)。国庆后生猪现货下跌带动期货价格大幅下修,反映当前猪价的二次探底确实超出了市场与产业的预期。",
+   "source": "财联社",
+   "type": "价格行情",
+   "url": "https://stock.eastmoney.com/a/202611113927990254.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_f6d42cb75513bcf922e9",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T08:02+08:00",
+   "fetched_at": "2026-11-11T09:23+08:00",
+   "title": "美农月报颠覆交易共识!大豆玉米绝地反击",
+   "summary": "来源:金十期货 据报道,由于美国农业部在最新发布的月度供需报告中对美国大豆收成前景的上调幅度低于市场预期,并预测未来一年供应趋紧,美国大豆期货周二录得强劲攀升。",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-11/doc-iniyiiai2041402.shtml",
+   "company": "",
+   "material_ids": [
+    "C",
+    "A"
+   ],
+   "matched_keywords": [
+    "玉米",
+    "大豆"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_318f85ef81f8e2aa511e",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T06:43+08:00",
+   "fetched_at": "2026-11-11T09:23+08:00",
+   "title": "11月11日猪价:好消息!猪价大降29.2%创近10年新低后,接下来“报复性”上涨?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1099773260_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_40a508905bf3ee7a8153",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T05:43+08:00",
+   "fetched_at": "2026-11-11T09:23+08:00",
+   "title": "CBOT农产品期货主力合约收盘全线上涨,大豆期货涨3.24%",
+   "summary": "当地时间11月10日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线上涨,大豆期货涨3.24%报1226.75美分/蒲式耳,玉米期货涨1.99%报448.00美分/蒲式耳,小麦期货涨0.60%报591.50美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611113927743614.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_f5d05b623c05333a2466",
    "date": "2026-11-11",
@@ -3777,158 +3936,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_3442a215b8132e2727d0",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T16:44+08:00",
-   "fetched_at": "2026-10-27T18:48+08:00",
-   "title": "恒逸石化:预计PTA产品有望逐步去库,供需格局将逐步改善",
-   "summary": "对于PET产品,目前涤纶长丝及聚酯瓶片的产能投放周期基本收尾,需求仍保持高速增长,PET行业的市场集中度将持续得到优化,带动今后几年产业链景气度回升。",
-   "source": "南方财经网",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610273909915556.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_29ec44365f4be44f2d14",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T15:40+08:00",
-   "fetched_at": "2026-10-27T18:48+08:00",
-   "title": "玉米主力合约收涨0.32%",
-   "summary": "南财智讯10月27日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.32%,收盘报2217.0元/吨,日内资金流出1055.98万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610273909807791.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_72a3cb549a1056b5d483",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T15:31+08:00",
-   "fetched_at": "2026-10-27T22:46+08:00",
-   "title": "10月27日PTA期货收盘上涨0.09%,报6644元_综合资讯",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://futures.stockstar.com/RB2026102700024143.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_10873df12660c7fd5762",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T15:00+08:00",
-   "fetched_at": "2026-10-27T18:48+08:00",
-   "title": "PSY提升对冲产能去化,需求旺季增幅或不及预期,年末猪价涨幅受限",
-   "summary": "",
-   "source": "手机新浪网",
-   "type": "供需动态",
-   "url": "https://k.sina.com.cn/article_5953190046_162d6789e06703vi1s.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b5a286b69f2ecfaec038",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T14:25+08:00",
-   "fetched_at": "2026-10-29T23:22+08:00",
-   "title": "增强盘面价格代表性!大商所调整生猪期货交割发票类型",
-   "summary": "",
-   "source": "手机新浪网",
-   "type": "价格行情",
-   "url": "https://k.sina.com.cn/article_1043320390_3e2fce4600102hm2c.html?subch=futures",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_af91159314bc96bece70",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T14:18+08:00",
-   "fetched_at": "2026-10-31T18:46+08:00",
-   "title": "跌跌不休,猪价下跌“势如破竹”!附:10月28日猪价",
-   "summary": "",
-   "source": "QQ News",
-   "type": "价格行情",
-   "url": "https://news.qq.com/rain/a/20261027A080AU00",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7668cb20e988eba00a7e",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T12:34+08:00",
-   "fetched_at": "2026-10-27T13:24+08:00",
-   "title": "三季度猪价低位磨底 四季度价格依旧难涨",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://www.sohu.com/a/1093295813_122014422",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1f23b3f8059cb62ce6b1",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T11:47+08:00",
-   "fetched_at": "2026-10-27T13:24+08:00",
-   "title": "【现货】10月27日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261027/c681123908.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
   }
  ]
 }
