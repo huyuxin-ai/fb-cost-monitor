@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T09:23+08:00",
+ "updated_at": "2026-11-11T16:08+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -11,17 +11,17 @@
   "QQ News": 1,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 1,
-  "Sohu": 1,
+  "Sohu": 3,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
-  "finance.sina.com.cn": 2,
+  "finance.sina.com.cn": 1,
   "https://www.agripost.cn/": 1,
   "一德期货": 2,
   "七禾网": 1,
   "上海证券报·中国证券网": 1,
   "上观新闻": 2,
   "东吴期货": 1,
-  "东方财富": 5,
+  "东方财富": 4,
   "东方财富Choice数据": 1,
   "东方财富研究中心": 1,
   "东海期货": 1,
@@ -32,43 +32,195 @@
   "中新经纬": 1,
   "五矿期货": 3,
   "光大期货": 2,
-  "农业农村部": 1,
+  "农业农村部": 2,
   "凤凰网": 1,
   "南华期货": 1,
-  "南方财经网": 13,
+  "南方财经网": 15,
   "发现报告": 2,
-  "同花顺": 4,
+  "同花顺": 5,
   "同花顺财经": 6,
   "国信期货": 1,
-  "国家粮食和物资储备局": 6,
-  "国际果蔬报道": 1,
-  "国际金融报": 1,
+  "国家粮食和物资储备局": 7,
+  "国际果蔬报道": 2,
   "广发期货": 1,
   "手机新浪网": 5,
-  "搜狐网": 13,
+  "搜狐网": 12,
   "新华财经": 2,
   "新浪财经": 30,
   "新财富杂志": 1,
   "时代周报": 2,
   "时代财经": 1,
-  "期货日报": 4,
+  "期货日报": 3,
   "正信期货": 1,
-  "每日经济新闻": 10,
+  "每日经济新闻": 9,
   "深圳商报·读创": 2,
   "混沌天成期货": 2,
   "澎湃新闻": 5,
   "瑞达期货": 2,
   "申银万国期货": 1,
-  "第一财经": 4,
+  "第一财经": 3,
   "网易新闻客户端": 1,
   "英为财情 Investing.com": 1,
   "观点网": 1,
   "证券之星": 9,
   "证券日报": 1,
   "证券时报网": 2,
-  "财联社": 6
+  "财联社": 5
  },
  "items": [
+  {
+   "id": "news_4bf7ebeefe09ed9539bf",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T15:42+08:00",
+   "fetched_at": "2026-11-11T16:08+08:00",
+   "title": "11月第1周生猪定点屠宰企业生猪收购和白条肉出厂价格情况",
+   "summary": "据农业农村部监测,2026年11月2—8日,生猪定点屠宰企业生猪平均收购价格为10.86元/公斤,环比下降2.6%,同比下降19.5%。白条肉平均出厂价格为14.42元/公斤,环比下降2.4%,同比下降18.0%。",
+   "source": "农业农村部",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611113928383839.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_6a3a134954ed5bd2f53f",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T15:41+08:00",
+   "fetched_at": "2026-11-11T16:08+08:00",
+   "title": "生猪主力合约收涨2.42%",
+   "summary": "21财经11月11日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨2.42%,收盘报9725.0元/吨,日内资金流出1.69亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611113928409673.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_cf556336d144d8e5e3a5",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T15:40+08:00",
+   "fetched_at": "2026-11-11T16:08+08:00",
+   "title": "玉米主力合约收跌0.95%",
+   "summary": "21财经11月11日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.95%,收盘报2192.0元/吨,日内资金流入8156.49万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611113928396515.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_d2cf0a0e5152928dc9f5",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T15:37+08:00",
+   "fetched_at": "2026-11-11T16:08+08:00",
+   "title": "【微奶价】上涨!11月第1周:生鲜乳均价3.11元/公斤",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1100151527_122014422",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "生鲜乳",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e63e97b24ba283ed5995",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T15:16+08:00",
+   "fetched_at": "2026-11-11T16:08+08:00",
+   "title": "2026年11月中国大豆供需形势分析发布!",
+   "summary": "",
+   "source": "Sohu",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1100139225_122014422",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e7550fc39d6839de71f3",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T11:59+08:00",
+   "fetched_at": "2026-11-11T16:08+08:00",
+   "title": "2026/27季坦桑尼亚腰果开拍,原料果站上价格高点!",
+   "summary": "",
+   "source": "国际果蔬报道",
+   "type": "价格行情",
+   "url": "https://m.guojiguoshu.com/article/11439",
+   "company": "",
+   "material_ids": [
+    "CASHEW"
+   ],
+   "matched_keywords": [
+    "腰果"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_df16cd53b6384003fc64",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T11:48+08:00",
+   "fetched_at": "2026-11-11T16:08+08:00",
+   "title": "【现货】11月11日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261111/c681692184.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_cd94844b894e09c14a73",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T11:09+08:00",
+   "fetched_at": "2026-11-11T16:08+08:00",
+   "title": "本周国内豆粕现货报价下跌",
+   "summary": "本周国内豆粕市场供需宽松格局延续,下游采购积极性不高,加上国际大豆价格下跌、成本支撑减弱,现货报价下跌。",
+   "source": "国家粮食和物资储备局",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611113928247247.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_76cbf752246d11ceff74",
    "date": "2026-11-11",
@@ -3784,158 +3936,6 @@
     "鳀鱼"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_04c7332e9aa8e1e00fd0",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T08:20+08:00",
-   "fetched_at": "2026-10-28T14:05+08:00",
-   "title": "政策托底信号明确 玉米下探空间有限",
-   "summary": "进出口分析 2026/2027年度中国玉米进口预测值为600万吨,较上年度有所回升,但整体仍处于配额以内,进口量可控。当前进口玉米完税成本为2250-2400元/吨,已高于国产玉米,直接进口利润转负,进口套利窗口未打开。",
-   "source": "期货日报",
-   "type": "政策与供应",
-   "url": "https://finance.eastmoney.com/a/202610283910911510.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_b1223299a1c89cc34ad0",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T07:22+08:00",
-   "fetched_at": "2026-10-28T14:05+08:00",
-   "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌1.10%",
-   "summary": "当地时间10月27日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.74%报1243.25美分/蒲式耳,玉米期货跌1.10%报450.00美分/蒲式耳,小麦期货跌0.81%报611.00美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610283910918148.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_88b3d3fcc4905aaff606",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T06:50+08:00",
-   "fetched_at": "2026-10-28T08:18+08:00",
-   "title": "10月28日猪价:跌猛了!猪价“滑坡”下跌,下跌逻辑找到!“地板线”是多少?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://www.sohu.com/a/1093511110_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_d63d212b9eeb75d132a7",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T05:24+08:00",
-   "fetched_at": "2026-10-29T02:59+08:00",
-   "title": "再创新低!猪价距离见底还有多远?",
-   "summary": "",
-   "source": "东方财富",
-   "type": "供需动态",
-   "url": "https://wap.eastmoney.com/a/202610263907928491.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e8138fd2228520cb5d28",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T01:37+08:00",
-   "fetched_at": "2026-10-28T08:18+08:00",
-   "title": "大商所调整生猪期货LH2701合约交易限额",
-   "summary": "",
-   "source": "finance.sina.com.cn",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-10-27/detail-iniwsfqu7022969.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8194b1d615e49166a386",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T22:15+08:00",
-   "fetched_at": "2026-10-27T22:46+08:00",
-   "title": "鳀鱼涨价了,劲仔小鱼越卖越薄利",
-   "summary": "劲仔核心大单品“深海小鱼”的原料为鳀鱼,公司在半年度业绩说明会上解释过,公司主要原材料鳀鱼受渔船海洋野捕油价上涨、气候变化引起的渔汛波动等影响,采购价格有所上涨,目前正通过积极拓展多元化海外供应渠道、加强战略采购、优化产品结构及精细化管理等措施降本增效。",
-   "source": "国际金融报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610273910536782.html",
-   "company": "",
-   "material_ids": [
-    "ANCHOVY"
-   ],
-   "matched_keywords": [
-    "鳀鱼"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_60f64e6c8c3053d8cb8c",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T17:22+08:00",
-   "fetched_at": "2026-10-27T18:48+08:00",
-   "title": "大商所:调整生猪期货LH2703和LH2705合约交易保证金水平",
-   "summary": "大商所公告,根据《大连商品交易所风险管理办法》,经研究决定:自2026年10月30日(星期五)结算时起,生猪期货LH2703和LH2705合约交易保证金水平由8%调整为10%。",
-   "source": "第一财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610273909984875.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_37c962056e1148e65a75",
-   "date": "2026-10-27",
-   "published_at": "2026-10-27T17:21+08:00",
-   "fetched_at": "2026-10-27T18:48+08:00",
-   "title": "大商所调整生猪期货LH2701合约交易限额",
-   "summary": "大商所公告,经研究决定,自2026年10月29日交易时起,非期货公司会员或者客户在生猪期货LH2701合约上单日开仓量不得超过500手,在生猪期货其他合约上单日开仓量不得超过1000手。该单日开仓量是指非期货公司会员或者客户当日在生猪期货单个合约上的买开仓数量与卖开仓数量之和。",
-   "source": "财联社",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610273910019436.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
   }
  ]
 }

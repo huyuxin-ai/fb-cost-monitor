@@ -1,5 +1,215 @@
 [
  {
+  "id": "news_ee9b19fbfb391dc1c6c5",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T15:56+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "马来西亚11月1-10日棕榈油产量环比上月同期减少26.05%",
+  "summary": "南部半岛棕榈油压榨商协会(SPPOMA)数据显示,2026年11月1-10日马来西亚棕榈油单产环比上月同期减少24.52%,出油率环比上月同期减少0.29%,产量环比上月同期减少26.05%。",
+  "source": "财联社",
+  "type": "供需动态",
+  "url": "http://xianhuo.eastmoney.com/a/202611113928394664.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_4bf7ebeefe09ed9539bf",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T15:42+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "11月第1周生猪定点屠宰企业生猪收购和白条肉出厂价格情况",
+  "summary": "据农业农村部监测,2026年11月2—8日,生猪定点屠宰企业生猪平均收购价格为10.86元/公斤,环比下降2.6%,同比下降19.5%。白条肉平均出厂价格为14.42元/公斤,环比下降2.4%,同比下降18.0%。",
+  "source": "农业农村部",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611113928383839.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_6a3a134954ed5bd2f53f",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T15:41+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "生猪主力合约收涨2.42%",
+  "summary": "21财经11月11日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨2.42%,收盘报9725.0元/吨,日内资金流出1.69亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611113928409673.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_cf556336d144d8e5e3a5",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T15:40+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "玉米主力合约收跌0.95%",
+  "summary": "21财经11月11日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.95%,收盘报2192.0元/吨,日内资金流入8156.49万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611113928396515.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_d2cf0a0e5152928dc9f5",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T15:37+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "【微奶价】上涨!11月第1周:生鲜乳均价3.11元/公斤",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1100151527_122014422",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "生鲜乳",
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e63e97b24ba283ed5995",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T15:16+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "2026年11月中国大豆供需形势分析发布!",
+  "summary": "",
+  "source": "Sohu",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1100139225_122014422",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_285d5de05b01d15b6bc7",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T13:00+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "豆油:USDA报告利多,现货价格回升_期市动态",
+  "summary": "",
+  "source": "中金在线",
+  "type": "价格行情",
+  "url": "http://futures.cnfol.com/qishidongtai/20261111/32420825.shtml",
+  "company": "",
+  "material_ids": [
+   "Y"
+  ],
+  "matched_keywords": [
+   "豆油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e7550fc39d6839de71f3",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T11:59+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "2026/27季坦桑尼亚腰果开拍,原料果站上价格高点!",
+  "summary": "",
+  "source": "国际果蔬报道",
+  "type": "价格行情",
+  "url": "https://m.guojiguoshu.com/article/11439",
+  "company": "",
+  "material_ids": [
+   "CASHEW"
+  ],
+  "matched_keywords": [
+   "腰果"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_df16cd53b6384003fc64",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T11:48+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "【现货】11月11日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261111/c681692184.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e617e5948887490f4886",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T11:33+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "从单一依赖到多元协同!挪威阿克海洋生物登陆进博会,解锁Omega-3供应抗风险新答案",
+  "summary": "",
+  "source": "母婴行业观察",
+  "type": "供需动态",
+  "url": "http://www.myguancha.com/post/27979.html",
+  "company": "",
+  "material_ids": [
+   "FISHOIL"
+  ],
+  "matched_keywords": [
+   "omega-3"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_cd94844b894e09c14a73",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T11:09+08:00",
+  "fetched_at": "2026-11-11T16:08+08:00",
+  "title": "本周国内豆粕现货报价下跌",
+  "summary": "本周国内豆粕市场供需宽松格局延续,下游采购积极性不高,加上国际大豆价格下跌、成本支撑减弱,现货报价下跌。",
+  "source": "国家粮食和物资储备局",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611113928247247.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_76cbf752246d11ceff74",
   "date": "2026-11-11",
   "published_at": "2026-11-11T09:00+08:00",
@@ -9463,217 +9673,6 @@
   ],
   "matched_keywords": [
    "豆一"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2242f6b95780dde3a37a",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T19:34+08:00",
-  "fetched_at": "2026-10-13T02:07+08:00",
-  "title": "养殖端集中出栏 9月国内生猪价格延续下滑",
-  "summary": "而猪价在下旬跌至较低位后,部分区域二次育肥补栏热度或提升,补栏需求短时增加,在补栏时对行情有短暂的提振效果。 预计10月份生猪价格或震荡下滑。",
-  "source": "证券时报网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610123892855010.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_2ec184040000bec5819e",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T19:13+08:00",
-  "fetched_at": "2026-10-14T23:56+08:00",
-  "title": "产量刷屏、出口救场:棕榈油多空拉锯进入关键窗口期_国际原油市场",
-  "summary": "",
-  "source": "黄金网",
-  "type": "供需动态",
-  "url": "http://gold.cnfol.com/guojiyuanyousc/20261012/32394176.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7e48646b1f302fe05d33",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T18:46+08:00",
-  "fetched_at": "2026-10-13T02:07+08:00",
-  "title": "产量刷屏、出口救场:棕榈油多空拉锯进入关键窗口期_外汇动态报道",
-  "summary": "",
-  "source": "汇通网 Fx678",
-  "type": "供需动态",
-  "url": "https://www.fx678.com/202610121846432281.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_05dcb984c768c6a541ad",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T18:06+08:00",
-  "fetched_at": "2026-10-13T02:07+08:00",
-  "title": "玉米观察:东北产地-把握成本主线",
-  "summary": "",
-  "source": "新浪网",
-  "type": "供需动态",
-  "url": "https://k.sina.com.cn/article_5953466437_162dab0450670beq4a.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a9b0a7afa3d452083e87",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T17:50+08:00",
-  "fetched_at": "2026-10-14T13:55+08:00",
-  "title": "2026超级11.11预售开启:卵巢早衰吃哪个辅酶q10产品效果最好?原料溯源到形态十大全球备孕辅酶Q10品牌观察解析",
-  "summary": "",
-  "source": "凤凰网",
-  "type": "供需动态",
-  "url": "https://baby.ifeng.com/c/8xANEV4cklw",
-  "company": "",
-  "material_ids": [
-   "COQ10"
-  ],
-  "matched_keywords": [
-   "辅酶q10"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a15122458ccce87d930f",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T16:45+08:00",
-  "fetched_at": "2026-10-13T02:07+08:00",
-  "title": "生猪期货跌超3%短期猪价或延续震荡偏弱调整",
-  "summary": "",
-  "source": "网易新闻客户端",
-  "type": "价格行情",
-  "url": "https://c.m.163.com/news/a/L928VD0U0512B07B.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_3d3fe16632ed3bc608c3",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T15:45+08:00",
-  "fetched_at": "2026-10-12T16:49+08:00",
-  "title": "玉米主力合约收涨1.16%",
-  "summary": "南财智讯10月12日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨1.16%,收盘报2176.0元/吨,日内资金流出2.28亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610123892693989.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_471bccc0c8928e52e5da",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T15:44+08:00",
-  "fetched_at": "2026-10-12T16:49+08:00",
-  "title": "生猪主力合约收跌3.06%",
-  "summary": "南财智讯10月12日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌3.06%,收盘报10310.0元/吨,日内资金流出1.59亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610123892686993.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_da0b8647758c129cf42d",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T13:43+08:00",
-  "fetched_at": "2026-10-12T16:49+08:00",
-  "title": "短期供应压力仍存 预计生猪期货价格震荡调整为主",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-12/doc-iniuxwik0528399.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_665d78b9d5d7a21c4dac",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T13:43+08:00",
-  "fetched_at": "2026-10-13T02:07+08:00",
-  "title": "玉米一夜跌乱套了 市场供需博弈加剧",
-  "summary": "",
-  "source": "中华网",
-  "type": "供需动态",
-  "url": "https://3g.china.com/act/redian/13004758/20261012/49789619.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6f981435c19309caa11e",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T12:35+08:00",
-  "fetched_at": "2026-10-12T16:49+08:00",
-  "title": "豆油 | 节后价格小涨,需求尚未明显回暖",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1086649001_122014422",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
   ],
   "relevance_score": 8
  }
