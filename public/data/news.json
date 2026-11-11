@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T00:26+08:00",
+ "updated_at": "2026-11-12T06:57+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -11,11 +11,11 @@
   "QQ News": 1,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 1,
-  "Sohu": 3,
+  "Sohu": 4,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "https://www.agripost.cn/": 1,
-  "一德期货": 2,
+  "一德期货": 1,
   "七禾网": 1,
   "上海证券报·中国证券网": 1,
   "上观新闻": 2,
@@ -30,6 +30,7 @@
   "中州期货": 1,
   "中新经纬": 1,
   "五矿期货": 3,
+  "人民日报": 1,
   "光大期货": 2,
   "农业农村部": 2,
   "凤凰网": 1,
@@ -38,14 +39,13 @@
   "发现报告": 2,
   "同花顺": 5,
   "同花顺财经": 6,
-  "国信期货": 1,
   "国家粮食和物资储备局": 7,
   "国际果蔬报道": 2,
   "广发期货": 1,
   "手机新浪网": 5,
   "搜狐网": 12,
   "新华财经": 2,
-  "新浪财经": 29,
+  "新浪财经": 28,
   "新财富杂志": 1,
   "时代周报": 2,
   "时代财经": 1,
@@ -59,7 +59,7 @@
   "申银万国期货": 1,
   "第一财经": 3,
   "网易新闻客户端": 1,
-  "英为财情 Investing.com": 1,
+  "英为财情 Investing.com": 2,
   "观点网": 1,
   "证券之星": 9,
   "证券日报": 1,
@@ -69,6 +69,44 @@
   "钢铁网": 1
  },
  "items": [
+  {
+   "id": "news_9897f8d9d7633d31e07a",
+   "date": "2026-11-12",
+   "published_at": "2026-11-12T06:33+08:00",
+   "fetched_at": "2026-11-12T06:57+08:00",
+   "title": "11月12日猪价:柳暗花明!猪价“雷霆”上涨,接下来“报复性”反弹?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1100259839_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_78cb4cdd88adef73e8ac",
+   "date": "2026-11-12",
+   "published_at": "2026-11-12T05:52+08:00",
+   "fetched_at": "2026-11-12T06:57+08:00",
+   "title": "内蒙古通辽推进玉米单产提升 今年超400万亩耕地达“吨粮田”水平 “密植不只是播种时多下几粒种子”",
+   "summary": "眼下,内蒙古通辽市近2000万亩玉米收获基本完成。当地今年推进玉米单产提升1354万亩,约406.99万亩田块达到亩产1000公斤的“吨粮田”水平。 通辽市科尔沁区丰田镇哈拉满罕村,收获的玉米入仓入库。博丰农业专业合作社理事长林荣抓起一把饱满的玉米粒,满脸笑意。",
+   "source": "人民日报",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202611123928825820.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_8a833e3a6761d333238f",
    "date": "2026-11-11",
@@ -86,6 +124,26 @@
    "matched_keywords": [
     "生猪",
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e73073bc11cc363ca081",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T20:48+08:00",
+   "fetched_at": "2026-11-12T06:57+08:00",
+   "title": "Barclays看好THG盈利增长,乳清蛋白成本下降助力营养部门利润率复苏 提供者 Investing.com",
+   "summary": "",
+   "source": "英为财情 Investing.com",
+   "type": "供需动态",
+   "url": "https://cn.investing.com/news/stock-market-news/article-3662102",
+   "company": "",
+   "material_ids": [
+    "WPC34",
+    "WPC80"
+   ],
+   "matched_keywords": [
+    "乳清蛋白"
    ],
    "relevance_score": 8
   },
@@ -3881,64 +3939,6 @@
     "大豆"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_83fe5b1dd912766b2127",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T09:43+08:00",
-   "fetched_at": "2026-10-28T14:05+08:00",
-   "title": "农产品 | 空头止盈离场 生猪期货反弹",
-   "summary": "生猪 空头止盈离场,期货强势反弹 周二,生猪期货反弹,主力LH2701涨幅2.52%,暂报9975元。现货方面,根据我的农产品网数据,全国外三元生猪出栏均价为9.23元/公斤,较昨日下跌0.05元/公斤。",
-   "source": "国信期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610283911232351.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_a249d11260f686447dfa",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T09:34+08:00",
-   "fetched_at": "2026-10-28T14:05+08:00",
-   "title": "农产品 | 生猪行业处于被动累库局面 近端供应压力仍存",
-   "summary": "生猪: 猪e数据显示10月26日全国外三元均价9.29元/kg,较昨日跌0.04元/kg,猪价持续探底,养殖端抵触降价情绪较强,月末头部猪企出栏计划接近完成,尝试缩量拉涨,叠加气温转凉与二育零星入场,猪价跌幅收窄,但目前体重仍在高位,行业处于被动累库局面,近端供应压力仍存。",
-   "source": "一德期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610283911167686.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_707cb4370af8ca1372b3",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T09:21+08:00",
-   "fetched_at": "2026-10-29T02:59+08:00",
-   "title": "生意社2026年10月28日涤纶短纤趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-28/doc-iniwttsf9727129.shtml",
-   "company": "",
-   "material_ids": [
-    "PF"
-   ],
-   "matched_keywords": [
-    "涤纶短纤"
-   ],
-   "relevance_score": 8
   }
  ]
 }

@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_9897f8d9d7633d31e07a",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T06:33+08:00",
+  "fetched_at": "2026-11-12T06:57+08:00",
+  "title": "11月12日猪价:柳暗花明!猪价“雷霆”上涨,接下来“报复性”反弹?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1100259839_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_78cb4cdd88adef73e8ac",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T05:52+08:00",
+  "fetched_at": "2026-11-12T06:57+08:00",
+  "title": "内蒙古通辽推进玉米单产提升 今年超400万亩耕地达“吨粮田”水平 “密植不只是播种时多下几粒种子”",
+  "summary": "眼下,内蒙古通辽市近2000万亩玉米收获基本完成。当地今年推进玉米单产提升1354万亩,约406.99万亩田块达到亩产1000公斤的“吨粮田”水平。 通辽市科尔沁区丰田镇哈拉满罕村,收获的玉米入仓入库。博丰农业专业合作社理事长林荣抓起一把饱满的玉米粒,满脸笑意。",
+  "source": "人民日报",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202611123928825820.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_8a833e3a6761d333238f",
   "date": "2026-11-11",
   "published_at": "2026-11-11T21:14+08:00",
@@ -16,6 +54,26 @@
   "matched_keywords": [
    "生猪",
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e73073bc11cc363ca081",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T20:48+08:00",
+  "fetched_at": "2026-11-12T06:57+08:00",
+  "title": "Barclays看好THG盈利增长,乳清蛋白成本下降助力营养部门利润率复苏 提供者 Investing.com",
+  "summary": "",
+  "source": "英为财情 Investing.com",
+  "type": "供需动态",
+  "url": "https://cn.investing.com/news/stock-market-news/article-3662102",
+  "company": "",
+  "material_ids": [
+   "WPC34",
+   "WPC80"
+  ],
+  "matched_keywords": [
+   "乳清蛋白"
   ],
   "relevance_score": 8
  },
@@ -9618,62 +9676,5 @@
    "棕榈油"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_793f90c81281f47e92a2",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T23:12+08:00",
-  "fetched_at": "2026-10-13T02:07+08:00",
-  "title": "原糖期货重拾涨势 交易员防范厄尔尼诺冲击",
-  "summary": "原糖期货上涨,看涨交易员继续押注强劲的厄尔尼诺现象将导致主要产糖国供应趋紧。 纽约交投最活跃的原糖期货合约一度上涨3.2%,恢复了上周伦敦糖业周之前开始的涨势。",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-12/doc-iniuytny0541120.shtml",
-  "company": "",
-  "material_ids": [
-   "SR"
-  ],
-  "matched_keywords": [
-   "原糖"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_6516d157442a583fd8f2",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T21:24+08:00",
-  "fetched_at": "2026-10-13T02:07+08:00",
-  "title": "欧洲玉米和小麦期货上涨 美国农业部下调欧盟谷物产量预期",
-  "summary": "美国农业部下调欧洲供应预期后,欧洲玉米期货周一在巴黎上涨,为四个交易日来首次走高。根据上周五公布的数据,美国农业部进一步下调欧盟谷物供应预期,将玉米产量预测大幅下调至4,800万吨,并下调小麦产量预估。收成减少令供应趋紧。泛欧交易所玉米期货一度上涨1.3%,创一周最大涨幅。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://stock.eastmoney.com/a/202610123892909131.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_2c58254d344f1cfca84b",
-  "date": "2026-10-12",
-  "published_at": "2026-10-12T21:24+08:00",
-  "fetched_at": "2026-10-13T02:07+08:00",
-  "title": "泛欧交易所玉米期货一度上涨1.3%",
-  "summary": "泛欧交易所玉米期货一度上涨1.3%,创一周最大涨幅。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610123892907418.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
  }
 ]
