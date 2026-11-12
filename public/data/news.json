@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T06:57+08:00",
+ "updated_at": "2026-11-12T11:43+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,7 +7,7 @@
   "DairyNews.today": 1,
   "Dairynews.today": 7,
   "IDNFinancials": 1,
-  "IndexBox": 10,
+  "IndexBox": 11,
   "QQ News": 1,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 1,
@@ -16,14 +16,12 @@
   "Vietnam.vn": 1,
   "https://www.agripost.cn/": 1,
   "一德期货": 1,
-  "七禾网": 1,
   "上海证券报·中国证券网": 1,
   "上观新闻": 2,
   "东吴期货": 1,
   "东方财富": 4,
   "东方财富Choice数据": 1,
   "东方财富研究中心": 1,
-  "东海期货": 1,
   "中华网": 2,
   "中国新闻网": 1,
   "中国金融信息网": 1,
@@ -38,7 +36,7 @@
   "南方财经网": 15,
   "发现报告": 2,
   "同花顺": 5,
-  "同花顺财经": 6,
+  "同花顺财经": 5,
   "国家粮食和物资储备局": 7,
   "国际果蔬报道": 2,
   "广发期货": 1,
@@ -50,7 +48,7 @@
   "时代周报": 2,
   "时代财经": 1,
   "期货日报": 3,
-  "正信期货": 1,
+  "正信期货": 2,
   "每日经济新闻": 9,
   "深圳商报·读创": 2,
   "混沌天成期货": 2,
@@ -63,28 +61,66 @@
   "观点网": 1,
   "证券之星": 9,
   "证券日报": 1,
-  "证券时报网": 2,
+  "证券时报网": 3,
   "财中社": 1,
   "财联社": 5,
   "钢铁网": 1
  },
  "items": [
   {
-   "id": "news_9897f8d9d7633d31e07a",
+   "id": "news_f8afbff13cd30aeada0e",
    "date": "2026-11-12",
-   "published_at": "2026-11-12T06:33+08:00",
-   "fetched_at": "2026-11-12T06:57+08:00",
-   "title": "11月12日猪价:柳暗花明!猪价“雷霆”上涨,接下来“报复性”反弹?",
+   "published_at": "2026-11-12T11:32+08:00",
+   "fetched_at": "2026-11-12T11:43+08:00",
+   "title": "猪价下行吞噬利润,东瑞股份前三季度亏损创新高,成本与流动性压力凸显。#猪价 #东瑞股份 #亏损",
    "summary": "",
    "source": "Sohu",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1100259839_120238851",
+   "url": "https://m.sohu.com/a/1100492254_121010226",
    "company": "",
    "material_ids": [
     "LH"
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_50f3fa96212c05f7b7c3",
+   "date": "2026-11-12",
+   "published_at": "2026-11-12T09:05+08:00",
+   "fetched_at": "2026-11-12T11:43+08:00",
+   "title": "国内期货早盘开盘多数上涨 棕榈油、葵花籽油等涨超2%",
+   "summary": "人民财讯11月12日电,国内期货早盘开盘多数上涨,棕榈油、葵花籽油等涨超2%,丙烯、生猪等涨超1%;沪金、铂、焦煤等跌超1%。",
+   "source": "证券时报网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611123929240781.html",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_71f64d9b01acb982d6e9",
+   "date": "2026-11-12",
+   "published_at": "2026-11-12T08:36+08:00",
+   "fetched_at": "2026-11-12T11:43+08:00",
+   "title": "农产品 | 新季开榨 供给充裕 郑糖短期低位震荡运行",
+   "summary": "国内大豆及豆粕供应旺盛,油厂大豆库存偏高,上方存在压力。 (数据来源:钢联,金十数据,USDA) ▼鸡蛋 现货大稳小动,期货近强远弱 供给方面:今年二季度养殖利润转正并快速上升,补栏热情高涨;同时高利润下养殖户惜售延养,导致供给后置。",
+   "source": "正信期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611123929073875.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "郑糖"
    ],
    "relevance_score": 8
   },
@@ -106,6 +142,25 @@
     "玉米"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_bfe0235b9a0465599004",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T23:40+08:00",
+   "fetched_at": "2026-11-12T11:43+08:00",
+   "title": "美国农业部生猪报告 2026年11月11日:协商价格、成交量与地区数据 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-november-11-2026/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_8a833e3a6761d333238f",
@@ -3881,64 +3936,6 @@
     "猪价"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_d8e3593713bad94b1564",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T11:41+08:00",
-   "fetched_at": "2026-10-28T14:05+08:00",
-   "title": "【现货】10月28日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261028/c681177124.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e60dc784de4b07fd2f6b",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T11:06+08:00",
-   "fetched_at": "2026-10-28T21:23+08:00",
-   "title": "生猪:PSY提升对冲产能去化,年末猪价或涨幅受限",
-   "summary": "",
-   "source": "七禾网",
-   "type": "供需动态",
-   "url": "https://www.7hcn.com/article/485972-1.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b8f511d41e7db4563d39",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T10:04+08:00",
-   "fetched_at": "2026-10-28T14:05+08:00",
-   "title": "农产品 | 巴西雷亚尔雷亚尔趋软 打击市场对美国大豆出口需求",
-   "summary": "国内方面,10月大豆到港量仍处季节性偏高水平,油厂压榨节奏难以显著放缓,豆粕产出端压力具有持续性。需求端饲料企业采购以按需随采、刚需为主,物理库存天数虽有小幅回升,但终端追高动力不足。预计短期内豆粕现货价格随盘继续偏弱震荡。",
-   "source": "东海期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610283911349456.html",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 12
   }
  ]
 }
