@@ -1,5 +1,64 @@
 [
  {
+  "id": "news_f4455328c892d3225045",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T18:43+08:00",
+  "fetched_at": "2026-11-12T20:20+08:00",
+  "title": "生猪现货价格再度跌破前低 市场旺季成色或不足",
+  "summary": "但需求提升却导致猪价不增反降,10月份全国瘦肉型生猪价格为9.65元/公斤,环比下滑9.64%。进入11月,猪价呈现持续下滑现象。截止到11月12日,全国瘦肉型生猪价格为8.56元/公斤,再度突破前低。",
+  "source": "证券时报网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611123929804385.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_fed86e8b57f925d24802",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T16:47+08:00",
+  "fetched_at": "2026-11-12T20:20+08:00",
+  "title": "MPOB 10月报告解读|马棕累库低于预期,棕榈油超跌反弹",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261112/c681756106.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "mpob"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2c8d9b443e8dcfaa00c0",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T11:52+08:00",
+  "fetched_at": "2026-11-12T20:20+08:00",
+  "title": "厄尔尼诺致菲律宾农业损失近100亿比索 玉米和水稻生产受冲击",
+  "summary": "其中,玉米种植业受冲击最为严重,产量损失约16.12万吨,经济损失约56.3亿比索,占农业总损失的约56%。水稻种植业损失约36.5亿比索,产量减少约10.89万吨。此外,低地和高地蔬菜等高价值农作物也受到影响,损失约6.56亿比索,产量损失约1.82万吨。",
+  "source": "中国新闻网",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202611123929389950.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_f8afbff13cd30aeada0e",
   "date": "2026-11-12",
   "published_at": "2026-11-12T11:32+08:00",
@@ -9615,63 +9674,5 @@
    "棕榈油"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_9be6a46cf51d49a5c6a9",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T08:28+08:00",
-  "fetched_at": "2026-10-13T09:09+08:00",
-  "title": "农产品 | 生猪:市场供给相对充裕 需求平平",
-  "summary": "【生猪】 生猪:全国生猪均价10.12元每公斤,下跌0.15元。养殖端北方出栏有增有减,南方增量,成交一般。屠企采购顺畅,部分计划完成较快。市场供给相对充裕,需求平平,供大于需持续。",
-  "source": "申银万国期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610133893319589.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_2f9c06a17faa0e42cd7e",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T05:46+08:00",
-  "fetched_at": "2026-10-13T09:09+08:00",
-  "title": "CBOT农产品期货主力合约收盘多数上涨,玉米期货涨0.78%",
-  "summary": "当地时间10月12日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数上涨,大豆期货跌0.29%报1288.25美分/蒲式耳,玉米期货涨0.78%报483.50美分/蒲式耳,小麦期货涨0.26%报672.75美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610133893074811.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_567a3fc21d59fad973da",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T02:07+08:00",
-  "fetched_at": "2026-10-13T02:44+08:00",
-  "title": "养殖端集中出栏 9月国内生猪价格有所下滑",
-  "summary": "预计10月份生猪价格或震荡下滑。但11月份生猪市场需求或陆续增加,随着大猪需求好转、价格上涨,标猪价格或得以支撑;此外,养殖户或有压栏增重表现,等待12月份冬至前后出栏,因此11月份供应或短时收窄,猪价不乏上涨可能。",
-  "source": "证券时报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610133893054051.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
  }
 ]
