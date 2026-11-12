@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T20:20+08:00",
+ "updated_at": "2026-11-13T00:58+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -8,7 +8,6 @@
   "Dairynews.today": 7,
   "IDNFinancials": 1,
   "IndexBox": 11,
-  "QQ News": 1,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 1,
   "Sohu": 4,
@@ -33,7 +32,7 @@
   "农业农村部": 2,
   "凤凰网": 1,
   "南华期货": 1,
-  "南方财经网": 14,
+  "南方财经网": 15,
   "发现报告": 2,
   "同花顺": 5,
   "同花顺财经": 6,
@@ -41,7 +40,7 @@
   "国际果蔬报道": 2,
   "广发期货": 1,
   "手机新浪网": 3,
-  "搜狐网": 12,
+  "搜狐网": 11,
   "新华财经": 2,
   "新浪财经": 28,
   "新财富杂志": 1,
@@ -64,9 +63,29 @@
   "证券时报网": 4,
   "财中社": 1,
   "财联社": 5,
+  "金十数据": 1,
   "钢铁网": 1
  },
  "items": [
+  {
+   "id": "news_4c18e79548c52ec87558",
+   "date": "2026-11-12",
+   "published_at": "2026-11-12T18:47+08:00",
+   "fetched_at": "2026-11-13T00:58+08:00",
+   "title": "近期生猪期货价格反弹,短期是否见底? | 金十期货热图-市场参考",
+   "summary": "",
+   "source": "金十数据",
+   "type": "价格行情",
+   "url": "https://xnews.jin10.com/details/235078",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_f4455328c892d3225045",
    "date": "2026-11-12",
@@ -106,6 +125,44 @@
     "mpob"
    ],
    "relevance_score": 8
+  },
+  {
+   "id": "news_b56ffdd5ccc75ca2d00d",
+   "date": "2026-11-12",
+   "published_at": "2026-11-12T15:43+08:00",
+   "fetched_at": "2026-11-13T00:58+08:00",
+   "title": "生猪主力合约收涨1.1%",
+   "summary": "21财经11月12日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨1.1%,收盘报9680.0元/吨,日内资金流出1.84亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611123929960639.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_9af6f259286e7b0963f8",
+   "date": "2026-11-12",
+   "published_at": "2026-11-12T15:43+08:00",
+   "fetched_at": "2026-11-13T00:58+08:00",
+   "title": "玉米主力合约收跌0.23%",
+   "summary": "21财经11月12日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.23%,收盘报2187.0元/吨,日内资金流入2851.05万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611123929961274.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
   },
   {
    "id": "news_2c8d9b443e8dcfaa00c0",
@@ -3878,64 +3935,6 @@
     "核桃"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_b133e0747813b40879aa",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T18:51+08:00",
-   "fetched_at": "2026-11-01T07:10+08:00",
-   "title": "10月28日生猪价格:持续下探!消费旺季即将来临,猪价能否托底?",
-   "summary": "",
-   "source": "QQ News",
-   "type": "价格行情",
-   "url": "https://news.qq.com/rain/a/20261028A0BZEF00",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_47f9b59b0d4ea0a71238",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T16:25+08:00",
-   "fetched_at": "2026-10-28T21:23+08:00",
-   "title": "现货弱期货强,棕榈油在等一个拐点",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1093921559_121118712",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8fa576eedd7fa3c1d4c8",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T15:44+08:00",
-   "fetched_at": "2026-10-28T21:23+08:00",
-   "title": "玉米主力合约收涨0.72%",
-   "summary": "南财智讯10月28日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.72%,收盘报2224.0元/吨,日内资金流入6534.68万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610283911881730.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
   }
  ]
 }

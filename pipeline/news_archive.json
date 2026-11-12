@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_4c18e79548c52ec87558",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T18:47+08:00",
+  "fetched_at": "2026-11-13T00:58+08:00",
+  "title": "近期生猪期货价格反弹,短期是否见底? | 金十期货热图-市场参考",
+  "summary": "",
+  "source": "金十数据",
+  "type": "价格行情",
+  "url": "https://xnews.jin10.com/details/235078",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_f4455328c892d3225045",
   "date": "2026-11-12",
   "published_at": "2026-11-12T18:43+08:00",
@@ -38,6 +57,44 @@
    "mpob"
   ],
   "relevance_score": 8
+ },
+ {
+  "id": "news_b56ffdd5ccc75ca2d00d",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T15:43+08:00",
+  "fetched_at": "2026-11-13T00:58+08:00",
+  "title": "生猪主力合约收涨1.1%",
+  "summary": "21财经11月12日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨1.1%,收盘报9680.0元/吨,日内资金流出1.84亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611123929960639.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_9af6f259286e7b0963f8",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T15:43+08:00",
+  "fetched_at": "2026-11-13T00:58+08:00",
+  "title": "玉米主力合约收跌0.23%",
+  "summary": "21财经11月12日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.23%,收盘报2187.0元/吨,日内资金流入2851.05万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611123929961274.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
  },
  {
   "id": "news_2c8d9b443e8dcfaa00c0",
@@ -9617,62 +9674,5 @@
    "生猪"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_93139cdbf697ba70aab2",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T09:17+08:00",
-  "fetched_at": "2026-10-13T16:12+08:00",
-  "title": "牧原股份:公司9月的生猪养殖完全成本略低于11.5元/kg",
-  "summary": "南财智讯10月13日电,牧原股份在互动平台表示,公司2026年9月的生猪养殖完全成本略低于11.5元/kg。",
-  "source": "南方财经网",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610133893528254.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_63426a40e59c98591984",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T08:52+08:00",
-  "fetched_at": "2026-10-13T09:09+08:00",
-  "title": "农产品 | 玉米:现货市场好转带动盘面回调",
-  "summary": "驻马店白沙花生现货价格7750元/吨,基差14元/吨;南阳白沙花生现货价格7800元/吨,基差64元/吨;河南大杂米通货现货价格7600元/吨,基差-136元/吨;辽宁白沙现货价格8050元/吨,基差314元/吨;兴城小日本现货价格8150元/吨,基差414元/吨。",
-  "source": "南华期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610133893351813.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b23127c22390b68530b3",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T08:32+08:00",
-  "fetched_at": "2026-10-13T09:09+08:00",
-  "title": "农产品 | 棕榈油:马棕增库阶段性利空兑现 短期连棕探底后企稳",
-  "summary": "原油价格上涨提供支持。 国内,种植端,新疆大部分地区棉花已充分吐絮,现已开启大面积机采,新棉陆续上市,开秤价区间7.30-7.40元/公斤,整体籽棉收购价维持高位,轧花厂收购偏理性,后续持续跟踪采收进度。供应端,新棉上市提速、供应增多。",
-  "source": "正信期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610133893320688.html",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
  }
 ]

@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-11T16:25:14",
+ "run_at": "2026-11-12T16:56:41",
  "steps": [
   {
    "step": "spot_prices",
@@ -8,8 +8,8 @@
   },
   {
    "step": "kline",
-   "status": "ok",
-   "detail": "更新158/158只"
+   "status": "partial",
+   "detail": "更新157/158只, 失败:['000568']"
   }
  ]
 }
