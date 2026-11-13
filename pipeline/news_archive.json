@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_b7705245b7cc541b0582",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T19:02+08:00",
+  "fetched_at": "2026-11-14T00:38+08:00",
+  "title": "减少交易频率却增加市场厚度:生猪拍卖市场中计划性休市的影响研究",
+  "summary": "",
+  "source": "生物通",
+  "type": "供需动态",
+  "url": "https://www.ebiotrade.com/newsf/2026-11/20261113082533263.htm",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_f3a93b99732806b9ab9b",
   "date": "2026-11-13",
   "published_at": "2026-11-13T15:42+08:00",
@@ -76,21 +95,40 @@
   "relevance_score": 8
  },
  {
-  "id": "news_beabd9b752ae057760e1",
+  "id": "news_44b333962cd84f5aa91a",
   "date": "2026-11-13",
-  "published_at": "2026-11-13T11:17+08:00",
+  "published_at": "2026-11-13T10:54+08:00",
   "fetched_at": "2026-11-13T16:35+08:00",
-  "title": "港股异动丨猪肉股短线走强,中粮家佳康涨4.2%、牧原涨近4%,猪价低位温和修复_股市直播_市场",
+  "title": "猪肉股短线走强,中粮家佳康涨4.2%、牧原涨近4%,猪价低位温和修复",
   "summary": "",
-  "source": "中金在线",
+  "source": "金融界",
   "type": "价格行情",
-  "url": "http://sc.stock.cnfol.com/gushizhibo/20261113/32422716.shtml",
+  "url": "https://m.jrj.com.cn/madapter/stock/2026/11/13105459128148.shtml",
   "company": "",
   "material_ids": [
    "LH"
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c4d5c5256789a5ba1e5a",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T10:48+08:00",
+  "fetched_at": "2026-11-14T00:38+08:00",
+  "title": "港股异动 | 牧原股份(02714)早盘涨超4% 10月生猪养殖完全成本降至约11.4元/kg",
+  "summary": "",
+  "source": "富途牛牛",
+  "type": "供需动态",
+  "url": "https://news.futunn.com/post/1004395816/hk-stocks-move-muyuan-shares-02714-rise-over-4-in",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
   ],
   "relevance_score": 8
  },
@@ -9629,43 +9667,5 @@
    "猪价"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_e0e12bae2c77fa7f3410",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T08:02+08:00",
-  "fetched_at": "2026-10-14T13:55+08:00",
-  "title": "下游需求偏弱 PTA宽幅震荡",
-  "summary": "受终端弱需求影响,下游聚酯价格涨幅不及原料,利润压缩,出现明显负反馈。截至10月8日,聚酯综合负荷回落至74%,大幅低于往年同期水平。具体来看,由于亏损持续时间较长,瓶片和短纤的负反馈更为明显:瓶片负荷近1个月持续走低,已跌至57%,短纤负荷大幅下滑至62%。",
-  "source": "期货日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610143894917457.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b589254779e1f0e7774d",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T03:50+08:00",
-  "fetched_at": "2026-10-14T05:25+08:00",
-  "title": "ICE计划推出牛和生猪期货合约,挑战芝商所",
-  "summary": "",
-  "source": "币界网",
-  "type": "价格行情",
-  "url": "https://www.528btc.com/kx/1151340982.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
  }
 ]
