@@ -1,5 +1,177 @@
 [
  {
+  "id": "news_f3a93b99732806b9ab9b",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T15:42+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "生猪主力合约收涨3.26%",
+  "summary": "21财经11月13日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨3.26%,收盘报9965.0元/吨,日内资金流出1371.51万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611133930684270.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_74ee5e2dcc1eee915c5f",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T15:41+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "玉米主力合约收跌0.14%",
+  "summary": "21财经11月13日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.14%,收盘报2185.0元/吨,日内资金流入7077.09万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611133930687872.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_8b835e16a9220ab125f1",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T13:29+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "生猪涨幅超5%,深亏下的养殖端能否回血?|期市头条",
+  "summary": "",
+  "source": "Sohu",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1101033708_114986",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_809ccd667a07805f8200",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T11:40+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "【现货】11月12日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261113/c681739595.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_beabd9b752ae057760e1",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T11:17+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "港股异动丨猪肉股短线走强,中粮家佳康涨4.2%、牧原涨近4%,猪价低位温和修复_股市直播_市场",
+  "summary": "",
+  "source": "中金在线",
+  "type": "价格行情",
+  "url": "http://sc.stock.cnfol.com/gushizhibo/20261113/32422716.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_1e6ae85b584f0cd1455f",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T10:33+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "本周菜籽粕现货价格上涨",
+  "summary": "11月12日,沿海地区普通蛋白菜籽粕现货价格2390~2440元/吨,较上周同期上涨60~160元/吨;两广地区地区现货基差报价RM01+150~160元/吨,部分地区下跌20元/吨。",
+  "source": "国家粮食和物资储备局",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611133930567721.html",
+  "company": "",
+  "material_ids": [
+   "RM"
+  ],
+  "matched_keywords": [
+   "菜籽粕"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_c693531df87e320f6e6f",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T10:08+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "辅酶Q10哪个牌子最好?从泛醌到泛醇的产业跃迁:11.11热售十大辅酶Q10品牌推荐,从原料、形态、剂量、技术四维度观察",
+  "summary": "",
+  "source": "凤凰网",
+  "type": "供需动态",
+  "url": "https://baby.ifeng.com/c/8y0xmho6q9c",
+  "company": "",
+  "material_ids": [
+   "COQ10"
+  ],
+  "matched_keywords": [
+   "辅酶q10"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_966f4d5d8ded8b230689",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T09:30+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "PTA地缘溢价回落",
+  "summary": "另一方面,聚酯原料价格连续走低,前期以高价原料生产的成品库存面临贬值风险,下游企业与贸易商普遍不愿持库过年,出货意愿强烈。若年前库存能降至低位,明年春季补单启动后,需求仍有修复空间。 综合来看,短期美伊和谈持续推进,成本端对PTA的支撑作用弱化,PTA价格或随油价偏弱运行。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611133930528047.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_bb44affbca1bd4008bf4",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T09:19+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "国产大豆新品种“东生89”实现高产 实收亩产371.58公斤丨盘前线索",
+  "summary": "种业是农业产业链的源头环节,涵盖种质资源保护与利用、品种选育、种子生产加工与推广服务等环节,其中大豆是油脂和蛋白饲料的重要原料作物。我国大豆单产与主产国相比仍有提升空间,高产、耐密植、高蛋白新品种的选育和推广是行业持续投入的方向。",
+  "source": "21世纪经济报道",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202611133930546627.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "国产大豆",
+   "大豆"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_e6b8726cb7f9ed744ba0",
   "date": "2026-11-13",
   "published_at": "2026-11-13T09:03+08:00",
@@ -39,23 +211,23 @@
   "relevance_score": 12
  },
  {
-  "id": "news_19cc6c07d5c3b6db5b46",
+  "id": "news_bb19b17770ce5e90d6e2",
   "date": "2026-11-13",
-  "published_at": "2026-11-13T00:11+08:00",
-  "fetched_at": "2026-11-13T09:22+08:00",
-  "title": "猪价上涨!2026年11月13日-今日最新猪价行情分享",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1100778598_122014422",
+  "published_at": "2026-11-13T08:37+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "西辽河畔粮仓满——内蒙古通辽2000万亩玉米实现增产增收",
+  "summary": "初冬时节,内蒙古通辽市近2000万亩玉米收获完毕,乡间粮站玉米堆成小山。通辽位于世界三大黄金玉米带之一的中国东北黄金玉米带核心区,玉米这株“铁杆庄稼”在沙地广布、水资源紧张的科尔沁大地,结出连年增产的果实。",
+  "source": "经济参考报",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202611133930550243.html",
   "company": "",
   "material_ids": [
-   "LH"
+   "C"
   ],
   "matched_keywords": [
-   "猪价"
+   "玉米"
   ],
-  "relevance_score": 8
+  "relevance_score": 12
  },
  {
   "id": "news_45174e9076fa4b573b23",
@@ -172,6 +344,25 @@
    "玉米"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_9b4322e7de3618c25a72",
+  "date": "2026-11-12",
+  "published_at": "2026-11-12T14:06+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "生猪涨幅超 5%,深亏下的养殖端能否回血?|期市头条",
+  "summary": "",
+  "source": "第一财经",
+  "type": "供需动态",
+  "url": "https://www.yicai.com/video/103439618.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_2c8d9b443e8dcfaa00c0",
@@ -1171,6 +1362,25 @@
   "source": "观点网",
   "type": "价格行情",
   "url": "https://www.guandian.cn/article/20261109/625051.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_243904f3b63de64fbec7",
+  "date": "2026-11-09",
+  "published_at": "2026-11-09T17:10+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "数字人解读 | 关于印发《北京市生猪产能综合调控实施方案(2026年修订)》的通知政策解读",
+  "summary": "",
+  "source": "北京市人民政府门户网站",
+  "type": "政策与供应",
+  "url": "https://www.beijing.gov.cn/zhengce/zcjd/202611/t20261109_4937965.html",
   "company": "",
   "material_ids": [
    "LH"
@@ -9457,221 +9667,5 @@
    "生猪"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_94cb4b7170b4828700c3",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T22:30+08:00",
-  "fetched_at": "2026-10-14T00:13+08:00",
-  "title": "美国农业部生猪报告2026年10月13日:购买量参差,协商价格走软 - 新闻和统计",
-  "summary": "",
-  "source": "IndexBox",
-  "type": "价格行情",
-  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-hog-report-mixed-purchase-volumes-softer-negotiated-prices/",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6b6c870dce124b5f7608",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T18:42+08:00",
-  "fetched_at": "2026-10-15T15:07+08:00",
-  "title": "MPOB 9月报告解读:库存升至历史高位,棕榈油价格上行承压",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261013/c680634770.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "mpob"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_44a548cce8d90d3f2cff",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T18:30+08:00",
-  "fetched_at": "2026-10-14T00:13+08:00",
-  "title": "今日核桃价格一览|10月12日",
-  "summary": "",
-  "source": "新浪网",
-  "type": "价格行情",
-  "url": "https://k.sina.com.cn/article_5953466437_162dab0450670beq6e.html",
-  "company": "",
-  "material_ids": [
-   "WALNUT"
-  ],
-  "matched_keywords": [
-   "核桃"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f0e482d707dc198ae2da",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T17:35+08:00",
-  "fetched_at": "2026-10-15T04:04+08:00",
-  "title": "新希望9月商品猪销售均价同比下降20%,受生猪价格同比下降影响今年上半年已亏损17亿元",
-  "summary": "",
-  "source": "挖贝网",
-  "type": "价格行情",
-  "url": "https://www.wabei.cn/Home/News/366229",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7b93aebfae38eadf6a74",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T15:41+08:00",
-  "fetched_at": "2026-10-13T16:12+08:00",
-  "title": "生猪主力合约收跌1.5%",
-  "summary": "南财智讯10月13日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.5%,收盘报10210.0元/吨,日内资金流出2.92亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610133894133814.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_58105b30c7ac775a3b9f",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T15:41+08:00",
-  "fetched_at": "2026-10-13T16:12+08:00",
-  "title": "玉米主力合约收涨1.11%",
-  "summary": "南财智讯10月13日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨1.11%,收盘报2195.0元/吨,日内资金流出3.14亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610133894133211.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_b8b7f28d447ec012fc09",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T15:00+08:00",
-  "fetched_at": "2026-10-16T05:04+08:00",
-  "title": "光大期货:10月13日农产品日报|大豆|豆油期货|美国|巴西|玉米",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-13/detail-iniuzuyp7244141.d.html",
-  "company": "",
-  "material_ids": [
-   "C",
-   "A",
-   "Y"
-  ],
-  "matched_keywords": [
-   "玉米",
-   "大豆",
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_87eac1dd86b9fe7be539",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T15:00+08:00",
-  "fetched_at": "2026-10-18T12:58+08:00",
-  "title": "行业追踪|农业生猪养殖市场(10月7日-10月13日):猪料比价格环比略有下跌",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261013/c680643084.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5bfce3c329a5d3219d77",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T14:21+08:00",
-  "fetched_at": "2026-10-20T05:40+08:00",
-  "title": "10月USDA大豆月度供需报告解读",
-  "summary": "",
-  "source": "同花顺",
-  "type": "供需动态",
-  "url": "https://m.10jqka.com.cn/20261013/c680629721.shtml",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_12c612eb695f0615a161",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T13:38+08:00",
-  "fetched_at": "2026-10-13T16:12+08:00",
-  "title": "供给增加、消费转弱叠加冻品抛压,10月猪价或继续磨底",
-  "summary": "卓创资讯生猪行业高级分析师范晴晴 【导语】据卓创资讯统计,9月生猪均价环比下滑1.05%,市场供大于求拖累猪价震荡下行。进入10月,样本养殖企业出栏计划环比增加2.45%...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-13/doc-inivafqp8819363.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_45b168ddf8900b15a39b",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T13:32+08:00",
-  "fetched_at": "2026-10-13T16:12+08:00",
-  "title": "10月东南沿海玉米市场或迎来价格探底、交投回暖",
-  "summary": "卓创资讯玉米市场分析师邹骏 【导语】2026年9月东南沿海玉米市场新陈交替节奏明显快于往年,华北新季玉米集中上市直接推动南港报价提前向新作定价体系过渡...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-13/doc-inivafqi7189775.shtml",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
  }
 ]
