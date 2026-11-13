@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T00:58+08:00",
+ "updated_at": "2026-11-13T09:22+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,18 +7,18 @@
   "DairyNews.today": 1,
   "Dairynews.today": 7,
   "IDNFinancials": 1,
-  "IndexBox": 11,
+  "IndexBox": 10,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 1,
-  "Sohu": 4,
+  "Sohu": 5,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "https://www.agripost.cn/": 1,
-  "一德期货": 1,
+  "一德期货": 2,
   "上海证券报·中国证券网": 1,
   "上观新闻": 2,
   "东吴期货": 1,
-  "东方财富": 4,
+  "东方财富": 3,
   "东方财富Choice数据": 1,
   "东方财富研究中心": 1,
   "中华网": 2,
@@ -31,18 +31,19 @@
   "光大期货": 2,
   "农业农村部": 2,
   "凤凰网": 1,
-  "南华期货": 1,
+  "南华期货": 2,
   "南方财经网": 15,
   "发现报告": 2,
   "同花顺": 5,
   "同花顺财经": 6,
   "国家粮食和物资储备局": 7,
   "国际果蔬报道": 2,
+  "央视财经": 1,
   "广发期货": 1,
   "手机新浪网": 3,
   "搜狐网": 11,
   "新华财经": 2,
-  "新浪财经": 28,
+  "新浪财经": 26,
   "新财富杂志": 1,
   "时代周报": 2,
   "时代财经": 1,
@@ -67,6 +68,83 @@
   "钢铁网": 1
  },
  "items": [
+  {
+   "id": "news_e6b8726cb7f9ed744ba0",
+   "date": "2026-11-13",
+   "published_at": "2026-11-13T09:03+08:00",
+   "fetched_at": "2026-11-13T09:22+08:00",
+   "title": "农产品 | 新糖上市节奏已取代外盘成为国内定价主导 郑糖重心继续下移",
+   "summary": "生猪:现货北方续弹近月逆势回落,猪价磨底情绪修复未改 【期货盘面】 上一交易日(11月12日),生猪主力合约 LH2701 收于 9680 元/吨,较前一交易日上涨105 元/吨,涨幅 1.10%;近月合约 LH2611 收于 7900 元/吨,下跌 100 元/吨,跌幅 1.25%",
+   "source": "南华期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611133930416026.html",
+   "company": "",
+   "material_ids": [
+    "SR"
+   ],
+   "matched_keywords": [
+    "郑糖"
+   ],
+   "relevance_score": 7
+  },
+  {
+   "id": "news_2cae2905800ba4ed96c3",
+   "date": "2026-11-13",
+   "published_at": "2026-11-13T09:01+08:00",
+   "fetched_at": "2026-11-13T09:22+08:00",
+   "title": "农产品 | 供应基数仍偏高 出栏体重高位 猪价反弹高度有限",
+   "summary": "生猪: 猪e数据显示11月12日全国外三元均价8.54元/kg,较上日持平,现货企稳反弹,肥猪价格表现强势,带动市场情绪好转,养殖端出栏意愿降低,多因素带动猪价走强,但目前供应基数仍偏高,出栏体重高位,猪价反弹高度有限。期货基差已经明显收缩,跟随现货波动为主。",
+   "source": "一德期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611133930396486.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_19cc6c07d5c3b6db5b46",
+   "date": "2026-11-13",
+   "published_at": "2026-11-13T00:11+08:00",
+   "fetched_at": "2026-11-13T09:22+08:00",
+   "title": "猪价上涨!2026年11月13日-今日最新猪价行情分享",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1100778598_122014422",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_45174e9076fa4b573b23",
+   "date": "2026-11-13",
+   "published_at": "2026-11-13T00:00+08:00",
+   "fetched_at": "2026-11-13T09:22+08:00",
+   "title": "场景开放 如何夯实大豆供给韧性?",
+   "summary": "",
+   "source": "央视财经",
+   "type": "供需动态",
+   "url": "https://jingji.cctv.com/2026/11/13/ARTImoBPhGtczkc3Q2riaCTo261113.shtml",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_4c18e79548c52ec87558",
    "date": "2026-11-12",
@@ -431,6 +509,25 @@
    ],
    "matched_keywords": [
     "大豆"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_15ecded6fa03a28c937b",
+   "date": "2026-11-11",
+   "published_at": "2026-11-11T14:09+08:00",
+   "fetched_at": "2026-11-13T09:22+08:00",
+   "title": "供需面结构较上个月收紧 豆粕期货回到上涨趋势",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://cj.sina.cn/articles/view/5953189932/162d6782c067053qoi",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
    ],
    "relevance_score": 8
   },
@@ -3838,103 +3935,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_b108483929c1f3367e49",
-   "date": "2026-10-29",
-   "published_at": "2026-10-29T09:15+08:00",
-   "fetched_at": "2026-10-30T00:43+08:00",
-   "title": "生意社2026年10月29日PTA趋势分析:明确上涨",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-29/doc-iniwwawy6034835.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2d741319872880b8add1",
-   "date": "2026-10-29",
-   "published_at": "2026-10-29T03:34+08:00",
-   "fetched_at": "2026-10-29T23:22+08:00",
-   "title": "仙乐健康:拟联合全球鱼油藻油头部企业成立全球Omega-3供应保障战略联盟",
-   "summary": "",
-   "source": "东方财富",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610293913665967.html",
-   "company": "",
-   "material_ids": [
-    "FISHOIL"
-   ],
-   "matched_keywords": [
-    "鱼油",
-    "omega-3"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_a3b62f0b64363bf5d3d3",
-   "date": "2026-10-29",
-   "published_at": "2026-10-29T00:00+08:00",
-   "fetched_at": "2026-10-29T02:59+08:00",
-   "title": "10月生猪屠宰量同环比双降,11月需求缓升或带动环比小增",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-29/doc-iniwvftn3141799.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_cfd14a79155b5ca970f2",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T21:40+08:00",
-   "fetched_at": "2026-10-28T04:50+08:00",
-   "title": "美国农业部生猪报告2026年10月28日:协商采购量下降,胴体价格走低 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-negotiated-purchases-fall-to-10934-head-on-october-28-2026/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f6e62d6b502a9e7ebe7d",
-   "date": "2026-10-28",
-   "published_at": "2026-10-28T20:11+08:00",
-   "fetched_at": "2026-10-29T02:59+08:00",
-   "title": "新华指数监测:本期永平核桃新季购销升温 核桃仁、青皮果、鲜果价格上行",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/bond/2026-10-28/doc-iniwuvct9405056.shtml?froms=ggmp",
-   "company": "",
-   "material_ids": [
-    "WALNUT"
-   ],
-   "matched_keywords": [
-    "核桃仁",
-    "核桃"
-   ],
-   "relevance_score": 8
   }
  ]
 }

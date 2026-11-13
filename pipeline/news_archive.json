@@ -1,5 +1,82 @@
 [
  {
+  "id": "news_e6b8726cb7f9ed744ba0",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T09:03+08:00",
+  "fetched_at": "2026-11-13T09:22+08:00",
+  "title": "农产品 | 新糖上市节奏已取代外盘成为国内定价主导 郑糖重心继续下移",
+  "summary": "生猪:现货北方续弹近月逆势回落,猪价磨底情绪修复未改 【期货盘面】 上一交易日(11月12日),生猪主力合约 LH2701 收于 9680 元/吨,较前一交易日上涨105 元/吨,涨幅 1.10%;近月合约 LH2611 收于 7900 元/吨,下跌 100 元/吨,跌幅 1.25%",
+  "source": "南华期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611133930416026.html",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "郑糖"
+  ],
+  "relevance_score": 7
+ },
+ {
+  "id": "news_2cae2905800ba4ed96c3",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T09:01+08:00",
+  "fetched_at": "2026-11-13T09:22+08:00",
+  "title": "农产品 | 供应基数仍偏高 出栏体重高位 猪价反弹高度有限",
+  "summary": "生猪: 猪e数据显示11月12日全国外三元均价8.54元/kg,较上日持平,现货企稳反弹,肥猪价格表现强势,带动市场情绪好转,养殖端出栏意愿降低,多因素带动猪价走强,但目前供应基数仍偏高,出栏体重高位,猪价反弹高度有限。期货基差已经明显收缩,跟随现货波动为主。",
+  "source": "一德期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611133930396486.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_19cc6c07d5c3b6db5b46",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T00:11+08:00",
+  "fetched_at": "2026-11-13T09:22+08:00",
+  "title": "猪价上涨!2026年11月13日-今日最新猪价行情分享",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1100778598_122014422",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_45174e9076fa4b573b23",
+  "date": "2026-11-13",
+  "published_at": "2026-11-13T00:00+08:00",
+  "fetched_at": "2026-11-13T09:22+08:00",
+  "title": "场景开放 如何夯实大豆供给韧性?",
+  "summary": "",
+  "source": "央视财经",
+  "type": "供需动态",
+  "url": "https://jingji.cctv.com/2026/11/13/ARTImoBPhGtczkc3Q2riaCTo261113.shtml",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_4c18e79548c52ec87558",
   "date": "2026-11-12",
   "published_at": "2026-11-12T18:47+08:00",
@@ -382,6 +459,25 @@
   ],
   "matched_keywords": [
    "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_15ecded6fa03a28c937b",
+  "date": "2026-11-11",
+  "published_at": "2026-11-11T14:09+08:00",
+  "fetched_at": "2026-11-13T09:22+08:00",
+  "title": "供需面结构较上个月收紧 豆粕期货回到上涨趋势",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://cj.sina.cn/articles/view/5953189932/162d6782c067053qoi",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
   ],
   "relevance_score": 8
  },
@@ -9577,102 +9673,5 @@
    "玉米"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_b1dbf7bf3cb664fe3fed",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T11:39+08:00",
-  "fetched_at": "2026-10-13T16:12+08:00",
-  "title": "港股异动丨猪肉股集体下跌,德康农牧跌超4%,猪价再次跌破10元关口",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1087098355_639898",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9c63841d4e808f8d05fb",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T11:03+08:00",
-  "fetched_at": "2026-10-13T16:12+08:00",
-  "title": "蛋白粉“伤肾”争议背后:乳清蛋白成本暴涨 蟑螂粉成平替?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "供需动态",
-  "url": "https://www.sohu.com/a/1087075542_161795",
-  "company": "",
-  "material_ids": [
-   "WPC34",
-   "WPC80"
-  ],
-  "matched_keywords": [
-   "乳清蛋白"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2cf19dc9b1973e8a589b",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T10:31+08:00",
-  "fetched_at": "2026-10-14T00:13+08:00",
-  "title": "豆一突破性上涨供需面是否支持继续上行?|厄尔尼诺现象|豆一期货|农产品|黑龙江省|大豆",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-12/detail-iniuypff8437371.d.html",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆",
-   "豆一"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5eb61c046a2cd2a15990",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T09:55+08:00",
-  "fetched_at": "2026-10-13T16:12+08:00",
-  "title": "观察 | 双汇因兽药残留超标事件被罚没上亿元,给生猪产业带来什么警示",
-  "summary": "双汇发展是国内老牌肉制品龙头,除了以火腿肠为代表的肉食品业务,生猪屠宰也是双汇的支柱业务之一。在行业内,生猪产销分离的模式较为常见,屠宰企业外购生猪,而上游供应方分散,容易造成上下游信息不对称。",
-  "source": "第一财经",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610133893754784.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_a3687fe3e52f27e77b8b",
-  "date": "2026-10-13",
-  "published_at": "2026-10-13T09:22+08:00",
-  "fetched_at": "2026-10-13T16:12+08:00",
-  "title": "生猪主力合约跌逾2%",
-  "summary": "生猪主力合约跌幅扩大至逾2%,现报10145元/吨。",
-  "source": "第一财经",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610133893568549.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
  }
 ]
