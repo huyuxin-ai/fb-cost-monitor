@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_a845d4703b450e5a0d8f",
+  "date": "2026-11-14",
+  "published_at": "2026-11-14T05:07+08:00",
+  "fetched_at": "2026-11-14T06:46+08:00",
+  "title": "华泰期货:惜售情绪升温,猪价维持震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-13/detail-iniypzqm3708801.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_26f9e4d88bae65f23c44",
+  "date": "2026-11-14",
+  "published_at": "2026-11-14T01:51+08:00",
+  "fetched_at": "2026-11-14T06:46+08:00",
+  "title": "港股异动丨猪肉股短线走强,中粮家佳康涨4.2%、牧原涨近4%,猪价低位温和修复",
+  "summary": "",
+  "source": "新浪财经_金融信息服务商",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-11-13/detail-iniypzqk8120561.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_b7705245b7cc541b0582",
   "date": "2026-11-13",
   "published_at": "2026-11-13T19:02+08:00",
@@ -9626,45 +9664,6 @@
   ],
   "matched_keywords": [
    "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_a7a70e00af233b32869a",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T08:43+08:00",
-  "fetched_at": "2026-10-14T13:55+08:00",
-  "title": "农产品 | 棕榈油 :受厄尔尼诺影响 2027年棕榈油供应收紧风险上升",
-  "summary": "玉米: 隔夜玉米主力低位震荡运行,全国玉米周度均价2235元/吨,较上周下调7元/吨,跌幅0.31%。国内方面,Mysteel调查显示,截至2026年10月7日,全国样本饲料企业玉米平均库存为24.12天,较上周减少0.65天,环比下跌2.62%,同比下跌1.51%。",
-  "source": "上海中期期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610143894804553.html",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_369ae8e12a57b31cfb65",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T08:36+08:00",
-  "fetched_at": "2026-10-14T13:55+08:00",
-  "title": "农产品 | 生猪:现货报价继续下跌盘面价格持续走低",
-  "summary": "3价格方面:参考钢联数据,10月13日河南生猪价格维持在10.08元/公斤,环比(-0.09)元/公斤。 三、市场研判: 单边:基于当前价格和驱动考虑,我们认为多空胜率和赔率都偏低,即期望收益中性偏低,建议投资者观望为主。",
-  "source": "中州期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610143894802180.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
   ],
   "relevance_score": 12
  }
