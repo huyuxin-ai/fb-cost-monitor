@@ -1,20 +1,79 @@
 [
  {
-  "id": "news_d1358a9281c53104b125",
-  "date": "2026-11-14",
-  "published_at": "2026-11-14T15:59+08:00",
-  "fetched_at": "2026-11-14T18:01+08:00",
-  "title": "有经济学者预测:11月份起,猪肉价格或将重演2015年的历史?",
+  "id": "news_fd8167428f31192e3bdf",
+  "date": "2026-11-15",
+  "published_at": "2026-11-15T00:27+08:00",
+  "fetched_at": "2026-11-15T00:40+08:00",
+  "title": "满堂红!猪价上涨!2026年11月15日-今日最新猪价行情分享",
   "summary": "",
   "source": "Sohu",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1101556272_122745693",
+  "url": "https://m.sohu.com/a/1101634762_122014422",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_633c51f3b2701e9b5f7a",
+  "date": "2026-11-14",
+  "published_at": "2026-11-14T22:54+08:00",
+  "fetched_at": "2026-11-15T00:40+08:00",
+  "title": "重磅消息!猪肉价格创10年新低",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1101620561_121977860",
   "company": "",
   "material_ids": [
    "LH"
   ],
   "matched_keywords": [
    "猪肉价格"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_361953149b1a758f42d3",
+  "date": "2026-11-14",
+  "published_at": "2026-11-14T22:41+08:00",
+  "fetched_at": "2026-11-15T00:40+08:00",
+  "title": "永辉、盒马、山姆、叮咚都在降!猪肉价格跌到近10年最低",
+  "summary": "据新闻坊报道,这几天不少网友在问:猪肉价格什么情况?都已经比蔬菜便宜了?是看错价格了吗? “鸡蛋都4.3元,猪肉才4.9元,这个价格对吗?”在菜市场买菜的林女士拿起一块猪肉,感叹道,“现在猪肉价格太便宜了。”",
+  "source": "21世纪经济报道",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611143931377317.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪肉价格"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_86add0d0c5e1f513b54f",
+  "date": "2026-11-14",
+  "published_at": "2026-11-14T18:54+08:00",
+  "fetched_at": "2026-11-15T00:40+08:00",
+  "title": "2026年11月全球小麦、玉米、稻米、大豆和油菜籽供需形势分析",
+  "summary": "",
+  "source": "Sohu",
+  "type": "供需动态",
+  "url": "https://m.sohu.com/a/1101590290_122014422",
+  "company": "",
+  "material_ids": [
+   "C",
+   "A"
+  ],
+  "matched_keywords": [
+   "玉米",
+   "大豆"
   ],
   "relevance_score": 8
  },
@@ -9609,62 +9668,5 @@
    "奶价"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_d33a3860fc9873dba37c",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T10:29+08:00",
-  "fetched_at": "2026-10-14T13:55+08:00",
-  "title": "本周国内豆粕现货基差报价上涨",
-  "summary": "本周豆粕现货价格小幅波动,受节后补库需求提振,油厂库存下降,基差报价小幅上涨。9月22日,沿海地区43%蛋白豆粕现货报价3260~3480元/吨,较10月8日下跌40元/吨至上涨10元/吨不等;现货基差报价M2701-40~+100元/吨,较10月8日上涨30~50元/吨。",
-  "source": "国家粮食和物资储备局",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610143895207636.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_6ef42694aa8eeefa48e0",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T10:28+08:00",
-  "fetched_at": "2026-10-14T13:55+08:00",
-  "title": "华泰期货:油厂开机回升,豆粕维持震荡",
-  "summary": "作者: 薛钧元 粕类观点 市场要闻与重要数据 期货方面,昨日收盘豆粕2701合约3361元/吨,较前日变动-22元/吨,幅度-0.65%;菜粕2701合约2374元/吨,较前日变动+12元/吨...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-14/doc-iniveefm7232076.shtml",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_44e236fd599046795e45",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T10:27+08:00",
-  "fetched_at": "2026-10-14T13:55+08:00",
-  "title": "华泰期货:三大油脂走势分化,豆油盘面弱势调整",
-  "summary": "作者: 白旭宇 油脂观点 市场分析 期货方面,昨日收盘棕榈油2701合约9625.00元/吨,环比变化-59元,幅度-0.61%;昨日收盘豆油2701合约8949.00元/吨,环比变化-19.00元...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-14/doc-iniveefm7231245.shtml",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 12
  }
 ]

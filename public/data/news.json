@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-11-14T18:01+08:00",
+ "updated_at": "2026-11-15T00:40+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
-  "21世纪经济报道": 2,
+  "21世纪经济报道": 3,
   "DairyNews.today": 1,
   "Dairynews.today": 6,
   "IDNFinancials": 1,
-  "IndexBox": 10,
+  "IndexBox": 9,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 1,
-  "Sohu": 6,
+  "Sohu": 8,
   "Vietnam.vn": 1,
   "https://www.agripost.cn/": 1,
   "一德期货": 2,
@@ -44,14 +44,14 @@
   "搜狐网": 10,
   "新京报": 1,
   "新华财经": 2,
-  "新浪财经": 23,
+  "新浪财经": 22,
   "新浪财经_金融信息服务商": 1,
   "新财富杂志": 1,
   "时代周报": 1,
   "时代财经": 1,
   "期货日报": 4,
   "正信期货": 2,
-  "每日经济新闻": 9,
+  "每日经济新闻": 8,
   "深圳商报·读创": 2,
   "混沌天成期货": 2,
   "澎湃新闻": 6,
@@ -74,21 +74,80 @@
  },
  "items": [
   {
-   "id": "news_d1358a9281c53104b125",
-   "date": "2026-11-14",
-   "published_at": "2026-11-14T15:59+08:00",
-   "fetched_at": "2026-11-14T18:01+08:00",
-   "title": "有经济学者预测:11月份起,猪肉价格或将重演2015年的历史?",
+   "id": "news_fd8167428f31192e3bdf",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T00:27+08:00",
+   "fetched_at": "2026-11-15T00:40+08:00",
+   "title": "满堂红!猪价上涨!2026年11月15日-今日最新猪价行情分享",
    "summary": "",
    "source": "Sohu",
    "type": "价格行情",
-   "url": "https://m.sohu.com/a/1101556272_122745693",
+   "url": "https://m.sohu.com/a/1101634762_122014422",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_633c51f3b2701e9b5f7a",
+   "date": "2026-11-14",
+   "published_at": "2026-11-14T22:54+08:00",
+   "fetched_at": "2026-11-15T00:40+08:00",
+   "title": "重磅消息!猪肉价格创10年新低",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1101620561_121977860",
    "company": "",
    "material_ids": [
     "LH"
    ],
    "matched_keywords": [
     "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_361953149b1a758f42d3",
+   "date": "2026-11-14",
+   "published_at": "2026-11-14T22:41+08:00",
+   "fetched_at": "2026-11-15T00:40+08:00",
+   "title": "永辉、盒马、山姆、叮咚都在降!猪肉价格跌到近10年最低",
+   "summary": "据新闻坊报道,这几天不少网友在问:猪肉价格什么情况?都已经比蔬菜便宜了?是看错价格了吗? “鸡蛋都4.3元,猪肉才4.9元,这个价格对吗?”在菜市场买菜的林女士拿起一块猪肉,感叹道,“现在猪肉价格太便宜了。”",
+   "source": "21世纪经济报道",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611143931377317.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪肉价格"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_86add0d0c5e1f513b54f",
+   "date": "2026-11-14",
+   "published_at": "2026-11-14T18:54+08:00",
+   "fetched_at": "2026-11-15T00:40+08:00",
+   "title": "2026年11月全球小麦、玉米、稻米、大豆和油菜籽供需形势分析",
+   "summary": "",
+   "source": "Sohu",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1101590290_122014422",
+   "company": "",
+   "material_ids": [
+    "C",
+    "A"
+   ],
+   "matched_keywords": [
+    "玉米",
+    "大豆"
    ],
    "relevance_score": 8
   },
@@ -3879,65 +3938,6 @@
     "大豆"
    ],
    "relevance_score": 11
-  },
-  {
-   "id": "news_2d921408b673dbd8b76d",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T00:25+08:00",
-   "fetched_at": "2026-10-30T00:43+08:00",
-   "title": "猪肉产量创新高、行情创新低!四季度猪价难了?",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-30/doc-iniwxksn2692100.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_582fd8cf7ca0d9eeaf92",
-   "date": "2026-10-29",
-   "published_at": "2026-10-29T23:32+08:00",
-   "fetched_at": "2026-10-30T00:43+08:00",
-   "title": "牧原股份9月养猪成本降至11.5元/公斤以下 电话会预计明年猪价有所上升",
-   "summary": "《每日经济新闻》记者(以下简称每经记者)从电话会上获悉,牧原股份9月生猪养殖完全成本降至11.5元/公斤以下。对于明年猪价走势,牧原股份董事会秘书秦军表示,预计明年供需关系支撑猪价在今年水平上有所抬升,但具体价格区间难以判断。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610293915021687.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_f554e6373e07e33cbaa9",
-   "date": "2026-10-29",
-   "published_at": "2026-10-29T23:10+08:00",
-   "fetched_at": "2026-10-30T00:43+08:00",
-   "title": "美国农业部生猪价格报告:各类采购方式加权平均净价 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-national-daily-direct-hog-prior-day-report-for-october-29-2026/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }
