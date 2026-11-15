@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T16:16+08:00",
+ "updated_at": "2026-11-15T23:47+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,7 +10,7 @@
   "IndexBox": 9,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 1,
-  "Sohu": 8,
+  "Sohu": 9,
   "Vietnam.vn": 1,
   "https://www.agripost.cn/": 1,
   "一德期货": 2,
@@ -27,7 +27,7 @@
   "中新经纬": 1,
   "五矿期货": 3,
   "人民日报": 1,
-  "光大期货": 2,
+  "光大期货": 1,
   "农业农村部": 2,
   "凤凰网": 2,
   "北京市人民政府门户网站": 1,
@@ -44,7 +44,7 @@
   "搜狐网": 10,
   "新京报": 1,
   "新华财经": 2,
-  "新浪财经": 21,
+  "新浪财经": 19,
   "新浪财经_金融信息服务商": 1,
   "新财富杂志": 1,
   "时代周报": 1,
@@ -61,6 +61,7 @@
   "第一财经": 3,
   "红星资本局": 1,
   "经济参考报": 1,
+  "经济参考网": 1,
   "网易新闻客户端": 1,
   "腾讯新闻": 1,
   "英为财情 Investing.com": 2,
@@ -72,9 +73,68 @@
   "财联社": 3,
   "金十数据": 1,
   "金融界": 1,
-  "钢铁网": 1
+  "钢铁网": 1,
+  "香港01": 1
  },
  "items": [
+  {
+   "id": "news_c84eb8ea7d60f90ef753",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T21:20+08:00",
+   "fetched_at": "2026-11-15T23:47+08:00",
+   "title": "原奶价格温和回升 乳制品企业经营质量改善",
+   "summary": "具体来说,虽然原奶价格上涨,理论上会阶段性增加乳制品企业的采购端成本压力,但龙头企业规模效应以及供应链战略,使其可以通过控股、参股上游奶源供应商来稳定成本,同时避免在原料奶低迷时期不得不与中小品牌打价格战。",
+   "source": "经济参考网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611153931489339.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_ab81b100cefb9941047e",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T19:53+08:00",
+   "fetched_at": "2026-11-15T23:47+08:00",
+   "title": "供给端承压,山东猪肉价格同比下滑15.58%,蛋价小幅回升 | 新黄河探市",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://www.sohu.com/a/1101905779_121347613",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_42edea4d1521794de058",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T17:37+08:00",
+   "fetched_at": "2026-11-15T23:47+08:00",
+   "title": "内地猪肉价格暴跌创10年新低 仲平过蔬菜 有超市惊现每斤1.98元",
+   "summary": "",
+   "source": "香港01",
+   "type": "价格行情",
+   "url": "https://global.hk01.com/%E5%A4%A7%E5%9B%BD%E5%B0%8F%E4%BA%8B/60411023/%E5%86%85%E5%9C%B0%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%88%9B10%E5%B9%B4%E6%96%B0%E4%BD%8E-%E4%BB%B2%E5%B9%B3%E8%BF%87%E8%94%AC%E8%8F%9C-%E6%9C%89%E8%B6%85%E5%B8%82%E6%83%8A%E7%8E%B0%E6%AF%8F%E6%96%A41-98%E5%85%83",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_a44460190b3b44c9443c",
    "date": "2026-11-15",
@@ -3884,63 +3944,6 @@
    ],
    "matched_keywords": [
     "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_491e97c46814bf24fd37",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T09:51+08:00",
-   "fetched_at": "2026-10-30T16:17+08:00",
-   "title": "华泰期货:养殖场出栏稳定,猪价延续弱势",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-30/doc-iniwyfvy5622023.shtml?cre=tianyi&loc=31&mod=pchp&r=0&rfunc=69&tj=cxvertical_pc_hp&tr=12",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_251766f1acb554efa59a",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T09:43+08:00",
-   "fetched_at": "2026-10-30T16:17+08:00",
-   "title": "农产品 | 白糖仍维持丰产预期 短期期价缺少驱动",
-   "summary": "现货市场依然宽松,豆粕库存处于高位。生猪价格低迷,市场对远期需求有担忧。盘面继续消化进口成本回落和高库存的压力,后市继续关注大豆成本以及豆粕需求的预期,关注资金动态。 油脂: 周四,BMD棕榈油跌至三周低位,因相关油脂走低以及担忧库存增加。",
-   "source": "光大期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610303915684185.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "白糖"
-   ],
-   "relevance_score": 7
-  },
-  {
-   "id": "news_c464a2f123bde45db69c",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T09:34+08:00",
-   "fetched_at": "2026-10-30T23:10+08:00",
-   "title": "生意社2026年10月30日涤纶短纤趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-30/doc-iniwyfwf4802822.shtml",
-   "company": "",
-   "material_ids": [
-    "PF"
-   ],
-   "matched_keywords": [
-    "涤纶短纤"
    ],
    "relevance_score": 8
   }
