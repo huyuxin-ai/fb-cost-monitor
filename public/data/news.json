@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T00:40+08:00",
+ "updated_at": "2026-11-15T16:16+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -44,14 +44,14 @@
   "搜狐网": 10,
   "新京报": 1,
   "新华财经": 2,
-  "新浪财经": 22,
+  "新浪财经": 21,
   "新浪财经_金融信息服务商": 1,
   "新财富杂志": 1,
   "时代周报": 1,
-  "时代财经": 1,
+  "时代财经": 2,
   "期货日报": 4,
   "正信期货": 2,
-  "每日经济新闻": 8,
+  "每日经济新闻": 7,
   "深圳商报·读创": 2,
   "混沌天成期货": 2,
   "澎湃新闻": 6,
@@ -59,20 +59,101 @@
   "生物通": 1,
   "申银万国期货": 1,
   "第一财经": 3,
+  "红星资本局": 1,
   "经济参考报": 1,
   "网易新闻客户端": 1,
+  "腾讯新闻": 1,
   "英为财情 Investing.com": 2,
   "观点网": 1,
   "证券之星": 9,
   "证券日报": 1,
   "证券时报网": 4,
   "财中社": 1,
-  "财联社": 4,
+  "财联社": 3,
   "金十数据": 1,
   "金融界": 1,
   "钢铁网": 1
  },
  "items": [
+  {
+   "id": "news_a44460190b3b44c9443c",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T13:04+08:00",
+   "fetched_at": "2026-11-15T16:16+08:00",
+   "title": "猪价创下近10年新低!一盆青椒肉丝 青椒要5元 肉也只要5元",
+   "summary": "11月9日,全国外三元生猪均价报8.63元/公斤,创下今年最低价,也是近10年的最低猪价。 猪价跌到近10年新低 盒马、山姆、叮咚、永辉都在降价 据媒体报道,沪上有菜场部分猪肉价格已明显低于蔬菜。",
+   "source": "红星资本局",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611153931413116.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪",
+    "猪肉价格"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_44d8d26d9ae27a7c7723",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T12:34+08:00",
+   "fetched_at": "2026-11-15T16:16+08:00",
+   "title": "双汇发展前三季度量利背离:猪价跌出毛利率新高,冻品押注静待旺季验证",
+   "summary": "收入下滑几乎全部来自价格端而非销量。西南期货研报显示,今年前三季度生猪价格同比下降22.1%,10月全国生猪均价9.96元/公斤,同比降幅13.65%。",
+   "source": "时代财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611153931411574.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_c7eb5c3d1eb23f813092",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T12:14+08:00",
+   "fetched_at": "2026-11-15T16:16+08:00",
+   "title": "猪价下行原因在哪 四大现实因素解析",
+   "summary": "",
+   "source": "中华网",
+   "type": "价格行情",
+   "url": "https://news.china.com/socialgd/10000169/20261115/49873282.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_4dfdccb8380da3e18445",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T05:40+08:00",
+   "fetched_at": "2026-11-15T16:16+08:00",
+   "title": "11月15日猪价:火力全开!猪价上涨“满堂彩”!枯木逢春?",
+   "summary": "",
+   "source": "腾讯新闻",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20261114A0D97Y00",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_361953149b1a758f42d3",
    "date": "2026-11-15",
@@ -3862,82 +3943,6 @@
     "涤纶短纤"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_f6963fd3c5e7e35fb316",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T09:15+08:00",
-   "fetched_at": "2026-10-30T09:42+08:00",
-   "title": "猪价“失控”下跌 9元/公斤稳不住?周期反噬来临",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://news.china.com/socialgd/10000169/20261030/49827909.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_ad8e1990b79d17f2069a",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T09:13+08:00",
-   "fetched_at": "2026-10-30T23:10+08:00",
-   "title": "生意社2026年10月30日PTA趋势分析:震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-30/doc-iniwyfwa2361396.shtml",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c6ca08d26e7552b2bb28",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T06:15+08:00",
-   "fetched_at": "2026-10-30T09:42+08:00",
-   "title": "CBOT农产品期货主力合约收盘多数下跌,大豆期货跌0.28%",
-   "summary": "当地时间10月29日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货跌0.28%报1234.50美分/蒲式耳,玉米期货跌0.11%报451.25美分/蒲式耳,小麦期货涨0.71%报603.25美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610303915134345.html",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_9a44f006fb73324c2d01",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T04:02+08:00",
-   "fetched_at": "2026-10-30T05:38+08:00",
-   "title": "大豆、稀土与乙醇:卢拉连任如何影响巴西大宗商品产业?",
-   "summary": "在中东地区冲突背景下,化肥和柴油价格高企,巴西大豆和玉米种植者正同时面临农产品价格低迷和生产成本上升的压力。",
-   "source": "财联社",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610303915103192.html",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 11
   }
  ]
 }

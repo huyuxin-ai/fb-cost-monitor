@@ -1,5 +1,84 @@
 [
  {
+  "id": "news_a44460190b3b44c9443c",
+  "date": "2026-11-15",
+  "published_at": "2026-11-15T13:04+08:00",
+  "fetched_at": "2026-11-15T16:16+08:00",
+  "title": "猪价创下近10年新低!一盆青椒肉丝 青椒要5元 肉也只要5元",
+  "summary": "11月9日,全国外三元生猪均价报8.63元/公斤,创下今年最低价,也是近10年的最低猪价。 猪价跌到近10年新低 盒马、山姆、叮咚、永辉都在降价 据媒体报道,沪上有菜场部分猪肉价格已明显低于蔬菜。",
+  "source": "红星资本局",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611153931413116.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪",
+   "猪肉价格"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_44d8d26d9ae27a7c7723",
+  "date": "2026-11-15",
+  "published_at": "2026-11-15T12:34+08:00",
+  "fetched_at": "2026-11-15T16:16+08:00",
+  "title": "双汇发展前三季度量利背离:猪价跌出毛利率新高,冻品押注静待旺季验证",
+  "summary": "收入下滑几乎全部来自价格端而非销量。西南期货研报显示,今年前三季度生猪价格同比下降22.1%,10月全国生猪均价9.96元/公斤,同比降幅13.65%。",
+  "source": "时代财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611153931411574.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_c7eb5c3d1eb23f813092",
+  "date": "2026-11-15",
+  "published_at": "2026-11-15T12:14+08:00",
+  "fetched_at": "2026-11-15T16:16+08:00",
+  "title": "猪价下行原因在哪 四大现实因素解析",
+  "summary": "",
+  "source": "中华网",
+  "type": "价格行情",
+  "url": "https://news.china.com/socialgd/10000169/20261115/49873282.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_4dfdccb8380da3e18445",
+  "date": "2026-11-15",
+  "published_at": "2026-11-15T05:40+08:00",
+  "fetched_at": "2026-11-15T16:16+08:00",
+  "title": "11月15日猪价:火力全开!猪价上涨“满堂彩”!枯木逢春?",
+  "summary": "",
+  "source": "腾讯新闻",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20261114A0D97Y00",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_361953149b1a758f42d3",
   "date": "2026-11-15",
   "published_at": "2026-11-15T01:05+08:00",
@@ -9589,83 +9668,6 @@
   ],
   "matched_keywords": [
    "腰果"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e49d6b459a30ed6ed1be",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T11:49+08:00",
-  "fetched_at": "2026-10-14T19:26+08:00",
-  "title": "猪价环比连续三个月上涨,9月同比下跌10%|快讯",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1087555428_116062",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_cf5f17fcc9b112678070",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T11:48+08:00",
-  "fetched_at": "2026-10-14T13:55+08:00",
-  "title": "【现货】10月14日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20261014/c680673343.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e7638fd7bca4bf3e65f3",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T11:43+08:00",
-  "fetched_at": "2026-10-16T05:04+08:00",
-  "title": "破解辅酶Q10工艺难题,多特倍斯以微生物发酵重塑全球膳食原料格局- 健康",
-  "summary": "",
-  "source": "中国产业经济信息网",
-  "type": "供需动态",
-  "url": "https://www.cinic.org.cn/hy/yy/1656843.html",
-  "company": "",
-  "material_ids": [
-   "COQ10"
-  ],
-  "matched_keywords": [
-   "辅酶q10"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_86ee371f6bd1479bbf00",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T10:30+08:00",
-  "fetched_at": "2026-10-14T13:55+08:00",
-  "title": "优然牧业盘中涨超5%,原奶价格拐点已现,机构推荐底部反转",
-  "summary": "",
-  "source": "www.caiwennews.com",
-  "type": "价格行情",
-  "url": "https://www.caiwennews.com/article/1650213.shtml",
-  "company": "",
-  "material_ids": [
-   "RAW_MILK"
-  ],
-  "matched_keywords": [
-   "原奶",
-   "奶价"
   ],
   "relevance_score": 8
  }
