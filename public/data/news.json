@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T23:47+08:00",
+ "updated_at": "2026-11-16T04:53+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -35,7 +35,7 @@
   "南方财经网": 16,
   "发现报告": 1,
   "同花顺": 5,
-  "同花顺财经": 5,
+  "同花顺财经": 4,
   "国家粮食和物资储备局": 8,
   "国际果蔬报道": 2,
   "央视财经": 1,
@@ -44,7 +44,8 @@
   "搜狐网": 10,
   "新京报": 1,
   "新华财经": 2,
-  "新浪财经": 19,
+  "新浪网": 1,
+  "新浪财经": 20,
   "新浪财经_金融信息服务商": 1,
   "新财富杂志": 1,
   "时代周报": 1,
@@ -54,7 +55,7 @@
   "每日经济新闻": 7,
   "深圳商报·读创": 2,
   "混沌天成期货": 2,
-  "澎湃新闻": 6,
+  "澎湃新闻": 5,
   "瑞达期货": 1,
   "生物通": 1,
   "申银万国期货": 1,
@@ -78,6 +79,26 @@
  },
  "items": [
   {
+   "id": "news_310661ee095298bf6499",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T23:16+08:00",
+   "fetched_at": "2026-11-16T04:53+08:00",
+   "title": "#猪价创10年新低原因#我也搞不懂,猪肉为什么好端端创下十年新低,我们县城的猪肉价格直接跌到了八九块,还是最好的前腿肉[淡淡的][淡淡的],这几乎赶上了一些绿色蔬菜的价格,当真是日子过得越来越好,大家返璞归真了??家里还有长辈做猪肉生意,直呼生意",
+   "summary": "",
+   "source": "新浪网",
+   "type": "价格行情",
+   "url": "https://www.sina.cn/news/detail/5365657069420749.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_c84eb8ea7d60f90ef753",
    "date": "2026-11-15",
    "published_at": "2026-11-15T21:20+08:00",
@@ -96,6 +117,25 @@
     "奶价"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_5d62f43d4be61350bd5c",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T21:10+08:00",
+   "fetched_at": "2026-11-16T04:53+08:00",
+   "title": "生意社:成本主导 PTA价格偏弱运行",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-15/doc-iniyvrfv1772978.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_ab81b100cefb9941047e",
@@ -132,6 +172,25 @@
    ],
    "matched_keywords": [
     "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_f3d70a7b4d413603e6de",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T14:16+08:00",
+   "fetched_at": "2026-11-16T04:53+08:00",
+   "title": "上涨“高歌猛进”!附:11月16日猪价",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1101834197_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -215,6 +274,25 @@
    "relevance_score": 8
   },
   {
+   "id": "news_9b4322e7de3618c25a72",
+   "date": "2026-11-15",
+   "published_at": "2026-11-15T02:25+08:00",
+   "fetched_at": "2026-11-13T16:35+08:00",
+   "title": "生猪涨幅超5%,深亏下的养殖端能否回血?|期市头条",
+   "summary": "",
+   "source": "第一财经",
+   "type": "供需动态",
+   "url": "https://www.yicai.com/video/103439618.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_361953149b1a758f42d3",
    "date": "2026-11-15",
    "published_at": "2026-11-15T01:05+08:00",
@@ -232,25 +310,6 @@
     "猪肉价格"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_fd8167428f31192e3bdf",
-   "date": "2026-11-15",
-   "published_at": "2026-11-15T00:27+08:00",
-   "fetched_at": "2026-11-15T00:40+08:00",
-   "title": "满堂红!猪价上涨!2026年11月15日-今日最新猪价行情分享",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1101634762_122014422",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_633c51f3b2701e9b5f7a",
@@ -752,25 +811,6 @@
     "玉米"
    ],
    "relevance_score": 11
-  },
-  {
-   "id": "news_9b4322e7de3618c25a72",
-   "date": "2026-11-12",
-   "published_at": "2026-11-12T14:06+08:00",
-   "fetched_at": "2026-11-13T16:35+08:00",
-   "title": "生猪涨幅超 5%,深亏下的养殖端能否回血?|期市头条",
-   "summary": "",
-   "source": "第一财经",
-   "type": "供需动态",
-   "url": "https://www.yicai.com/video/103439618.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_2c8d9b443e8dcfaa00c0",
@@ -3908,44 +3948,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_2aef4124fbfc9794d028",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T12:10+08:00",
-   "fetched_at": "2026-10-30T16:17+08:00",
-   "title": "牧原股份:前三季屠宰肉食业务整体盈利2亿多元,生猪养殖完全成本略低于11.5元/公斤",
-   "summary": "牧原股份表示,在生猪养殖业务方面,2026年1-9月,公司销售商品猪5873万头。年初至今,公司生产指标稳步改善,生猪养殖完全成本逐季下降,9月已降至略低于11.5元/公斤。",
-   "source": "澎湃新闻",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610303916095741.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_3bcb5734e12092c03ed8",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T11:45+08:00",
-   "fetched_at": "2026-10-30T16:17+08:00",
-   "title": "【现货】10月30日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261030/c681281255.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
   }
  ]
 }

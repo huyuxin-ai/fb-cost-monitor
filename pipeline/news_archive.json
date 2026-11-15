@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_3528a22c85fb4f2db192",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T00:55+08:00",
+  "fetched_at": "2026-11-16T04:53+08:00",
+  "title": "数据显示:马来西亚11月1-15日棕榈油出口预计为794,717吨 下降1.0%",
+  "summary": "数据显示,马来西亚11月1-15日棕榈油出口预计为794,717吨,下降1.0%。",
+  "source": "财联社",
+  "type": "供需动态",
+  "url": "http://xianhuo.eastmoney.com/a/202611163931527359.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_310661ee095298bf6499",
+  "date": "2026-11-15",
+  "published_at": "2026-11-15T23:16+08:00",
+  "fetched_at": "2026-11-16T04:53+08:00",
+  "title": "#猪价创10年新低原因#我也搞不懂,猪肉为什么好端端创下十年新低,我们县城的猪肉价格直接跌到了八九块,还是最好的前腿肉[淡淡的][淡淡的],这几乎赶上了一些绿色蔬菜的价格,当真是日子过得越来越好,大家返璞归真了??家里还有长辈做猪肉生意,直呼生意",
+  "summary": "",
+  "source": "新浪网",
+  "type": "价格行情",
+  "url": "https://www.sina.cn/news/detail/5365657069420749.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "猪肉价格"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_c84eb8ea7d60f90ef753",
   "date": "2026-11-15",
   "published_at": "2026-11-15T21:20+08:00",
@@ -18,6 +57,25 @@
    "奶价"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_5d62f43d4be61350bd5c",
+  "date": "2026-11-15",
+  "published_at": "2026-11-15T21:10+08:00",
+  "fetched_at": "2026-11-16T04:53+08:00",
+  "title": "生意社:成本主导 PTA价格偏弱运行",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-15/doc-iniyvrfv1772978.shtml",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_ab81b100cefb9941047e",
@@ -54,6 +112,25 @@
   ],
   "matched_keywords": [
    "猪肉价格"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f3d70a7b4d413603e6de",
+  "date": "2026-11-15",
+  "published_at": "2026-11-15T14:16+08:00",
+  "fetched_at": "2026-11-16T04:53+08:00",
+  "title": "上涨“高歌猛进”!附:11月16日猪价",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1101834197_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
@@ -137,6 +214,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_9b4322e7de3618c25a72",
+  "date": "2026-11-15",
+  "published_at": "2026-11-15T02:25+08:00",
+  "fetched_at": "2026-11-13T16:35+08:00",
+  "title": "生猪涨幅超5%,深亏下的养殖端能否回血?|期市头条",
+  "summary": "",
+  "source": "第一财经",
+  "type": "供需动态",
+  "url": "https://www.yicai.com/video/103439618.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_361953149b1a758f42d3",
   "date": "2026-11-15",
   "published_at": "2026-11-15T01:05+08:00",
@@ -154,25 +250,6 @@
    "猪肉价格"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_fd8167428f31192e3bdf",
-  "date": "2026-11-15",
-  "published_at": "2026-11-15T00:27+08:00",
-  "fetched_at": "2026-11-15T00:40+08:00",
-  "title": "满堂红!猪价上涨!2026年11月15日-今日最新猪价行情分享",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1101634762_122014422",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_633c51f3b2701e9b5f7a",
@@ -674,25 +751,6 @@
    "玉米"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_9b4322e7de3618c25a72",
-  "date": "2026-11-12",
-  "published_at": "2026-11-12T14:06+08:00",
-  "fetched_at": "2026-11-13T16:35+08:00",
-  "title": "生猪涨幅超 5%,深亏下的养殖端能否回血?|期市头条",
-  "summary": "",
-  "source": "第一财经",
-  "type": "供需动态",
-  "url": "https://www.yicai.com/video/103439618.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_2c8d9b443e8dcfaa00c0",
@@ -9611,63 +9669,5 @@
    "猪价"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_0d86658345f7dad9f134",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T15:46+08:00",
-  "fetched_at": "2026-10-14T19:26+08:00",
-  "title": "生猪主力合约收跌2.43%",
-  "summary": "南财智讯10月14日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌2.43%,收盘报10425.0元/吨,日内资金流入1.37亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610143895459832.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_f22fefbad33958f49fb5",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T15:43+08:00",
-  "fetched_at": "2026-10-14T19:26+08:00",
-  "title": "MPOB 9月报告解读:库存升至历史高位,棕榈油价格上行承压",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1087676556_639898",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "mpob"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2c11401bf946fdba8964",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T15:40+08:00",
-  "fetched_at": "2026-10-14T19:26+08:00",
-  "title": "玉米主力合约收涨0.14%",
-  "summary": "南财智讯10月14日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.14%,收盘报2187.0元/吨,日内资金流出3.36亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610143895461482.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
  }
 ]
