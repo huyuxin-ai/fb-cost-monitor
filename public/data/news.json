@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T04:53+08:00",
+ "updated_at": "2026-11-16T08:51+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,7 +10,7 @@
   "IndexBox": 9,
   "Shangbao Indonesia": 1,
   "Sin Chew Daily": 1,
-  "Sohu": 9,
+  "Sohu": 10,
   "Vietnam.vn": 1,
   "https://www.agripost.cn/": 1,
   "一德期货": 2,
@@ -23,16 +23,18 @@
   "中华网": 2,
   "中国新闻网": 2,
   "中国金融信息网": 1,
-  "中州期货": 1,
+  "中州期货": 2,
   "中新经纬": 1,
   "五矿期货": 3,
   "人民日报": 1,
   "光大期货": 1,
   "农业农村部": 2,
-  "凤凰网": 2,
+  "凤凰网": 1,
+  "凤凰网山东": 1,
+  "创元期货": 1,
   "北京市人民政府门户网站": 1,
   "南华期货": 2,
-  "南方财经网": 16,
+  "南方财经网": 15,
   "发现报告": 1,
   "同花顺": 5,
   "同花顺财经": 4,
@@ -48,7 +50,6 @@
   "新浪财经": 20,
   "新浪财经_金融信息服务商": 1,
   "新财富杂志": 1,
-  "时代周报": 1,
   "时代财经": 2,
   "期货日报": 4,
   "正信期货": 2,
@@ -71,13 +72,90 @@
   "证券日报": 1,
   "证券时报网": 4,
   "财中社": 1,
-  "财联社": 3,
+  "财联社": 2,
   "金十数据": 1,
   "金融界": 1,
   "钢铁网": 1,
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_d0eae83c7c2a9d8cf39a",
+   "date": "2026-11-16",
+   "published_at": "2026-11-16T08:46+08:00",
+   "fetched_at": "2026-11-16T08:51+08:00",
+   "title": "农产品 | 生猪宰量环比增加 现货报价低位上涨",
+   "summary": "3价格方面:参考钢联数据,11月15日河南生猪价格维持在8.92元/公斤,环比(+0.13)元/公斤。 三、市场研判: 单边:宰量增加,价格上涨,说明阶段性需求有改善。近月多空面临较大不确定性,建议投资者观望为主。",
+   "source": "中州期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611163931572770.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_3a40f0b08a0283519d68",
+   "date": "2026-11-16",
+   "published_at": "2026-11-16T08:44+08:00",
+   "fetched_at": "2026-11-16T08:51+08:00",
+   "title": "PTA供需双弱、社会库存延续累积 绝对价格跟随成本波动",
+   "summary": "展望后市,PTA供需双弱、社会库存延续累积,加工费修复空间受限于累库压力,绝对价格跟随成本波动。",
+   "source": "创元期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611163931571445.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_0d94800e0b9cbcb71c33",
+   "date": "2026-11-16",
+   "published_at": "2026-11-16T07:35+08:00",
+   "fetched_at": "2026-11-16T08:51+08:00",
+   "title": "供给端承压,山东猪肉价格同比下滑15.58%,蛋价小幅回升",
+   "summary": "",
+   "source": "凤凰网山东",
+   "type": "价格行情",
+   "url": "https://sd.ifeng.com/c/8y49bxx0rPY",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_dc3d388b6e7aa962f889",
+   "date": "2026-11-16",
+   "published_at": "2026-11-16T06:11+08:00",
+   "fetched_at": "2026-11-16T08:51+08:00",
+   "title": "11月16日猪价:涨猛了!猪价“失控”上涨,后劲不足?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1101903520_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_310661ee095298bf6499",
    "date": "2026-11-15",
@@ -3871,83 +3949,6 @@
     "猪价"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_cea6efacd99eb6f4b08d",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T17:44+08:00",
-   "fetched_at": "2026-11-06T13:42+08:00",
-   "title": "11.11心脑血管养护辅酶Q10怎么选?还原型泛醇十大品牌梯队与抢先加购清单,在原料、技术、剂型和市场验证全维度考察",
-   "summary": "",
-   "source": "凤凰网",
-   "type": "供需动态",
-   "url": "https://baby.ifeng.com/c/8xeFvtUMMQZ",
-   "company": "",
-   "material_ids": [
-    "COQ10"
-   ],
-   "matched_keywords": [
-    "辅酶q10"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_06594e58c40947e51a6a",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T15:42+08:00",
-   "fetched_at": "2026-10-31T03:59+08:00",
-   "title": "玉米主力合约收跌0.09%",
-   "summary": "南财智讯10月30日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.09%,收盘报2221.0元/吨,日内资金流入189.62万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610303917276472.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_a54bfb69eedd2888fb3b",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T15:34+08:00",
-   "fetched_at": "2026-10-30T16:17+08:00",
-   "title": "农业农村部:要指导养殖场户科学制定生产计划 落实好生猪产能常态化精准调控各项要求",
-   "summary": "要指导养殖场户科学制定生产计划,督促履行数据报送义务,落实好生猪产能常态化精准调控各项要求。会议还针对应对超强厄尔尼诺,提升畜牧业防灾减灾救灾能力等提出明确要求。",
-   "source": "财联社",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202610303916427995.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_a3563e9e69d80493ae7b",
-   "date": "2026-10-30",
-   "published_at": "2026-10-30T12:50+08:00",
-   "fetched_at": "2026-10-30T16:17+08:00",
-   "title": "猪价下跌,河南“猪王”月均亏10亿!牧原股份:明年供需关系或支撑猪价上升",
-   "summary": "不过,包括牧原股份在内的众多上市猪企当前仍处于深度亏损阶段,并且从目前来看,猪价仍未出现明显上涨趋势。 10月29日,牧原股份高管在业绩交流会上表示,明年猪价难以准确判断。由于今年生猪养殖业持续亏损,市场对明年抱有一定预期。",
-   "source": "时代周报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202610303916131284.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
   }
  ]
 }

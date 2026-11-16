@@ -1,5 +1,82 @@
 [
  {
+  "id": "news_d0eae83c7c2a9d8cf39a",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T08:46+08:00",
+  "fetched_at": "2026-11-16T08:51+08:00",
+  "title": "农产品 | 生猪宰量环比增加 现货报价低位上涨",
+  "summary": "3价格方面:参考钢联数据,11月15日河南生猪价格维持在8.92元/公斤,环比(+0.13)元/公斤。 三、市场研判: 单边:宰量增加,价格上涨,说明阶段性需求有改善。近月多空面临较大不确定性,建议投资者观望为主。",
+  "source": "中州期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611163931572770.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_3a40f0b08a0283519d68",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T08:44+08:00",
+  "fetched_at": "2026-11-16T08:51+08:00",
+  "title": "PTA供需双弱、社会库存延续累积 绝对价格跟随成本波动",
+  "summary": "展望后市,PTA供需双弱、社会库存延续累积,加工费修复空间受限于累库压力,绝对价格跟随成本波动。",
+  "source": "创元期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611163931571445.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_0d94800e0b9cbcb71c33",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T07:35+08:00",
+  "fetched_at": "2026-11-16T08:51+08:00",
+  "title": "供给端承压,山东猪肉价格同比下滑15.58%,蛋价小幅回升",
+  "summary": "",
+  "source": "凤凰网山东",
+  "type": "价格行情",
+  "url": "https://sd.ifeng.com/c/8y49bxx0rPY",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪肉价格"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_dc3d388b6e7aa962f889",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T06:11+08:00",
+  "fetched_at": "2026-11-16T08:51+08:00",
+  "title": "11月16日猪价:涨猛了!猪价“失控”上涨,后劲不足?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1101903520_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_3528a22c85fb4f2db192",
   "date": "2026-11-16",
   "published_at": "2026-11-16T00:55+08:00",
@@ -9589,84 +9666,6 @@
   ],
   "matched_keywords": [
    "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c276f79170ca90b11902",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T04:53+08:00",
-  "fetched_at": "2026-10-15T20:47+08:00",
-  "title": "华泰期货:三大油脂走势分化,豆油盘面弱势调整",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-14/detail-iniveefm7231245.d.html",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a19bac261bd040393e3b",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T18:27+08:00",
-  "fetched_at": "2026-10-14T19:26+08:00",
-  "title": "猪价已至10元“冰点” 超半数猪企前三季仍在增产",
-  "summary": "四季度将迎来消费高峰,邹莹吉预测,11月份生猪市场需求或陆续增加,而随着大猪需求好转、价格上涨,标猪价格或得以支撑;此外,养殖户或有压栏增重表现,等待12月份冬至前后出栏,因此11月份供应或短时收窄,猪价不乏上涨可能。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610143895585961.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_ce003ecaa1bc190a1ec5",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T16:52+08:00",
-  "fetched_at": "2026-10-14T19:26+08:00",
-  "title": "华统股份:9月生猪销售收入2.13亿元,同比下降33.07%;鸡销售收入2030.10万元,同比增长31.57%",
-  "summary": "生猪销售收入同比下降主要因生猪价格较上年同期下行所致;鸡销售数量同比增长主要因鸡出栏量增加所致,鸡销售收入环比增长主要因鸡销售单价上涨所致。",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610143895520255.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_ae3143f2f4d0fd9ccd7d",
-  "date": "2026-10-14",
-  "published_at": "2026-10-14T16:36+08:00",
-  "fetched_at": "2026-10-14T19:26+08:00",
-  "title": "跌麻了!猪价下跌“跌猛了” 供需失衡压力大",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://3g.china.com/act/redian/13004758/20261014/49794317.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }
