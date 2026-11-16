@@ -1,5 +1,182 @@
 [
  {
+  "id": "news_521ad3c118ff9d85e956",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T15:23+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "生猪期货阶段性反弹 产能去化效果预期升温",
+  "summary": "国家统计局数据显示,11月上旬流通领域重要生产资料中生猪(外三元)价格为8.7元/千克,环比下降6.5%。 从上市猪企10月份销售情况来看,部分企业虽然减少了出栏量,但市场价格仍然缺乏支撑。",
+  "source": "新华财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611163931765380.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2cd539c8a6e5009454fb",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T14:52+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "猪肉价格跌至近十年新低,行业产能加速出清猪价拐点或将至丨盘中雷达",
+  "summary": "一、猪价深跌产能加速去化,机构预计猪价拐点将在4Q2026出现 生猪产业链包括上游饲料与种猪繁育、中游商品猪养殖、下游屠宰加工及肉制品流通。当前猪价持续下行,养殖端深度亏损,能繁母猪存栏连续去化。 (1)生猪养殖龙头企业业绩集体亏损 生猪养殖龙头企业业绩集体亏损。",
+  "source": "21世纪经济报道",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611163931753686.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "猪肉价格",
+   "生猪",
+   "能繁母猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_63d7cd7d2a8e5a179b27",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T13:02+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "10年最低!生猪价格大降! 超市猪肉比油麦菜、辣椒还便宜,网友:这价格对吗?#媒体原创 #猪肉 #猪价 #猪价行情 #民生",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1102168048_121118712",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_82d1233f9c79ba074b11",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T11:41+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "【现货】11月16日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261116/c681846870.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e13cb71508a7fe7164aa",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T10:55+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "华泰期货:需求提振支撑,生猪价格宽幅震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-11-16/detail-iniywwzf1282486.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_fea948606a5943d5194c",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T10:54+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "全球鱼油原料供应趋紧,UndoAge营养工厂赴秘鲁对接上游供应链",
+  "summary": "",
+  "source": "中国经营网",
+  "type": "供需动态",
+  "url": "http://www.cb.com.cn/index/show/gd/cv/cv1362630331493",
+  "company": "",
+  "material_ids": [
+   "FISHOIL"
+  ],
+  "matched_keywords": [
+   "鱼油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_50cec3cc21e19bf2425a",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T10:53+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "猪价低位磨底、产能加速去化 生猪产业站上周期十字路口",
+  "summary": "现货创年内新低,期货价格反映远期预期 现货端,11 月生猪价格仍在低位运行。农业农村部监测,11 月 13 日全国农产品批发市场猪肉平均价格为 14.79 元/公斤,较前一日下降 0.4%。",
+  "source": "中国网财经",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611163931647622.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_01df2d87805e83a2ab8a",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T10:14+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "生猪期价持续震荡回升 腌腊旺季预期升温",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-16/detail-iniywwzi2473700.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_54c6cb413ebb375d20d6",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T09:37+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "市场消息称大豆通关时间延长 预计短期连粕低位震荡运行",
+  "summary": "油厂豆粕库存供应充足,下游现货刚需采购为主,现货反弹力度有限,基差走弱。市场消息称大豆通关时间延长,带来情绪上的提振。预计短期连粕低位震荡运行。",
+  "source": "铜冠金源期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611163931591113.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_d0eae83c7c2a9d8cf39a",
   "date": "2026-11-16",
   "published_at": "2026-11-16T08:46+08:00",
@@ -58,21 +235,21 @@
   "relevance_score": 8
  },
  {
-  "id": "news_dc3d388b6e7aa962f889",
+  "id": "news_8138e5487e5e1ad0b500",
   "date": "2026-11-16",
-  "published_at": "2026-11-16T06:11+08:00",
-  "fetched_at": "2026-11-16T08:51+08:00",
-  "title": "11月16日猪价:涨猛了!猪价“失控”上涨,后劲不足?",
+  "published_at": "2026-11-16T02:53+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "生意社:成本主导 PTA价格偏弱运行",
   "summary": "",
-  "source": "Sohu",
+  "source": "新浪财经_金融信息服务商",
   "type": "价格行情",
-  "url": "https://m.sohu.com/a/1101903520_120238851",
+  "url": "https://finance.sina.cn/futuremarket/nyshzx/2026-11-15/detail-iniyvrfv1772978.d.html",
   "company": "",
   "material_ids": [
-   "LH"
+   "TA"
   ],
   "matched_keywords": [
-   "猪价"
+   "pta"
   ],
   "relevance_score": 8
  },
@@ -365,6 +542,25 @@
   "matched_keywords": [
    "玉米",
    "大豆"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_96cf0af27d67fa12d282",
+  "date": "2026-11-14",
+  "published_at": "2026-11-14T14:35+08:00",
+  "fetched_at": "2026-11-16T15:44+08:00",
+  "title": "猪价飘红不是翻身,是憋久了的硬反弹",
+  "summary": "",
+  "source": "腾讯新闻",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20261114A0A4ZX00",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
@@ -9473,199 +9669,6 @@
   ],
   "matched_keywords": [
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f47bbda4882526fc792f",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T13:25+08:00",
-  "fetched_at": "2026-10-15T15:07+08:00",
-  "title": "迎合控糖需求 永辉上架8款玉米",
-  "summary": "8款永辉农场玉米包括拇指玉米、小花糯玉米、紫拇指玉米、甜玉米段、脆甜玉米,以及有机黄甜糯、有机白甜糯、有机黑甜糯玉米。产地覆盖云南西双版纳、吉林长春公主岭、内蒙古赤峰敖汉旗、山西忻州静乐县四地,总计种植面积超万亩。",
-  "source": "北京商报",
-  "type": "供需动态",
-  "url": "http://biz.eastmoney.com/a/202610153896731183.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_5938acaa52b2176993a4",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T13:22+08:00",
-  "fetched_at": "2026-10-15T15:07+08:00",
-  "title": "猪价已至10元“冰点” 超半数猪企前三季仍在增产 产能去化效果微弱",
-  "summary": "",
-  "source": "中华网",
-  "type": "供需动态",
-  "url": "https://news.china.com/socialgd/10000169/20261015/49795786.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_04bcd452f8cd0caeae15",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T11:29+08:00",
-  "fetched_at": "2026-10-15T15:07+08:00",
-  "title": "养殖业概念盘中走弱,9月国内生猪市场价格整体延续下行走势丨异动情报",
-  "summary": "财信证券研报指出,2026年白羽肉鸡行业供给端仍处宽松格局,全年肉鸡产量预计前低后高、整体仍增长,但消费刺激政策落地及猪价上行带来的鸡猪替代效应将逐步显现,预计2026年白羽鸡价格整体略好于2025年;圣农发展作为全产业链一体化龙头,有望凭借自研种源成本优势持续释放盈利弹性。",
-  "source": "21世纪经济报道",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610153896648086.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_1d8a6dd05ce60ef16e28",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T10:48+08:00",
-  "fetched_at": "2026-10-15T15:07+08:00",
-  "title": "【现货】10月15日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20261015/c680721130.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_308163b3b411423ad7b5",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T09:49+08:00",
-  "fetched_at": "2026-10-18T17:27+08:00",
-  "title": "2026年10月15日大豆豆油价格:东北惜售把价格顶上去 豆油全线小跌",
-  "summary": "",
-  "source": "QQ News",
-  "type": "价格行情",
-  "url": "https://news.qq.com/rain/a/20261015A045SD00",
-  "company": "",
-  "material_ids": [
-   "A",
-   "Y"
-  ],
-  "matched_keywords": [
-   "大豆",
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_8cef0a806b6dae81813e",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T09:16+08:00",
-  "fetched_at": "2026-10-15T09:41+08:00",
-  "title": "农产品 | 棕榈油:美国通胀数据高于预期 加剧市场担忧情绪",
-  "summary": "大豆盘面压榨毛利润表现较差,后续关注压榨利润修复路径对国内油粕价格走势的指引。棕榈油短期供需面仍呈现偏宽松,偏高的库存仍对价格形成压制,而厄尔尼诺现象主要影响明年产量下降的预期,预期层面的兑现还需要时间去验证,关注现实和预期反复博弈。",
-  "source": "国投期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610153896274875.html",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_f6dc9caebd3aefd696cb",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T08:27+08:00",
-  "fetched_at": "2026-10-15T15:07+08:00",
-  "title": "PTA供需走弱约束反弹空间 短期价格受成本主导",
-  "summary": "分产品来看,除涤纶工业丝盈利尚可外,涤纶短纤亏损500元/吨,长丝产品大多处于盈亏平衡线附近,企业主动增产意愿不足。终端织造环节开工率偏低,加弹、织造业开工率分别为57%、54%,秋冬季订单增量有限,外需偏弱格局未变,仅国内刚需采购对需求形成托底作用。",
-  "source": "期货日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610153896860246.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_3caf7a0bdcd96781084f",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T07:15+08:00",
-  "fetched_at": "2026-10-16T16:50+08:00",
-  "title": "10月15日猪价:3涨13跌!猪价下跌“180°大变”,接下来否极泰来?",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://www.sohu.com/a/1087785097_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9cbdb3528d5d051e3e58",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T06:20+08:00",
-  "fetched_at": "2026-10-15T07:22+08:00",
-  "title": "CBOT农产品期货主力合约收盘多数下跌,大豆期货跌0.49%",
-  "summary": "当地时间10月14日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货跌0.49%报1277.50美分/蒲式耳,玉米期货跌0.36%报481.00美分/蒲式耳,小麦期货涨0.64%报673.50美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610153895900731.html",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_326c6c366c7ee7c8bd01",
-  "date": "2026-10-15",
-  "published_at": "2026-10-15T05:30+08:00",
-  "fetched_at": "2026-10-16T05:04+08:00",
-  "title": "PX装置检修库存偏紧 PTA短期价格偏强运行",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-14/detail-inivcxxr7890175.d.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
   ],
   "relevance_score": 8
  }
