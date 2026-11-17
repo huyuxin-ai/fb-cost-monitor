@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_4dc2094f8d2247d1d485",
+  "date": "2026-11-17",
+  "published_at": "2026-11-17T22:00+08:00",
+  "fetched_at": "2026-11-17T02:05+08:00",
+  "title": "美国农业部生猪报告2026年11月17日:采购量涨跌互现,胴体价格 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-for-november-17-2026-shows-mixed-purchase-volumes/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_aa98a86aed79a29750f7",
   "date": "2026-11-17",
   "published_at": "2026-11-17T18:16+08:00",
@@ -113,6 +132,25 @@
    "生猪"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_ee07645bdbe778678cd7",
+  "date": "2026-11-17",
+  "published_at": "2026-11-17T14:06+08:00",
+  "fetched_at": "2026-11-18T01:43+08:00",
+  "title": "一夜起飞,猪价上涨“拦不住”!附:11月18日猪价",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1102681883_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_1a4c27c67dbf53306cc3",
@@ -229,25 +267,6 @@
   "matched_keywords": [
    "生猪",
    "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_54121090ea835f4aa10d",
-  "date": "2026-11-17",
-  "published_at": "2026-11-17T00:30+08:00",
-  "fetched_at": "2026-11-17T02:05+08:00",
-  "title": "美国农业部生猪报告2026年11月16日:采购量、胴体价格与各州来源 - 新闻和统计",
-  "summary": "",
-  "source": "IndexBox",
-  "type": "价格行情",
-  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-mixed-purchase-volumes-and-carcass-pricing-for-november-16-2026/",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  },
@@ -9652,24 +9671,5 @@
    "猪价"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_7c4bb7a75f16389970e5",
-  "date": "2026-10-16",
-  "published_at": "2026-10-16T11:18+08:00",
-  "fetched_at": "2026-10-16T11:44+08:00",
-  "title": "养殖业概念盘中走强,业内人士指出四季度传统消费旺季有望为猪价提供阶段性支撑|异动情报",
-  "summary": "财信证券研报指出,白羽鸡行业2026年供给端仍显宽松,祖代更新量达157.41万套创历史峰值,但消费刺激政策落地及猪价上行预期有望提振需求,预计全年价格略好于2025年,其中圣农发展凭借自主育种、规模养殖与食品深加工协同优势,在周期波动中展现出更强盈利韧性。",
-  "source": "21世纪经济报道",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610163898192489.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 12
  }
 ]
