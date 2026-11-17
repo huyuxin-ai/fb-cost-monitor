@@ -1,10 +1,11 @@
 {
- "updated_at": "2026-11-17T09:57+08:00",
+ "updated_at": "2026-11-17T18:31+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 4,
-  "Dairynews.today": 6,
+  "36kr": 1,
+  "Dairynews.today": 5,
   "IDNFinancials": 1,
   "IndexBox": 9,
   "Sohu": 11,
@@ -21,6 +22,7 @@
   "中华网": 2,
   "中国新闻网": 2,
   "中国网财经": 1,
+  "中国证券报·中证金牛座": 1,
   "中国金融信息网": 1,
   "中州期货": 2,
   "中新经纬": 1,
@@ -33,25 +35,25 @@
   "创元期货": 1,
   "北京市人民政府门户网站": 1,
   "华盛通": 1,
-  "南华期货": 2,
-  "南方财经网": 15,
+  "南华期货": 1,
+  "南方财经网": 17,
   "同花顺": 6,
-  "同花顺财经": 4,
-  "国家粮食和物资储备局": 8,
+  "同花顺财经": 3,
+  "国家粮食和物资储备局": 7,
   "国际果蔬报道": 2,
   "大越期货": 1,
   "央视财经": 1,
   "富途牛牛": 1,
   "手机新浪网": 2,
-  "搜狐网": 7,
+  "搜狐网": 6,
   "新京报": 1,
   "新华财经": 4,
   "新浪网": 1,
-  "新浪财经": 16,
+  "新浪财经": 19,
   "新浪财经_金融信息服务商": 2,
   "新财富杂志": 1,
   "时代财经": 1,
-  "期货日报": 4,
+  "期货日报": 3,
   "正信期货": 2,
   "每日经济新闻": 6,
   "深圳商报·读创": 2,
@@ -61,7 +63,7 @@
   "生物通": 1,
   "申银万国期货": 2,
   "界面新闻": 1,
-  "第一财经": 3,
+  "第一财经": 2,
   "红星资本局": 1,
   "经济参考报": 1,
   "经济参考网": 1,
@@ -82,6 +84,141 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_aa98a86aed79a29750f7",
+   "date": "2026-11-17",
+   "published_at": "2026-11-17T18:16+08:00",
+   "fetched_at": "2026-11-17T18:31+08:00",
+   "title": "原奶价格转正,C端还在过冬:乳企的下一战在茶饮店后厨?-36氪",
+   "summary": "",
+   "source": "36kr",
+   "type": "价格行情",
+   "url": "https://www.36kr.com/p/4073482794833031",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_3ded5ac48a5533ea6f3d",
+   "date": "2026-11-17",
+   "published_at": "2026-11-17T17:01+08:00",
+   "fetched_at": "2026-11-17T18:31+08:00",
+   "title": "豆粕:修复已至,空间未开",
+   "summary": "大地期货研究院 观点小结 核心观点:震荡美盘反弹受限,巴西播种顺利且天气整体正常,产量未有下调预期;国内到港充足,库存高消费差,现货市场承压运行。",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/2026-11-17/doc-iniyzsvz1762253.shtml",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 7
+  },
+  {
+   "id": "news_746fce0405f9e1938d57",
+   "date": "2026-11-17",
+   "published_at": "2026-11-17T16:56+08:00",
+   "fetched_at": "2026-11-17T18:31+08:00",
+   "title": "马来西亚棕榈油行业希望尽快敲定出口税减免政策",
+   "summary": "马来西亚棕榈油行业正催促政府敲定出口税减免方案,以此提振出口,帮助企业消化创纪录的库存。 知情人士透露,经过数周政府审议,市场不确定性加剧...",
+   "source": "新浪财经",
+   "type": "政策与供应",
+   "url": "https://finance.sina.com.cn/world/2026-11-17/doc-iniyzsvz1755219.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_bf58ac01e0a62b0a3afd",
+   "date": "2026-11-17",
+   "published_at": "2026-11-17T16:53+08:00",
+   "fetched_at": "2026-11-17T18:31+08:00",
+   "title": "生猪:阶段性反弹,但压力仍在",
+   "summary": "紫金天风期货 观点小结 核心观点:底部调整在天气降温,终端需求回暖预期以及空头主动离场,期货价格率先超跌反弹的情况下,市场信心及情绪回暖,二育进场情绪增加...",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/2026-11-17/doc-iniyzswc5442215.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_91a84db3076b5e584fa7",
+   "date": "2026-11-17",
+   "published_at": "2026-11-17T15:43+08:00",
+   "fetched_at": "2026-11-17T18:31+08:00",
+   "title": "玉米主力合约收跌0.23%",
+   "summary": "21财经11月17日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.23%,收盘报2177.0元/吨,日内资金流出625.16万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611173932860053.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_324d31dd4525ec8dede4",
+   "date": "2026-11-17",
+   "published_at": "2026-11-17T15:42+08:00",
+   "fetched_at": "2026-11-17T18:31+08:00",
+   "title": "生猪主力合约收跌2.66%",
+   "summary": "21财经11月17日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌2.66%,收盘报9685.0元/吨,日内资金流出1.92亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611173932876363.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_1a4c27c67dbf53306cc3",
+   "date": "2026-11-17",
+   "published_at": "2026-11-17T11:58+08:00",
+   "fetched_at": "2026-11-17T18:31+08:00",
+   "title": "首次突破4000家!生猪期货产业客户参与度持续提升",
+   "summary": "2026年,参与生猪期货交易的产业客户数量首次突破4000家,产业客户权益较去年增加三成,交易规模较去年翻番,期货盈利大幅增加,在生猪价格持续走弱的市场环境下有效对冲了现货亏损,期货市场服务实体经济、助力产业稳健经营的作用得到了充分体现。",
+   "source": "中国证券报·中证金牛座",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611173932768417.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_201ec271ba4b8de2f19f",
    "date": "2026-11-17",
@@ -318,6 +455,25 @@
    "matched_keywords": [
     "生猪",
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9e567a2418d1bf96425e",
+   "date": "2026-11-16",
+   "published_at": "2026-11-16T16:02+08:00",
+   "fetched_at": "2026-11-17T18:31+08:00",
+   "title": "生猪养殖成本持续改善_公司研究_研报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "供需动态",
+   "url": "https://stock.stockstar.com/JC2026111600024713.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
    ],
    "relevance_score": 8
   },
@@ -3805,161 +3961,6 @@
    ],
    "matched_keywords": [
     "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7f6425daf398db33d546",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T15:31+08:00",
-   "fetched_at": "2026-11-03T01:23+08:00",
-   "title": "11月2日生猪期货收盘下跌0.31%,报9500元_综合资讯",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://futures.stockstar.com/RB2026110200017407.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_14bd4c9c57295c6f0dbb",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T13:13+08:00",
-   "fetched_at": "2026-11-02T15:27+08:00",
-   "title": "原奶价格下跌53个月后转正 乳业盈利点生变 深加工能否破局?",
-   "summary": "值得关注的是,原奶价格在下跌53个月后已首度转正。农业农村部9月供需月报显示,奶业主产省生鲜乳收购价每公斤3.08元,同比上涨1.7%,这意味着乳企过去三年靠“便宜原奶换利润”的路径开始失效。未来,新的挑战或许将进一步考验各家奶企的运营能力。",
-   "source": "第一财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611023918484459.html",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶",
-    "奶价",
-    "生鲜乳"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_90067c4e6f7ca5a6d8d9",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T10:44+08:00",
-   "fetched_at": "2026-11-02T15:27+08:00",
-   "title": "【现货】11月2日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261102/c681345857.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_69329548ff8d130d8a77",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T10:20+08:00",
-   "fetched_at": "2026-11-02T15:27+08:00",
-   "title": "我国进口近月船期巴西大豆盘面压榨利润小幅下降",
-   "summary": "上周,受CBOT大豆期价走势偏弱、国内供需宽松、市场情绪整体偏空等影响,国内豆油、豆粕期价震荡下跌,我国进口近月船期巴西大豆盘面压榨利润小幅下降。10月30日,我国进口巴西12月船期大豆盘面压榨利润-243元/吨,较上周同期小幅下降17元/吨。",
-   "source": "国家粮食和物资储备局",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611023918163888.html",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_1ecff5d60cd5fc076eda",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T09:12+08:00",
-   "fetched_at": "2026-11-02T15:27+08:00",
-   "title": "农产品 | 生猪:期货深跌背离 猪价低位修复待确认",
-   "summary": "【农副软商品】 生猪:期货深跌背离,猪价低位修复待确认 【期货盘面】 上一交易日(10月30日),生猪主力合约 LH2701 收于 9510 元/吨,较前一交易日下跌120 元/吨,跌幅达 1.25%;近月合约 LH2611 收于 8530 元/吨,下跌 535 元/吨,跌幅达",
-   "source": "南华期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611023917874834.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_e584e8cb7e795594213f",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T08:59+08:00",
-   "fetched_at": "2026-11-03T01:23+08:00",
-   "title": "下游旺季需求兑现不足 PTA上行空间将逐步收窄",
-   "summary": "具体来看,涤纶长丝POY、FDY、DTY维持小幅盈利状态;涤纶短纤由深度亏损修复至盈亏平衡附近;瓶片盈利修复明显,但企业主动增产意愿不足。织造环节开工率同样偏低。秋冬订单增量有限,外需偏弱格局未改,内需虽阶段性回升,但难以形成持续性拉动。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611023919144845.html",
-   "company": "",
-   "material_ids": [
-    "TA"
-   ],
-   "matched_keywords": [
-    "pta"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e4ec0a90fdcc2752dd20",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T06:15+08:00",
-   "fetched_at": "2026-11-02T08:34+08:00",
-   "title": "11月2日猪价:9跌5涨!猪价下跌“突变”,接下来“插翅”上涨?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1095786954_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f9fc168ae9104e0e4ae1",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T05:09+08:00",
-   "fetched_at": "2026-11-02T08:34+08:00",
-   "title": "欧盟原奶收购价同比下跌近20%,产量与出口增长",
-   "summary": "",
-   "source": "Dairynews.today",
-   "type": "价格行情",
-   "url": "https://dairynews.today/cn/news/eu_farmgate_milk_prices_fall_nearly_20_as_production_and_exports_expand_4493725.html",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶"
    ],
    "relevance_score": 8
   }
