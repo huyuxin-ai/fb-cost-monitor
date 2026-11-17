@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T01:43+08:00",
+ "updated_at": "2026-11-18T03:40+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,7 +7,7 @@
   "36kr": 1,
   "Dairynews.today": 4,
   "IDNFinancials": 1,
-  "IndexBox": 9,
+  "IndexBox": 10,
   "Sohu": 12,
   "Vietnam.vn": 1,
   "https://www.agripost.cn/": 1,
@@ -36,7 +36,7 @@
   "北京市人民政府门户网站": 1,
   "华盛通": 1,
   "南华期货": 1,
-  "南方财经网": 17,
+  "南方财经网": 16,
   "同花顺": 6,
   "同花顺财经": 3,
   "国家粮食和物资储备局": 7,
@@ -84,6 +84,25 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_b0f727c3b09717cf2cea",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T02:01+08:00",
+   "fetched_at": "2026-11-18T03:40+08:00",
+   "title": "美国农业部2026年11月17日早间生猪报告:生猪采购量与胴体价格 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-morning-hog-report-for-november-17-2026-mixed-purchase-volumes-and-carcass-pricing/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_4dc2094f8d2247d1d485",
    "date": "2026-11-17",
@@ -3942,25 +3961,6 @@
    ],
    "matched_keywords": [
     "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_6b8de5594390bdfe3565",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T15:41+08:00",
-   "fetched_at": "2026-11-03T01:23+08:00",
-   "title": "玉米主力合约收涨0.81%",
-   "summary": "南财智讯11月2日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.81%,收盘报2234.0元/吨,日内资金流入4856.28万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611023918707616.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
    ],
    "relevance_score": 11
   }
