@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T03:40+08:00",
+ "updated_at": "2026-11-18T10:12+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -22,7 +22,7 @@
   "中华网": 2,
   "中国新闻网": 2,
   "中国网财经": 1,
-  "中国证券报·中证金牛座": 1,
+  "中国证券报·中证金牛座": 2,
   "中国金融信息网": 1,
   "中州期货": 2,
   "中新经纬": 1,
@@ -35,8 +35,8 @@
   "创元期货": 1,
   "北京市人民政府门户网站": 1,
   "华盛通": 1,
-  "南华期货": 1,
-  "南方财经网": 16,
+  "南华期货": 2,
+  "南方财经网": 15,
   "同花顺": 6,
   "同花顺财经": 3,
   "国家粮食和物资储备局": 7,
@@ -44,7 +44,7 @@
   "大越期货": 1,
   "央视财经": 1,
   "富途牛牛": 1,
-  "手机新浪网": 2,
+  "手机新浪网": 1,
   "搜狐网": 6,
   "新京报": 1,
   "新华财经": 4,
@@ -55,7 +55,7 @@
   "时代财经": 1,
   "期货日报": 3,
   "正信期货": 2,
-  "每日经济新闻": 6,
+  "每日经济新闻": 7,
   "深圳商报·读创": 2,
   "混沌天成期货": 2,
   "澎湃新闻": 3,
@@ -70,7 +70,7 @@
   "网易新闻客户端": 1,
   "联合早报": 1,
   "腾讯新闻": 2,
-  "英为财情 Investing.com": 2,
+  "英为财情 Investing.com": 1,
   "观点网": 1,
   "证券之星": 7,
   "证券日报": 1,
@@ -84,6 +84,103 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_25a2c073d917aa2e8afe",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T09:48+08:00",
+   "fetched_at": "2026-11-18T10:12+08:00",
+   "title": "新湖农产(玉米)专题:2025-26年度我国进口玉米及替代品情况分析",
+   "summary": "来源:湖畔新言 2025年10月到2026年9月,据海关数据统计,我国总计进口玉米382万吨,进口高粱733万吨,大麦1404万吨,DDGS 31万吨,木薯干263万吨,合计2814万吨...",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-18/doc-inizcmff1144053.shtml",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_3fcd1f8c4818bf6a5be5",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T09:34+08:00",
+   "fetched_at": "2026-11-18T10:12+08:00",
+   "title": "华泰期货:终端走货乏力,生猪偏弱震荡",
+   "summary": "来源:华泰期货 作者: 薛钧元 生猪观点 市场要闻与重要数据 期货方面,昨日收盘生猪 2701 合约9685元/吨,较前交易日变动-245.00元/吨,幅度-2.47%。",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-18/doc-inizcmfm1645265.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_272f917d33848477e09e",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T08:45+08:00",
+   "fetched_at": "2026-11-18T10:12+08:00",
+   "title": "农产品 | 生猪:期货高位回调、现货延续普涨 猪价期现背离博弈加剧",
+   "summary": "生猪:期货高位回调、现货延续普涨,猪价期现背离博弈加剧 【期货盘面】 上一交易日(11月17日) ,生猪主力合约 LH2701 收于 9685 元/吨,较前一交易日下跌265 元/吨,跌幅 2.66%,终结此前的七连涨、高位明显回调;近月合约 LH2611收于 7900 元/吨",
+   "source": "南华期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611183933577525.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_2a7573e1403954b41275",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T08:32+08:00",
+   "fetched_at": "2026-11-18T10:12+08:00",
+   "title": "太平洋证券:生猪养殖行业建议重点关注两类公司",
+   "summary": "11月17日,太平洋证券发布研报称,生猪养殖行业具有明显的周期性波动特征,当前正处于周期见底和产能出清阶段。中短期来看,产能进一步出清动力仍较为充足。随着产能深度出清,猪价有望触底反转,带动行业扭亏为盈。",
+   "source": "中国证券报·中证金牛座",
+   "type": "价格行情",
+   "url": "https://stock.eastmoney.com/a/202611183933791994.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_5fdf99eaa5927feaf022",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T05:16+08:00",
+   "fetched_at": "2026-11-18T10:12+08:00",
+   "title": "CBOT农产品期货主力合约收盘多数下跌,玉米期货跌0.45%",
+   "summary": "当地时间11月17日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货跌0.28%报1225.50美分/蒲式耳,玉米期货跌0.45%报446.75美分/蒲式耳,小麦期货涨1.54%报610.25美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611183933319496.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_b0f727c3b09717cf2cea",
    "date": "2026-11-18",
@@ -3865,104 +3962,6 @@
     "大豆"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_9f30ddfc7a45adf194a2",
-   "date": "2026-11-03",
-   "published_at": "2026-11-03T04:23+08:00",
-   "fetched_at": "2026-11-03T07:59+08:00",
-   "title": "ICE菜籽油期货周一收涨,豆油和原油价格双双下跌 提供者 Investing.com",
-   "summary": "",
-   "source": "英为财情 Investing.com",
-   "type": "价格行情",
-   "url": "https://cn.investing.com/news/commodities-news/article-93CH-3643700",
-   "company": "",
-   "material_ids": [
-    "Y",
-    "OI"
-   ],
-   "matched_keywords": [
-    "豆油",
-    "菜籽油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_49ad8992c91c440d2267",
-   "date": "2026-11-03",
-   "published_at": "2026-11-03T00:00+08:00",
-   "fetched_at": "2026-11-03T14:32+08:00",
-   "title": "能繁母猪持续去化与现货背离:生猪周期时滞、出清结构与2027年景气推演",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-03/doc-inixkmap0304025.shtml?froms=ggmp",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "能繁母猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_8e0b3017c1f600cd56f4",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T16:46+08:00",
-   "fetched_at": "2026-11-03T14:32+08:00",
-   "title": "五篇大文章| 确山首单生猪“保险+期货”赔付落地——中国太保产险驻马店中支以“三心”服务守护养殖收益",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/roll/2026-11-02/doc-inixiuew7214642.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_410ca7618638a64fd90d",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T15:54+08:00",
-   "fetched_at": "2026-11-03T01:23+08:00",
-   "title": "三季度官方生猪生产、价格、进出口数据",
-   "summary": "",
-   "source": "手机新浪网",
-   "type": "价格行情",
-   "url": "https://k.sina.com.cn/article_5952915720_162d24908067053po4.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b27aa9179c5533c6774f",
-   "date": "2026-11-02",
-   "published_at": "2026-11-02T15:42+08:00",
-   "fetched_at": "2026-11-03T01:23+08:00",
-   "title": "生猪主力合约收跌0.31%",
-   "summary": "南财智讯11月2日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌0.31%,收盘报9500.0元/吨,日内资金流入3251.23万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611023918706322.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
   }
  ]
 }

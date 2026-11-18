@@ -1,5 +1,102 @@
 [
  {
+  "id": "news_25a2c073d917aa2e8afe",
+  "date": "2026-11-18",
+  "published_at": "2026-11-18T09:48+08:00",
+  "fetched_at": "2026-11-18T10:12+08:00",
+  "title": "新湖农产(玉米)专题:2025-26年度我国进口玉米及替代品情况分析",
+  "summary": "来源:湖畔新言 2025年10月到2026年9月,据海关数据统计,我国总计进口玉米382万吨,进口高粱733万吨,大麦1404万吨,DDGS 31万吨,木薯干263万吨,合计2814万吨...",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-18/doc-inizcmff1144053.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_3fcd1f8c4818bf6a5be5",
+  "date": "2026-11-18",
+  "published_at": "2026-11-18T09:34+08:00",
+  "fetched_at": "2026-11-18T10:12+08:00",
+  "title": "华泰期货:终端走货乏力,生猪偏弱震荡",
+  "summary": "来源:华泰期货 作者: 薛钧元 生猪观点 市场要闻与重要数据 期货方面,昨日收盘生猪 2701 合约9685元/吨,较前交易日变动-245.00元/吨,幅度-2.47%。",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-18/doc-inizcmfm1645265.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_272f917d33848477e09e",
+  "date": "2026-11-18",
+  "published_at": "2026-11-18T08:45+08:00",
+  "fetched_at": "2026-11-18T10:12+08:00",
+  "title": "农产品 | 生猪:期货高位回调、现货延续普涨 猪价期现背离博弈加剧",
+  "summary": "生猪:期货高位回调、现货延续普涨,猪价期现背离博弈加剧 【期货盘面】 上一交易日(11月17日) ,生猪主力合约 LH2701 收于 9685 元/吨,较前一交易日下跌265 元/吨,跌幅 2.66%,终结此前的七连涨、高位明显回调;近月合约 LH2611收于 7900 元/吨",
+  "source": "南华期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611183933577525.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_2a7573e1403954b41275",
+  "date": "2026-11-18",
+  "published_at": "2026-11-18T08:32+08:00",
+  "fetched_at": "2026-11-18T10:12+08:00",
+  "title": "太平洋证券:生猪养殖行业建议重点关注两类公司",
+  "summary": "11月17日,太平洋证券发布研报称,生猪养殖行业具有明显的周期性波动特征,当前正处于周期见底和产能出清阶段。中短期来看,产能进一步出清动力仍较为充足。随着产能深度出清,猪价有望触底反转,带动行业扭亏为盈。",
+  "source": "中国证券报·中证金牛座",
+  "type": "价格行情",
+  "url": "https://stock.eastmoney.com/a/202611183933791994.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_5fdf99eaa5927feaf022",
+  "date": "2026-11-18",
+  "published_at": "2026-11-18T05:16+08:00",
+  "fetched_at": "2026-11-18T10:12+08:00",
+  "title": "CBOT农产品期货主力合约收盘多数下跌,玉米期货跌0.45%",
+  "summary": "当地时间11月17日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货跌0.28%报1225.50美分/蒲式耳,玉米期货跌0.45%报446.75美分/蒲式耳,小麦期货涨1.54%报610.25美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611183933319496.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_b0f727c3b09717cf2cea",
   "date": "2026-11-18",
   "published_at": "2026-11-18T02:01+08:00",
@@ -9574,102 +9671,5 @@
    "稀奶油"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_ea4283cc4f65549520c5",
-  "date": "2026-10-16",
-  "published_at": "2026-10-16T18:58+08:00",
-  "fetched_at": "2026-10-16T21:24+08:00",
-  "title": "一夜遇冷,猪价下跌“跌猛了”!",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://news.china.com/socialgd/10000169/20261016/49798881.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_667f9a1b149784bc1bca",
-  "date": "2026-10-16",
-  "published_at": "2026-10-16T15:42+08:00",
-  "fetched_at": "2026-10-17T01:51+08:00",
-  "title": "生猪主力合约收涨0.24%",
-  "summary": "南财智讯10月16日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨0.24%,收盘报10490.0元/吨,日内资金流入2.34亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610163898740381.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_dc589bb0a63ee14a08ec",
-  "date": "2026-10-16",
-  "published_at": "2026-10-16T15:29+08:00",
-  "fetched_at": "2026-10-16T21:24+08:00",
-  "title": "【收评】菜油日内下跌0.33% 机构称棕榈油、菜油中长期价格仍有支撑",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261016/c680773617.shtml",
-  "company": "",
-  "material_ids": [
-   "P",
-   "OI"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "菜油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_58864ada23cc89f6a88c",
-  "date": "2026-10-16",
-  "published_at": "2026-10-16T15:29+08:00",
-  "fetched_at": "2026-10-16T21:24+08:00",
-  "title": "【收评】棕榈油日内下跌0.96% 机构称情绪低迷,棕榈油再度破位下行",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261016/c680773704.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2581be55b273d1164779",
-  "date": "2026-10-16",
-  "published_at": "2026-10-16T14:16+08:00",
-  "fetched_at": "2026-10-16T16:50+08:00",
-  "title": "聚酯瓶片:成本支撑回落,短期价格窄幅偏弱_期市动态",
-  "summary": "",
-  "source": "中金在线",
-  "type": "价格行情",
-  "url": "http://futures.cnfol.com/qishidongtai/20261016/32399222.shtml",
-  "company": "",
-  "material_ids": [
-   "PR"
-  ],
-  "matched_keywords": [
-   "聚酯瓶片"
-  ],
-  "relevance_score": 8
  }
 ]
