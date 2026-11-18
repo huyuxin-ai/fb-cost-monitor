@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_149131535b010b987cfa",
+  "date": "2026-11-18",
+  "published_at": "2026-11-18T21:51+08:00",
+  "fetched_at": "2026-11-19T01:25+08:00",
+  "title": "乌部长:黑海航运停摆或令乌克兰玉米种植面积减半",
+  "summary": "乌克兰农业部长塔拉斯・维索茨基表示,受俄罗斯打击黑海港口、粮食出口受阻影响,明年乌克兰玉米种植面积或将减半,农户不得不重新规划种植品类。",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizenst0912238.shtml",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_1a3b439b42dcb5386bad",
   "date": "2026-11-18",
   "published_at": "2026-11-18T17:55+08:00",
@@ -9654,25 +9673,6 @@
   ],
   "matched_keywords": [
    "猪肉价格"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6093cd73868aec477e38",
-  "date": "2026-10-18",
-  "published_at": "2026-10-18T18:12+08:00",
-  "fetched_at": "2026-10-18T21:29+08:00",
-  "title": "今日核桃价格一览|10月18日",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1089376006_122014422",
-  "company": "",
-  "material_ids": [
-   "WALNUT"
-  ],
-  "matched_keywords": [
-   "核桃"
   ],
   "relevance_score": 8
  }
