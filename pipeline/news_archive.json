@@ -1,5 +1,106 @@
 [
  {
+  "id": "news_b3e5db3a08c018e8a750",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T09:20+08:00",
+  "fetched_at": "2026-11-19T09:22+08:00",
+  "title": "降雨不均叠加高温蒸散,巴西大豆种植窗口面临考验?",
+  "summary": "来源:华尔街见闻 据报道,巴西帕拉州和托坎廷斯州2026/27年度大豆播种进入11月下半月,主要产区进展分化。Conab监测显示,沿BR-163公路的农业带约60%面积已完成播种...",
+  "source": "新浪财经",
+  "type": "供需动态",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-19/doc-inizfqem1090734.shtml",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_7f8a5792385d6f78bec3",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T09:03+08:00",
+  "fetched_at": "2026-11-19T09:22+08:00",
+  "title": "中信证券:散奶价格同比上涨超30% 预计2028年原奶供需最紧张",
+  "summary": "",
+  "source": "观点网",
+  "type": "价格行情",
+  "url": "https://www.guandian.cn/article/20261119/629789.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶",
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_fcd67e7e4c7ff81b14bd",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T09:00+08:00",
+  "fetched_at": "2026-11-19T09:22+08:00",
+  "title": "长江证券:建议把握本轮生猪养殖大周期",
+  "summary": "生猪价格、断奶仔猪价格下跌,淘汰母猪价格同样大幅回落,持续低迷的猪价叠加日益增加的现金流压力或带动市场化出清明显加速。 长江证券预计,本轮产能去化周期或延续到明年上半年,能繁母猪的累计去化幅度或达到15%以上。",
+  "source": "中国证券报·中证金牛座",
+  "type": "价格行情",
+  "url": "https://stock.eastmoney.com/a/202611193934796795.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价",
+   "仔猪",
+   "能繁母猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_162f163751e36554829a",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T08:30+08:00",
+  "fetched_at": "2026-11-19T09:22+08:00",
+  "title": "农产品 | 生猪:年底供需对决下上方或依旧承压 只是短期情绪加持下预计偏强震荡持续",
+  "summary": "生猪 【行情资讯】 昨日国内猪价主流继续上涨,部分稳定,局部小落,河南均价涨0.02元至9.12元/公斤,四川均价涨0.13元至9.47元/公斤,湖南均价涨0.07元至9.26元/公斤,贵州均价涨0.14元至8.82元/公斤;大猪价格偏高,二次育肥补栏持续,但标猪供应充沛,",
+  "source": "五矿期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611193934647892.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_21700a15fd6b648d6a21",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T06:54+08:00",
+  "fetched_at": "2026-11-19T09:22+08:00",
+  "title": "生猪市场仍处磨底阶段 业内人士称趋势性反转尚待时日",
+  "summary": "11月中下旬,随着南方腌腊逐步启动、屠宰订单回暖,生猪价格仍有小幅修复机会,但反弹高度受限,不宜过早判定周期反转。 在姜振飞看来,本轮生猪价格反弹的核心仍在于市场预期变化。",
+  "source": "中国证券报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611193934415019.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_149131535b010b987cfa",
   "date": "2026-11-18",
   "published_at": "2026-11-18T21:51+08:00",
@@ -9578,102 +9679,5 @@
    "豆粕"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_4eaa3d7e04e7fe1cd3d7",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T09:18+08:00",
-  "fetched_at": "2026-10-19T12:27+08:00",
-  "title": "能化 | PTA供需均相对偏弱 预计期价大概率延续弱势",
-  "summary": "终端方面,瓶片需求趋弱,PET片材采购意愿下滑,中低端替代品用量增加,下游以刚需补货为主。短纤旺季氛围兑现不足,以刚需采购为主。长丝工厂成品库存压力逐步增加,采购心态偏谨慎。整体来看,PTA供需均相对偏弱,预计期价大概率延续弱势。",
-  "source": "上海中期期货",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610193899284051.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_f40f25d25be29db2ff54",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T08:52+08:00",
-  "fetched_at": "2026-10-19T12:27+08:00",
-  "title": "农产品 | 生猪:现货弱稳、亏损加深 猪价短期偏弱震荡",
-  "summary": "高蛋白豆粕中,盘锦45%下跌20元/吨,天津46%下跌20元/吨,日照46%下跌20元/吨,南通46%下跌10元/吨,东莞46%持平。豆粕基差普遍上涨,辽宁139(+15)、天津29(+15)、山东-21(+15)、江苏-31(+15),广东-11(+35)。",
-  "source": "南华期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610193899273733.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_299c785ebb03de1d067d",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T07:00+08:00",
-  "fetched_at": "2026-10-19T05:42+08:00",
-  "title": "10月19日猪价:2连涨!猪价骤然“升温”,新一轮“猛烈”上涨来了?",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1089389206_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6bc75ec188e4f9dd9161",
-  "date": "2026-10-18",
-  "published_at": "2026-10-18T20:22+08:00",
-  "fetched_at": "2026-10-19T00:49+08:00",
-  "title": "农林牧渔行业周报:猪价持续低迷,仔猪价格持续下跌_行业研究_研报",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://stock.stockstar.com/JC2026101800007831.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "仔猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_11c8548712f331896702",
-  "date": "2026-10-18",
-  "published_at": "2026-10-18T20:02+08:00",
-  "fetched_at": "2026-10-19T03:17+08:00",
-  "title": "供需关系宽松,山东猪肉价格环比回落0.64%,牛羊肉价格再创新高|新黄河探市",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1089394397_121347613",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪肉价格"
-  ],
-  "relevance_score": 8
  }
 ]

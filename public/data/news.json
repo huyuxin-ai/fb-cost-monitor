@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-19T01:25+08:00",
+ "updated_at": "2026-11-19T09:22+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "36kr": 1,
-  "Dairynews.today": 4,
+  "Dairynews.today": 3,
   "IDNFinancials": 1,
-  "IndexBox": 9,
+  "IndexBox": 7,
   "Sohu": 12,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
@@ -17,16 +17,17 @@
   "上海证券报·中国证券网": 1,
   "上观新闻": 3,
   "东吴期货": 1,
-  "东方财富": 2,
+  "东方财富": 1,
   "东方财富研究中心": 1,
   "中华网": 2,
   "中国新闻网": 2,
   "中国网财经": 1,
-  "中国证券报·中证金牛座": 2,
+  "中国证券报": 1,
+  "中国证券报·中证金牛座": 3,
   "中国金融信息网": 1,
   "中州期货": 2,
   "中新经纬": 1,
-  "五矿期货": 3,
+  "五矿期货": 4,
   "人民日报": 1,
   "农业农村部": 2,
   "凤凰网": 1,
@@ -46,9 +47,9 @@
   "手机新浪网": 1,
   "搜狐网": 5,
   "新京报": 1,
-  "新华财经": 3,
+  "新华财经": 2,
   "新浪网": 1,
-  "新浪财经": 21,
+  "新浪财经": 22,
   "新浪财经_金融信息服务商": 2,
   "新财富杂志": 1,
   "时代财经": 1,
@@ -72,7 +73,7 @@
   "联合早报": 1,
   "腾讯新闻": 2,
   "英为财情 Investing.com": 1,
-  "观点网": 1,
+  "观点网": 2,
   "证券之星": 6,
   "证券日报": 1,
   "证券时报网": 4,
@@ -85,6 +86,107 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_b3e5db3a08c018e8a750",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T09:20+08:00",
+   "fetched_at": "2026-11-19T09:22+08:00",
+   "title": "降雨不均叠加高温蒸散,巴西大豆种植窗口面临考验?",
+   "summary": "来源:华尔街见闻 据报道,巴西帕拉州和托坎廷斯州2026/27年度大豆播种进入11月下半月,主要产区进展分化。Conab监测显示,沿BR-163公路的农业带约60%面积已完成播种...",
+   "source": "新浪财经",
+   "type": "供需动态",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-19/doc-inizfqem1090734.shtml",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_7f8a5792385d6f78bec3",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T09:03+08:00",
+   "fetched_at": "2026-11-19T09:22+08:00",
+   "title": "中信证券:散奶价格同比上涨超30% 预计2028年原奶供需最紧张",
+   "summary": "",
+   "source": "观点网",
+   "type": "价格行情",
+   "url": "https://www.guandian.cn/article/20261119/629789.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_fcd67e7e4c7ff81b14bd",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T09:00+08:00",
+   "fetched_at": "2026-11-19T09:22+08:00",
+   "title": "长江证券:建议把握本轮生猪养殖大周期",
+   "summary": "生猪价格、断奶仔猪价格下跌,淘汰母猪价格同样大幅回落,持续低迷的猪价叠加日益增加的现金流压力或带动市场化出清明显加速。 长江证券预计,本轮产能去化周期或延续到明年上半年,能繁母猪的累计去化幅度或达到15%以上。",
+   "source": "中国证券报·中证金牛座",
+   "type": "价格行情",
+   "url": "https://stock.eastmoney.com/a/202611193934796795.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价",
+    "仔猪",
+    "能繁母猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_162f163751e36554829a",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T08:30+08:00",
+   "fetched_at": "2026-11-19T09:22+08:00",
+   "title": "农产品 | 生猪:年底供需对决下上方或依旧承压 只是短期情绪加持下预计偏强震荡持续",
+   "summary": "生猪 【行情资讯】 昨日国内猪价主流继续上涨,部分稳定,局部小落,河南均价涨0.02元至9.12元/公斤,四川均价涨0.13元至9.47元/公斤,湖南均价涨0.07元至9.26元/公斤,贵州均价涨0.14元至8.82元/公斤;大猪价格偏高,二次育肥补栏持续,但标猪供应充沛,",
+   "source": "五矿期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611193934647892.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_21700a15fd6b648d6a21",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T06:54+08:00",
+   "fetched_at": "2026-11-19T09:22+08:00",
+   "title": "生猪市场仍处磨底阶段 业内人士称趋势性反转尚待时日",
+   "summary": "11月中下旬,随着南方腌腊逐步启动、屠宰订单回暖,生猪价格仍有小幅修复机会,但反弹高度受限,不宜过早判定周期反转。 在姜振飞看来,本轮生猪价格反弹的核心仍在于市场预期变化。",
+   "source": "中国证券报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611193934415019.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_149131535b010b987cfa",
    "date": "2026-11-18",
@@ -3865,102 +3967,6 @@
     "玉米"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_d1193f069d4697e5cf83",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T02:00+08:00",
-   "fetched_at": "2026-11-04T04:49+08:00",
-   "title": "美国农业部2026年11月3日早间生猪报告:生猪采购量与胴体价格 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-morning-hog-report-for-november-3-2026-mixed-purchase-volumes-and-regional-carcass-pricing/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_16dfe8e148448ba105a7",
-   "date": "2026-11-03",
-   "published_at": "2026-11-03T23:00+08:00",
-   "fetched_at": "2026-11-04T04:49+08:00",
-   "title": "美国农业部生猪报告2026年11月3日:采购量涨跌互现,协商交易价格走软 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-mixed-purchase-volumes-and-softer-negotiated-prices/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_a6f691632f667bf6fec3",
-   "date": "2026-11-03",
-   "published_at": "2026-11-03T18:15+08:00",
-   "fetched_at": "2026-11-03T22:54+08:00",
-   "title": "逆势拉升!猪肉股集体上涨 生猪养殖拐点将至?",
-   "summary": "",
-   "source": "东方财富",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611033920347115.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_4ea26f9fffdc11152355",
-   "date": "2026-11-03",
-   "published_at": "2026-11-03T18:06+08:00",
-   "fetched_at": "2026-11-03T22:54+08:00",
-   "title": "Arla半年净利润升至2.13亿欧元,原奶价格下降",
-   "summary": "",
-   "source": "Dairynews.today",
-   "type": "价格行情",
-   "url": "https://dairynews.today/cn/news/arla_s_half_year_profit_rises_to_213_million_as_milk_prices_fall_6461587.html",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "原奶",
-    "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_6f211e6fff2ca5787db8",
-   "date": "2026-11-03",
-   "published_at": "2026-11-03T17:40+08:00",
-   "fetched_at": "2026-11-03T22:54+08:00",
-   "title": "商品日报(11月3日):地缘溢价回落SC原油重挫逾6% 生猪续创新低",
-   "summary": "总的来看,国投期货表示,目前原料价格有所上涨,钢厂生产利润尚可,控量发货,社库维持去化,现货市场供需双弱。下游需求端表现低迷。后市关注钢厂排产、原料价格变化。预期后市不锈钢震荡运行。 玻璃主力合约3日收涨1.38%,为第六个交易日反弹。",
-   "source": "新华财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611033920568390.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 7
   }
  ]
 }
