@@ -1,5 +1,81 @@
 [
  {
+  "id": "news_960a082b26f8da7e5ed0",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T15:44+08:00",
+  "fetched_at": "2026-11-19T17:14+08:00",
+  "title": "生猪主力合约收跌2.03%",
+  "summary": "21财经11月19日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌2.03%,收盘报9405.0元/吨,日内资金流出1.28亿元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611193935026054.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_65e128a0edc4f2fd4e19",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T15:40+08:00",
+  "fetched_at": "2026-11-19T17:14+08:00",
+  "title": "玉米主力合约收平",
+  "summary": "21财经11月19日电,盘后期货数据显示,大连商品交易所的玉米主力合约收平,收盘报2182.0元/吨,日内资金流出5667.18万元。其他相关指标见下表:",
+  "source": "南方财经网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611193935027998.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 11
+ },
+ {
+  "id": "news_ee15e723c17b440aeb59",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T15:31+08:00",
+  "fetched_at": "2026-11-19T17:14+08:00",
+  "title": "11月19日生猪期货收盘下跌2.03%,报9405元_综合资讯",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://futures.stockstar.com/RB2026111900022979.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b44166fb96953e7d298e",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T11:43+08:00",
+  "fetched_at": "2026-11-19T17:14+08:00",
+  "title": "【现货】11月19日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261119/c681989224.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_b3e5db3a08c018e8a750",
   "date": "2026-11-19",
   "published_at": "2026-11-19T09:20+08:00",
@@ -409,6 +485,25 @@
    "猪价"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_857ccf549ff76c80751e",
+  "date": "2026-11-18",
+  "published_at": "2026-11-18T06:37+08:00",
+  "fetched_at": "2026-11-19T17:14+08:00",
+  "title": "11月18日猪价:枯木逢春!猪价“火箭”上涨,后劲不足?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1102842217_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_5fdf99eaa5927feaf022",
@@ -9583,101 +9678,5 @@
    "猪价"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_69a315e1c51c14c58f86",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T12:56+08:00",
-  "fetched_at": "2026-10-20T05:40+08:00",
-  "title": "山东猪肉价格接近“20元”,蛋价“9元”,牛羊肉涨价再创年内新高",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://cj.sina.com.cn/articles/view/5426766895/14375e42f00102zk2w",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪肉价格"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1ea94b67e5823cf06d01",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T11:49+08:00",
-  "fetched_at": "2026-10-19T12:27+08:00",
-  "title": "【现货】10月19日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20261019/c680822879.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1b9637512e9a10a06b62",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T11:19+08:00",
-  "fetched_at": "2026-10-19T18:12+08:00",
-  "title": "供需边际改善,猪价微涨!这波反弹能走多远?",
-  "summary": "",
-  "source": "新浪网",
-  "type": "价格行情",
-  "url": "https://video.sina.com.cn/p/finance/2026-10-19/detail-inivtpwv6919342.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_efd61ad2bd088aef5dd9",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T10:55+08:00",
-  "fetched_at": "2026-10-19T12:27+08:00",
-  "title": "猪价失守10元关口!行业亏损时长刷新历史最长纪录,超强厄尔尼诺或成产能出清加速器",
-  "summary": "中国养猪网数据显示,10月16日全国生猪(外三元)价格报9.88元/公斤,再度失守10元关口。被寄予厚望的中秋、国庆双节并未带来预期中的反弹——猪价自9月底10.06元/公斤短暂回升至10月6日的10.31元/公斤后便掉头向下,生猪市场呈现“旺季不旺”。",
-  "source": "21世纪经济报道",
-  "type": "价格行情",
-  "url": "https://stock.eastmoney.com/a/202610193899726731.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_619e550818ba6246c1e8",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T10:43+08:00",
-  "fetched_at": "2026-10-19T12:27+08:00",
-  "title": "华泰期货:供应压力逐步释放,豆粕价格震荡运行",
-  "summary": "作者: 薛钧元 粕类市场要闻与重要数据 期货方面,上周末收盘豆粕2701合约3281元/吨,环比下跌121元/吨,跌幅3.56%;上周末收盘菜粕2701合约2349元/吨,环比下跌25元/吨...",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtpwv6911127.shtml",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
  }
 ]

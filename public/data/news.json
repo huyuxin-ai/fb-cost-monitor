@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-19T09:22+08:00",
+ "updated_at": "2026-11-19T17:14+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "36kr": 1,
-  "Dairynews.today": 3,
+  "Dairynews.today": 2,
   "IDNFinancials": 1,
   "IndexBox": 7,
-  "Sohu": 12,
+  "Sohu": 13,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "https://www.agripost.cn/": 1,
@@ -36,8 +36,8 @@
   "北京市人民政府门户网站": 1,
   "华盛通": 1,
   "南华期货": 2,
-  "南方财经网": 17,
-  "同花顺": 5,
+  "南方财经网": 19,
+  "同花顺": 6,
   "同花顺财经": 4,
   "国家粮食和物资储备局": 7,
   "国际果蔬报道": 2,
@@ -49,16 +49,16 @@
   "新京报": 1,
   "新华财经": 2,
   "新浪网": 1,
-  "新浪财经": 22,
+  "新浪财经": 21,
   "新浪财经_金融信息服务商": 2,
   "新财富杂志": 1,
   "时代财经": 1,
-  "期货日报": 3,
+  "期货日报": 2,
   "正信期货": 2,
-  "每日经济新闻": 6,
+  "每日经济新闻": 5,
   "海关总署": 1,
   "深圳商报·读创": 3,
-  "混沌天成期货": 2,
+  "混沌天成期货": 1,
   "澎湃新闻": 3,
   "瑞达期货": 1,
   "生物通": 1,
@@ -74,7 +74,7 @@
   "腾讯新闻": 2,
   "英为财情 Investing.com": 1,
   "观点网": 2,
-  "证券之星": 6,
+  "证券之星": 7,
   "证券日报": 1,
   "证券时报网": 4,
   "财中社": 1,
@@ -86,6 +86,82 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_960a082b26f8da7e5ed0",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T15:44+08:00",
+   "fetched_at": "2026-11-19T17:14+08:00",
+   "title": "生猪主力合约收跌2.03%",
+   "summary": "21财经11月19日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌2.03%,收盘报9405.0元/吨,日内资金流出1.28亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611193935026054.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_65e128a0edc4f2fd4e19",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T15:40+08:00",
+   "fetched_at": "2026-11-19T17:14+08:00",
+   "title": "玉米主力合约收平",
+   "summary": "21财经11月19日电,盘后期货数据显示,大连商品交易所的玉米主力合约收平,收盘报2182.0元/吨,日内资金流出5667.18万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611193935027998.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_ee15e723c17b440aeb59",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T15:31+08:00",
+   "fetched_at": "2026-11-19T17:14+08:00",
+   "title": "11月19日生猪期货收盘下跌2.03%,报9405元_综合资讯",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://futures.stockstar.com/RB2026111900022979.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b44166fb96953e7d298e",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T11:43+08:00",
+   "fetched_at": "2026-11-19T17:14+08:00",
+   "title": "【现货】11月19日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261119/c681989224.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_b3e5db3a08c018e8a750",
    "date": "2026-11-19",
@@ -477,6 +553,25 @@
     "猪价"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_857ccf549ff76c80751e",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T06:37+08:00",
+   "fetched_at": "2026-11-19T17:14+08:00",
+   "title": "11月18日猪价:枯木逢春!猪价“火箭”上涨,后劲不足?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1102842217_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_5fdf99eaa5927feaf022",
@@ -3869,102 +3964,6 @@
    "matched_keywords": [
     "生猪",
     "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2cd38b9e67fbfabbb7a8",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T09:23+08:00",
-   "fetched_at": "2026-11-04T15:52+08:00",
-   "title": "多重利空集中发酵 豆粕期价破位下行",
-   "summary": "豆粕表观消费量为174万吨,油厂豆粕库存增至130万吨,市场预计月底达到135 万吨,油厂催提现象普遍,现货议价权已从卖方转向买方。",
-   "source": "期货日报",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611043921134172.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_ccf7bd4c5f7f80ce1000",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T08:45+08:00",
-   "fetched_at": "2026-11-04T15:52+08:00",
-   "title": "美国农业部海外农业局:欧盟奶牛饲料成本上涨26%,奶价下跌",
-   "summary": "",
-   "source": "Dairynews.today",
-   "type": "价格行情",
-   "url": "https://dairynews.today/cn/news/fas_eu_dairy_feed_costs_rise_26_as_milk_prices_fall_9386928.html",
-   "company": "",
-   "material_ids": [
-    "RAW_MILK"
-   ],
-   "matched_keywords": [
-    "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9f24c810224cf3afae52",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T08:43+08:00",
-   "fetched_at": "2026-11-04T09:06+08:00",
-   "title": "【豆系观察】豆一:供给预期与流通现实的博弈",
-   "summary": "来源:CFC商品策略研究 作者 | 中信建投期货 研究发展部 刘昊 本报告完成时间 | 2026年11月3日 期货交易咨询业务资格:证监许可〔2011〕1461号...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-04/doc-inixprpe1680025.shtml",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "豆一"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c060957794abccb05404",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T08:36+08:00",
-   "fetched_at": "2026-11-04T09:06+08:00",
-   "title": "农产品 | 生猪:多重利空压制 盘面再杀升水",
-   "summary": "需求端,11月3日涌益样本日宰量156,067头,环比+2,446头;150—170kg大肥与标猪价差0.67元/公斤,环比-0.03元/公斤。 总的来说,当前市场全面利空:现货价格跌破 9 元关口,生猪均重有所抬升,11 月计划出栏量环比增长。",
-   "source": "混沌天成期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611043920934572.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_36e9456c2791a9c66614",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T05:49+08:00",
-   "fetched_at": "2026-11-04T09:06+08:00",
-   "title": "CBOT农产品期货主力合约收盘全线下跌,玉米期货跌1.51%",
-   "summary": "当地时间11月3日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线下跌,大豆期货跌0.27%报1213.50美分/蒲式耳,玉米期货跌1.51%报441.50美分/蒲式耳,小麦期货跌1.28%报598.75美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611043920690413.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
    ],
    "relevance_score": 12
   }
