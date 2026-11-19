@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_7f7208871d583cc70933",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T23:00+08:00",
+  "fetched_at": "2026-11-20T01:30+08:00",
+  "title": "美国农业部生猪报告2026年11月19日:协商成交量下降,胴体价格涨跌互现 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-november-19-2026-purchase-volumes-and-plant-delivered-prices/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_affa2f16e60104d8afde",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T22:41+08:00",
+  "fetched_at": "2026-11-20T01:30+08:00",
+  "title": "截至11月12日当周 美国2026/2027年度大豆出口净销售为150.1万吨",
+  "summary": "美国农业部数据显示,截至11月12日当周,美国2026/2027年度大豆出口净销售为150.1万吨,前一周为115.5万吨;美国2026/2027年度玉米出口净销售为158.8万吨,前一周为288.1万吨。",
+  "source": "新华财经",
+  "type": "供需动态",
+  "url": "https://finance.eastmoney.com/a/202611193935375024.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_960a082b26f8da7e5ed0",
   "date": "2026-11-19",
   "published_at": "2026-11-19T15:44+08:00",
@@ -57,6 +95,45 @@
   "relevance_score": 8
  },
  {
+  "id": "news_c06290694cd845be60d8",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T14:49+08:00",
+  "fetched_at": "2026-11-20T01:30+08:00",
+  "title": "光大期货:供应压力持续 猪价持续下行",
+  "summary": "",
+  "source": "第一财经",
+  "type": "价格行情",
+  "url": "https://www.yicai.com/video/103446591.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_00eb4b736b3edb991763",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T12:35+08:00",
+  "fetched_at": "2026-11-20T01:30+08:00",
+  "title": "生猪价格跌至近十年低位 记者探访济南市场:前腿肉5.7元/斤,排骨跌破9元 | 新黄河探市",
+  "summary": "",
+  "source": "凤凰网",
+  "type": "价格行情",
+  "url": "https://feng.ifeng.com/c/8yB5KD5Geea",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_b44166fb96953e7d298e",
   "date": "2026-11-19",
   "published_at": "2026-11-19T11:43+08:00",
@@ -72,6 +149,44 @@
   ],
   "matched_keywords": [
    "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_83d9c8276cbd8774918a",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T11:40+08:00",
+  "fetched_at": "2026-11-20T01:30+08:00",
+  "title": "反弹,出现!猪价跌势不止,国家再度出手!",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1103569669_121118712",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2c6c9fec4d1e62dd5d51",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T11:40+08:00",
+  "fetched_at": "2026-11-20T01:30+08:00",
+  "title": "市场条件、时间动态与短期预测:基于动态回归方法的泰国育肥猪价格研究",
+  "summary": "",
+  "source": "生物通",
+  "type": "价格行情",
+  "url": "https://www.ebiotrade.com/newsf/2026-11/20261119062735289.htm",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
@@ -9562,120 +9677,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9a57140c41c645e4a41a",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T17:09+08:00",
-  "fetched_at": "2026-10-20T00:10+08:00",
-  "title": "维护盘面价格代表性,大商所调整生猪期货交割发票类型",
-  "summary": "在现货流通环节,生猪现货贸易发票既包括生猪养殖企业开具的自产自销农产品普票,又包括生猪贸易企业开具的一般纳税人专票和其他类型发票,不同发票类型的买方可抵扣税额不同,因此可能对期货盘面价格产生扰动。",
-  "source": "国际金融报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610193900170484.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_73c20be80b1d55f28228",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T16:58+08:00",
-  "fetched_at": "2026-10-19T18:12+08:00",
-  "title": "增强盘面价格代表性 大商所调整生猪期货交割发票类型",
-  "summary": "在现货流通环节,生猪现货贸易发票既包括生猪养殖企业开具的自产自销农产品普票,又包括生猪贸易企业开具的一般纳税人专票和其他类型发票,不同发票类型的买方可抵扣税额不同,因此可能对期货盘面价格产生扰动。",
-  "source": "新华财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610193899955194.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_944fb7172d1c6b38281a",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T15:41+08:00",
-  "fetched_at": "2026-10-19T18:12+08:00",
-  "title": "生猪主力合约收跌2.48%",
-  "summary": "南财智讯10月19日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌2.48%,收盘报10215.0元/吨,日内资金流入1.1亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610193899888965.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_de63bd92a2839c60bc9b",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T15:30+08:00",
-  "fetched_at": "2026-10-19T18:12+08:00",
-  "title": "10月19日PTA期货收盘下跌1.57%,报6384元_综合资讯",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://futures.stockstar.com/RB2026101900013393.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_58625c6921336b80bd22",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T14:34+08:00",
-  "fetched_at": "2026-10-21T15:15+08:00",
-  "title": "旺季氛围兑现不足 预计PTA期货价格弱势震荡为主",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtynm7594882.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_5ab9eec54e35621d4395",
-  "date": "2026-10-19",
-  "published_at": "2026-10-19T13:10+08:00",
-  "fetched_at": "2026-10-19T18:12+08:00",
-  "title": "农业行业周报:本周猪价回落,白羽鸡价格延续反弹_行业研究_研报",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://stock.stockstar.com/JC2026101900012671.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
   ],
   "relevance_score": 8
  }

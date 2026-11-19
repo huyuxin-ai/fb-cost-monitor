@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T17:14+08:00",
+ "updated_at": "2026-11-20T01:30+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,8 +7,8 @@
   "36kr": 1,
   "Dairynews.today": 2,
   "IDNFinancials": 1,
-  "IndexBox": 7,
-  "Sohu": 13,
+  "IndexBox": 8,
+  "Sohu": 14,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "https://www.agripost.cn/": 1,
@@ -19,35 +19,33 @@
   "东吴期货": 1,
   "东方财富": 1,
   "东方财富研究中心": 1,
-  "中华网": 2,
+  "中华网": 1,
   "中国新闻网": 2,
   "中国网财经": 1,
   "中国证券报": 1,
   "中国证券报·中证金牛座": 3,
   "中国金融信息网": 1,
   "中州期货": 2,
-  "中新经纬": 1,
   "五矿期货": 4,
   "人民日报": 1,
   "农业农村部": 2,
-  "凤凰网": 1,
+  "凤凰网": 2,
   "凤凰网山东": 1,
   "创元期货": 1,
   "北京市人民政府门户网站": 1,
   "华盛通": 1,
   "南华期货": 2,
   "南方财经网": 19,
-  "同花顺": 6,
+  "同花顺": 5,
   "同花顺财经": 4,
-  "国家粮食和物资储备局": 7,
+  "国家粮食和物资储备局": 6,
   "国际果蔬报道": 2,
   "大越期货": 1,
   "央视财经": 1,
   "富途牛牛": 1,
-  "手机新浪网": 1,
   "搜狐网": 5,
   "新京报": 1,
-  "新华财经": 2,
+  "新华财经": 3,
   "新浪网": 1,
   "新浪财经": 21,
   "新浪财经_金融信息服务商": 2,
@@ -57,15 +55,15 @@
   "正信期货": 2,
   "每日经济新闻": 5,
   "海关总署": 1,
-  "深圳商报·读创": 3,
+  "深圳商报·读创": 2,
   "混沌天成期货": 1,
   "澎湃新闻": 3,
   "瑞达期货": 1,
-  "生物通": 1,
+  "生物通": 2,
   "申银万国期货": 2,
   "界面新闻": 1,
   "盐城要闻": 1,
-  "第一财经": 2,
+  "第一财经": 3,
   "红星资本局": 1,
   "经济参考报": 1,
   "经济参考网": 1,
@@ -86,6 +84,44 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_7f7208871d583cc70933",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T23:00+08:00",
+   "fetched_at": "2026-11-20T01:30+08:00",
+   "title": "美国农业部生猪报告2026年11月19日:协商成交量下降,胴体价格涨跌互现 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-daily-direct-prior-day-hog-report-november-19-2026-purchase-volumes-and-plant-delivered-prices/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_affa2f16e60104d8afde",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T22:41+08:00",
+   "fetched_at": "2026-11-20T01:30+08:00",
+   "title": "截至11月12日当周 美国2026/2027年度大豆出口净销售为150.1万吨",
+   "summary": "美国农业部数据显示,截至11月12日当周,美国2026/2027年度大豆出口净销售为150.1万吨,前一周为115.5万吨;美国2026/2027年度玉米出口净销售为158.8万吨,前一周为288.1万吨。",
+   "source": "新华财经",
+   "type": "供需动态",
+   "url": "https://finance.eastmoney.com/a/202611193935375024.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_960a082b26f8da7e5ed0",
    "date": "2026-11-19",
@@ -144,6 +180,45 @@
    "relevance_score": 8
   },
   {
+   "id": "news_c06290694cd845be60d8",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T14:49+08:00",
+   "fetched_at": "2026-11-20T01:30+08:00",
+   "title": "光大期货:供应压力持续 猪价持续下行",
+   "summary": "",
+   "source": "第一财经",
+   "type": "价格行情",
+   "url": "https://www.yicai.com/video/103446591.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_00eb4b736b3edb991763",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T12:35+08:00",
+   "fetched_at": "2026-11-20T01:30+08:00",
+   "title": "生猪价格跌至近十年低位 记者探访济南市场:前腿肉5.7元/斤,排骨跌破9元 | 新黄河探市",
+   "summary": "",
+   "source": "凤凰网",
+   "type": "价格行情",
+   "url": "https://feng.ifeng.com/c/8yB5KD5Geea",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_b44166fb96953e7d298e",
    "date": "2026-11-19",
    "published_at": "2026-11-19T11:43+08:00",
@@ -159,6 +234,44 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_83d9c8276cbd8774918a",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T11:40+08:00",
+   "fetched_at": "2026-11-20T01:30+08:00",
+   "title": "反弹,出现!猪价跌势不止,国家再度出手!",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1103569669_121118712",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2c6c9fec4d1e62dd5d51",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T11:40+08:00",
+   "fetched_at": "2026-11-20T01:30+08:00",
+   "title": "市场条件、时间动态与短期预测:基于动态回归方法的泰国育肥猪价格研究",
+   "summary": "",
+   "source": "生物通",
+   "type": "价格行情",
+   "url": "https://www.ebiotrade.com/newsf/2026-11/20261119062735289.htm",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
    ],
    "relevance_score": 8
   },
@@ -3847,122 +3960,6 @@
     "LH"
    ],
    "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_0a6ae953d724b7523725",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T12:01+08:00",
-   "fetched_at": "2026-11-04T15:52+08:00",
-   "title": "普莱柯前三季度营收净利双双同比下滑,生猪产能调控带来短期阵痛",
-   "summary": "有投资者问到,前三季度公司猪用疫苗销售订单减少影响公司业绩,在生猪行业产能调控的背景下,公司如何应对生猪产能调控? 普莱柯表示,生猪产能调控确实带来了短期阵痛,但这是行业发展从数量到质量转型的分水岭和必经阶段。",
-   "source": "深圳商报·读创",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202611043921488820.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_ef4b2149a595dbe14220",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T11:55+08:00",
-   "fetched_at": "2026-11-04T15:52+08:00",
-   "title": "月初18省猪价反弹 行情反转? 产能去化加速助推",
-   "summary": "",
-   "source": "中华网",
-   "type": "价格行情",
-   "url": "https://news.china.com/socialgd/10000169/20261104/49838694.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e088c2ac587652061485",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T11:51+08:00",
-   "fetched_at": "2026-11-04T15:52+08:00",
-   "title": "生猪价格屡创新低,周期“黎明”还有多远?",
-   "summary": "",
-   "source": "手机新浪网",
-   "type": "价格行情",
-   "url": "https://k.sina.com.cn/article_5953189932_162d6782c067052y4k.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_89f83d69bbbe8deaa80e",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T11:47+08:00",
-   "fetched_at": "2026-11-04T15:52+08:00",
-   "title": "【现货】11月4日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261104/c681443802.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_647968d65bf69dd5648a",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T10:27+08:00",
-   "fetched_at": "2026-11-04T15:52+08:00",
-   "title": "本周国内豆粕现货价格下跌",
-   "summary": "11月3日,沿海地区43%蛋白豆粕现货报价3120~3350元/吨,较上周同期下跌10~40元/吨;现货基差报价M2701-40~+90元/吨,下跌10元/吨至上涨10元/吨不等。",
-   "source": "国家粮食和物资储备局",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611043921417056.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_547207082a55895c850f",
-   "date": "2026-11-04",
-   "published_at": "2026-11-04T09:42+08:00",
-   "fetched_at": "2026-11-04T15:52+08:00",
-   "title": "国家统计局:10月下旬生猪价格环比跌5.1%",
-   "summary": "国家统计局网站截图 具体看,农产品方面,生猪(外三元)本期价格9.3元/千克,环比下跌5.1%;豆粕(粗蛋白含量≥43%)本期吨价3249.8元,环比下跌2.9%;棉花(皮棉,白棉三级)本期吨价16723.6元,环比下跌1.5%。 煤炭产品价格普遍上行。",
-   "source": "中新经纬",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611043921455286.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
     "猪价"
    ],
    "relevance_score": 12
