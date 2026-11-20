@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_21387b7ec3e1043e62cc",
+  "date": "2026-11-21",
+  "published_at": "2026-11-21T06:56+08:00",
+  "fetched_at": "2026-11-21T07:46+08:00",
+  "title": "CBOT农产品期货主力合约收盘多数下跌,玉米期货跌0.83%",
+  "summary": "当地时间11月20日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货涨1.08%报1220.50美分/蒲式耳,玉米期货跌0.83%报448.75美分/蒲式耳,小麦期货跌0.34%报593.00美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611213936597967.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_f6cad81621e2b4df1d76",
   "date": "2026-11-20",
   "published_at": "2026-11-20T20:00+08:00",
@@ -9658,24 +9677,5 @@
    "猪价"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_1316653d1f2d6bdf0e3e",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T08:40+08:00",
-  "fetched_at": "2026-10-20T08:57+08:00",
-  "title": "截至2026年10月16日 巴西2026/2027年度一茬玉米播种率为36% 上周为33.5%",
-  "summary": "巴西2025/2026年度二茬玉米收割率为100.0%,上周为100.0%,去年同期为100%,五年均值为100.0%。",
-  "source": "新华财经",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610203900595468.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 12
  }
 ]

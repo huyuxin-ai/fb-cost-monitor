@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T01:04+08:00",
+ "updated_at": "2026-11-21T07:46+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,7 +10,6 @@
   "Sohu": 15,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
-  "https://www.agripost.cn/": 1,
   "on.cc東網": 1,
   "一德期货": 2,
   "上海证券报·中国证券网": 1,
@@ -52,7 +51,7 @@
   "时代财经": 1,
   "期货日报": 2,
   "正信期货": 2,
-  "每日经济新闻": 5,
+  "每日经济新闻": 6,
   "海关总署": 1,
   "深圳商报·读创": 2,
   "混沌天成期货": 1,
@@ -83,6 +82,25 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_21387b7ec3e1043e62cc",
+   "date": "2026-11-21",
+   "published_at": "2026-11-21T06:56+08:00",
+   "fetched_at": "2026-11-21T07:46+08:00",
+   "title": "CBOT农产品期货主力合约收盘多数下跌,玉米期货跌0.83%",
+   "summary": "当地时间11月20日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数下跌,大豆期货涨1.08%报1220.50美分/蒲式耳,玉米期货跌0.83%报448.75美分/蒲式耳,小麦期货跌0.34%报593.00美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611213936597967.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_f6cad81621e2b4df1d76",
    "date": "2026-11-20",
@@ -3940,25 +3958,6 @@
     "猪价"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_2509ab8d3b8bd73ae6b3",
-   "date": "2026-11-05",
-   "published_at": "2026-11-05T16:31+08:00",
-   "fetched_at": "2026-11-05T18:30+08:00",
-   "title": "猪价持续磨底,嘉吉助养殖户把教保料从“成本项”挪进“投资项”",
-   "summary": "",
-   "source": "https://www.agripost.cn/",
-   "type": "供需动态",
-   "url": "https://www.agripost.cn/2026/11/05/cargill-launches-alpha-grow-piglet-nutrition-solution-in-china/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }
