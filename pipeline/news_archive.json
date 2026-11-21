@@ -1,5 +1,63 @@
 [
  {
+  "id": "news_00f20817d83fb1e91aba",
+  "date": "2026-11-21",
+  "published_at": "2026-11-21T18:57+08:00",
+  "fetched_at": "2026-11-21T22:51+08:00",
+  "title": "唐人神:生猪出栏规划会结合市场行情等因素动态优化",
+  "summary": "唐人神在投资者关系活动中表示,公司将积极响应国家生猪产能调控相关政策导向,在现有产能下做好自身生产经营,公司生猪出栏规划会结合市场行情、生物安全、现金流等因素动态优化,持续夯实生产稳定性、聚焦提质增效。",
+  "source": "南方财经网",
+  "type": "政策与供应",
+  "url": "https://finance.eastmoney.com/a/202611213936833814.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_a2b70da64cea1e9be78d",
+  "date": "2026-11-21",
+  "published_at": "2026-11-21T17:33+08:00",
+  "fetched_at": "2026-11-21T22:51+08:00",
+  "title": "有经济学者预测:12月份起,猪肉价格或将重演2015年的历史?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1104591118_122745693",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪肉价格"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_ccda4c788059b4cd986d",
+  "date": "2026-11-21",
+  "published_at": "2026-11-21T14:14+08:00",
+  "fetched_at": "2026-11-21T22:51+08:00",
+  "title": "价格周报|降温后需求边际回暖 猪价底部反弹",
+  "summary": "未来第三周生猪市场供应量或陆续恢复,但集中屠宰备货阶段或尚未到来,猪价或高位微跌。",
+  "source": "澎湃新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611213936822983.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_15a901667602e0b94dcf",
   "date": "2026-11-21",
   "published_at": "2026-11-21T09:57+08:00",
@@ -58,25 +116,6 @@
    "玉米"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_8bb7689cd7a67ca1d5f9",
-  "date": "2026-11-21",
-  "published_at": "2026-11-21T05:23+08:00",
-  "fetched_at": "2026-11-21T14:11+08:00",
-  "title": "11月21日猪价:风向大变!猪价大涨8.7%后,恢复下跌?",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1104253134_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_7513f108685ed005b361",
@@ -9643,44 +9682,6 @@
   "matched_keywords": [
    "原奶",
    "奶价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_130418f6a8ee827e707b",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T11:44+08:00",
-  "fetched_at": "2026-10-20T13:52+08:00",
-  "title": "【现货】10月20日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20261020/c680871672.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fc34cc58116ee8f16dfb",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T10:23+08:00",
-  "fetched_at": "2026-10-20T13:52+08:00",
-  "title": "生意社2026年10月20日豆油趋势分析:震荡",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261020/c680868399.shtml",
-  "company": "",
-  "material_ids": [
-   "Y"
-  ],
-  "matched_keywords": [
-   "豆油"
   ],
   "relevance_score": 8
  }
