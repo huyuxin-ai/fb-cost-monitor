@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-11-21T22:51+08:00",
+ "updated_at": "2026-11-22T04:48+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "36kr": 1,
   "Dairynews.today": 1,
-  "IndexBox": 9,
+  "IndexBox": 10,
   "Sohu": 19,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "on.cc東網": 1,
-  "一德期货": 2,
+  "一德期货": 1,
   "上观新闻": 3,
   "东吴期货": 1,
   "东方财富": 1,
@@ -1051,6 +1051,25 @@
     "棕榈油"
    ],
    "relevance_score": 8
+  },
+  {
+   "id": "news_a31c734aef6518a06c48",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T12:51+08:00",
+   "fetched_at": "2026-11-22T04:48+08:00",
+   "title": "玻璃瓶制造机械市场展望2035:饮料需求驱动增长 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "供需动态",
+   "url": "https://www.indexbox.io/zh-hans/blog/glass-bottle-making-machines-market-forecast-to-2035-driven-by-beverage-industry-demand-for-high-speed-is-machines/",
+   "company": "",
+   "material_ids": [
+    "FG"
+   ],
+   "matched_keywords": [
+    "玻璃瓶"
+   ],
+   "relevance_score": 9
   },
   {
    "id": "news_406c93dde2abbfbf931b",
@@ -3935,26 +3954,6 @@
    "source": "证券时报网",
    "type": "价格行情",
    "url": "https://finance.eastmoney.com/a/202611063925126851.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_8b135376bcb5cd9e2670",
-   "date": "2026-11-06",
-   "published_at": "2026-11-06T21:10+08:00",
-   "fetched_at": "2026-11-06T21:55+08:00",
-   "title": "生猪:出栏体重继续增长 整体供应偏宽松",
-   "summary": "短期猪价仍偏弱运行为主,期货各合约基差继续修复,目前升水幅度有限,跟随现货波动为主。(本内容及观点仅供参考,不构成任何投资建议)",
-   "source": "一德期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611063925073719.html",
    "company": "",
    "material_ids": [
     "LH"
