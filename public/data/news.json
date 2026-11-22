@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-22T04:48+08:00",
+ "updated_at": "2026-11-22T16:36+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "36kr": 1,
   "Dairynews.today": 1,
-  "IndexBox": 10,
-  "Sohu": 19,
+  "IndexBox": 9,
+  "Sohu": 20,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "on.cc東網": 1,
@@ -69,8 +69,8 @@
   "腾讯新闻": 3,
   "英为财情 Investing.com": 1,
   "观点网": 2,
-  "证券之星": 6,
-  "证券时报网": 4,
+  "证券之星": 7,
+  "证券时报网": 3,
   "财中社": 1,
   "财联社": 5,
   "金十数据": 1,
@@ -80,6 +80,44 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_7ba1d2cf625edffaffce",
+   "date": "2026-11-22",
+   "published_at": "2026-11-22T15:09+08:00",
+   "fetched_at": "2026-11-22T16:36+08:00",
+   "title": "农林牧渔行业周报:二育与惜售支撑猪价反弹,关注旺季需求兑现与节前供应释放_行业研究_研报",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://stock.stockstar.com/JC2026112200002297.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2278aaf59d75cfcb2549",
+   "date": "2026-11-22",
+   "published_at": "2026-11-22T14:10+08:00",
+   "fetched_at": "2026-11-22T16:36+08:00",
+   "title": "高歌猛进,猪价上涨“势如破竹”!附:11月23日猪价",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1104839580_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_00f20817d83fb1e91aba",
    "date": "2026-11-21",
@@ -3924,45 +3962,6 @@
     "猪价"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_cdfa42e229f4cffb20da",
-   "date": "2026-11-07",
-   "published_at": "2026-11-07T05:30+08:00",
-   "fetched_at": "2026-11-07T08:13+08:00",
-   "title": "美国农业部饲料原料价格走势分化:乙醇、豆油、DDGS、小麦次粉周报 - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-weekly-feedstuff-reports-mixed-pricing-across-energy-by-product-and-feed-markets-for-week-ending-nov-6-2026/",
-   "company": "",
-   "material_ids": [
-    "Y"
-   ],
-   "matched_keywords": [
-    "豆油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_907dea2caac76597b2c8",
-   "date": "2026-11-06",
-   "published_at": "2026-11-06T21:44+08:00",
-   "fetched_at": "2026-11-07T00:05+08:00",
-   "title": "生猪期货价两月跌近三成 市场或延续震荡偏弱行情",
-   "summary": "“本周国内生猪价格持续下滑。月末月初养殖端仍保持较高的出栏积极性,市场生猪供应不减。但终端白条走货速度无明显好转,下游接货力度有限。周内养殖端出栏阻力较大,被迫降价销售,下游择低采购,导致本周生猪价格持续下行。”卓创资讯生猪分析师范晴晴表示,当前市场需求端表现不佳,利空猪价。",
-   "source": "证券时报网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611063925126851.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
   }
  ]
 }

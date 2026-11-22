@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_7ba1d2cf625edffaffce",
+  "date": "2026-11-22",
+  "published_at": "2026-11-22T15:09+08:00",
+  "fetched_at": "2026-11-22T16:36+08:00",
+  "title": "农林牧渔行业周报:二育与惜售支撑猪价反弹,关注旺季需求兑现与节前供应释放_行业研究_研报",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://stock.stockstar.com/JC2026112200002297.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2278aaf59d75cfcb2549",
+  "date": "2026-11-22",
+  "published_at": "2026-11-22T14:10+08:00",
+  "fetched_at": "2026-11-22T16:36+08:00",
+  "title": "高歌猛进,猪价上涨“势如破竹”!附:11月23日猪价",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1104839580_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_00f20817d83fb1e91aba",
   "date": "2026-11-21",
   "published_at": "2026-11-21T18:57+08:00",
@@ -9643,44 +9681,6 @@
   ],
   "matched_keywords": [
    "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_736fcf9b6f6243cb063e",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T14:50+08:00",
-  "fetched_at": "2026-10-20T19:07+08:00",
-  "title": "光大期货1020热点追踪:生猪延续回落,01合约盘中跌破万点",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-20/doc-inivwcmk0878862.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ee6e7bcfd75ed26251b1",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T12:30+08:00",
-  "fetched_at": "2026-10-21T15:15+08:00",
-  "title": "早盘异动!猪肉概念集体反弹 生猪期货跌破1万大关",
-  "summary": "",
-  "source": "东方财富",
-  "type": "价格行情",
-  "url": "https://emwap.eastmoney.com/a/202610213902464828.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  }
