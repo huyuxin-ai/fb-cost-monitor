@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T16:36+08:00",
+ "updated_at": "2026-11-23T00:57+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,7 +7,8 @@
   "36kr": 1,
   "Dairynews.today": 1,
   "IndexBox": 9,
-  "Sohu": 20,
+  "Shangbao Indonesia": 1,
+  "Sohu": 21,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "on.cc東網": 1,
@@ -32,14 +33,14 @@
   "华盛通": 1,
   "南华期货": 2,
   "南方财经网": 16,
-  "同花顺": 7,
+  "同花顺": 9,
   "同花顺财经": 5,
   "国家粮食和物资储备局": 6,
   "国际果蔬报道": 1,
   "大越期货": 1,
   "央视财经": 1,
   "富途牛牛": 1,
-  "搜狐网": 3,
+  "搜狐网": 2,
   "新京报": 1,
   "新华财经": 3,
   "新浪网": 1,
@@ -50,7 +51,7 @@
   "时代财经": 1,
   "期货日报": 2,
   "正信期货": 1,
-  "每日经济新闻": 5,
+  "每日经济新闻": 4,
   "海关总署": 1,
   "深圳商报·读创": 2,
   "混沌天成期货": 1,
@@ -69,8 +70,8 @@
   "腾讯新闻": 3,
   "英为财情 Investing.com": 1,
   "观点网": 2,
-  "证券之星": 7,
-  "证券时报网": 3,
+  "证券之星": 6,
+  "证券时报网": 2,
   "财中社": 1,
   "财联社": 5,
   "金十数据": 1,
@@ -81,6 +82,44 @@
  },
  "items": [
   {
+   "id": "news_e648a27a60d2d7b44c6f",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T00:04+08:00",
+   "fetched_at": "2026-11-23T00:57+08:00",
+   "title": "有经济学者预测:12月份起,猪肉价格或将重演2015年的历史?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1104947276_122481685",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b82ff5c7b89376797348",
+   "date": "2026-11-22",
+   "published_at": "2026-11-22T19:14+08:00",
+   "fetched_at": "2026-11-23T00:57+08:00",
+   "title": "供给端季节性放量,山东猪肉价格同比降低17.05%,牛羊肉价格再创年内新高",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1104915812_121332524",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪肉价格"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_7ba1d2cf625edffaffce",
    "date": "2026-11-22",
    "published_at": "2026-11-22T15:09+08:00",
@@ -90,25 +129,6 @@
    "source": "证券之星",
    "type": "价格行情",
    "url": "https://stock.stockstar.com/JC2026112200002297.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2278aaf59d75cfcb2549",
-   "date": "2026-11-22",
-   "published_at": "2026-11-22T14:10+08:00",
-   "fetched_at": "2026-11-22T16:36+08:00",
-   "title": "高歌猛进,猪价上涨“势如破竹”!附:11月23日猪价",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1104839580_120238851",
    "company": "",
    "material_ids": [
     "LH"
@@ -373,6 +393,25 @@
    "relevance_score": 12
   },
   {
+   "id": "news_8a3d32fa9eecc4c46192",
+   "date": "2026-11-20",
+   "published_at": "2026-11-20T16:10+08:00",
+   "fetched_at": "2026-11-23T00:57+08:00",
+   "title": "【收评】棕榈油日内下跌1.40% 机构称棕榈油库存继续攀升 油脂期货偏弱运行",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261120/c682042923.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_e421cfbaba6402643567",
    "date": "2026-11-20",
    "published_at": "2026-11-20T15:42+08:00",
@@ -601,6 +640,27 @@
     "大豆"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_afdd94f369bbcfec042e",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T16:09+08:00",
+   "fetched_at": "2026-11-23T00:57+08:00",
+   "title": "【收评】菜油日内下跌1.20% 机构称棕榈油库存继续攀升,油脂期货表现疲软",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261119/c681996789.shtml",
+   "company": "",
+   "material_ids": [
+    "P",
+    "OI"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "菜油"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_960a082b26f8da7e5ed0",
@@ -855,6 +915,25 @@
     "猪价"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_10039910f6c3af960131",
+   "date": "2026-11-19",
+   "published_at": "2026-11-19T04:30+08:00",
+   "fetched_at": "2026-11-23T00:57+08:00",
+   "title": "全球棕油价格上涨 下游棕油工业或将面临压力",
+   "summary": "",
+   "source": "Shangbao Indonesia",
+   "type": "价格行情",
+   "url": "https://www.shangbaoindonesia.com/read/2026/11/19/economy-1795037366",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕油"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_149131535b010b987cfa",
@@ -1736,6 +1815,28 @@
     "能繁母猪"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_8eb3a20fd977d848b403",
+   "date": "2026-11-16",
+   "published_at": "2026-11-16T14:40+08:00",
+   "fetched_at": "2026-11-23T00:57+08:00",
+   "title": "国信证券农产品研究跟踪系列报告:天然橡胶与棕榈油价格蓄力上行 原奶价格拐点向上",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/2026-11-15/detail-iniyuuaf2069090.d.html",
+   "company": "",
+   "material_ids": [
+    "P",
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "棕榈油",
+    "原奶",
+    "奶价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_590933c5393622159fa0",
@@ -3866,102 +3967,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_2a43dab801990ec408c0",
-   "date": "2026-11-07",
-   "published_at": "2026-11-07T10:40+08:00",
-   "fetched_at": "2026-11-07T14:25+08:00",
-   "title": "直击进博会|ADM连续七年参展进博会,围绕进口大豆和谷物等签约320亿元",
-   "summary": "11月7日消息,第九届中国国际进口博览会(以下简称“进博会”)于11月5日至10日在上海举办。全球农业、食品与营养企业ADM连续第七年参展。",
-   "source": "新浪财经",
-   "type": "供需动态",
-   "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwnya8221230.shtml",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_bcc378629351b14989bc",
-   "date": "2026-11-07",
-   "published_at": "2026-11-07T08:09+08:00",
-   "fetched_at": "2026-11-07T14:25+08:00",
-   "title": "生猪期货价格持续震荡下行 两个月跌近三成",
-   "summary": "10月份国内生猪价格超预期回落,养殖端毛猪出栏持续深亏,企业成本及现金流压力不断累积;其次,产能调减政策持续影响,加之月内北方气温不断下降后,区域疫病防控难度不断增大。",
-   "source": "证券时报网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611073925450548.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2241737ee1ea7124ec7c",
-   "date": "2026-11-07",
-   "published_at": "2026-11-07T07:36+08:00",
-   "fetched_at": "2026-11-07T14:25+08:00",
-   "title": "生猪期货价格两月跌近三成 行业深亏局面难改",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://stock.stockstar.com/IG2026110700009771.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_5f26bae8dedb1e855fbe",
-   "date": "2026-11-07",
-   "published_at": "2026-11-07T07:01+08:00",
-   "fetched_at": "2026-11-07T08:13+08:00",
-   "title": "CBOT农产品期货主力合约收盘多数上涨,大豆期货涨0.53%",
-   "summary": "当地时间11月6日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数上涨,大豆期货涨0.53%报1194.50美分/蒲式耳,玉米期货涨0.51%报442.25美分/蒲式耳,小麦期货跌1.46%报590.50美分/蒲式耳。",
-   "source": "每日经济新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611073925275771.html",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_4932ae5f2cf8289f9037",
-   "date": "2026-11-07",
-   "published_at": "2026-11-07T06:04+08:00",
-   "fetched_at": "2026-11-07T14:25+08:00",
-   "title": "11月7日猪价:跌跌不休!猪价“失控”下跌,11月“底线”是多少?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1098187618_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }

@@ -1,5 +1,43 @@
 [
  {
+  "id": "news_e648a27a60d2d7b44c6f",
+  "date": "2026-11-23",
+  "published_at": "2026-11-23T00:04+08:00",
+  "fetched_at": "2026-11-23T00:57+08:00",
+  "title": "有经济学者预测:12月份起,猪肉价格或将重演2015年的历史?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1104947276_122481685",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪肉价格"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b82ff5c7b89376797348",
+  "date": "2026-11-22",
+  "published_at": "2026-11-22T19:14+08:00",
+  "fetched_at": "2026-11-23T00:57+08:00",
+  "title": "供给端季节性放量,山东猪肉价格同比降低17.05%,牛羊肉价格再创年内新高",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1104915812_121332524",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪肉价格"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_7ba1d2cf625edffaffce",
   "date": "2026-11-22",
   "published_at": "2026-11-22T15:09+08:00",
@@ -9,25 +47,6 @@
   "source": "证券之星",
   "type": "价格行情",
   "url": "https://stock.stockstar.com/JC2026112200002297.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_2278aaf59d75cfcb2549",
-  "date": "2026-11-22",
-  "published_at": "2026-11-22T14:10+08:00",
-  "fetched_at": "2026-11-22T16:36+08:00",
-  "title": "高歌猛进,猪价上涨“势如破竹”!附:11月23日猪价",
-  "summary": "",
-  "source": "Sohu",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1104839580_120238851",
   "company": "",
   "material_ids": [
    "LH"
@@ -292,6 +311,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_8a3d32fa9eecc4c46192",
+  "date": "2026-11-20",
+  "published_at": "2026-11-20T16:10+08:00",
+  "fetched_at": "2026-11-23T00:57+08:00",
+  "title": "【收评】棕榈油日内下跌1.40% 机构称棕榈油库存继续攀升 油脂期货偏弱运行",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261120/c682042923.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_e421cfbaba6402643567",
   "date": "2026-11-20",
   "published_at": "2026-11-20T15:42+08:00",
@@ -520,6 +558,27 @@
    "大豆"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_afdd94f369bbcfec042e",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T16:09+08:00",
+  "fetched_at": "2026-11-23T00:57+08:00",
+  "title": "【收评】菜油日内下跌1.20% 机构称棕榈油库存继续攀升,油脂期货表现疲软",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261119/c681996789.shtml",
+  "company": "",
+  "material_ids": [
+   "P",
+   "OI"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "菜油"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_960a082b26f8da7e5ed0",
@@ -774,6 +833,25 @@
    "猪价"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_10039910f6c3af960131",
+  "date": "2026-11-19",
+  "published_at": "2026-11-19T04:30+08:00",
+  "fetched_at": "2026-11-23T00:57+08:00",
+  "title": "全球棕油价格上涨 下游棕油工业或将面临压力",
+  "summary": "",
+  "source": "Shangbao Indonesia",
+  "type": "价格行情",
+  "url": "https://www.shangbaoindonesia.com/read/2026/11/19/economy-1795037366",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕油"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_149131535b010b987cfa",
@@ -1674,6 +1752,28 @@
    "能繁母猪"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_8eb3a20fd977d848b403",
+  "date": "2026-11-16",
+  "published_at": "2026-11-16T14:40+08:00",
+  "fetched_at": "2026-11-23T00:57+08:00",
+  "title": "国信证券农产品研究跟踪系列报告:天然橡胶与棕榈油价格蓄力上行 原奶价格拐点向上",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-11-15/detail-iniyuuaf2069090.d.html",
+  "company": "",
+  "material_ids": [
+   "P",
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "棕榈油",
+   "原奶",
+   "奶价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_590933c5393622159fa0",
@@ -9582,105 +9682,6 @@
   ],
   "matched_keywords": [
    "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_0a11dcaf6ec107644176",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T15:38+08:00",
-  "fetched_at": "2026-10-20T21:44+08:00",
-  "title": "【收评】生猪日内下跌3.15% 机构称生猪短期或继续承压运行",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261020/c680877951.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1e717004c6baa815adfd",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T15:25+08:00",
-  "fetched_at": "2026-10-20T19:07+08:00",
-  "title": "【收评】菜油日内下跌0.29% 机构称油脂冲高回落,棕榈油表现强于豆油",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261020/c680877905.shtml",
-  "company": "",
-  "material_ids": [
-   "P",
-   "Y",
-   "OI"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "豆油",
-   "菜油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_21cf28f3a41692253cc3",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T15:20+08:00",
-  "fetched_at": "2026-10-20T19:07+08:00",
-  "title": "期市收评 | 商品期货多数下跌 菜粕跌幅居前",
-  "summary": "(Mysteel) 农产品期货 生猪:截至10月14日,全国生猪出场价格为10.45元/公斤,较9月30日下跌2.43%;主要批发市场玉米价格为2.38元/公斤,较9月30日下跌0.83%;猪粮比价为4.39,较9月30日下跌1.57%。",
-  "source": "东方财富研究中心",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610203901286449.html",
-  "company": "",
-  "material_ids": [
-   "RM"
-  ],
-  "matched_keywords": [
-   "菜粕"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_7caa4b52b86cbef030fc",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T15:19+08:00",
-  "fetched_at": "2026-10-20T19:07+08:00",
-  "title": "跌了,猪价“报复性”下跌!附:10月21日猪价",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1090137152_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a81e8351b0cf75341d17",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T15:13+08:00",
-  "fetched_at": "2026-10-20T19:07+08:00",
-  "title": "【收评】纸浆日内下跌0.93% 机构称纸浆-胶版纸:现货行情再度下跌",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261020/c680877464.shtml",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
   ],
   "relevance_score": 8
  }
