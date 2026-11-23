@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T10:58+08:00",
+ "updated_at": "2026-11-23T20:13+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -17,8 +17,9 @@
   "东吴期货": 1,
   "东方财富": 1,
   "东方财富研究中心": 1,
+  "东方财富网": 1,
   "中华网": 1,
-  "中国新闻网": 2,
+  "中国新闻网": 1,
   "中国网财经": 1,
   "中国证券报": 1,
   "中国证券报·中证金牛座": 3,
@@ -29,11 +30,10 @@
   "凤凰网": 2,
   "凤凰网山东": 1,
   "创元期货": 2,
-  "北京市人民政府门户网站": 1,
   "华盛通": 1,
   "南华期货": 2,
-  "南方财经网": 16,
-  "同花顺": 9,
+  "南方财经网": 18,
+  "同花顺": 10,
   "同花顺财经": 5,
   "国信期货": 1,
   "国家粮食和物资储备局": 6,
@@ -41,11 +41,12 @@
   "大越期货": 1,
   "央视财经": 1,
   "富途牛牛": 1,
-  "搜狐网": 2,
+  "广发期货": 1,
+  "搜狐网": 1,
   "新京报": 1,
   "新华财经": 3,
   "新浪网": 1,
-  "新浪财经": 22,
+  "新浪财经": 23,
   "新浪财经_金融信息服务商": 2,
   "新财富杂志": 1,
   "时代周报": 1,
@@ -70,8 +71,8 @@
   "联合早报": 1,
   "腾讯新闻": 3,
   "英为财情 Investing.com": 1,
-  "观点网": 2,
-  "证券之星": 5,
+  "观点网": 1,
+  "证券之星": 3,
   "证券时报网": 2,
   "财中社": 1,
   "财联社": 5,
@@ -82,6 +83,140 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_f79497a1414de1d200f3",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T17:16+08:00",
+   "fetched_at": "2026-11-23T20:13+08:00",
+   "title": "光大期货1123热点追踪:生猪日内反弹超4%,警惕供给压力",
+   "summary": "周一,生猪期货在商品市场整体承压的背景下逆势走强。主力2701合约跳空高开后维持强势,盘中最大涨幅超4%。现货端的边际企稳,为盘面修复提供了前提条件。",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-23/doc-iniztmtw5451518.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_906bdac836736703f944",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T16:24+08:00",
+   "fetched_at": "2026-11-23T20:13+08:00",
+   "title": "生猪需求改善 盘面低位强势反弹",
+   "summary": "市场判断认为现货大概率已经探明前期低点,现货底部正在逐步修复,后续价格存在改善空间,但12月行情仍存有不确定性,重点要看供应是否出现收缩、需求能否形成强力拉动,整体更倾向猪价温和上行,阶段性或有较好表现。",
+   "source": "广发期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611233937291240.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_776303fcb96a7d966207",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T15:41+08:00",
+   "fetched_at": "2026-11-23T20:13+08:00",
+   "title": "生猪主力合约收涨5.95%",
+   "summary": "21财经11月23日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨5.95%,收盘报10060.0元/吨,日内资金流入3.48亿元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611233937266375.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_d96919c7b4484da55e4d",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T15:40+08:00",
+   "fetched_at": "2026-11-23T20:13+08:00",
+   "title": "玉米主力合约收跌0.74%",
+   "summary": "21财经11月23日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.74%,收盘报2160.0元/吨,日内资金流入3070.2万元。其他相关指标见下表:",
+   "source": "南方财经网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611233937264096.html",
+   "company": "",
+   "material_ids": [
+    "C"
+   ],
+   "matched_keywords": [
+    "玉米"
+   ],
+   "relevance_score": 11
+  },
+  {
+   "id": "news_b24a22a46c993eabd4f2",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T14:50+08:00",
+   "fetched_at": "2026-11-23T20:13+08:00",
+   "title": "生猪期货主力合约盘中涨3.15% 德康农牧(02419)盘中涨超6%",
+   "summary": "",
+   "source": "东方财富网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611233937223319.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_05d8207b516f8d407c96",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T11:45+08:00",
+   "fetched_at": "2026-11-23T20:13+08:00",
+   "title": "【现货】11月23日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261123/c682092347.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_74370991a29156ebf015",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T11:41+08:00",
+   "fetched_at": "2026-11-23T20:13+08:00",
+   "title": "期货午评:合成橡胶暴跌近6%!苹果逆势狂飙近6% 生猪红枣齐涨",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261123/c682092299.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_b747ca214eebd62f692e",
    "date": "2026-11-23",
@@ -137,6 +272,44 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_800ef7273d27e8b84adc",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T00:00+08:00",
+   "fetched_at": "2026-11-23T20:13+08:00",
+   "title": "猪价回暖势头进一步延续,但上涨有顶,理性看待",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-23/doc-inizrtks5826671.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_ec770abaf18af26b71de",
+   "date": "2026-11-22",
+   "published_at": "2026-11-22T22:08+08:00",
+   "fetched_at": "2026-11-23T20:13+08:00",
+   "title": "生意社:成本支撑需求压制 PTA价格呈现震荡格局",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-22/doc-inizrpay8799732.shtml",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
    ],
    "relevance_score": 8
   },
@@ -3793,179 +3966,6 @@
    ],
    "matched_keywords": [
     "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c91b646abae46bfe45b5",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T17:31+08:00",
-   "fetched_at": "2026-11-09T22:14+08:00",
-   "title": "11月第1周生猪和猪肉价格有所下跌",
-   "summary": "",
-   "source": "中国新闻网",
-   "type": "价格行情",
-   "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728946.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪肉价格"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_417118fb6b95fc2ee3b5",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T17:31+08:00",
-   "fetched_at": "2026-11-10T02:59+08:00",
-   "title": "机构:猪价加速下行,养殖亏损持续扩大",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1099232438_121157270",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b62d7f42c80c9039508a",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T17:26+08:00",
-   "fetched_at": "2026-11-09T22:14+08:00",
-   "title": "光大期货:生猪期货连续第二日反弹 主力合约盘中涨近3%",
-   "summary": "",
-   "source": "观点网",
-   "type": "价格行情",
-   "url": "https://www.guandian.cn/article/20261109/625051.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_243904f3b63de64fbec7",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T17:10+08:00",
-   "fetched_at": "2026-11-13T16:35+08:00",
-   "title": "数字人解读 | 关于印发《北京市生猪产能综合调控实施方案(2026年修订)》的通知政策解读",
-   "summary": "",
-   "source": "北京市人民政府门户网站",
-   "type": "政策与供应",
-   "url": "https://www.beijing.gov.cn/zhengce/zcjd/202611/t20261109_4937965.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_2206de214ca304ede834",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T17:01+08:00",
-   "fetched_at": "2026-11-09T13:28+08:00",
-   "title": "【现货】11月9日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261109/c681599548.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_06a1810cecd0c79a31c4",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T11:03+08:00",
-   "fetched_at": "2026-11-09T13:28+08:00",
-   "title": "华泰期货:宏观扰动不止,原糖跌跌不休",
-   "summary": "来源:华泰期货 作者: 李馨 白糖观点 市场要闻与重要数据 期货方面,截止本周五,白糖2701合约收盘价5215元/吨,环比下跌48元/吨,跌幅0.91%。",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-09/doc-iniyazee6649493.shtml",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "原糖",
-    "白糖"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_07b2a8d4010e8b72e4b5",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T10:57+08:00",
-   "fetched_at": "2026-11-09T13:28+08:00",
-   "title": "华泰期货:关注美农报告调整,豆粕价格宽幅震荡",
-   "summary": "来源:华泰期货 作者: 薛钧元 粕类市场要闻与重要数据 期货方面,上周末收盘豆粕2701合约3079元/吨,环比下跌104元/吨,跌幅3.27%;上周末收盘菜粕2701合约2200元/吨...",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-09/doc-iniyazee6645023.shtml",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_befe3a7292462f314792",
-   "date": "2026-11-08",
-   "published_at": "2026-11-08T18:45+08:00",
-   "fetched_at": "2026-11-08T23:51+08:00",
-   "title": "农林牧渔行业周报:猪价下跌导致深亏,行业产能去化有望加速_行业研究_研报",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://stock.stockstar.com/JC2026110800007892.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_7179b9f63deb965a1317",
-   "date": "2026-11-08",
-   "published_at": "2026-11-08T15:46+08:00",
-   "fetched_at": "2026-11-09T04:16+08:00",
-   "title": "农林牧渔行业周报:猪价下行拖累养殖盈利,10月产能去化边际提速_行业研究_研报",
-   "summary": "",
-   "source": "证券之星",
-   "type": "价格行情",
-   "url": "https://stock.stockstar.com/JC2026110800002887.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
     "猪价"
    ],
    "relevance_score": 8
