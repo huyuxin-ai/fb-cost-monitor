@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_4f5aa64de499393a0a04",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T00:06+08:00",
+  "fetched_at": "2026-11-24T04:26+08:00",
+  "title": "微囊化维生素C市场展望2035:透明饮料与软糖需求驱动增长 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "供需动态",
+  "url": "https://www.indexbox.io/zh-hans/blog/micro-encapsulated-vitamin-c-market-forecast-to-2035-demand-accelerates-on-stability-needs-in-clear-beverages-and-gummies/",
+  "company": "",
+  "material_ids": [
+   "VC"
+  ],
+  "matched_keywords": [
+   "维生素c"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_2dffbbe15019aa0cc99b",
+  "date": "2026-11-23",
+  "published_at": "2026-11-23T20:10+08:00",
+  "fetched_at": "2026-11-24T04:26+08:00",
+  "title": "7天4板金新农:现阶段以生猪饲料和养殖业务为主 生猪价格波动存在不确定性",
+  "summary": "公司提醒广大投资者:公司现阶段以生猪饲料和养殖业务为主,受政策调控、疫病、下游需求等多重因素影响,生猪价格波动存在不确定性,公司养殖业务的业绩也会存在不确定性。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611233937502074.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_f79497a1414de1d200f3",
   "date": "2026-11-23",
   "published_at": "2026-11-23T17:16+08:00",
@@ -92,6 +131,25 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d335ab3c21305bdfd043",
+  "date": "2026-11-23",
+  "published_at": "2026-11-23T14:37+08:00",
+  "fetched_at": "2026-11-24T04:26+08:00",
+  "title": "农业行业周报:本周猪价反弹,白羽鸡价格延续上涨_行业研究_研报",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://stock.stockstar.com/JC2026112300022450.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
   ],
   "relevance_score": 8
  },
@@ -9627,62 +9685,5 @@
    "猪价"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_dd63e9fef75f9d0f5bd9",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T19:37+08:00",
-  "fetched_at": "2026-10-20T21:44+08:00",
-  "title": "近期生猪品种价格波动较大 大商所发布市场风险提示函",
-  "summary": "10月20日,据大商所公告,近期生猪品种价格波动较大。请各会员单位切实加强投资者教育和风险防范工作,提醒投资者理性参与,合规交易。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610203901484233.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_a98b6dbc67f95bdc7a50",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T19:26+08:00",
-  "fetched_at": "2026-10-20T21:44+08:00",
-  "title": "今年出口近11万只生猪 养猪业为砂带来1.58亿收入",
-  "summary": "",
-  "source": "诗华日报",
-  "type": "供需动态",
-  "url": "https://news.seehua.com/post/1586893/",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ea2438ca0c4294a7eec4",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T18:30+08:00",
-  "fetched_at": "2026-10-20T23:46+08:00",
-  "title": "供应持续宽松,菜籽粕跌超3%",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "供需动态",
-  "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-20/doc-inivwpzf7688630.shtml",
-  "company": "",
-  "material_ids": [
-   "RM"
-  ],
-  "matched_keywords": [
-   "菜籽粕"
-  ],
-  "relevance_score": 8
  }
 ]
