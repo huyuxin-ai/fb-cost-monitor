@@ -1,16 +1,16 @@
 {
- "updated_at": "2026-11-23T06:23+08:00",
+ "updated_at": "2026-11-23T10:58+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "36kr": 1,
+  "Dairy News Today": 1,
   "Dairynews.today": 1,
   "IndexBox": 9,
   "Shangbao Indonesia": 1,
   "Sohu": 21,
   "ThePaper.cn": 1,
-  "Vietnam.vn": 1,
   "on.cc東網": 1,
   "一德期货": 1,
   "上观新闻": 3,
@@ -28,13 +28,14 @@
   "农业农村部": 2,
   "凤凰网": 2,
   "凤凰网山东": 1,
-  "创元期货": 1,
+  "创元期货": 2,
   "北京市人民政府门户网站": 1,
   "华盛通": 1,
   "南华期货": 2,
   "南方财经网": 16,
   "同花顺": 9,
   "同花顺财经": 5,
+  "国信期货": 1,
   "国家粮食和物资储备局": 6,
   "国际果蔬报道": 1,
   "大越期货": 1,
@@ -55,7 +56,7 @@
   "海关总署": 1,
   "深圳商报·读创": 2,
   "混沌天成期货": 1,
-  "澎湃新闻": 3,
+  "澎湃新闻": 2,
   "瑞达期货": 2,
   "生物通": 2,
   "申银万国期货": 2,
@@ -70,7 +71,7 @@
   "腾讯新闻": 3,
   "英为财情 Investing.com": 1,
   "观点网": 2,
-  "证券之星": 6,
+  "证券之星": 5,
   "证券时报网": 2,
   "财中社": 1,
   "财联社": 5,
@@ -81,6 +82,45 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_b747ca214eebd62f692e",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T09:03+08:00",
+   "fetched_at": "2026-11-23T10:58+08:00",
+   "title": "农产品 | 短期供应减量再次助涨猪价 现货市场或延续震荡偏强",
+   "summary": "生猪: 昨日涌益监测全国生猪出栏均价9.56元/公斤周末涨2毛1,河南 my 标猪出栏价格为9.95元/公斤,广东 ws 出栏牌价10.6元/公斤,西南主流成交价在9-9.6元/公斤,最低交割品9200元/吨。",
+   "source": "创元期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611233937052548.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_7d316c72182371330de7",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T08:55+08:00",
+   "fetched_at": "2026-11-23T10:58+08:00",
+   "title": "农产品 | 豆类:美豆粕出口旺盛美豆震荡收涨",
+   "summary": "豆类 美豆粕出口旺盛美豆震荡收涨 周五CBOT大豆期货收盘上涨,基准合约收高1.1%,追随邻池豆粕市场的涨势。美国农业部周五美国农业部报告显示向西班牙出口美国豆粕。欧盟新的森林砍伐法规预计于12月底生效,市场认为相关规定可能促使欧洲买家将部分豆粕采购转向美国供应。",
+   "source": "国信期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611233937049677.html",
+   "company": "",
+   "material_ids": [
+    "M"
+   ],
+   "matched_keywords": [
+    "豆粕"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_90bc2cd3e245fe341a07",
    "date": "2026-11-23",
@@ -273,6 +313,27 @@
    "matched_keywords": [
     "猪价",
     "仔猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b5c70cf229eeb54613bd",
+   "date": "2026-11-20",
+   "published_at": "2026-11-20T20:02+08:00",
+   "fetched_at": "2026-11-23T10:58+08:00",
+   "title": "Fonterra将奶价预测上调至10.10新西兰元,奶粉涨价、乳脂降价",
+   "summary": "",
+   "source": "Dairy News Today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/fonterra_raises_milk_price_forecast_to_nz_10_10_as_powders_rise_and_fats_fall_9442892.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK",
+    "CREAM"
+   ],
+   "matched_keywords": [
+    "奶价",
+    "乳脂"
    ],
    "relevance_score": 8
   },
@@ -3908,65 +3969,6 @@
     "猪价"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_1caa2b158d8696c0c89e",
-   "date": "2026-11-08",
-   "published_at": "2026-11-08T15:15+08:00",
-   "fetched_at": "2026-11-08T16:43+08:00",
-   "title": "生猪价格暴跌,导致养猪户面临亏损。",
-   "summary": "",
-   "source": "Vietnam.vn",
-   "type": "价格行情",
-   "url": "https://www.vietnam.vn/zh-cn/lon-hoi-rot-gia-nguoi-chan-nuoi-doi-mat-voi-thua-lo",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_d7f2e26235e478d3b438",
-   "date": "2026-11-08",
-   "published_at": "2026-11-08T10:07+08:00",
-   "fetched_at": "2026-11-08T16:43+08:00",
-   "title": "农林牧渔行业点评报告:生猪养殖亏损拖累业绩,关注产能去化进度及天气催化_行业研究_研报",
-   "summary": "",
-   "source": "证券之星",
-   "type": "政策与供应",
-   "url": "https://stock.stockstar.com/JC2026110800001750.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1b522117397cda993bc9",
-   "date": "2026-11-07",
-   "published_at": "2026-11-07T14:06+08:00",
-   "fetched_at": "2026-11-07T14:25+08:00",
-   "title": "价格周报|需求端跟进不足 猪价跌破9元/公斤",
-   "summary": "未来一周生猪均价或环比下滑。未来第二周及第三周多数时段生猪市场供应量或较为充沛,但需求提升幅度或较小,供大于求,猪价仍然有下滑可能;第三周后半段市场需求或陆续增加,且生猪出栏速度或略放缓,猪价有止跌微涨可能。",
-   "source": "澎湃新闻",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611073925494843.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
   }
  ]
 }

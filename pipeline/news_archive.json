@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_b747ca214eebd62f692e",
+  "date": "2026-11-23",
+  "published_at": "2026-11-23T09:03+08:00",
+  "fetched_at": "2026-11-23T10:58+08:00",
+  "title": "农产品 | 短期供应减量再次助涨猪价 现货市场或延续震荡偏强",
+  "summary": "生猪: 昨日涌益监测全国生猪出栏均价9.56元/公斤周末涨2毛1,河南 my 标猪出栏价格为9.95元/公斤,广东 ws 出栏牌价10.6元/公斤,西南主流成交价在9-9.6元/公斤,最低交割品9200元/吨。",
+  "source": "创元期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611233937052548.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_7d316c72182371330de7",
+  "date": "2026-11-23",
+  "published_at": "2026-11-23T08:55+08:00",
+  "fetched_at": "2026-11-23T10:58+08:00",
+  "title": "农产品 | 豆类:美豆粕出口旺盛美豆震荡收涨",
+  "summary": "豆类 美豆粕出口旺盛美豆震荡收涨 周五CBOT大豆期货收盘上涨,基准合约收高1.1%,追随邻池豆粕市场的涨势。美国农业部周五美国农业部报告显示向西班牙出口美国豆粕。欧盟新的森林砍伐法规预计于12月底生效,市场认为相关规定可能促使欧洲买家将部分豆粕采购转向美国供应。",
+  "source": "国信期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611233937049677.html",
+  "company": "",
+  "material_ids": [
+   "M"
+  ],
+  "matched_keywords": [
+   "豆粕"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_90bc2cd3e245fe341a07",
   "date": "2026-11-23",
   "published_at": "2026-11-23T06:04+08:00",
@@ -191,6 +230,27 @@
   "matched_keywords": [
    "猪价",
    "仔猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b5c70cf229eeb54613bd",
+  "date": "2026-11-20",
+  "published_at": "2026-11-20T20:02+08:00",
+  "fetched_at": "2026-11-23T10:58+08:00",
+  "title": "Fonterra将奶价预测上调至10.10新西兰元,奶粉涨价、乳脂降价",
+  "summary": "",
+  "source": "Dairy News Today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/fonterra_raises_milk_price_forecast_to_nz_10_10_as_powders_rise_and_fats_fall_9442892.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK",
+   "CREAM"
+  ],
+  "matched_keywords": [
+   "奶价",
+   "乳脂"
   ],
   "relevance_score": 8
  },
@@ -9625,64 +9685,5 @@
    "玉米"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_c390774161f69557cd10",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T15:38+08:00",
-  "fetched_at": "2026-10-20T19:07+08:00",
-  "title": "【收评】棕榈油日内上涨0.98% 机构称印度9月棕榈油进口量增4.5%至81.8万吨",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261020/c680878050.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c2a3a984b052a26eb258",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T15:38+08:00",
-  "fetched_at": "2026-10-20T19:07+08:00",
-  "title": "【收评】豆油日内上涨0.28% 机构称油脂冲高回落,棕榈油表现强于豆油",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261020/c680877811.shtml",
-  "company": "",
-  "material_ids": [
-   "P",
-   "Y"
-  ],
-  "matched_keywords": [
-   "棕榈油",
-   "豆油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6cf5e3bcca966a1705d6",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T15:38+08:00",
-  "fetched_at": "2026-10-20T19:07+08:00",
-  "title": "【期权排行榜】热门商品期权合约涨幅TOP10:生猪2611沽9400大涨1200.0%勇夺榜首",
-  "summary": "",
-  "source": "同花顺",
-  "type": "供需动态",
-  "url": "https://m.10jqka.com.cn/20261020/c680877961.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
  }
 ]
