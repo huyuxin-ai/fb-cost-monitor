@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T04:26+08:00",
+ "updated_at": "2026-11-24T08:12+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -9,14 +9,13 @@
   "Dairynews.today": 1,
   "IndexBox": 9,
   "Shangbao Indonesia": 1,
-  "Sohu": 21,
+  "Sohu": 23,
   "ThePaper.cn": 1,
   "on.cc東網": 1,
   "一德期货": 1,
   "上观新闻": 2,
   "东吴期货": 1,
   "东方财富": 1,
-  "东方财富研究中心": 1,
   "东方财富网": 1,
   "中华网": 1,
   "中国新闻网": 1,
@@ -24,10 +23,10 @@
   "中国证券报": 1,
   "中国证券报·中证金牛座": 3,
   "中州期货": 1,
-  "五矿期货": 2,
+  "五矿期货": 1,
   "人民日报": 1,
   "农业农村部": 2,
-  "凤凰网": 2,
+  "凤凰网": 3,
   "凤凰网山东": 1,
   "创元期货": 2,
   "华盛通": 1,
@@ -36,13 +35,12 @@
   "同花顺": 10,
   "同花顺财经": 5,
   "国信期货": 1,
-  "国家粮食和物资储备局": 6,
+  "国家粮食和物资储备局": 5,
   "国际果蔬报道": 1,
   "大越期货": 1,
   "央视财经": 1,
   "富途牛牛": 1,
   "广发期货": 1,
-  "搜狐网": 1,
   "新京报": 1,
   "新华财经": 3,
   "新浪网": 1,
@@ -53,10 +51,9 @@
   "时代财经": 1,
   "期货日报": 2,
   "正信期货": 1,
-  "每日经济新闻": 5,
+  "每日经济新闻": 6,
   "海关总署": 1,
-  "深圳商报·读创": 2,
-  "混沌天成期货": 1,
+  "深圳商报·读创": 1,
   "澎湃新闻": 2,
   "瑞达期货": 2,
   "生物通": 2,
@@ -68,10 +65,10 @@
   "经济参考报": 1,
   "经济参考网": 1,
   "联合早报": 1,
-  "腾讯新闻": 3,
+  "腾讯新闻": 4,
   "英为财情 Investing.com": 1,
   "观点网": 1,
-  "证券之星": 4,
+  "证券之星": 5,
   "证券时报网": 2,
   "财中社": 1,
   "财联社": 5,
@@ -82,6 +79,83 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_613ccb2a225e667da73d",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T06:57+08:00",
+   "fetched_at": "2026-11-24T08:12+08:00",
+   "title": "金新农:现阶段以生猪饲料和养殖业务为主 生猪价格波动存在不确定性",
+   "summary": "",
+   "source": "证券之星",
+   "type": "价格行情",
+   "url": "https://stock.stockstar.com/IG2026112400006157.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e452d3022bbcb13d3dac",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T06:48+08:00",
+   "fetched_at": "2026-11-24T08:12+08:00",
+   "title": "油价“惯性”下跌!11月24日调价后全国92,95号汽油价格,猪价“翘尾”,高歌猛进?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1105376937_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_1f5999ed0c348d1010b2",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T06:48+08:00",
+   "fetched_at": "2026-11-24T08:12+08:00",
+   "title": "11月24日猪价:一夜“起飞”!猪价上涨“猛抬头”,接下来“猛涨”不止?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://www.sohu.com/a/1105377906_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_b7a956ee2671194b0c57",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T05:50+08:00",
+   "fetched_at": "2026-11-24T08:12+08:00",
+   "title": "CBOT农产品期货主力合约收盘全线上涨,大豆期货涨0.55%",
+   "summary": "当地时间11月23日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线上涨,大豆期货涨0.55%报1227.50美分/蒲式耳,玉米期货涨0.06%报449.00美分/蒲式耳,小麦期货涨0.42%报594.50美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611243937762892.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
   {
    "id": "news_4f5aa64de499393a0a04",
    "date": "2026-11-24",
@@ -120,6 +194,25 @@
     "猪价"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_9123a4aa304549f9ae7e",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T18:20+08:00",
+   "fetched_at": "2026-11-24T08:12+08:00",
+   "title": "2026降血压降血脂辅酶Q10品牌推荐|从原料源头到配方逻辑,十款养心护心产品逐层拆解与五类人群选择路径观察",
+   "summary": "",
+   "source": "凤凰网",
+   "type": "供需动态",
+   "url": "https://baby.ifeng.com/c/8yI7rtIXOy0",
+   "company": "",
+   "material_ids": [
+    "COQ10"
+   ],
+   "matched_keywords": [
+    "辅酶q10"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_f79497a1414de1d200f3",
@@ -399,6 +492,25 @@
    "source": "证券之星",
    "type": "价格行情",
    "url": "https://stock.stockstar.com/JC2026112200002297.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d9e3a4c35700a069ac3b",
+   "date": "2026-11-22",
+   "published_at": "2026-11-22T06:00+08:00",
+   "fetched_at": "2026-11-24T08:12+08:00",
+   "title": "油价“跌了不起”!11月22日调价后全国92,95号汽油价格,猪价“升温”,报复性上涨?",
+   "summary": "",
+   "source": "腾讯新闻",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20261121A0CH7900",
    "company": "",
    "material_ids": [
     "LH"
@@ -699,6 +811,25 @@
    ],
    "matched_keywords": [
     "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_41fdeb0b8f83dd0bac4e",
+   "date": "2026-11-20",
+   "published_at": "2026-11-20T16:10+08:00",
+   "fetched_at": "2026-11-24T08:12+08:00",
+   "title": "【收评】生猪日内上涨1.33% 机构称供应宽松格局未改 生猪期价冲高回落",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261120/c682042922.shtml",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
    ],
    "relevance_score": 8
   },
@@ -1787,6 +1918,25 @@
     "生猪"
    ],
    "relevance_score": 11
+  },
+  {
+   "id": "news_197f966b9a9768cf9c63",
+   "date": "2026-11-17",
+   "published_at": "2026-11-17T14:56+08:00",
+   "fetched_at": "2026-11-24T08:12+08:00",
+   "title": "蒙牛:下半年奶价预计回暖 行业呈现“两稳一升”特征",
+   "summary": "",
+   "source": "第一财经",
+   "type": "价格行情",
+   "url": "https://www.yicai.com/video/103337492.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "奶价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_ee07645bdbe778678cd7",
@@ -3811,163 +3961,6 @@
     "生猪"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_e0939909f3fe7ffb9e98",
-   "date": "2026-11-10",
-   "published_at": "2026-11-10T11:43+08:00",
-   "fetched_at": "2026-11-10T14:32+08:00",
-   "title": "【现货】11月10日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261110/c681645223.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_bf6b927371666aa8cbf9",
-   "date": "2026-11-10",
-   "published_at": "2026-11-10T10:03+08:00",
-   "fetched_at": "2026-11-10T14:32+08:00",
-   "title": "预计11月底油厂豆粕库存小幅升至140万吨左右",
-   "summary": "当前下游养殖行业亏损严重,饲料厂刚需采购为主,豆粕需求有限,预计月底库存小幅上升至140万吨左右,月环比小幅上升约5万吨,同比上升约20万吨。",
-   "source": "国家粮食和物资储备局",
-   "type": "供需动态",
-   "url": "https://finance.eastmoney.com/a/202611103927135976.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_2b3d8f9b5c86843a4b8f",
-   "date": "2026-11-10",
-   "published_at": "2026-11-10T09:54+08:00",
-   "fetched_at": "2026-11-10T14:32+08:00",
-   "title": "热点 | 上市猪企10月出栏分化 生猪盘面小幅高开",
-   "summary": "现货方面,据第一财经消息,进入11月,四季度传统消费旺季并未带来价格回暖,生猪价格下跌不止,11月9日的全国外三元生猪均价已回落至8.63元/公斤,创出年内及最近十年新低,养殖全行业深度亏损。",
-   "source": "东方财富研究中心",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611103927127436.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_4044e73e7263160158d9",
-   "date": "2026-11-10",
-   "published_at": "2026-11-10T08:43+08:00",
-   "fetched_at": "2026-11-10T14:32+08:00",
-   "title": "农产品 | 进口大豆阶段性供应仍较充足 豆粕高库存继续限制反弹空间",
-   "summary": "3、巴西国家商品供应公司(Conab)预计巴西2025/26榨季产糖量为4,420万吨,同比增长0.1%;预计甘蔗乙醇产量同比下降6.9%至273.3亿升;预计甘蔗和玉米的乙醇总产量同比增长0.8%至375亿升。",
-   "source": "混沌天成期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611103926903830.html",
-   "company": "",
-   "material_ids": [
-    "M",
-    "A"
-   ],
-   "matched_keywords": [
-    "豆粕",
-    "大豆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e241400cd1b1cab13750",
-   "date": "2026-11-10",
-   "published_at": "2026-11-10T08:35+08:00",
-   "fetched_at": "2026-11-10T14:32+08:00",
-   "title": "农产品 | 印度和泰国新榨季大幅减产的可能性较大 原糖仍有向上空间",
-   "summary": "另一方面,USDA维持美国和巴西增产预估,蛋白粕价格或持续承压。 (分析师:杨泽元,交易咨询号:Z0019233) 玉米 【行情资讯】 (1)11月9日,玉米C2701合约开盘报2230元/吨,最终收于2237元/吨,较前一交易日上涨10元/吨,涨幅约0.45%。",
-   "source": "五矿期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611103926902396.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "原糖"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_49b3971172547f2152cf",
-   "date": "2026-11-10",
-   "published_at": "2026-11-10T06:49+08:00",
-   "fetched_at": "2026-11-10T07:31+08:00",
-   "title": "11月10日猪价:枯木逢春,猪价“倔强”上涨!接下来“超跌大涨”?",
-   "summary": "",
-   "source": "搜狐网",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1099283648_120238851",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_9c25327f04ad679a4ade",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T23:29+08:00",
-   "fetched_at": "2026-11-09T22:14+08:00",
-   "title": "商品猪出栏量下降 金新农10月生猪销量同比下降53.46% 销售收入下滑近八成",
-   "summary": "生猪销售收入为2985.26万元,同比下降78.96%,环比下降43.70%。 公告指出,生猪销售收入的下降主要是由于公司根据经营计划调整出栏,商品猪出栏量同比下降,同时仔猪和商品猪销售价格也同比下降。",
-   "source": "深圳商报·读创",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611093926601432.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "仔猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_2ae8523d63a2fd0ab222",
-   "date": "2026-11-09",
-   "published_at": "2026-11-09T22:22+08:00",
-   "fetched_at": "2026-11-10T02:59+08:00",
-   "title": "猪价创10年新低 资金博弈周期拐点",
-   "summary": "进入11月,四季度传统消费旺季并未带来价格回暖,生猪价格下跌不止,11月9日的全国外三元生猪均价已回落至8.63元/公斤,创出年内及最近十年新低,养殖全行业深度亏损。",
-   "source": "第一财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611093926567660.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 11
   }
  ]
 }

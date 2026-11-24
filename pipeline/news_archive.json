@@ -1,5 +1,82 @@
 [
  {
+  "id": "news_613ccb2a225e667da73d",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T06:57+08:00",
+  "fetched_at": "2026-11-24T08:12+08:00",
+  "title": "金新农:现阶段以生猪饲料和养殖业务为主 生猪价格波动存在不确定性",
+  "summary": "",
+  "source": "证券之星",
+  "type": "价格行情",
+  "url": "https://stock.stockstar.com/IG2026112400006157.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_e452d3022bbcb13d3dac",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T06:48+08:00",
+  "fetched_at": "2026-11-24T08:12+08:00",
+  "title": "油价“惯性”下跌!11月24日调价后全国92,95号汽油价格,猪价“翘尾”,高歌猛进?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1105376937_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_1f5999ed0c348d1010b2",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T06:48+08:00",
+  "fetched_at": "2026-11-24T08:12+08:00",
+  "title": "11月24日猪价:一夜“起飞”!猪价上涨“猛抬头”,接下来“猛涨”不止?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://www.sohu.com/a/1105377906_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_b7a956ee2671194b0c57",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T05:50+08:00",
+  "fetched_at": "2026-11-24T08:12+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线上涨,大豆期货涨0.55%",
+  "summary": "当地时间11月23日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线上涨,大豆期货涨0.55%报1227.50美分/蒲式耳,玉米期货涨0.06%报449.00美分/蒲式耳,小麦期货涨0.42%报594.50美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611243937762892.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_4f5aa64de499393a0a04",
   "date": "2026-11-24",
   "published_at": "2026-11-24T00:06+08:00",
@@ -37,6 +114,25 @@
    "猪价"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_9123a4aa304549f9ae7e",
+  "date": "2026-11-23",
+  "published_at": "2026-11-23T18:20+08:00",
+  "fetched_at": "2026-11-24T08:12+08:00",
+  "title": "2026降血压降血脂辅酶Q10品牌推荐|从原料源头到配方逻辑,十款养心护心产品逐层拆解与五类人群选择路径观察",
+  "summary": "",
+  "source": "凤凰网",
+  "type": "供需动态",
+  "url": "https://baby.ifeng.com/c/8yI7rtIXOy0",
+  "company": "",
+  "material_ids": [
+   "COQ10"
+  ],
+  "matched_keywords": [
+   "辅酶q10"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_f79497a1414de1d200f3",
@@ -346,6 +442,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_d9e3a4c35700a069ac3b",
+  "date": "2026-11-22",
+  "published_at": "2026-11-22T06:00+08:00",
+  "fetched_at": "2026-11-24T08:12+08:00",
+  "title": "油价“跌了不起”!11月22日调价后全国92,95号汽油价格,猪价“升温”,报复性上涨?",
+  "summary": "",
+  "source": "腾讯新闻",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20261121A0CH7900",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_00f20817d83fb1e91aba",
   "date": "2026-11-21",
   "published_at": "2026-11-21T18:57+08:00",
@@ -636,6 +751,25 @@
   ],
   "matched_keywords": [
    "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_41fdeb0b8f83dd0bac4e",
+  "date": "2026-11-20",
+  "published_at": "2026-11-20T16:10+08:00",
+  "fetched_at": "2026-11-24T08:12+08:00",
+  "title": "【收评】生猪日内上涨1.33% 机构称供应宽松格局未改 生猪期价冲高回落",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261120/c682042922.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
   ],
   "relevance_score": 8
  },
@@ -1743,6 +1877,44 @@
    "生猪"
   ],
   "relevance_score": 11
+ },
+ {
+  "id": "news_197f966b9a9768cf9c63",
+  "date": "2026-11-17",
+  "published_at": "2026-11-17T14:56+08:00",
+  "fetched_at": "2026-11-24T08:12+08:00",
+  "title": "蒙牛:下半年奶价预计回暖 行业呈现“两稳一升”特征",
+  "summary": "",
+  "source": "第一财经",
+  "type": "价格行情",
+  "url": "https://www.yicai.com/video/103337492.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "奶价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_0376c26c2b1a554332b0",
+  "date": "2026-11-17",
+  "published_at": "2026-11-17T14:11+08:00",
+  "fetched_at": "2026-11-24T08:12+08:00",
+  "title": "跌破近十年低点后 猪价迎来触底反弹",
+  "summary": "",
+  "source": "华商网",
+  "type": "价格行情",
+  "url": "http://news.hsw.cn/system/2026/1117/1974989.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_ee07645bdbe778678cd7",
@@ -9510,180 +9682,5 @@
    "原奶"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_c2ade033b94a29a4d027",
-  "date": "2026-10-21",
-  "published_at": "2026-10-21T10:56+08:00",
-  "fetched_at": "2026-10-21T15:15+08:00",
-  "title": "养殖业概念盘中走强,今年下半年生猪出栏量预计将趋势性回落|异动情报",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://stock.stockstar.com/IG2026102100014293.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_6ec9c3fb20cd0deca0c4",
-  "date": "2026-10-21",
-  "published_at": "2026-10-21T09:20+08:00",
-  "fetched_at": "2026-10-21T09:52+08:00",
-  "title": "农产品 | 生猪:短期缺乏上涨动力 期货仓单充裕",
-  "summary": "生猪: 猪e数据显示10月20日全国外三元均价9.73元/kg,较昨日跌0.08元/kg,短期缺乏上涨动力,期货仓单充裕,近月或向仓单成本靠近为主。远期合约升水不同程度挤出,在现货未出现明显减重出栏的信号前,维持中性观察为主,不做多。",
-  "source": "一德期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610213902212880.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_8447046faa24122b671e",
-  "date": "2026-10-21",
-  "published_at": "2026-10-21T09:18+08:00",
-  "fetched_at": "2026-10-21T09:52+08:00",
-  "title": "农产品 | 马棕油冲高回落 油脂低位震荡加剧",
-  "summary": "现货方面,据汇易网,国内玉米市场弱势震荡,南北港口玉米价格承压;华北玉米价格涨跌互现,东北玉米继续承压;北方玉米散船新粮15%水分集港2125-2135元/吨,14.5%水分集港2140-2150元/吨,较昨日降价10元,广东蛇口散船2270-2290元/吨,集装箱新玉米2300元",
-  "source": "国信期货",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610213902198649.html",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕油",
-   "马棕油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_42a7f8620bb93bd9093e",
-  "date": "2026-10-21",
-  "published_at": "2026-10-21T08:38+08:00",
-  "fetched_at": "2026-10-21T09:52+08:00",
-  "title": "猪价二次探底 拐点仍需等待",
-  "summary": "进入10月,国内生猪市场并未延续9月末的回暖态势,而是再度走弱,呈现出“二次探底”的特征。截至10月19日,全国生猪出栏均价已跌至9.75~9.84元/公斤,部分区域毛猪价格逼近9.4元/公斤,自繁自养模式头均亏损约220元,外购仔猪育肥亏损也同步扩大。",
-  "source": "期货日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610213902015112.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪",
-   "仔猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_2db132299917957ded4b",
-  "date": "2026-10-21",
-  "published_at": "2026-10-21T04:24+08:00",
-  "fetched_at": "2026-10-11T01:41+08:00",
-  "title": "多重因素推动猪价10月以来小幅反弹",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-09/detail-iniuqiyt7222100.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_b88b61e9d0a1390e8d09",
-  "date": "2026-10-21",
-  "published_at": "2026-10-21T03:19+08:00",
-  "fetched_at": "2026-10-21T03:53+08:00",
-  "title": "光大期货1020热点追踪:生猪延续回落,01合约盘中跌破万点",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-10-20/detail-inivwcmk0878862.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e913e1d5030136c79714",
-  "date": "2026-10-21",
-  "published_at": "2026-10-21T00:40+08:00",
-  "fetched_at": "2026-10-21T03:53+08:00",
-  "title": "猪价骤然“升温”,上涨来了?",
-  "summary": "",
-  "source": "新浪网",
-  "type": "价格行情",
-  "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bfdkk.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_ccc4899458ec70af96a8",
-  "date": "2026-10-21",
-  "published_at": "2026-10-21T00:18+08:00",
-  "fetched_at": "2026-10-21T07:01+08:00",
-  "title": "新加坡限制亚洲纸浆纸品的绿色标签认证 三家供应商涉印尼林火",
-  "summary": "",
-  "source": "茉莉花新闻网",
-  "type": "供需动态",
-  "url": "https://molihua.org/zonghe-1408/",
-  "company": "",
-  "material_ids": [
-   "SP"
-  ],
-  "matched_keywords": [
-   "纸浆"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_c308f01910ba89431261",
-  "date": "2026-10-20",
-  "published_at": "2026-10-20T21:00+08:00",
-  "fetched_at": "2026-10-20T21:44+08:00",
-  "title": "生猪期价跌破1万元/吨 交易所提示风险",
-  "summary": "如果四季度行业延续亏损,行业或进入超量去库阶段,预计2027年二季度后行业供给水平将逐步下降,届时猪价有望迎来修复。",
-  "source": "期货日报",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610203901537868.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪价"
-  ],
-  "relevance_score": 11
  }
 ]
