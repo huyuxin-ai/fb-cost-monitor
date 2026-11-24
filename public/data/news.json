@@ -1,21 +1,20 @@
 {
- "updated_at": "2026-11-24T18:15+08:00",
+ "updated_at": "2026-11-25T03:37+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
   "21世纪经济报道": 3,
   "36kr": 1,
   "Dairy News Today": 1,
-  "Dairynews.today": 1,
-  "IndexBox": 8,
+  "Dairynews.today": 3,
+  "IndexBox": 9,
   "Shangbao Indonesia": 1,
-  "Sohu": 23,
+  "Sohu": 24,
   "ThePaper.cn": 1,
   "on.cc東網": 1,
   "一德期货": 1,
   "上观新闻": 1,
-  "东吴期货": 1,
-  "东方财富网": 1,
+  "东方财富网": 2,
   "中华网": 1,
   "中国新闻网": 1,
   "中国网财经": 1,
@@ -34,17 +33,16 @@
   "同花顺": 11,
   "同花顺财经": 5,
   "国信期货": 1,
-  "国家粮食和物资储备局": 7,
-  "国际果蔬报道": 1,
+  "国家粮食和物资储备局": 6,
   "大越期货": 1,
-  "央视财经": 2,
+  "央视财经": 3,
   "富途牛牛": 1,
   "广发期货": 1,
   "广州期货": 1,
   "新京报": 1,
   "新华财经": 3,
   "新浪网": 1,
-  "新浪财经": 21,
+  "新浪财经": 20,
   "新浪财经_金融信息服务商": 2,
   "时代周报": 1,
   "时代财经": 1,
@@ -54,9 +52,9 @@
   "海关总署": 1,
   "深圳商报·读创": 1,
   "澎湃新闻": 2,
-  "瑞达期货": 2,
+  "瑞达期货": 1,
   "生物通": 2,
-  "申银万国期货": 2,
+  "申银万国期货": 1,
   "界面新闻": 2,
   "盐城要闻": 1,
   "第一财经": 5,
@@ -64,7 +62,7 @@
   "经济参考报": 1,
   "经济参考网": 1,
   "联合早报": 1,
-  "腾讯新闻": 4,
+  "腾讯新闻": 5,
   "英为财情 Investing.com": 1,
   "观点网": 1,
   "证券之星": 5,
@@ -73,11 +71,86 @@
   "财联社": 4,
   "金十数据": 1,
   "金融界": 1,
-  "钢铁网": 1,
   "铜冠金源期货": 2,
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_371936b4aac44899cdbd",
+   "date": "2026-11-25",
+   "published_at": "2026-11-25T00:27+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "全体飘红上涨!2026.11.25生猪市场信息交流",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1105905036_122014422",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_e84ba4222f403419bd45",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T19:44+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "Tide:奶价下跌,奶场盈亏平衡成本预计上涨11.5%",
+   "summary": "",
+   "source": "Dairynews.today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/tide_dairy_break_even_costs_forecast_to_rise_11_5_as_milk_prices_fall_3960111.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_99fa13f6ee27996168e6",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T19:44+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "生猪期货,尾盘异动!资金开始提前布局→",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1105846178_114984",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_9841a1bbe172aee0e80e",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T19:22+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "印度马哈拉施特拉邦奶价12年上涨约68%",
+   "summary": "",
+   "source": "Dairynews.today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/milk_prices_in_maharashtra_rise_around_68_over_12_years_9846487.html",
+   "company": "",
+   "material_ids": [
+    "RAW_MILK"
+   ],
+   "matched_keywords": [
+    "奶价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_97777a4e0fc03fc0476d",
    "date": "2026-11-24",
@@ -97,6 +170,26 @@
     "生猪"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_1b9048017acfb4710ded",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T16:37+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "明年或迎猪价拐点 猪价有望稳步、温和回升",
+   "summary": "农业农村部数据显示,11月第三周全国生猪价格为每公斤9.95元,环比上涨1.4%,也结束了10月份以来连续6周下降的走势。",
+   "source": "央视财经",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611243938740737.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价",
+    "生猪"
+   ],
+   "relevance_score": 11
   },
   {
    "id": "news_468811edd2b5b52b56c5",
@@ -198,6 +291,45 @@
    "relevance_score": 12
   },
   {
+   "id": "news_fa0750d9b452610ef490",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T13:32+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "9块钱的蟑螂粉,当蛋白粉卖!中国奶多到过剩,乳清蛋白90%靠进口",
+   "summary": "",
+   "source": "Sohu",
+   "type": "供需动态",
+   "url": "https://m.sohu.com/a/1105675069_122219919",
+   "company": "",
+   "material_ids": [
+    "WPC34",
+    "WPC80"
+   ],
+   "matched_keywords": [
+    "乳清蛋白"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_2fcca2b39d7b1fd0d47b",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T11:49+08:00",
+   "fetched_at": "2026-11-24T18:15+08:00",
+   "title": "11月中旬生猪(外三元)价格同比上涨3.4%",
+   "summary": "",
+   "source": "东方财富网",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611243938348013.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_ab3ee2729aab194a41d8",
    "date": "2026-11-24",
    "published_at": "2026-11-24T11:43+08:00",
@@ -234,25 +366,6 @@
     "豆粕"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_288382f1b143ae14c5b5",
-   "date": "2026-11-24",
-   "published_at": "2026-11-24T09:41+08:00",
-   "fetched_at": "2026-11-24T18:15+08:00",
-   "title": "生猪现货延续涨势,金新农8天5板",
-   "summary": "",
-   "source": "Sohu",
-   "type": "价格行情",
-   "url": "https://m.sohu.com/a/1105565192_121157270",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
   },
   {
    "id": "news_0441cd42cc1e99706e84",
@@ -310,6 +423,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_04184923e2ae309a8c4f",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T08:26+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "氧化剂市场展望2035:水处理与纸浆漂白需求推动增长 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "供需动态",
+   "url": "https://www.indexbox.io/zh-hans/blog/oxidizing-agents-market-forecast-to-2035-growth-driven-by-water-treatment-and-pulp-bleaching-demand/",
+   "company": "",
+   "material_ids": [
+    "SP"
+   ],
+   "matched_keywords": [
+    "纸浆"
    ],
    "relevance_score": 8
   },
@@ -579,6 +711,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_990421bec035cc5a7950",
+   "date": "2026-11-23",
+   "published_at": "2026-11-23T10:35+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "生意社2026年11月23日涤纶短纤趋势分析:震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-23/doc-inizsuwn0682001.shtml",
+   "company": "",
+   "material_ids": [
+    "PF"
+   ],
+   "matched_keywords": [
+    "涤纶短纤"
    ],
    "relevance_score": 8
   },
@@ -1670,6 +1821,25 @@
    "relevance_score": 11
   },
   {
+   "id": "news_6fc83105cdac07927b2d",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T16:11+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "【收评】棕榈油日内下跌3.02% 机构称棕榈油领跌油脂期货,库存高企短期偏弱",
+   "summary": "",
+   "source": "同花顺",
+   "type": "价格行情",
+   "url": "https://m.10jqka.com.cn/20261118/c681949452.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
    "id": "news_42ae7fa557c802338584",
    "date": "2026-11-18",
    "published_at": "2026-11-18T16:11+08:00",
@@ -1765,6 +1935,27 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_14037f94a276423bf99f",
+   "date": "2026-11-18",
+   "published_at": "2026-11-18T13:46+08:00",
+   "fetched_at": "2026-11-25T03:37+08:00",
+   "title": "2026年11月18日大豆豆油价格:东北豆价集体松动,豆油高位回调",
+   "summary": "",
+   "source": "腾讯新闻",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20261118A09Y3Z00",
+   "company": "",
+   "material_ids": [
+    "A",
+    "Y"
+   ],
+   "matched_keywords": [
+    "大豆",
+    "豆油"
    ],
    "relevance_score": 8
   },
@@ -3767,197 +3958,6 @@
    "matched_keywords": [
     "生鲜乳",
     "奶价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e63e97b24ba283ed5995",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T15:16+08:00",
-   "fetched_at": "2026-11-11T16:08+08:00",
-   "title": "2026年11月中国大豆供需形势分析发布!",
-   "summary": "",
-   "source": "Sohu",
-   "type": "供需动态",
-   "url": "https://m.sohu.com/a/1100139225_122014422",
-   "company": "",
-   "material_ids": [
-    "A"
-   ],
-   "matched_keywords": [
-    "大豆"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_15ecded6fa03a28c937b",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T14:09+08:00",
-   "fetched_at": "2026-11-13T09:22+08:00",
-   "title": "供需面结构较上个月收紧 豆粕期货回到上涨趋势",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://cj.sina.cn/articles/view/5953189932/162d6782c067053qoi",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e7550fc39d6839de71f3",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T11:59+08:00",
-   "fetched_at": "2026-11-11T16:08+08:00",
-   "title": "2026/27季坦桑尼亚腰果开拍,原料果站上价格高点!",
-   "summary": "",
-   "source": "国际果蔬报道",
-   "type": "价格行情",
-   "url": "https://m.guojiguoshu.com/article/11439",
-   "company": "",
-   "material_ids": [
-    "CASHEW"
-   ],
-   "matched_keywords": [
-    "腰果"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_df16cd53b6384003fc64",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T11:48+08:00",
-   "fetched_at": "2026-11-11T16:08+08:00",
-   "title": "【现货】11月11日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261111/c681692184.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_cd94844b894e09c14a73",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T11:09+08:00",
-   "fetched_at": "2026-11-11T16:08+08:00",
-   "title": "本周国内豆粕现货报价下跌",
-   "summary": "本周国内豆粕市场供需宽松格局延续,下游采购积极性不高,加上国际大豆价格下跌、成本支撑减弱,现货报价下跌。",
-   "source": "国家粮食和物资储备局",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611113928247247.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_1d338e8d0ed2ca8366d7",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T09:51+08:00",
-   "fetched_at": "2026-11-12T00:26+08:00",
-   "title": "Mysteel解读:2026年11月份世界玉米供需情况分析",
-   "summary": "",
-   "source": "钢铁网",
-   "type": "供需动态",
-   "url": "https://news.mysteel.com/a/26111109/B7002DFF2E3C5547.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_76cbf752246d11ceff74",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T09:00+08:00",
-   "fetched_at": "2026-11-11T09:23+08:00",
-   "title": "开盘|国内期货主力合约跌多涨少 豆粕、豆二涨超2%",
-   "summary": "2026年11月11日,早盘开盘,国内期货主力合约跌多涨少,铸造铝、沪银跌超3%,沪铝、沪金、合成橡胶跌超2%,铂跌近2%,碳酸锂、低硫燃料油(LU)跌超1%。",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-11/doc-iniyiiah2190297.shtml",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e8b857c03f8ed7ac445a",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T08:56+08:00",
-   "fetched_at": "2026-11-11T09:23+08:00",
-   "title": "能化 | 预计纸浆价格维持低位震荡格局 继续关注后期累库节奏",
-   "summary": "天然橡胶 东南亚主产国处于旺产阶段,但胶水、杯胶原料释放节奏不及季节性预期;国内云南产区原料价格稳中小涨,产区降雨,部分小幅走高,各个加工厂报价偏乱,各片区采购价格存差异;海南产区雨水扰动持续,割胶作业开展不畅,岛内原料生产释放节奏阶段性放缓,受订单、利润等因素支撑,当地加工厂对原料维持加价收购态势",
-   "source": "瑞达期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611113928037731.html",
-   "company": "",
-   "material_ids": [
-    "SP"
-   ],
-   "matched_keywords": [
-    "纸浆",
-    "浆价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_e09b56f8beb7db8e6042",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T08:54+08:00",
-   "fetched_at": "2026-11-11T09:23+08:00",
-   "title": "农产品 | 短期国际原糖回调与国内新糖上市形成双重压力",
-   "summary": "整体来看,短期国际原糖回调与国内新糖上市形成双重压力,但巴西减产及进口成本仍提供一定支撑。后续重点观察原糖18美分关口、印度实际产量及国内新糖报价变化。 生猪:现货9.3。出栏情绪不一,部分顺势出栏,部分则有惜售情绪,压栏观望等价。",
-   "source": "东吴期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611113928027375.html",
-   "company": "",
-   "material_ids": [
-    "SR"
-   ],
-   "matched_keywords": [
-    "原糖"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_35ea957ed3f9955db828",
-   "date": "2026-11-11",
-   "published_at": "2026-11-11T08:48+08:00",
-   "fetched_at": "2026-11-11T09:23+08:00",
-   "title": "农产品 | 报告显示马棕累库低于预期 棕榈油价格受到一定提振",
-   "summary": "目前印度政府近期宣布停止采购以食糖及主要甘蔗原料生产的乙醇,预计新榨季甘蔗制乙醇量将大幅减少以缓解白糖的供应缺口,后期要关注压榨数据明朗之后印度和泰国糖产兑现情况。国内基本面弱于外盘,高库存拖累盘面,叠加新榨季国产糖仍有增产预期,内外价差逻辑偏弱。短期郑糖盘整为主。",
-   "source": "申银万国期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611113927998195.html",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
    ],
    "relevance_score": 8
   }
