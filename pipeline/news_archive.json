@@ -1,5 +1,120 @@
 [
  {
+  "id": "news_d7ee62b146f5a7566c3f",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T02:11+08:00",
+  "fetched_at": "2026-11-26T02:44+08:00",
+  "title": "天气降温推升消费 生猪市场价格回暖",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/2026-11-25/detail-inizwmwt9814764.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_f175b765347684712394",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T01:46+08:00",
+  "fetched_at": "2026-11-26T02:44+08:00",
+  "title": "生猪价格现短期反弹",
+  "summary": "近期,国内猪价短期反弹。农业农村部最新数据显示,11月第三周全国生猪价格为每公斤9.95元,环比上涨1.4%,结束了10月份以来连续6周下降的走势。卓创资讯监测数据显示,截至11月25日,现货市场全国生猪均价为10.14元/公斤,较月初上涨12.54%。",
+  "source": "证券日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611263939937739.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_5d64492e0cde424157a3",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T01:20+08:00",
+  "fetched_at": "2026-11-26T02:44+08:00",
+  "title": "多空辩论更新:温氏股份首给2027年猪价鸡价前瞻,产能出清与双主业对冲分歧未解",
+  "summary": "",
+  "source": "证券之星",
+  "type": "供需动态",
+  "url": "https://stock.stockstar.com/RB2026112600000925.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c12d019c12f3074cdc04",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T00:37+08:00",
+  "fetched_at": "2026-11-26T02:44+08:00",
+  "title": "英国酒饮行业称,玻璃包装收费下调后,包装改革仍可能推高成本",
+  "summary": "",
+  "source": "Vinetur",
+  "type": "供需动态",
+  "url": "https://www.vinetur.com/cn/20261125111918/britains-drinks-industry-says-packaging-reform-still-threatens-higher-costs-after-glass-fee-cuts.html",
+  "company": "",
+  "material_ids": [
+   "FG"
+  ],
+  "matched_keywords": [
+   "玻璃包装"
+  ],
+  "relevance_score": 9
+ },
+ {
+  "id": "news_951844993181b021c895",
+  "date": "2026-11-25",
+  "published_at": "2026-11-25T22:29+08:00",
+  "fetched_at": "2026-11-26T02:44+08:00",
+  "title": "欧洲乳业:原奶收购价下跌,功能性乳制品需求增长,贸易协议引发分歧",
+  "summary": "",
+  "source": "Dairy News Today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/europe_s_dairy_sector_falling_producer_prices_premium_demand_and_mercosur_divisions_5970601.html",
+  "company": "",
+  "material_ids": [
+   "RAW_MILK"
+  ],
+  "matched_keywords": [
+   "原奶"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_c147f7e718a4e197aa4d",
+  "date": "2026-11-25",
+  "published_at": "2026-11-25T22:03+08:00",
+  "fetched_at": "2026-11-26T02:44+08:00",
+  "title": "印尼棕榈油出口新费用细节曝光,成本结构将如何重塑?",
+  "summary": "",
+  "source": "黄金网",
+  "type": "供需动态",
+  "url": "http://gold.cnfol.com/guojiyuanyousc/20261125/32432305.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_55ea5bba7660dd1f9f1b",
   "date": "2026-11-25",
   "published_at": "2026-11-25T17:22+08:00",
@@ -289,6 +404,25 @@
    "大豆"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_8a08dee1de3ac352bc98",
+  "date": "2026-11-25",
+  "published_at": "2026-11-25T01:41+08:00",
+  "fetched_at": "2026-11-26T02:44+08:00",
+  "title": "无糖维生素C市场展望2035:清洁标签免疫需求驱动增长 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "供需动态",
+  "url": "https://www.indexbox.io/zh-hans/blog/sugar-free-vitamin-c-market-forecast-to-2035-demand-accelerates-on-clean-label-immunity-and-sugar-reduction-trends/",
+  "company": "",
+  "material_ids": [
+   "VC"
+  ],
+  "matched_keywords": [
+   "维生素c"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_e84ba4222f403419bd45",
@@ -9546,139 +9680,5 @@
    "生猪"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_aa9ce30cc7be4b81745f",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T14:31+08:00",
-  "fetched_at": "2026-10-23T15:11+08:00",
-  "title": "供需宽松格局下 生猪期现货屡创新低|期货周刊",
-  "summary": "",
-  "source": "第一财经",
-  "type": "价格行情",
-  "url": "https://www.yicai.com/video/103406325.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_fd31282e073bc4c9de9b",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T12:16+08:00",
-  "fetched_at": "2026-10-26T07:27+08:00",
-  "title": "供应收紧叠加出口强劲,马棕榈油期货站上4800林吉特_期货评论",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://futures.stockstar.com/IG2026102300020460.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_eb14962f27ac89bb27cf",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T11:44+08:00",
-  "fetched_at": "2026-10-23T15:11+08:00",
-  "title": "【现货】10月23日马来西亚棕榈油现货价格汇总",
-  "summary": "",
-  "source": "同花顺",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20261023/c681013975.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_643ca7338fb2519088cb",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T10:26+08:00",
-  "fetched_at": "2026-10-23T15:11+08:00",
-  "title": "本周国内豆粕期价整体呈震荡下跌走势",
-  "summary": "昨日国内豆粕期价收盘略微上涨。受美国大豆收获进展顺利、CBOT大豆期价走势偏弱等影响,本周国内豆粕期价整体呈震荡下跌走势,昨日收盘略微上涨,反弹幅度有限。",
-  "source": "国家粮食和物资储备局",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610233905470375.html",
-  "company": "",
-  "material_ids": [
-   "M"
-  ],
-  "matched_keywords": [
-   "豆粕"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_df39bbc02ef77d0952df",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T10:20+08:00",
-  "fetched_at": "2026-10-23T15:11+08:00",
-  "title": "生意社2026年10月23日PTA趋势分析:震荡",
-  "summary": "",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-23/doc-iniweqhr5595096.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_cb26c1df6f8d5e94c99a",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T09:30+08:00",
-  "fetched_at": "2026-10-23T09:46+08:00",
-  "title": "31省市猪价全线下跌 供给过剩压制反弹",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://news.china.com/socialgd/10000169/20261023/49812602.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_cb38a821daceb4305e32",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T09:25+08:00",
-  "fetched_at": "2026-10-23T09:46+08:00",
-  "title": "华泰期货:出栏均重上升,猪价偏弱震荡",
-  "summary": "作者: 薛钧元 生猪观点 市场要闻与重要数据 期货方面,昨日收盘生猪 2701 合约9860元/吨,较前交易日变动-285.00元/吨,幅度-2.81%。",
-  "source": "新浪财经",
-  "type": "价格行情",
-  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-23/doc-iniweiyt5675985.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
-   "生猪"
-  ],
-  "relevance_score": 12
  }
 ]
