@@ -1,5 +1,26 @@
 [
  {
+  "id": "news_a7168d7e87e3a564a371",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T05:23+08:00",
+  "fetched_at": "2026-11-26T07:13+08:00",
+  "title": "芝加哥小麦、大豆至少涨1%,豆粕涨约2.4%",
+  "summary": "CBOT玉米期货涨1.33%,CBOT小麦期货跌0.47%。 CBOT大豆期货涨1%,豆粕期货涨2.37%——亚太早盘以来大致持稳、美股开盘后持续走高,豆油期货涨0.1%。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611263939951948.html",
+  "company": "",
+  "material_ids": [
+   "M",
+   "A"
+  ],
+  "matched_keywords": [
+   "豆粕",
+   "大豆"
+  ],
+  "relevance_score": 11
+ },
+ {
   "id": "news_d7ee62b146f5a7566c3f",
   "date": "2026-11-26",
   "published_at": "2026-11-26T02:11+08:00",
@@ -96,15 +117,15 @@
   "relevance_score": 8
  },
  {
-  "id": "news_c147f7e718a4e197aa4d",
+  "id": "news_c1d506bc8d8a6c532c3d",
   "date": "2026-11-25",
-  "published_at": "2026-11-25T22:03+08:00",
+  "published_at": "2026-11-25T21:29+08:00",
   "fetched_at": "2026-11-26T02:44+08:00",
-  "title": "印尼棕榈油出口新费用细节曝光,成本结构将如何重塑?",
+  "title": "印尼棕榈油出口新费用细节曝光,成本结构将如何重塑?_外汇动态报道",
   "summary": "",
-  "source": "黄金网",
+  "source": "汇通财经",
   "type": "供需动态",
-  "url": "http://gold.cnfol.com/guojiyuanyousc/20261125/32432305.shtml",
+  "url": "https://www.fx678.com/202611252129049080.shtml",
   "company": "",
   "material_ids": [
    "P"
@@ -676,6 +697,27 @@
   ],
   "matched_keywords": [
    "乳清蛋白"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_6361a9583575c828d359",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T12:29+08:00",
+  "fetched_at": "2026-11-26T07:13+08:00",
+  "title": "2026年11月24日大豆豆油价格:东北豆价总体持稳,豆油涨跌互现",
+  "summary": "",
+  "source": "腾讯新闻",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20261124A06VJU00",
+  "company": "",
+  "material_ids": [
+   "A",
+   "Y"
+  ],
+  "matched_keywords": [
+   "大豆",
+   "豆油"
   ],
   "relevance_score": 8
  },
@@ -1367,6 +1409,25 @@
   ],
   "matched_keywords": [
    "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_d3d18946b714db4453b2",
+  "date": "2026-11-22",
+  "published_at": "2026-11-22T11:32+08:00",
+  "fetched_at": "2026-11-26T07:13+08:00",
+  "title": "中老年降血压血脂辅酶Q10品牌哪个牌子靠谱?2026辅酶Q10官方旗舰店年终榜单公布,十款产品原料溯源对照清单",
+  "summary": "",
+  "source": "凤凰网",
+  "type": "供需动态",
+  "url": "https://baby.ifeng.com/c/8yFzq7MSUYy",
+  "company": "",
+  "material_ids": [
+   "COQ10"
+  ],
+  "matched_keywords": [
+   "辅酶q10"
   ],
   "relevance_score": 8
  },
@@ -9621,63 +9682,6 @@
   "matched_keywords": [
    "豆油",
    "菜油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_9f32f9f41741fd0f7db3",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T15:42+08:00",
-  "fetched_at": "2026-10-23T20:46+08:00",
-  "title": "生猪主力合约收跌1.16%",
-  "summary": "南财智讯10月23日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌1.16%,收盘报9825.0元/吨,日内资金流出2.95亿元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610233906266139.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_16f3fb52c2d2fe78affa",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T15:40+08:00",
-  "fetched_at": "2026-10-23T20:46+08:00",
-  "title": "秦英林:生猪行业产能调控是必要的,牧原也是调产的受益者",
-  "summary": "",
-  "source": "www.agripost.cn",
-  "type": "供需动态",
-  "url": "https://www.agripost.cn/2026/10/23/muyuans-qin-yinglin-backs-chinas-pig-production-capacity-controls/",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_39040ef8909868ad1e01",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T15:28+08:00",
-  "fetched_at": "2026-10-23T20:46+08:00",
-  "title": "【收评】生猪日内下跌1.16% 机构称生猪供强需弱,短期低位震荡",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://m.10jqka.com.cn/20261023/c681020293.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
   ],
   "relevance_score": 8
  }

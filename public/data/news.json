@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T02:44+08:00",
+ "updated_at": "2026-11-26T07:13+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -25,22 +25,21 @@
   "中州期货": 1,
   "五矿期货": 2,
   "农业农村部": 1,
-  "凤凰网": 2,
+  "凤凰网": 3,
   "凤凰网山东": 1,
   "创元期货": 2,
   "华盛通": 1,
   "南华期货": 1,
   "南方财经网": 16,
   "同花顺": 11,
-  "同花顺财经": 4,
+  "同花顺财经": 3,
   "国信期货": 1,
-  "国家粮食和物资储备局": 7,
+  "国家粮食和物资储备局": 6,
   "国际果蔬报道": 1,
   "大众网": 1,
   "大越期货": 1,
   "央视网": 2,
   "央视财经": 2,
-  "富途牛牛": 1,
   "广发期货": 1,
   "广州期货": 1,
   "新京报": 1,
@@ -50,7 +49,8 @@
   "新浪财经_金融信息服务商": 2,
   "时代周报": 1,
   "时代财经": 1,
-  "每日经济新闻": 7,
+  "每日经济新闻": 8,
+  "汇通财经": 1,
   "海关总署": 1,
   "深圳商报·读创": 1,
   "澎湃新闻": 2,
@@ -63,17 +63,37 @@
   "红星资本局": 1,
   "经济参考网": 1,
   "联合早报": 1,
-  "腾讯新闻": 5,
+  "腾讯新闻": 6,
   "观点网": 1,
   "证券之星": 7,
   "证券日报": 1,
   "证券时报网": 1,
   "财联社": 6,
-  "金融界": 1,
   "铜冠金源期货": 2,
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_a7168d7e87e3a564a371",
+   "date": "2026-11-26",
+   "published_at": "2026-11-26T05:23+08:00",
+   "fetched_at": "2026-11-26T07:13+08:00",
+   "title": "芝加哥小麦、大豆至少涨1%,豆粕涨约2.4%",
+   "summary": "CBOT玉米期货涨1.33%,CBOT小麦期货跌0.47%。 CBOT大豆期货涨1%,豆粕期货涨2.37%——亚太早盘以来大致持稳、美股开盘后持续走高,豆油期货涨0.1%。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611263939951948.html",
+   "company": "",
+   "material_ids": [
+    "M",
+    "A"
+   ],
+   "matched_keywords": [
+    "豆粕",
+    "大豆"
+   ],
+   "relevance_score": 11
+  },
   {
    "id": "news_d7ee62b146f5a7566c3f",
    "date": "2026-11-26",
@@ -167,6 +187,25 @@
    ],
    "matched_keywords": [
     "原奶"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_c1d506bc8d8a6c532c3d",
+   "date": "2026-11-25",
+   "published_at": "2026-11-25T21:29+08:00",
+   "fetched_at": "2026-11-26T02:44+08:00",
+   "title": "印尼棕榈油出口新费用细节曝光,成本结构将如何重塑?_外汇动态报道",
+   "summary": "",
+   "source": "汇通财经",
+   "type": "供需动态",
+   "url": "https://www.fx678.com/202611252129049080.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
    ],
    "relevance_score": 8
   },
@@ -713,6 +752,27 @@
    ],
    "matched_keywords": [
     "乳清蛋白"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_6361a9583575c828d359",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T12:29+08:00",
+   "fetched_at": "2026-11-26T07:13+08:00",
+   "title": "2026年11月24日大豆豆油价格:东北豆价总体持稳,豆油涨跌互现",
+   "summary": "",
+   "source": "腾讯新闻",
+   "type": "价格行情",
+   "url": "https://news.qq.com/rain/a/20261124A06VJU00",
+   "company": "",
+   "material_ids": [
+    "A",
+    "Y"
+   ],
+   "matched_keywords": [
+    "大豆",
+    "豆油"
    ],
    "relevance_score": 8
   },
@@ -1384,6 +1444,25 @@
    ],
    "matched_keywords": [
     "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_d3d18946b714db4453b2",
+   "date": "2026-11-22",
+   "published_at": "2026-11-22T11:32+08:00",
+   "fetched_at": "2026-11-26T07:13+08:00",
+   "title": "中老年降血压血脂辅酶Q10品牌哪个牌子靠谱?2026辅酶Q10官方旗舰店年终榜单公布,十款产品原料溯源对照清单",
+   "summary": "",
+   "source": "凤凰网",
+   "type": "供需动态",
+   "url": "https://baby.ifeng.com/c/8yFzq7MSUYy",
+   "company": "",
+   "material_ids": [
+    "COQ10"
+   ],
+   "matched_keywords": [
+    "辅酶q10"
    ],
    "relevance_score": 8
   },
@@ -3883,82 +3962,6 @@
     "生猪"
    ],
    "relevance_score": 8
-  },
-  {
-   "id": "news_809ccd667a07805f8200",
-   "date": "2026-11-13",
-   "published_at": "2026-11-13T11:40+08:00",
-   "fetched_at": "2026-11-13T16:35+08:00",
-   "title": "【现货】11月12日马来西亚棕榈油现货价格汇总",
-   "summary": "",
-   "source": "同花顺财经",
-   "type": "价格行情",
-   "url": "https://news.10jqka.com.cn/20261113/c681739595.shtml",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_44b333962cd84f5aa91a",
-   "date": "2026-11-13",
-   "published_at": "2026-11-13T10:54+08:00",
-   "fetched_at": "2026-11-13T16:35+08:00",
-   "title": "猪肉股短线走强,中粮家佳康涨4.2%、牧原涨近4%,猪价低位温和修复",
-   "summary": "",
-   "source": "金融界",
-   "type": "价格行情",
-   "url": "https://m.jrj.com.cn/madapter/stock/2026/11/13105459128148.shtml",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_c4d5c5256789a5ba1e5a",
-   "date": "2026-11-13",
-   "published_at": "2026-11-13T10:48+08:00",
-   "fetched_at": "2026-11-14T00:38+08:00",
-   "title": "港股异动 | 牧原股份(02714)早盘涨超4% 10月生猪养殖完全成本降至约11.4元/kg",
-   "summary": "",
-   "source": "富途牛牛",
-   "type": "供需动态",
-   "url": "https://news.futunn.com/post/1004395816/hk-stocks-move-muyuan-shares-02714-rise-over-4-in",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_1e6ae85b584f0cd1455f",
-   "date": "2026-11-13",
-   "published_at": "2026-11-13T10:33+08:00",
-   "fetched_at": "2026-11-13T16:35+08:00",
-   "title": "本周菜籽粕现货价格上涨",
-   "summary": "11月12日,沿海地区普通蛋白菜籽粕现货价格2390~2440元/吨,较上周同期上涨60~160元/吨;两广地区地区现货基差报价RM01+150~160元/吨,部分地区下跌20元/吨。",
-   "source": "国家粮食和物资储备局",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611133930567721.html",
-   "company": "",
-   "material_ids": [
-    "RM"
-   ],
-   "matched_keywords": [
-    "菜籽粕"
-   ],
-   "relevance_score": 12
   }
  ]
 }
