@@ -59,6 +59,26 @@
   "relevance_score": 12
  },
  {
+  "id": "news_e5e91476ffcb3bbb8b3b",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T18:27+08:00",
+  "fetched_at": "2026-11-27T02:32+08:00",
+  "title": "新华指数监测:永平核桃品类价格指数走势分化 鲜品走强、核桃仁干果持续偏弱",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/bond/2026-11-26/doc-inkaaiez1378043.shtml",
+  "company": "",
+  "material_ids": [
+   "WALNUT"
+  ],
+  "matched_keywords": [
+   "核桃仁",
+   "核桃"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_7a6cc6d4194c6efe4803",
   "date": "2026-11-26",
   "published_at": "2026-11-26T17:04+08:00",
@@ -463,6 +483,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_bdcf91b9c961260df507",
+  "date": "2026-11-25",
+  "published_at": "2026-11-25T16:50+08:00",
+  "fetched_at": "2026-11-25T22:09+08:00",
+  "title": "价格前线|11月25日生猪出栏价异动提示",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261125/c682202994.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a5f4e0ffc1a9a111b2bf",
   "date": "2026-11-25",
   "published_at": "2026-11-25T15:54+08:00",
@@ -499,25 +538,6 @@
    "玉米"
   ],
   "relevance_score": 11
- },
- {
-  "id": "news_867e16777b011f6dfc6b",
-  "date": "2026-11-25",
-  "published_at": "2026-11-25T15:31+08:00",
-  "fetched_at": "2026-11-25T22:09+08:00",
-  "title": "11月25日生猪期货收盘下跌2.63%,报9440元_综合资讯",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://futures.stockstar.com/RB2026112500023921.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
  },
  {
   "id": "news_c11b3f621397d44baabe",
@@ -9654,26 +9674,6 @@
    "LH"
   ],
   "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_e0ad3e27ea3ef665a547",
-  "date": "2026-10-26",
-  "published_at": "2026-10-26T15:16+08:00",
-  "fetched_at": "2026-10-26T15:32+08:00",
-  "title": "再创新低!猪价距离见底还有多远?",
-  "summary": "“具体来看,四季度天气转凉,生猪体重增幅加快,养殖企业对年底消费旺季仍有预期。近期猪价下跌,市场也存在低价销售的抵触情绪,从而导致10月生猪体重仍在增加。”李艺华表示。",
-  "source": "期货日报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610263907928491.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价",
    "生猪"
   ],
   "relevance_score": 12
