@@ -1,5 +1,101 @@
 [
  {
+  "id": "news_6d5e15d9b91db3af568d",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T11:46+08:00",
+  "fetched_at": "2026-11-26T13:18+08:00",
+  "title": "【现货】11月26日马来西亚棕榈油现货价格汇总",
+  "summary": "",
+  "source": "同花顺财经",
+  "type": "价格行情",
+  "url": "https://news.10jqka.com.cn/20261126/c682236920.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_3587ba853e9c493b0502",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T10:00+08:00",
+  "fetched_at": "2026-11-26T13:18+08:00",
+  "title": "生猪行情暂以反弹看待 后续重点关注现货价格走势",
+  "summary": "接下来交易者可关注两种可能:一是当前生猪价格已经处于底部,春节前猪价持续反弹,春节后经历较长时间调整后再度开启主升浪;二是春节前后生猪价格再创新低,随后进入周期上涨阶段。 需要注意的是,上述两种可能的价格走势均建立在一定的条件之上。",
+  "source": "期货日报",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611263940421878.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_22a5127824dc9778c4c2",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T08:46+08:00",
+  "fetched_at": "2026-11-26T13:18+08:00",
+  "title": "农产品 | 棕榈油:产区降水好转 减产预期减弱 棕榈油供应压力仍有待消化",
+  "summary": "生猪方面:昨日生猪主力价格偏弱运行。现货方面,全国生猪出栏均价为9.02元/公斤,较上周价格上涨0.48元/公斤,环比上涨5.62%,同比下跌21.90%。周内生猪价格连续回升,均价重心上移明显。",
+  "source": "上海中期期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611263940297925.html",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_df20de038828fe4dbfad",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T08:44+08:00",
+  "fetched_at": "2026-11-26T13:18+08:00",
+  "title": "农产品 | 生猪:现货报价震荡偏强 期货价格开始回调",
+  "summary": "玉米 玉米 | C2701 核心观点: 北港报价继续走低短期盘面价格震荡偏弱 一、供给 1玉米购销:截止11月25日锦州港新粮主流价格维持2155元/吨,主流报价下跌;南通区域报价2270元/吨,报价稳定;南方港口报价2280-2310元/吨,报价稳定;华北深加工主流报价维持在",
+  "source": "中州期货",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611263940200832.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_bd8f78dacec38e7f2abc",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T05:51+08:00",
+  "fetched_at": "2026-11-26T13:18+08:00",
+  "title": "华泰期货:现货保持强势,猪价宽幅震荡",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-25/detail-inizxaut4436535.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_a7168d7e87e3a564a371",
   "date": "2026-11-26",
   "published_at": "2026-11-26T05:23+08:00",
@@ -620,6 +716,25 @@
    "猪价"
   ],
   "relevance_score": 12
+ },
+ {
+  "id": "news_20fbd65c7ce426cb86bf",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T16:00+08:00",
+  "fetched_at": "2026-11-26T13:18+08:00",
+  "title": "棉花下游成品走货不佳 生猪短期或震荡偏强",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-24/detail-inizuxve5154013.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_5820ccc038042792330c",
@@ -9565,124 +9680,5 @@
    "猪价"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_ea555c3204d18232031d",
-  "date": "2026-10-24",
-  "published_at": "2026-10-24T07:28+08:00",
-  "fetched_at": "2026-10-24T07:55+08:00",
-  "title": "CBOT农产品期货主力合约收盘多数上涨,大豆期货涨0.36%",
-  "summary": "当地时间10月23日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘多数上涨,大豆期货涨0.36%报1257.50美分/蒲式耳,玉米期货跌0.98%报456.00美分/蒲式耳,小麦期货涨0.04%报625.00美分/蒲式耳。",
-  "source": "每日经济新闻",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610243906876226.html",
-  "company": "",
-  "material_ids": [
-   "A"
-  ],
-  "matched_keywords": [
-   "大豆"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_da3c904440912aa7cdb3",
-  "date": "2026-10-24",
-  "published_at": "2026-10-24T05:34+08:00",
-  "fetched_at": "2026-10-24T07:55+08:00",
-  "title": "10月24日猪价:止不住!猪价“报复性”下跌,接下来“创新低”?",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1091848605_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_975003f56f86052d9d87",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T17:58+08:00",
-  "fetched_at": "2026-10-23T20:46+08:00",
-  "title": "乳清蛋白粉涨价,网红平替怎么选?专家:大豆蛋白靠谱,蟑螂粉不建议",
-  "summary": "",
-  "source": "搜狐",
-  "type": "价格行情",
-  "url": "https://m.sohu.com/a/1091797048_120388781",
-  "company": "",
-  "material_ids": [
-   "A",
-   "WPC34",
-   "WPC80"
-  ],
-  "matched_keywords": [
-   "大豆",
-   "乳清蛋白"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_f600f75bdb5b8b6a7747",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T17:36+08:00",
-  "fetched_at": "2026-10-23T20:46+08:00",
-  "title": "大商所上调生猪期货LH2701合约交易保证金水平",
-  "summary": "大商所公告,自2026年10月27日(星期二)结算时起,生猪期货LH2701合约交易保证金水平由8%调整为10%。对同时满足《大连商品交易所风险管理办法》有关调整交易保证金规定的合约,其交易保证金按照规定交易保证金数值中的较大值收取。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610233906606751.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_1db92e82007385e1e264",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T16:52+08:00",
-  "fetched_at": "2026-10-23T20:46+08:00",
-  "title": "【现货】10月22日全国生猪现货价格汇总",
-  "summary": "",
-  "source": "同花顺财经",
-  "type": "价格行情",
-  "url": "https://news.10jqka.com.cn/20261022/c680952031.shtml",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_a3a666cbe232c0dbd92f",
-  "date": "2026-10-23",
-  "published_at": "2026-10-23T16:43+08:00",
-  "fetched_at": "2026-10-23T20:46+08:00",
-  "title": "市场情绪回暖,豆油菜油收涨—10月23日",
-  "summary": "",
-  "source": "导油网",
-  "type": "价格行情",
-  "url": "https://www.oilcn.com/article/2026/10/10_99361.html",
-  "company": "",
-  "material_ids": [
-   "Y",
-   "OI"
-  ],
-  "matched_keywords": [
-   "豆油",
-   "菜油"
-  ],
-  "relevance_score": 8
  }
 ]

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T07:13+08:00",
+ "updated_at": "2026-11-26T13:18+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,19 +10,20 @@
   "Dairynews.today": 3,
   "IndexBox": 9,
   "Shangbao Indonesia": 1,
-  "Sohu": 21,
+  "Sohu": 20,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "Vinetur": 1,
   "news.qq.com": 1,
   "on.cc東網": 1,
+  "上海中期期货": 1,
   "上观新闻": 1,
   "东方财富网": 2,
   "中华网": 1,
   "中国网财经": 1,
   "中国证券报": 1,
   "中国证券报·中证金牛座": 3,
-  "中州期货": 1,
+  "中州期货": 2,
   "五矿期货": 2,
   "农业农村部": 1,
   "凤凰网": 3,
@@ -30,9 +31,9 @@
   "创元期货": 2,
   "华盛通": 1,
   "南华期货": 1,
-  "南方财经网": 16,
+  "南方财经网": 14,
   "同花顺": 11,
-  "同花顺财经": 3,
+  "同花顺财经": 4,
   "国信期货": 1,
   "国家粮食和物资储备局": 6,
   "国际果蔬报道": 1,
@@ -45,17 +46,18 @@
   "新京报": 1,
   "新华财经": 3,
   "新浪网": 1,
-  "新浪财经": 25,
-  "新浪财经_金融信息服务商": 2,
+  "新浪财经": 26,
+  "新浪财经_金融信息服务商": 1,
   "时代周报": 1,
   "时代财经": 1,
+  "期货日报": 1,
   "每日经济新闻": 8,
   "汇通财经": 1,
   "海关总署": 1,
   "深圳商报·读创": 1,
   "澎湃新闻": 2,
   "瑞达期货": 1,
-  "生物通": 2,
+  "生物通": 1,
   "申银万国期货": 1,
   "界面新闻": 2,
   "盐城要闻": 1,
@@ -73,6 +75,102 @@
   "香港01": 1
  },
  "items": [
+  {
+   "id": "news_6d5e15d9b91db3af568d",
+   "date": "2026-11-26",
+   "published_at": "2026-11-26T11:46+08:00",
+   "fetched_at": "2026-11-26T13:18+08:00",
+   "title": "【现货】11月26日马来西亚棕榈油现货价格汇总",
+   "summary": "",
+   "source": "同花顺财经",
+   "type": "价格行情",
+   "url": "https://news.10jqka.com.cn/20261126/c682236920.shtml",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_3587ba853e9c493b0502",
+   "date": "2026-11-26",
+   "published_at": "2026-11-26T10:00+08:00",
+   "fetched_at": "2026-11-26T13:18+08:00",
+   "title": "生猪行情暂以反弹看待 后续重点关注现货价格走势",
+   "summary": "接下来交易者可关注两种可能:一是当前生猪价格已经处于底部,春节前猪价持续反弹,春节后经历较长时间调整后再度开启主升浪;二是春节前后生猪价格再创新低,随后进入周期上涨阶段。 需要注意的是,上述两种可能的价格走势均建立在一定的条件之上。",
+   "source": "期货日报",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611263940421878.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_22a5127824dc9778c4c2",
+   "date": "2026-11-26",
+   "published_at": "2026-11-26T08:46+08:00",
+   "fetched_at": "2026-11-26T13:18+08:00",
+   "title": "农产品 | 棕榈油:产区降水好转 减产预期减弱 棕榈油供应压力仍有待消化",
+   "summary": "生猪方面:昨日生猪主力价格偏弱运行。现货方面,全国生猪出栏均价为9.02元/公斤,较上周价格上涨0.48元/公斤,环比上涨5.62%,同比下跌21.90%。周内生猪价格连续回升,均价重心上移明显。",
+   "source": "上海中期期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611263940297925.html",
+   "company": "",
+   "material_ids": [
+    "P"
+   ],
+   "matched_keywords": [
+    "棕榈油"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_df20de038828fe4dbfad",
+   "date": "2026-11-26",
+   "published_at": "2026-11-26T08:44+08:00",
+   "fetched_at": "2026-11-26T13:18+08:00",
+   "title": "农产品 | 生猪:现货报价震荡偏强 期货价格开始回调",
+   "summary": "玉米 玉米 | C2701 核心观点: 北港报价继续走低短期盘面价格震荡偏弱 一、供给 1玉米购销:截止11月25日锦州港新粮主流价格维持2155元/吨,主流报价下跌;南通区域报价2270元/吨,报价稳定;南方港口报价2280-2310元/吨,报价稳定;华北深加工主流报价维持在",
+   "source": "中州期货",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611263940200832.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_bd8f78dacec38e7f2abc",
+   "date": "2026-11-26",
+   "published_at": "2026-11-26T05:51+08:00",
+   "fetched_at": "2026-11-26T13:18+08:00",
+   "title": "华泰期货:现货保持强势,猪价宽幅震荡",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-25/detail-inizxaut4436535.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_a7168d7e87e3a564a371",
    "date": "2026-11-26",
@@ -675,6 +773,25 @@
     "猪价"
    ],
    "relevance_score": 12
+  },
+  {
+   "id": "news_20fbd65c7ce426cb86bf",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T16:00+08:00",
+   "fetched_at": "2026-11-26T13:18+08:00",
+   "title": "棉花下游成品走货不佳 生猪短期或震荡偏强",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-24/detail-inizuxve5154013.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_5820ccc038042792330c",
@@ -3848,120 +3965,6 @@
     "生猪"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_a845d4703b450e5a0d8f",
-   "date": "2026-11-14",
-   "published_at": "2026-11-14T05:07+08:00",
-   "fetched_at": "2026-11-14T06:46+08:00",
-   "title": "华泰期货:惜售情绪升温,猪价维持震荡",
-   "summary": "",
-   "source": "新浪财经",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-13/detail-iniypzqm3708801.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_26f9e4d88bae65f23c44",
-   "date": "2026-11-14",
-   "published_at": "2026-11-14T01:51+08:00",
-   "fetched_at": "2026-11-14T06:46+08:00",
-   "title": "港股异动丨猪肉股短线走强,中粮家佳康涨4.2%、牧原涨近4%,猪价低位温和修复",
-   "summary": "",
-   "source": "新浪财经_金融信息服务商",
-   "type": "价格行情",
-   "url": "https://finance.sina.cn/2026-11-13/detail-iniypzqk8120561.d.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_b7705245b7cc541b0582",
-   "date": "2026-11-13",
-   "published_at": "2026-11-13T19:02+08:00",
-   "fetched_at": "2026-11-14T00:38+08:00",
-   "title": "减少交易频率却增加市场厚度:生猪拍卖市场中计划性休市的影响研究",
-   "summary": "",
-   "source": "生物通",
-   "type": "供需动态",
-   "url": "https://www.ebiotrade.com/newsf/2026-11/20261113082533263.htm",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_f3a93b99732806b9ab9b",
-   "date": "2026-11-13",
-   "published_at": "2026-11-13T15:42+08:00",
-   "fetched_at": "2026-11-13T16:35+08:00",
-   "title": "生猪主力合约收涨3.26%",
-   "summary": "21财经11月13日电,盘后期货数据显示,大连商品交易所的生猪主力合约收涨3.26%,收盘报9965.0元/吨,日内资金流出1371.51万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611133930684270.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_74ee5e2dcc1eee915c5f",
-   "date": "2026-11-13",
-   "published_at": "2026-11-13T15:41+08:00",
-   "fetched_at": "2026-11-13T16:35+08:00",
-   "title": "玉米主力合约收跌0.14%",
-   "summary": "21财经11月13日电,盘后期货数据显示,大连商品交易所的玉米主力合约收跌0.14%,收盘报2185.0元/吨,日内资金流入7077.09万元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611133930687872.html",
-   "company": "",
-   "material_ids": [
-    "C"
-   ],
-   "matched_keywords": [
-    "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_8b835e16a9220ab125f1",
-   "date": "2026-11-13",
-   "published_at": "2026-11-13T13:29+08:00",
-   "fetched_at": "2026-11-13T16:35+08:00",
-   "title": "生猪涨幅超5%,深亏下的养殖端能否回血?|期市头条",
-   "summary": "",
-   "source": "Sohu",
-   "type": "供需动态",
-   "url": "https://m.sohu.com/a/1101033708_114986",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
-   ],
-   "relevance_score": 8
   }
  ]
 }
