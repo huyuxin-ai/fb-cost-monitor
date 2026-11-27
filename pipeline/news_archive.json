@@ -1,5 +1,24 @@
 [
  {
+  "id": "news_d81f6701007986273f34",
+  "date": "2026-11-27",
+  "published_at": "2026-11-27T06:13+08:00",
+  "fetched_at": "2026-11-27T08:23+08:00",
+  "title": "11月27日猪价:变了天!猪价下跌“跌猛了”,发生了啥?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1106840693_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_cd1cf54a7bbca23b79b9",
   "date": "2026-11-26",
   "published_at": "2026-11-26T20:32+08:00",
@@ -208,6 +227,25 @@
   ],
   "matched_keywords": [
    "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_db2be86ee217ff0f7882",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T13:25+08:00",
+  "fetched_at": "2026-11-27T08:23+08:00",
+  "title": "猪价冲上9块8!一头猪却亏384元,这波反弹到底谁在点火?",
+  "summary": "",
+  "source": "腾讯新闻",
+  "type": "价格行情",
+  "url": "https://news.qq.com/rain/a/20261126A093TW00",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
    "猪价"
   ],
   "relevance_score": 8
@@ -498,6 +536,25 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_7f00e8f9cce7541ab8e2",
+  "date": "2026-11-25",
+  "published_at": "2026-11-25T16:00+08:00",
+  "fetched_at": "2026-11-27T08:23+08:00",
+  "title": "【现货】11月25日全国各地区白糖现货价格汇总",
+  "summary": "",
+  "source": "同花顺",
+  "type": "价格行情",
+  "url": "https://m.10jqka.com.cn/20261125/c682190215.shtml",
+  "company": "",
+  "material_ids": [
+   "SR"
+  ],
+  "matched_keywords": [
+   "白糖"
   ],
   "relevance_score": 8
  },
@@ -888,6 +945,25 @@
   "relevance_score": 8
  },
  {
+  "id": "news_669a8f08bf774691f26b",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T17:22+08:00",
+  "fetched_at": "2026-11-27T08:23+08:00",
+  "title": "[正点财经]生猪产业观察 专家:明年二季度前后生猪市场供需关系将明显改善",
+  "summary": "",
+  "source": "央视网",
+  "type": "供需动态",
+  "url": "https://tv.cctv.com/2026/11/24/VIDE1eKcAp4XXCo42aYD5Bm5261124.shtml",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_8c6c66c706fa1e5c893f",
   "date": "2026-11-24",
   "published_at": "2026-11-24T17:20+08:00",
@@ -1007,6 +1083,25 @@
   "relevance_score": 12
  },
  {
+  "id": "news_b0e46ff95aee52266124",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T16:00+08:00",
+  "fetched_at": "2026-11-27T08:23+08:00",
+  "title": "生猪商品报价动态(2026-11-24)",
+  "summary": "",
+  "source": "新浪财经_金融信息服务商",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/ncpzx/2026-11-24/detail-inizvqta7692156.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_20fbd65c7ce426cb86bf",
   "date": "2026-11-24",
   "published_at": "2026-11-24T16:00+08:00",
@@ -1041,6 +1136,25 @@
   ],
   "matched_keywords": [
    "棕榈油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_5185985b50bad6aeb616",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T15:56+08:00",
+  "fetched_at": "2026-11-27T08:23+08:00",
+  "title": "腌腊需求预期托底现货 生猪期货2701合约本周涨超6%",
+  "summary": "",
+  "source": "东方财富网",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611243938359037.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
   ],
   "relevance_score": 8
  },
@@ -9562,120 +9676,5 @@
    "生猪"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_7b8b76c56bb7b2f98e2f",
-  "date": "2026-10-26",
-  "published_at": "2026-10-26T19:15+08:00",
-  "fetched_at": "2026-10-27T04:24+08:00",
-  "title": "棕榈油市场分析:出口税豁免预期降温,马棕承压回落",
-  "summary": "",
-  "source": "汇通网",
-  "type": "价格行情",
-  "url": "https://news.fx678.com/202610261915422288.shtml",
-  "company": "",
-  "material_ids": [
-   "P"
-  ],
-  "matched_keywords": [
-   "棕榈油"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1c2c2c677ef98075ca7b",
-  "date": "2026-10-26",
-  "published_at": "2026-10-26T18:00+08:00",
-  "fetched_at": "2026-10-26T23:21+08:00",
-  "title": "砂生猪出口收入逾1亿零500万吉 . 张庆信:继续推动现代化增产 - 地方 - 中砂",
-  "summary": "",
-  "source": "Sin Chew Daily",
-  "type": "供需动态",
-  "url": "https://sarawak.sinchew.com.my/news/20261026/sarawak/7998525",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_1fd47f69b7b08ea5ef19",
-  "date": "2026-10-26",
-  "published_at": "2026-10-26T17:41+08:00",
-  "fetched_at": "2026-10-26T22:57+08:00",
-  "title": "农业农村部:10月第4周生猪和猪肉价格有所下跌",
-  "summary": "",
-  "source": "21财经",
-  "type": "价格行情",
-  "url": "https://www.21jingji.com/article/20261026/herald/8e689c6d00c607d53152f67532860f68.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪",
-   "猪肉价格"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_43a5fb2ecbf2755db441",
-  "date": "2026-10-26",
-  "published_at": "2026-10-26T17:32+08:00",
-  "fetched_at": "2026-10-26T22:57+08:00",
-  "title": "猪价下跌拦不住!月末“枯木逢春”?",
-  "summary": "",
-  "source": "中华网",
-  "type": "价格行情",
-  "url": "https://news.china.com/socialgd/10000169/20261026/49819326.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e7d4ffa4d742a8cc9b80",
-  "date": "2026-10-26",
-  "published_at": "2026-10-26T16:00+08:00",
-  "fetched_at": "2026-10-28T23:17+08:00",
-  "title": "跌麻了,猪价下跌“如火如荼”!附:10月27日猪价",
-  "summary": "",
-  "source": "手机网易网",
-  "type": "价格行情",
-  "url": "https://www.163.com/dy/article/LA60LKHA0512JUR9.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_427f3599307b78b4e16d",
-  "date": "2026-10-26",
-  "published_at": "2026-10-26T15:19+08:00",
-  "fetched_at": "2026-10-26T15:32+08:00",
-  "title": "关于调整生猪期货2701合约公司保证金比例的通知",
-  "summary": "尊敬的交易者: 根据大连商品交易所《关于调整生猪期货LH2701合约交易保证金水平的通知》(大商所发〔2026〕389号): 一、公司自2026年10月27日(星期二)结算时起,将生猪期货2701合约的公司保证金比例调整为17%。",
-  "source": "东方财富期货",
-  "type": "价格行情",
-  "url": "http://www.eastmoneyfutures.com/a/202610263907931544.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
  }
 ]
