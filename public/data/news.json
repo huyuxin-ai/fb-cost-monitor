@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T02:22+08:00",
+ "updated_at": "2026-11-28T09:48+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -10,13 +10,13 @@
   "Dairynews.today": 2,
   "IndexBox": 9,
   "Shangbao Indonesia": 1,
-  "Sohu": 15,
+  "Sohu": 16,
   "ThePaper.cn": 1,
   "Vietnam.vn": 1,
   "Vinetur": 1,
   "news.qq.com": 1,
   "上海中期期货": 1,
-  "东方财富": 1,
+  "东方财富": 2,
   "东方财富网": 3,
   "中华网": 1,
   "中国证券报": 1,
@@ -34,25 +34,23 @@
   "国家粮食和物资储备局": 6,
   "国际果蔬报道": 1,
   "大众网": 1,
-  "大越期货": 1,
   "央视网": 5,
   "央视财经": 2,
   "广发期货": 1,
   "广州期货": 1,
-  "新华财经": 2,
-  "新浪财经": 26,
+  "新华财经": 1,
+  "新浪财经": 27,
   "新浪财经_金融信息服务商": 6,
   "时代周报": 1,
   "期货日报": 1,
   "正信期货": 1,
-  "每日经济新闻": 8,
+  "每日经济新闻": 9,
   "汇通财经": 1,
   "海关总署": 1,
   "深圳商报·读创": 1,
   "澎湃新闻": 1,
   "瑞达期货": 1,
   "生物通": 1,
-  "申银万国期货": 1,
   "界面新闻": 2,
   "第一财经": 7,
   "经济参考网": 1,
@@ -62,10 +60,66 @@
   "证券日报": 1,
   "证券时报": 1,
   "证券时报网": 1,
-  "财联社": 5,
-  "铜冠金源期货": 1
+  "财联社": 5
  },
  "items": [
+  {
+   "id": "news_e30057e4f7444e424e30",
+   "date": "2026-11-28",
+   "published_at": "2026-11-28T09:30+08:00",
+   "fetched_at": "2026-11-28T09:48+08:00",
+   "title": "油价“180°大变”!11月28日调价后全国92,95号汽油价格,猪价“坐滑梯”,反转在即?",
+   "summary": "",
+   "source": "Sohu",
+   "type": "价格行情",
+   "url": "https://m.sohu.com/a/1107334144_120238851",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "猪价"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_91ad6f2879e0b2520181",
+   "date": "2026-11-28",
+   "published_at": "2026-11-28T07:10+08:00",
+   "fetched_at": "2026-11-28T09:48+08:00",
+   "title": "CBOT农产品期货主力合约收盘全线上涨,大豆期货涨1.61%",
+   "summary": "当地时间11月27日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线上涨,大豆期货涨1.61%报1264.00美分/蒲式耳,玉米期货涨1.31%报462.50美分/蒲式耳,小麦期货涨0.60%报591.00美分/蒲式耳。",
+   "source": "每日经济新闻",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/a/202611283942149046.html",
+   "company": "",
+   "material_ids": [
+    "A"
+   ],
+   "matched_keywords": [
+    "大豆"
+   ],
+   "relevance_score": 12
+  },
+  {
+   "id": "news_37d2dd5a0f70b109de2a",
+   "date": "2026-11-28",
+   "published_at": "2026-11-28T03:17+08:00",
+   "fetched_at": "2026-11-28T09:48+08:00",
+   "title": "生猪上行抬高补栏成本 二次育肥积极性不足",
+   "summary": "",
+   "source": "新浪财经",
+   "type": "价格行情",
+   "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-27/detail-inkacvhp3295694.d.html",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_d36cf0be1ab86e562dfa",
    "date": "2026-11-28",
@@ -84,6 +138,26 @@
     "木浆"
    ],
    "relevance_score": 7
+  },
+  {
+   "id": "news_e5fdc32777fd64f7c256",
+   "date": "2026-11-28",
+   "published_at": "2026-11-28T00:50+08:00",
+   "fetched_at": "2026-11-28T09:48+08:00",
+   "title": "USDA生猪屠宰报告:2026年11月25日生猪价格与交货安排 - 新闻和统计",
+   "summary": "",
+   "source": "IndexBox",
+   "type": "价格行情",
+   "url": "https://www.indexbox.io/zh-hans/blog/usda-national-daily-direct-prior-day-slaughtered-swine-report-for-november-25-2026/",
+   "company": "",
+   "material_ids": [
+    "LH"
+   ],
+   "matched_keywords": [
+    "生猪",
+    "猪价"
+   ],
+   "relevance_score": 8
   },
   {
    "id": "news_b3849d3b6c9df03a760a",
@@ -1397,6 +1471,25 @@
    ],
    "matched_keywords": [
     "生猪"
+   ],
+   "relevance_score": 8
+  },
+  {
+   "id": "news_93fe803745a1d4ed0a6c",
+   "date": "2026-11-24",
+   "published_at": "2026-11-24T16:00+08:00",
+   "fetched_at": "2026-11-28T09:48+08:00",
+   "title": "PTA期货报价",
+   "summary": "",
+   "source": "东方财富",
+   "type": "价格行情",
+   "url": "https://finance.eastmoney.com/pta.html",
+   "company": "",
+   "material_ids": [
+    "TA"
+   ],
+   "matched_keywords": [
+    "pta"
    ],
    "relevance_score": 8
   },
@@ -3841,104 +3934,6 @@
     "猪价"
    ],
    "relevance_score": 12
-  },
-  {
-   "id": "news_201ec271ba4b8de2f19f",
-   "date": "2026-11-17",
-   "published_at": "2026-11-17T09:06+08:00",
-   "fetched_at": "2026-11-17T09:57+08:00",
-   "title": "农产品 | 国内需求进入短期淡季和技术性震荡整理 豆粕短期跟随美豆维持震荡格局",
-   "summary": "国内豆粕震荡回落,美豆回落带动,国内需求进入短期淡季和技术性震荡整理,豆粕短期跟随美豆维持震荡格局。中性 2.基差:现货3060(华东),基差-45,贴水期货。",
-   "source": "大越期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611173932587391.html",
-   "company": "",
-   "material_ids": [
-    "M"
-   ],
-   "matched_keywords": [
-    "豆粕"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_d71b632b23bc1e8033e4",
-   "date": "2026-11-17",
-   "published_at": "2026-11-17T08:52+08:00",
-   "fetched_at": "2026-11-17T09:57+08:00",
-   "title": "农产品 | 印度10月植物油进口大增 棕榈油区间震荡",
-   "summary": "豆粕菜粕 美豆10月压榨量同比增2.9%,连粕低位震荡 周一,豆粕01合约收跌0.77%,报3105元/吨;广东豆粕现货涨20收于3070元/吨;菜粕01合约收跌1.36%,报2252元/吨;广西菜粕现货跌30收于2410元/吨;CBOT美豆1月合约跌6收于1226.75美分",
-   "source": "铜冠金源期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611173932491775.html",
-   "company": "",
-   "material_ids": [
-    "P"
-   ],
-   "matched_keywords": [
-    "棕榈油"
-   ],
-   "relevance_score": 8
-  },
-  {
-   "id": "news_94b65184ffc1ed5f2457",
-   "date": "2026-11-17",
-   "published_at": "2026-11-17T08:37+08:00",
-   "fetched_at": "2026-11-17T09:57+08:00",
-   "title": "农产品 | 市场供需失衡好转 猪价相对坚挺",
-   "summary": "【生猪】 生猪:全国生猪均价9.23元每公斤,涨0.15元,河南涨0.08元。南北方养殖端出栏稳中略增,成交尚可。屠企采购顺畅,计划够用。市场供需失衡好转,猪价相对坚挺。近期猪价反弹后,二育补栏积极性提升,周末明显,今日部分转谨慎。大猪出栏意愿增强。",
-   "source": "申银万国期货",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611173932474596.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "猪价",
-    "生猪"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_452b45ae617256eef96f",
-   "date": "2026-11-17",
-   "published_at": "2026-11-17T07:42+08:00",
-   "fetched_at": "2026-11-17T02:05+08:00",
-   "title": "农业农村部:11月第2周生猪和猪肉价格有所下跌",
-   "summary": "专家分析认为,上周气温下降带动猪肉消费增加,但市场供应总体宽松,生猪和猪肉价格有所下跌。展望后市,预计本周生猪和猪肉价格窄幅震荡、有望企稳。",
-   "source": "新华财经",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611163932122589.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪肉价格"
-   ],
-   "relevance_score": 12
-  },
-  {
-   "id": "news_c4ae9da59d27d06697e0",
-   "date": "2026-11-17",
-   "published_at": "2026-11-17T01:00+08:00",
-   "fetched_at": "2026-11-17T02:05+08:00",
-   "title": "美国农业部因屠宰场提交问题延迟发布每日直接生猪价格报告(LM_HG215) - 新闻和统计",
-   "summary": "",
-   "source": "IndexBox",
-   "type": "价格行情",
-   "url": "https://www.indexbox.io/zh-hans/blog/usda-hog-price-report-delayed-by-packer-submission-issues/",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪",
-    "猪价"
-   ],
-   "relevance_score": 8
   }
  ]
 }

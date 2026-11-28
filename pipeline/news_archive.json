@@ -1,5 +1,62 @@
 [
  {
+  "id": "news_e30057e4f7444e424e30",
+  "date": "2026-11-28",
+  "published_at": "2026-11-28T09:30+08:00",
+  "fetched_at": "2026-11-28T09:48+08:00",
+  "title": "油价“180°大变”!11月28日调价后全国92,95号汽油价格,猪价“坐滑梯”,反转在即?",
+  "summary": "",
+  "source": "Sohu",
+  "type": "价格行情",
+  "url": "https://m.sohu.com/a/1107334144_120238851",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_91ad6f2879e0b2520181",
+  "date": "2026-11-28",
+  "published_at": "2026-11-28T07:10+08:00",
+  "fetched_at": "2026-11-28T09:48+08:00",
+  "title": "CBOT农产品期货主力合约收盘全线上涨,大豆期货涨1.61%",
+  "summary": "当地时间11月27日,芝加哥期货交易所(CBOT)农产品期货主力合约收盘全线上涨,大豆期货涨1.61%报1264.00美分/蒲式耳,玉米期货涨1.31%报462.50美分/蒲式耳,小麦期货涨0.60%报591.00美分/蒲式耳。",
+  "source": "每日经济新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611283942149046.html",
+  "company": "",
+  "material_ids": [
+   "A"
+  ],
+  "matched_keywords": [
+   "大豆"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_37d2dd5a0f70b109de2a",
+  "date": "2026-11-28",
+  "published_at": "2026-11-28T03:17+08:00",
+  "fetched_at": "2026-11-28T09:48+08:00",
+  "title": "生猪上行抬高补栏成本 二次育肥积极性不足",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.cn/futuremarket/qsyw/2026-11-27/detail-inkacvhp3295694.d.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_d36cf0be1ab86e562dfa",
   "date": "2026-11-28",
   "published_at": "2026-11-28T02:16+08:00",
@@ -17,6 +74,26 @@
    "木浆"
   ],
   "relevance_score": 7
+ },
+ {
+  "id": "news_e5fdc32777fd64f7c256",
+  "date": "2026-11-28",
+  "published_at": "2026-11-28T00:50+08:00",
+  "fetched_at": "2026-11-28T09:48+08:00",
+  "title": "USDA生猪屠宰报告:2026年11月25日生猪价格与交货安排 - 新闻和统计",
+  "summary": "",
+  "source": "IndexBox",
+  "type": "价格行情",
+  "url": "https://www.indexbox.io/zh-hans/blog/usda-national-daily-direct-prior-day-slaughtered-swine-report-for-november-25-2026/",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "生猪",
+   "猪价"
+  ],
+  "relevance_score": 8
  },
  {
   "id": "news_b3849d3b6c9df03a760a",
@@ -1349,6 +1426,25 @@
   ],
   "matched_keywords": [
    "生猪"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_93fe803745a1d4ed0a6c",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T16:00+08:00",
+  "fetched_at": "2026-11-28T09:48+08:00",
+  "title": "PTA期货报价",
+  "summary": "",
+  "source": "东方财富",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/pta.html",
+  "company": "",
+  "material_ids": [
+   "TA"
+  ],
+  "matched_keywords": [
+   "pta"
   ],
   "relevance_score": 8
  },
@@ -9584,100 +9680,5 @@
    "鳀鱼"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_60f64e6c8c3053d8cb8c",
-  "date": "2026-10-27",
-  "published_at": "2026-10-27T17:22+08:00",
-  "fetched_at": "2026-10-27T18:48+08:00",
-  "title": "大商所:调整生猪期货LH2703和LH2705合约交易保证金水平",
-  "summary": "大商所公告,根据《大连商品交易所风险管理办法》,经研究决定:自2026年10月30日(星期五)结算时起,生猪期货LH2703和LH2705合约交易保证金水平由8%调整为10%。",
-  "source": "第一财经",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610273909984875.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_37c962056e1148e65a75",
-  "date": "2026-10-27",
-  "published_at": "2026-10-27T17:21+08:00",
-  "fetched_at": "2026-10-27T18:48+08:00",
-  "title": "大商所调整生猪期货LH2701合约交易限额",
-  "summary": "大商所公告,经研究决定,自2026年10月29日交易时起,非期货公司会员或者客户在生猪期货LH2701合约上单日开仓量不得超过500手,在生猪期货其他合约上单日开仓量不得超过1000手。该单日开仓量是指非期货公司会员或者客户当日在生猪期货单个合约上的买开仓数量与卖开仓数量之和。",
-  "source": "财联社",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610273910019436.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 12
- },
- {
-  "id": "news_3442a215b8132e2727d0",
-  "date": "2026-10-27",
-  "published_at": "2026-10-27T16:44+08:00",
-  "fetched_at": "2026-10-27T18:48+08:00",
-  "title": "恒逸石化:预计PTA产品有望逐步去库,供需格局将逐步改善",
-  "summary": "对于PET产品,目前涤纶长丝及聚酯瓶片的产能投放周期基本收尾,需求仍保持高速增长,PET行业的市场集中度将持续得到优化,带动今后几年产业链景气度回升。",
-  "source": "南方财经网",
-  "type": "供需动态",
-  "url": "https://finance.eastmoney.com/a/202610273909915556.html",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_29ec44365f4be44f2d14",
-  "date": "2026-10-27",
-  "published_at": "2026-10-27T15:40+08:00",
-  "fetched_at": "2026-10-27T18:48+08:00",
-  "title": "玉米主力合约收涨0.32%",
-  "summary": "南财智讯10月27日电,盘后期货数据显示,大连商品交易所的玉米主力合约收涨0.32%,收盘报2217.0元/吨,日内资金流出1055.98万元。其他相关指标见下表:",
-  "source": "南方财经网",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610273909807791.html",
-  "company": "",
-  "material_ids": [
-   "C"
-  ],
-  "matched_keywords": [
-   "玉米"
-  ],
-  "relevance_score": 11
- },
- {
-  "id": "news_72a3cb549a1056b5d483",
-  "date": "2026-10-27",
-  "published_at": "2026-10-27T15:31+08:00",
-  "fetched_at": "2026-10-27T22:46+08:00",
-  "title": "10月27日PTA期货收盘上涨0.09%,报6644元_综合资讯",
-  "summary": "",
-  "source": "证券之星",
-  "type": "价格行情",
-  "url": "https://futures.stockstar.com/RB2026102700024143.shtml",
-  "company": "",
-  "material_ids": [
-   "TA"
-  ],
-  "matched_keywords": [
-   "pta"
-  ],
-  "relevance_score": 8
  }
 ]
