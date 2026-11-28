@@ -1,5 +1,44 @@
 [
  {
+  "id": "news_9ce0c7d1d50f21af5ec4",
+  "date": "2026-11-28",
+  "published_at": "2026-11-28T16:38+08:00",
+  "fetched_at": "2026-11-28T17:55+08:00",
+  "title": "泰国总理阿努廷:我给特朗普递了张手写便条,请“尊敬的总统先生”考虑对泰国香米和玉米免征关税;他仔细读了一会儿,收进了西装口袋",
+  "summary": "11月28日,泰国总理阿努廷在“与阿努廷总理对话”节目中表示,他在深圳出席亚太经合组织第三十三次领导人非正式会议期间,亲手将一张便条交给美国总统特朗普,请他考虑对泰国茉莉香米和玉米免征关税。 阿努廷回忆,特朗普展开便条,仔细读了一会儿,随后把它收进了西装口袋。",
+  "source": "东西问",
+  "type": "政策与供应",
+  "url": "https://finance.eastmoney.com/a/202611283942374085.html",
+  "company": "",
+  "material_ids": [
+   "C"
+  ],
+  "matched_keywords": [
+   "玉米"
+  ],
+  "relevance_score": 12
+ },
+ {
+  "id": "news_76c1604875d9f978e5c6",
+  "date": "2026-11-28",
+  "published_at": "2026-11-28T15:07+08:00",
+  "fetched_at": "2026-11-28T17:55+08:00",
+  "title": "降温、腌腊启动消费边际回暖,猪价反弹至10元/公斤",
+  "summary": "本周国内生猪价格呈先涨后降走势,周均价环比上涨。据中国养猪网的数据,11月27日,生猪(外三元)价格为10元/公斤,与上周五(11月20日)的9.36元/公斤相比,上涨6.8%。从一周均价来看,本周生猪均价为9.86元/公斤,与上周9.27元/公斤的均价相比,上涨6.4%。",
+  "source": "澎湃新闻",
+  "type": "价格行情",
+  "url": "https://finance.eastmoney.com/a/202611283942367512.html",
+  "company": "",
+  "material_ids": [
+   "LH"
+  ],
+  "matched_keywords": [
+   "猪价",
+   "生猪"
+  ],
+  "relevance_score": 12
+ },
+ {
   "id": "news_e30057e4f7444e424e30",
   "date": "2026-11-28",
   "published_at": "2026-11-28T09:30+08:00",
@@ -170,6 +209,25 @@
   "matched_keywords": [
    "棕榈油",
    "菜油"
+  ],
+  "relevance_score": 8
+ },
+ {
+  "id": "news_df47f8630b0c9976a43b",
+  "date": "2026-11-27",
+  "published_at": "2026-11-27T14:44+08:00",
+  "fetched_at": "2026-11-28T17:55+08:00",
+  "title": "棕榈油短期进入减产周期 期货盘面呈止跌反弹行情",
+  "summary": "",
+  "source": "新浪财经",
+  "type": "价格行情",
+  "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkaefwk5538810.shtml",
+  "company": "",
+  "material_ids": [
+   "P"
+  ],
+  "matched_keywords": [
+   "棕榈油"
   ],
   "relevance_score": 8
  },
@@ -9623,62 +9681,5 @@
    "猪价"
   ],
   "relevance_score": 8
- },
- {
-  "id": "news_d63d212b9eeb75d132a7",
-  "date": "2026-10-28",
-  "published_at": "2026-10-28T05:24+08:00",
-  "fetched_at": "2026-10-29T02:59+08:00",
-  "title": "再创新低!猪价距离见底还有多远?",
-  "summary": "",
-  "source": "东方财富",
-  "type": "供需动态",
-  "url": "https://wap.eastmoney.com/a/202610263907928491.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_e8138fd2228520cb5d28",
-  "date": "2026-10-28",
-  "published_at": "2026-10-28T01:37+08:00",
-  "fetched_at": "2026-10-28T08:18+08:00",
-  "title": "大商所调整生猪期货LH2701合约交易限额",
-  "summary": "",
-  "source": "finance.sina.com.cn",
-  "type": "价格行情",
-  "url": "https://finance.sina.cn/2026-10-27/detail-iniwsfqu7022969.d.html",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "生猪"
-  ],
-  "relevance_score": 8
- },
- {
-  "id": "news_8194b1d615e49166a386",
-  "date": "2026-10-27",
-  "published_at": "2026-10-27T22:15+08:00",
-  "fetched_at": "2026-10-27T22:46+08:00",
-  "title": "鳀鱼涨价了,劲仔小鱼越卖越薄利",
-  "summary": "劲仔核心大单品“深海小鱼”的原料为鳀鱼,公司在半年度业绩说明会上解释过,公司主要原材料鳀鱼受渔船海洋野捕油价上涨、气候变化引起的渔汛波动等影响,采购价格有所上涨,目前正通过积极拓展多元化海外供应渠道、加强战略采购、优化产品结构及精细化管理等措施降本增效。",
-  "source": "国际金融报",
-  "type": "价格行情",
-  "url": "https://finance.eastmoney.com/a/202610273910536782.html",
-  "company": "",
-  "material_ids": [
-   "ANCHOVY"
-  ],
-  "matched_keywords": [
-   "鳀鱼"
-  ],
-  "relevance_score": 12
  }
 ]
