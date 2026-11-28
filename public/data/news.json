@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T17:55+08:00",
+ "updated_at": "2026-11-29T02:01+08:00",
  "refresh_minutes": 30,
  "item_count": 200,
  "source_counts": {
@@ -7,7 +7,7 @@
   "36kr": 1,
   "CCTV": 1,
   "Dairy News Today": 2,
-  "Dairynews.today": 2,
+  "Dairynews.today": 3,
   "IndexBox": 9,
   "Shangbao Indonesia": 1,
   "Sohu": 15,
@@ -28,7 +28,7 @@
   "凤凰网": 3,
   "创元期货": 1,
   "南华期货": 1,
-  "南方财经网": 18,
+  "南方财经网": 17,
   "同花顺": 15,
   "同花顺财经": 7,
   "国信期货": 1,
@@ -64,6 +64,26 @@
   "财联社": 5
  },
  "items": [
+  {
+   "id": "news_9be10e52e2ab0f264ae7",
+   "date": "2026-11-28",
+   "published_at": "2026-11-28T20:48+08:00",
+   "fetched_at": "2026-11-29T02:01+08:00",
+   "title": "巴西浓缩乳清蛋白价格一年最高上涨120%,生产商扩大产能",
+   "summary": "",
+   "source": "Dairynews.today",
+   "type": "价格行情",
+   "url": "https://dairynews.today/cn/news/brazilian_whey_concentrate_prices_rise_up_to_120_as_producers_expand_capacity_5446041.html",
+   "company": "",
+   "material_ids": [
+    "WPC34",
+    "WPC80"
+   ],
+   "matched_keywords": [
+    "乳清蛋白"
+   ],
+   "relevance_score": 8
+  },
   {
    "id": "news_9ce0c7d1d50f21af5ec4",
    "date": "2026-11-28",
@@ -3914,25 +3934,6 @@
    ],
    "matched_keywords": [
     "玉米"
-   ],
-   "relevance_score": 11
-  },
-  {
-   "id": "news_324d31dd4525ec8dede4",
-   "date": "2026-11-17",
-   "published_at": "2026-11-17T15:42+08:00",
-   "fetched_at": "2026-11-17T18:31+08:00",
-   "title": "生猪主力合约收跌2.66%",
-   "summary": "21财经11月17日电,盘后期货数据显示,大连商品交易所的生猪主力合约收跌2.66%,收盘报9685.0元/吨,日内资金流出1.92亿元。其他相关指标见下表:",
-   "source": "南方财经网",
-   "type": "价格行情",
-   "url": "https://finance.eastmoney.com/a/202611173932876363.html",
-   "company": "",
-   "material_ids": [
-    "LH"
-   ],
-   "matched_keywords": [
-    "生猪"
    ],
    "relevance_score": 11
   }

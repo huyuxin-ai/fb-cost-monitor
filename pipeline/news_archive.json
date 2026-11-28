@@ -1,5 +1,25 @@
 [
  {
+  "id": "news_9be10e52e2ab0f264ae7",
+  "date": "2026-11-28",
+  "published_at": "2026-11-28T20:48+08:00",
+  "fetched_at": "2026-11-29T02:01+08:00",
+  "title": "巴西浓缩乳清蛋白价格一年最高上涨120%,生产商扩大产能",
+  "summary": "",
+  "source": "Dairynews.today",
+  "type": "价格行情",
+  "url": "https://dairynews.today/cn/news/brazilian_whey_concentrate_prices_rise_up_to_120_as_producers_expand_capacity_5446041.html",
+  "company": "",
+  "material_ids": [
+   "WPC34",
+   "WPC80"
+  ],
+  "matched_keywords": [
+   "乳清蛋白"
+  ],
+  "relevance_score": 8
+ },
+ {
   "id": "news_9ce0c7d1d50f21af5ec4",
   "date": "2026-11-28",
   "published_at": "2026-11-28T16:38+08:00",
@@ -9662,24 +9682,5 @@
    "玉米"
   ],
   "relevance_score": 12
- },
- {
-  "id": "news_88b3d3fcc4905aaff606",
-  "date": "2026-10-28",
-  "published_at": "2026-10-28T06:50+08:00",
-  "fetched_at": "2026-10-28T08:18+08:00",
-  "title": "10月28日猪价:跌猛了!猪价“滑坡”下跌,下跌逻辑找到!“地板线”是多少?",
-  "summary": "",
-  "source": "搜狐网",
-  "type": "价格行情",
-  "url": "https://www.sohu.com/a/1093511110_120238851",
-  "company": "",
-  "material_ids": [
-   "LH"
-  ],
-  "matched_keywords": [
-   "猪价"
-  ],
-  "relevance_score": 8
  }
 ]
